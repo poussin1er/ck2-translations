@@ -1,860 +1,851 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v1/scene32.rpy:19
-translate francais v1s32_2f8afa76:
+# game/v14/scene32.rpy:19
+translate francais v14s32_2f8afa76:
 
     # u "Getting a headstart, huh?"
-    u ""
+    u "Tu prends de l'avance, hein ?"
 
-# game/v1/scene32.rpy:26
-translate francais v1s32_76c2ff7c:
+# game/v14/scene32.rpy:26
+translate francais v14s32_76c2ff7c:
 
     # imre "Yep, tryna break a sweat before you even enter the building."
-    imre ""
+    imre "Ouais, j'essaie de transpirer un peu avant qu't'arrives."
 
-# game/v1/scene32.rpy:36
-translate francais v1s32_05a1b50a:
+# game/v14/scene32.rpy:36
+translate francais v14s32_05a1b50a:
 
     # imre "What are you wearing? *Laughs* Why didn't you come dressed to work out?"
-    imre ""
+    imre "Comment t'es fringué ? *Rire* Pourquoi t'es pas venu en tenue pour la muscu ?"
 
-# game/v1/scene32.rpy:41
-translate francais v1s32_d6007a67:
+# game/v14/scene32.rpy:41
+translate francais v14s32_d6007a67:
 
     # u "What do you mean, dickhead? I came straight over when you called. *Laughs*"
-    u ""
+    u "De quoi tu parles, connasse ? Je suis venu dès que tu m'as appelé. *Rire*"
 
-# game/v1/scene32.rpy:43
-translate francais v1s32_6ecc836f:
+# game/v14/scene32.rpy:43
+translate francais v14s32_6ecc836f:
 
     # u "When I said that I was heading straight over, what part of that sounded like I was heading home to change first?"
-    u ""
+    u "Quand j'ai dit que j'allais directement te rejoindre, quelle partie de cette phrase t'a donné l'impression que j'allais d'abord rentrer me changer ?"
 
-# game/v1/scene32.rpy:48
-translate francais v1s32_f71b52af:
+# game/v14/scene32.rpy:48
+translate francais v14s32_f71b52af:
 
     # imre "If you needed some time to change, you should've just said that."
-    imre ""
+    imre "Si t'avais besoin d'un peu de temps pour t'changer, t'aurais dû l'dire."
 
-# game/v1/scene32.rpy:53
-translate francais v1s32_09a72c95:
+# game/v14/scene32.rpy:53
+translate francais v14s32_09a72c95:
 
     # u "I'll be fine."
-    u ""
+    u "Ça va aller, t'inquiète."
 
-# game/v1/scene32.rpy:58
-translate francais v1s32_71741ad2:
+# game/v14/scene32.rpy:58
+translate francais v14s32_71741ad2:
 
     # imre "Your call, man. Don't come crying to me if you get hurt."
-    imre ""
+    imre "C'est ton problème, mec. Viens pas pleurer si tu t'blesses."
 
-# game/v1/scene32.rpy:63
-translate francais v1s32_235196ec:
+# game/v14/scene32.rpy:63
+translate francais v14s32_235196ec:
 
     # u "Ha... I won't be crying."
-    u ""
+    u "C'est bon... Je vais pas pleurer."
 
-# game/v1/scene32.rpy:68
-translate francais v1s32_03ae6c37:
+# game/v14/scene32.rpy:68
+translate francais v14s32_03ae6c37:
 
     # imre "Good, that's one less dude I have to worry about being a bitch."
-    imre ""
+    imre "Bien, ça fait un mec de moins dont j'dois m'inquiéter sur l'fait qu'il soit une petite pute."
 
-# game/v1/scene32.rpy:73
-translate francais v1s32_6542e384:
+# game/v14/scene32.rpy:73
+translate francais v14s32_6542e384:
 
     # u "Who are you talking about now?"
-    u ""
+    u "De qui tu parles ?"
 
-# game/v1/scene32.rpy:78
-translate francais v1s32_d1f78ceb:
+# game/v14/scene32.rpy:78
+translate francais v14s32_d1f78ceb:
 
     # imre "I'm sure you can guess."
-    imre ""
+    imre "J'crois qu'tu sais."
 
-# game/v1/scene32.rpy:87
-translate francais v1s32_8672bf74:
+# game/v14/scene32.rpy:87
+translate francais v14s32_8672bf74:
 
     # u "Chris?"
-    u ""
+    u "Chris ?"
 
-# game/v1/scene32.rpy:92
-translate francais v1s32_e1506ba5:
+# game/v14/scene32.rpy:92
+translate francais v14s32_e1506ba5:
 
     # imre "What? No. Ryan."
-    imre ""
+    imre "Quoi ? Non. Ryan."
 
-# game/v1/scene32.rpy:100
-translate francais v1s32_f0ff2a68:
+# game/v14/scene32.rpy:100
+translate francais v14s32_f0ff2a68:
 
     # u "Ryan?"
-    u ""
+    u "Ryan ?"
 
-# game/v1/scene32.rpy:105
-translate francais v1s32_d88bdba8:
+# game/v14/scene32.rpy:105
+translate francais v14s32_d88bdba8:
 
     # imre "Bingo."
-    imre ""
+    imre "Bingo."
 
-# game/v1/scene32.rpy:110
-translate francais v1s32_e3e3b22e:
+# game/v14/scene32.rpy:110
+translate francais v14s32_e3e3b22e:
 
     # u "*Sighs* What's going on now?"
-    u ""
+    u "*Soupirs* Qu'est-ce qu'il y a encore ?"
 
-# game/v1/scene32.rpy:115
-translate francais v1s32_37b02087:
+# game/v14/scene32.rpy:115
+translate francais v14s32_37b02087:
 
     # imre "He's going around telling everyone that I beat up a guy in Europe and took all of his money."
-    imre ""
+    imre "Il s'promène en disant à tout l'monde que j'ai fracassé un mec en Europe et qu'j'ai pris tout son fric."
 
-# game/v1/scene32.rpy:120
-translate francais v1s32_e5dc7fb7:
+# game/v14/scene32.rpy:120
+translate francais v14s32_e5dc7fb7:
 
     # u "He-"
-    u ""
+    u "Il-"
 
-# game/v1/scene32.rpy:125
-translate francais v1s32_e5dc5c94:
+# game/v14/scene32.rpy:125
+translate francais v14s32_e5dc5c94:
 
     # imre "Let me just add, he isn't telling the whole story."
-    imre ""
+    imre "J'ajoute aussi qu'il raconte pas toute l'histoire."
 
-# game/v1/scene32.rpy:127
-translate francais v1s32_606ab6e5:
+# game/v14/scene32.rpy:127
+translate francais v14s32_606ab6e5:
 
     # imre "He didn't mention that the guy was a piece of shit, who stole the money from other people in the first place."
-    imre ""
+    imre "Il dit pas que c'mec était une merde qui avait volé l'fric des autres avant d'essayer avec nous."
 
-# game/v1/scene32.rpy:129
-translate francais v1s32_a6ce64ad:
+# game/v14/scene32.rpy:129
+translate francais v14s32_a6ce64ad:
 
     # imre "Hell, I mean... I was basically giving back."
-    imre ""
+    imre "Putain... J'étais juste en train de dégager cette pourriture d'la place."
 
-# game/v1/scene32.rpy:138
-translate francais v1s32_d1448fed:
+# game/v14/scene32.rpy:138
+translate francais v14s32_d1448fed:
 
     # u "Yeah, I guess it is kinda messed up that Ryan doesn't tell the whole story."
-    u ""
+    u "Ouais, je trouve ça plutôt chelou que Ryan raconte pas toute l'histoire."
 
-# game/v1/scene32.rpy:143
-translate francais v1s32_f48858b5:
+# game/v14/scene32.rpy:143
+translate francais v14s32_f48858b5:
 
     # imre "Exactly. That's what I'm saying!"
-    imre ""
+    imre "Tu vois ? C'est c'que j'dis !"
 
-# game/v1/scene32.rpy:151
-translate francais v1s32_57ae9944:
+# game/v14/scene32.rpy:151
+translate francais v14s32_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Soupirs*"
 
-# game/v1/scene32.rpy:153
-translate francais v1s32_892ee49b:
+# game/v14/scene32.rpy:153
+translate francais v14s32_892ee49b:
 
     # u "It'd be really nice if you two just got along."
-    u ""
+    u "Ça serait tellement bien si vous vous entendiez tous les deux."
 
-# game/v1/scene32.rpy:158
-translate francais v1s32_03425248:
+# game/v14/scene32.rpy:158
+translate francais v14s32_03425248:
 
     # imre "Not gonna happen, don't even start. I tried and he fucked me over again."
-    imre ""
+    imre "Ça risque pas d'arriver, cherche pas. J'ai essayé et il m'a encore baisé."
 
-# game/v1/scene32.rpy:163
-translate francais v1s32_df503f0f:
+# game/v14/scene32.rpy:163
+translate francais v14s32_df503f0f:
 
     # u "Whatever man, but don't say I didn't tell you that this is going to cause more harm than good, for both of you."
-    u ""
+    u "Comme tu veux mec, mais dis pas que je t'ai pas prévenu que ça causera plus de mal que de bien, entre vous."
 
-# game/v1/scene32.rpy:168
-translate francais v1s32_8b49d453:
+# game/v14/scene32.rpy:168
+translate francais v14s32_8b49d453:
 
     # imre "Uh-huh."
-    imre ""
+    imre "Hu-hum."
 
-# game/v1/scene32.rpy:173
-translate francais v1s32_92e7a842:
+# game/v14/scene32.rpy:173
+translate francais v14s32_92e7a842:
 
     # u "On a more positive note, we never talked about the Red Light District after what went down."
-    u ""
+    u "Pour être plus positif, on a jamais parlé du Red Light District après ce qui s'est passé."
 
-# game/v1/scene32.rpy:175
-translate francais v1s32_e887ca10:
+# game/v14/scene32.rpy:175
+translate francais v14s32_e887ca10:
 
     # u "Did you have fun? I don't even know what you did the entire time."
-    u ""
+    u "Tu t'es bien amusé ? Je sais même pas ce que t'as fait pendant qu'on y était."
 
-# game/v1/scene32.rpy:180
-translate francais v1s32_0922e77b:
+# game/v14/scene32.rpy:180
+translate francais v14s32_0922e77b:
 
     # imre "*Laughs* I had a really good time."
-    imre ""
+    imre "*Rire* J'ai passé un très bon moment."
 
-# game/v1/scene32.rpy:182
-translate francais v1s32_f09ab364:
+# game/v14/scene32.rpy:182
+translate francais v14s32_f09ab364:
 
     # imre "If you wanna know the truth, I went back to the hotel, got money from Chris and then went right back to the brothel. *Chuckles*"
-    imre ""
+    imre "Si tu veux vraiment l'savoir, j'suis retourné à l'hôtel, j'ai emprunté d'l'argent à Chris et puis j'suis retourné direct au bordel. *Rire*"
 
-# game/v1/scene32.rpy:187
-translate francais v1s32_30d96919:
+# game/v14/scene32.rpy:187
+translate francais v14s32_30d96919:
 
     # u "That's why I couldn't find you..."
-    u ""
+    u "Ah, c'est pour ça que je te trouvais pas..."
 
-# game/v1/scene32.rpy:192
-translate francais v1s32_2666cf83:
+# game/v14/scene32.rpy:192
+translate francais v14s32_2666cf83:
 
     # imre "Huh?"
-    imre ""
+    imre "Hein ?"
 
-# game/v1/scene32.rpy:197
-translate francais v1s32_2bb8f461:
+# game/v14/scene32.rpy:197
+translate francais v14s32_2bb8f461:
 
     # u "I went looking for you after you stormed off."
-    u ""
+    u "Je suis allé te voir après que tu sois parti en colère."
 
-# game/v1/scene32.rpy:202
-translate francais v1s32_fb09d423:
+# game/v14/scene32.rpy:202
+translate francais v14s32_fb09d423:
 
     # imre "Oh shit, my bad."
-    imre ""
+    imre "Oh merde, désolé."
 
-# game/v1/scene32.rpy:204
-translate francais v1s32_09350972:
+# game/v14/scene32.rpy:204
+translate francais v14s32_09350972:
 
     # imre "I was just pissed and focused on getting laid so, I wanted to enjoy that combo with some angry sex."
-    imre ""
+    imre "J'étais énervé et j'voulais m'envoyer en l'air, alors j'ai voulu profiter d'ce combo en niquant vénère."
 
-# game/v1/scene32.rpy:209
-translate francais v1s32_076a04a5:
+# game/v14/scene32.rpy:209
+translate francais v14s32_076a04a5:
 
     # u "Okay... That sounds healthy."
-    u ""
+    u "Okayyy... Ça a l'air sain..."
 
-# game/v1/scene32.rpy:214
-translate francais v1s32_c3bb4c2f:
+# game/v14/scene32.rpy:214
+translate francais v14s32_c3bb4c2f:
 
     # imre "Don't act brand new, you know how I am. *Laughs*"
-    imre ""
+    imre "Fais pas ta pucelle, tu sais comment j'suis. *Rire*"
 
-# game/v1/scene32.rpy:219
-translate francais v1s32_a800c547:
+# game/v14/scene32.rpy:219
+translate francais v14s32_a800c547:
 
     # u "*Chuckles* That I do."
-    u ""
+    u "*Rire* C'est vrai."
 
-# game/v1/scene32.rpy:245
-translate francais v1s32_0057d2d4:
+# game/v14/scene32.rpy:245
+translate francais v14s32_0057d2d4:
 
     # imre "Okay, I see you."
-    imre ""
+    imre "Bon, j'te regarde."
 
-# game/v1/scene32.rpy:250
-translate francais v1s32_90f4b9a7:
+# game/v14/scene32.rpy:250
+translate francais v14s32_90f4b9a7:
 
     # u "Just some light work."
-    u ""
+    u "On fait juste quelques petits trucs."
 
-# game/v1/scene32.rpy:255
-translate francais v1s32_f4f4df2a:
+# game/v14/scene32.rpy:255
+translate francais v14s32_f4f4df2a:
 
     # imre "You've been practicing already?"
-    imre ""
+    imre "Tu t'es déjà entraîné ?"
 
-# game/v1/scene32.rpy:260
-translate francais v1s32_4d337816:
+# game/v14/scene32.rpy:260
+translate francais v14s32_4d337816:
 
     # u "No, I'm just good."
-    u ""
+    u "Non, je suis doué, c'est tout."
 
-# game/v1/scene32.rpy:265
-translate francais v1s32_9f89de8d:
+# game/v14/scene32.rpy:265
+translate francais v14s32_9f89de8d:
 
     # imre "Wait..."
-    imre ""
+    imre "Attends..."
 
-# game/v1/scene32.rpy:270
-translate francais v1s32_4c2833ed:
+# game/v14/scene32.rpy:270
+translate francais v14s32_4c2833ed:
 
     # u "*Chuckles* What?"
-    u ""
+    u "*Rire* Quoi ?"
 
-# game/v1/scene32.rpy:285
-translate francais v1s32_b664169c:
+# game/v14/scene32.rpy:285
+translate francais v14s32_b664169c:
 
     # rub "*Grunts*"
-    rub ""
+    rub "*Grogne*"
 
-# game/v1/scene32.rpy:290
-translate francais v1s32_dd2bfdac:
+# game/v14/scene32.rpy:290
+translate francais v14s32_dd2bfdac:
 
     # trainer "Perfect, two more."
-    trainer ""
+    trainer "Parfait, encore deux."
 
-# game/v1/scene32.rpy:295
-translate francais v1s32_f4b1a76a:
+# game/v14/scene32.rpy:295
+translate francais v14s32_f4b1a76a:
 
     # rub "No... *Grunts* Five more..."
-    rub ""
+    rub "Non... *Grogne* Encore cinq..."
 
-# game/v1/scene32.rpy:300
-translate francais v1s32_4bca3e42:
+# game/v14/scene32.rpy:300
+translate francais v14s32_4bca3e42:
 
     # trainer "*Chuckles"
-    trainer ""
+    trainer "*Rire*"
 
-# game/v1/scene32.rpy:305
-translate francais v1s32_f8db1712:
+# game/v14/scene32.rpy:305
+translate francais v14s32_f8db1712:
 
     # imre "She looks like a warrior..."
-    imre ""
+    imre "On dirait une guerrière..."
 
-# game/v1/scene32.rpy:310
-translate francais v1s32_0ff6ad79:
+# game/v14/scene32.rpy:310
+translate francais v14s32_0ff6ad79:
 
     # u "Yeah, like she could snap you in half. *Laughs*"
-    u ""
+    u "Ouais, comme si elle pouvait te casser en deux. *Rire*"
 
-# game/v1/scene32.rpy:315
-translate francais v1s32_feece051:
+# game/v14/scene32.rpy:315
+translate francais v14s32_feece051:
 
     # imre "No... shit..."
-    imre ""
+    imre "Non... merde..."
 
-# game/v1/scene32.rpy:320
-translate francais v1s32_4a73b6a3:
+# game/v14/scene32.rpy:320
+translate francais v14s32_4a73b6a3:
 
     # u "(Holy hell...)"
-    u ""
+    u "(Putain de merde...)"
 
-# game/v1/scene32.rpy:335
-translate francais v1s32_eda85f78:
+# game/v14/scene32.rpy:335
+translate francais v14s32_eda85f78:
 
     # imre "Shit! Here she comes..."
-    imre ""
+    imre "Merde ! Elle viens vers nous..."
 
-# game/v1/scene32.rpy:340
-translate francais v1s32_8569c4fa:
+# game/v14/scene32.rpy:340
+translate francais v14s32_8569c4fa:
 
     # u "*Chuckles*"
-    u ""
+    u "*Rire*"
 
-# game/v1/scene32.rpy:345
-translate francais v1s32_df0f71e4:
+# game/v14/scene32.rpy:345
+translate francais v14s32_df0f71e4:
 
     # rub "Hey... I'm Rubee."
-    rub ""
+    rub "Salut... Moi, c'est Rubee."
 
-# game/v1/scene32.rpy:347
-translate francais v1s32_e7581b3c:
+# game/v14/scene32.rpy:347
+translate francais v14s32_e7581b3c:
 
     # rub "Sorry if this is weird, but... Do you have an older sister? Named Kylie?"
-    rub ""
+    rub "Désolée si tu trouves ça bizarre, mais... T'as pas une grande sœur ? Kylie ?"
 
-# game/v1/scene32.rpy:352
-translate francais v1s32_13ffe911:
+# game/v14/scene32.rpy:352
+translate francais v14s32_13ffe911:
 
     # u "Uhh, no-"
-    u ""
+    u "Euh, non..."
 
-# game/v1/scene32.rpy:357
-translate francais v1s32_41e9294c:
+# game/v14/scene32.rpy:357
+translate francais v14s32_41e9294c:
 
     # rub "It's just that, one of my military friends..."
-    rub ""
+    rub "C'est juste que, qu'une de mes amies militaires..."
 
-# game/v1/scene32.rpy:359
-translate francais v1s32_0bf0a483:
+# game/v14/scene32.rpy:359
+translate francais v14s32_0bf0a483:
 
     # rub "She looks... just like you. Haha..."
-    rub ""
+    rub "Elle te... ressemble... Haha..."
 
-# game/v1/scene32.rpy:361
-translate francais v1s32_18a20b99:
+# game/v14/scene32.rpy:361
+translate francais v14s32_18a20b99:
 
     # rub "The female version of you pretty much. *Chuckles*"
-    rub ""
+    rub "C'est vraiment toi, en version féminine. *Rire*"
 
-# game/v1/scene32.rpy:366
-translate francais v1s32_bb98e695:
+# game/v14/scene32.rpy:366
+translate francais v14s32_bb98e695:
 
     # u "Oh, haha. No, as far as I know I'm an only child."
-    u ""
+    u "Oh, haha. Non, pour ce que j'en sais, je suis fils unique."
 
-# game/v1/scene32.rpy:371
-translate francais v1s32_8f3a1abc:
+# game/v14/scene32.rpy:371
+translate francais v14s32_8f3a1abc:
 
     # rub "As far as you know..."
-    rub ""
+    rub "Pour ce que tu sais..."
 
-# game/v1/scene32.rpy:373
-translate francais v1s32_9cacbe00:
+# game/v14/scene32.rpy:373
+translate francais v14s32_9cacbe00:
 
     # rub "Just kidding, haha. Sorry about that, though. It's been a while since we've all gotten home so maybe I'm just imagining things."
-    rub ""
+    rub "Je déconne, haha. Désolée pour ça. Ça fait un moment qu'on n'est pas tous rentrés à la maison, alors je dois peut-être imaginer des trucs."
 
-# game/v1/scene32.rpy:378
-translate francais v1s32_411a8024:
+# game/v14/scene32.rpy:378
+translate francais v14s32_411a8024:
 
     # u "No, no worries. And thank you, for your service."
-    u ""
+    u "Non, pas de soucis. Et merci de servir notre pays."
 
-# game/v1/scene32.rpy:383
-translate francais v1s32_374ad5bb:
+# game/v14/scene32.rpy:383
+translate francais v14s32_374ad5bb:
 
     # rub "Oh, of course. Thank you!"
-    rub ""
+    rub "Oh, de rien. Merci !"
 
-# game/v1/scene32.rpy:388
-translate francais v1s32_5337372c:
+# game/v14/scene32.rpy:388
+translate francais v14s32_5337372c:
 
     # imre "*Whispers* You're a total badass..."
-    imre ""
+    imre "*Chuchote* T'es trop badass..."
 
-# game/v1/scene32.rpy:393
-translate francais v1s32_5a1feb03:
+# game/v14/scene32.rpy:393
+translate francais v14s32_5a1feb03:
 
     # rub "*Laughs* Yeah, I am. Well, thanks anyway, bye!"
-    rub ""
+    rub "*Rire* Ouais, c'est vrai. Eh bien, merci quand même, salut !"
 
-# game/v1/scene32.rpy:398
-translate francais v1s32_8d2401ae:
+# game/v14/scene32.rpy:398
+translate francais v14s32_8d2401ae:
 
     # u "Bye. Good luck finding your friend."
-    u ""
+    u "Salut. Bonne chance pour retrouver ton amie."
 
-# game/v1/scene32.rpy:410
-translate francais v1s32_257f9666:
+# game/v14/scene32.rpy:410
+translate francais v14s32_257f9666:
 
     # rub "Thanks!"
-    rub ""
+    rub "Merci !"
 
-# game/v1/scene32.rpy:422
-translate francais v1s32_f3520f10:
+# game/v14/scene32.rpy:422
+translate francais v14s32_f3520f10:
 
     # imre "*Sighs* What do I gotta do to get a chick like that?"
-    imre ""
+    imre "*Soupirs* Il faut que j'fasse quoi pour avoir une nana comme ça ?"
 
-# game/v1/scene32.rpy:427
-translate francais v1s32_8e55d587:
+# game/v14/scene32.rpy:427
+translate francais v14s32_8e55d587:
 
     # u "Quit whispering compliments to them when they're standing right next to you?"
-    u ""
+    u "Pour commencer, arrêter de leur chuchoter des compliments alors qu'elles sont juste à côté de toi, non ?"
 
-# game/v1/scene32.rpy:432
-translate francais v1s32_8792fb58:
+# game/v14/scene32.rpy:432
+translate francais v14s32_8792fb58:
 
     # imre "Ha ha. Kicking people while they're down is one of your favorite things to do, huh?"
-    imre ""
+    imre "Ha ha. Tu kiffes frapper les gens à terre, hein ?"
 
-# game/v1/scene32.rpy:437
-translate francais v1s32_1f639a59:
+# game/v14/scene32.rpy:437
+translate francais v14s32_1f639a59:
 
     # u "Eh, it depends on the day. *Laughs*"
-    u ""
+    u "Eh, ça dépend des jours. *Rire*"
 
-# game/v1/scene32.rpy:442
-translate francais v1s32_8af411f9:
+# game/v14/scene32.rpy:442
+translate francais v14s32_8af411f9:
 
     # imre "Speaking of women..."
-    imre ""
+    imre "En parlant de meufs..."
 
-# game/v1/scene32.rpy:444
-translate francais v1s32_fc9b76a0:
+# game/v14/scene32.rpy:444
+translate francais v14s32_fc9b76a0:
 
     # imre "Has Chloe been talking about me at all?"
-    imre ""
+    imre "Chloé t'a parlé de moi ?"
 
-# game/v1/scene32.rpy:449
-translate francais v1s32_be7f891a:
+# game/v14/scene32.rpy:449
+translate francais v14s32_be7f891a:
 
     # u "Not really, why?"
-    u ""
+    u "Pas vraiment, pourquoi ?"
 
-# game/v1/scene32.rpy:454
-translate francais v1s32_2e39b77d:
+# game/v14/scene32.rpy:454
+translate francais v14s32_2e39b77d:
 
     # imre "Just wondering, since I'm helping her with her campaign and all."
-    imre ""
+    imre "J'me posais la question, vu qu'je l'aide pour sa campagne et tout."
 
-# game/v1/scene32.rpy:459
-translate francais v1s32_9c0ec391:
+# game/v14/scene32.rpy:459
+translate francais v14s32_9c0ec391:
 
     # u "You're helping or supporting?"
-    u ""
+    u "Tu aides ou tu soutiens ?"
 
-# game/v1/scene32.rpy:464
-translate francais v1s32_7c7e8a32:
+# game/v14/scene32.rpy:464
+translate francais v14s32_7c7e8a32:
 
     # imre "Is there really a difference?"
-    imre ""
+    imre "Y a une différence ?"
 
-# game/v1/scene32.rpy:469
-translate francais v1s32_72c21f76:
+# game/v14/scene32.rpy:469
+translate francais v14s32_72c21f76:
 
     # u "Uh, yeah. One of those includes her asking for your help."
-    u ""
+    u "Euh, ouais. L'un des deux inclut le fait qu'elle demande ton aide."
 
-# game/v1/scene32.rpy:474
-translate francais v1s32_4b042fc3:
+# game/v14/scene32.rpy:474
+translate francais v14s32_4b042fc3:
 
     # imre "I know she likes my help."
-    imre ""
+    imre "J'sais qu'elle aime que j'l'aide."
 
-# game/v1/scene32.rpy:479
-translate francais v1s32_0ff22aa7:
+# game/v14/scene32.rpy:479
+translate francais v14s32_0ff22aa7:
 
     # u "But did she ask?"
-    u ""
+    u "Mais est-ce qu'elle te l'a demandé ?"
 
-# game/v1/scene32.rpy:484
-translate francais v1s32_09de922b:
+# game/v14/scene32.rpy:484
+translate francais v14s32_09de922b:
 
     # imre "She didn't have to, I saw a need and I filled it."
-    imre ""
+    imre "Elle a pas eu à l'faire, j'ai vu un besoin, j'l'ai comblé."
 
-# game/v1/scene32.rpy:487
-translate francais v1s32_adda01a7:
+# game/v14/scene32.rpy:487
+translate francais v14s32_adda01a7:
 
     # imre "Chris got on board to have the Wolves support her because of me."
-    imre ""
+    imre "Chris a accepté qu'les Wolves la soutiennent, grâce à moi."
 
-# game/v1/scene32.rpy:499
-translate francais v1s32_1314f765:
+# game/v14/scene32.rpy:499
+translate francais v14s32_1314f765:
 
     # imre "She just made an announcement on Kiwii, did you see it yet?"
-    imre ""
+    imre "Elle vient d'faire un post sur Kiwii, tu l'as vu ?"
 
-# game/v1/scene32.rpy:506
-translate francais v1s32_20154e2d:
+# game/v14/scene32.rpy:506
+translate francais v14s32_20154e2d:
 
     # u "Ha... Why are you so supportive of her?"
-    u ""
+    u "Ha... Pourquoi tu la soutiens à ce point ?"
 
-# game/v1/scene32.rpy:508
-translate francais v1s32_a9d797b5:
+# game/v14/scene32.rpy:508
+translate francais v14s32_a9d797b5:
 
     # u "I know what you said in the hall, but it seems like there's more to it than that."
-    u ""
+    u "Je connais la raison que tu m'as donné dans la salle, mais on dirait qu'il y a plus que ça."
 
-# game/v1/scene32.rpy:513
-translate francais v1s32_7b4f9067:
+# game/v14/scene32.rpy:513
+translate francais v14s32_7b4f9067:
 
     # imre "I just want her to win, that's all."
-    imre ""
+    imre "J'veux qu'elle gagne, c'est tout."
 
-# game/v1/scene32.rpy:518
-translate francais v1s32_d215c4ce:
+# game/v14/scene32.rpy:518
+translate francais v14s32_d215c4ce:
 
     # u "(He's obviously hiding something.)"
-    u ""
+    u "(Il me cache visiblement quelque chose.)"
 
-# game/v1/scene32.rpy:520
-translate francais v1s32_9fef3755:
+# game/v14/scene32.rpy:520
+translate francais v14s32_9fef3755:
 
     # u "If you say so."
-    u ""
+    u "Si tu le dis."
 
-# game/v1/scene32.rpy:525
-translate francais v1s32_6367dc6a:
+# game/v14/scene32.rpy:525
+translate francais v14s32_6367dc6a:
 
     # imre "Man, are we working out or are we talking?"
-    imre ""
+    imre "Putain Mec, on s'entraîne ou on parle ?"
 
-# game/v1/scene32.rpy:530
-translate francais v1s32_30feb563:
+# game/v14/scene32.rpy:530
+translate francais v14s32_30feb563:
 
     # u "My bad, my bad!"
-    u ""
+    u "Désolé, désolé !"
 
-# game/v1/scene32.rpy:540
-translate francais v1s32_df9bcf77:
+# game/v14/scene32.rpy:540
+translate francais v14s32_df9bcf77:
 
     # imre "Let me show you something I've been working on. I'm thinking about calling it \"Combo Imre.\""
-    imre ""
+    imre "J'vais t'montrer quelque chose que j'ai inventé. J'crois que j'vais l'appeler le \"Combo Imre\"."
 
-# game/v1/scene32.rpy:545
-translate francais v1s32_99f6a655:
+# game/v14/scene32.rpy:545
+translate francais v14s32_99f6a655:
 
     # u "Wow, you thought about that for a long time, didn't you?"
-    u ""
+    u "Wow, tu y as réfléchi pendant longtemps, hein ?"
 
-# game/v1/scene32.rpy:550
-translate francais v1s32_a854e03c:
+# game/v14/scene32.rpy:550
+translate francais v14s32_a854e03c:
 
     # imre "No, not really, it's kinda simple..."
-    imre ""
+    imre "Non, pas trop, c'est assez facile..."
 
-# game/v1/scene32.rpy:555
-translate francais v1s32_74b3e70b:
+# game/v14/scene32.rpy:555
+translate francais v14s32_74b3e70b:
 
     # u "Obviously Imre, I was being-"
-    u ""
+    u "Bien sûr Imre, j'étais-"
 
-# game/v1/scene32.rpy:557
-translate francais v1s32_94848aaa:
+# game/v14/scene32.rpy:557
+translate francais v14s32_94848aaa:
 
     # u "Nevermind, forget it."
-    u ""
+    u "Imre, je me-"
 
-# game/v1/scene32.rpy:562
-translate francais v1s32_143f4fa3:
+# game/v14/scene32.rpy:562
+translate francais v14s32_143f4fa3:
 
     # imre "Okay... Anyways, it's a simple jab jab roundhouse. Watch!"
-    imre ""
+    imre "Ok... Bref, c'est un simple jab jab roundhouse. Matte ça !"
 
-# game/v1/scene32.rpy:585
-translate francais v1s32_78186b38:
+# game/v14/scene32.rpy:585
+translate francais v14s32_78186b38:
 
     # imre "Thoughts?"
-    imre ""
+    imre "T'en penses quoi ?"
 
-# game/v1/scene32.rpy:590
-translate francais v1s32_72f42a3e:
+# game/v14/scene32.rpy:590
+translate francais v14s32_72f42a3e:
 
     # u "Damn!"
-    u ""
+    u "Putain !"
 
-# game/v1/scene32.rpy:595
-translate francais v1s32_19845023:
+# game/v14/scene32.rpy:595
+translate francais v14s32_19845023:
 
     # imre "What?"
-    imre ""
+    imre "Quoi ?"
 
-# game/v1/scene32.rpy:600
-translate francais v1s32_0f9ac804:
+# game/v14/scene32.rpy:600
+translate francais v14s32_0f9ac804:
 
     # u "That was slick."
-    u ""
+    u "C'était rusé."
 
-# game/v1/scene32.rpy:605
-translate francais v1s32_b9f1d16e:
+# game/v14/scene32.rpy:605
+translate francais v14s32_b9f1d16e:
 
     # imre "You think so?"
-    imre ""
+    imre "Tu l'penses vraiment ?"
 
-# game/v1/scene32.rpy:610
-translate francais v1s32_93e118d0:
+# game/v14/scene32.rpy:610
+translate francais v14s32_93e118d0:
 
     # u "I do, let me try it."
-    u ""
+    u "Ouais, laisse-moi essayer."
 
-# game/v1/scene32.rpy:633
-translate francais v1s32_89730158:
+# game/v14/scene32.rpy:633
+translate francais v14s32_89730158:
 
     # imre "Shit! *Laughs* Watching someone else do it makes me realize how cool it actually is. I need to trademark this!"
-    imre ""
+    imre "Merde ! *Rire* Voir quelqu'un d'autre le faire me fait réaliser qu'c'est trop cool. J'dois déposer un brevet !"
 
-# game/v1/scene32.rpy:638
-translate francais v1s32_ac7a43f6:
+# game/v14/scene32.rpy:638
+translate francais v14s32_ac7a43f6:
 
     # u "*Laughs* Do it fast."
-    u ""
+    u "*Rire* Fais le au plus vite."
 
-# game/v1/scene32.rpy:643
-translate francais v1s32_14cbfee3:
+# game/v14/scene32.rpy:643
+translate francais v14s32_14cbfee3:
 
     # imre "Ha."
-    imre ""
+    imre "Ha."
 
-# game/v1/scene32.rpy:648
-translate francais v1s32_55550b1f:
+# game/v14/scene32.rpy:649
+translate francais v14s32_55550b1f:
 
     # u "So, why'd you need to blow off steam?"
-    u ""
+    u "Alors, pourquoi t'as besoin de te défouler ?"
 
-# game/v1/scene32.rpy:653
-translate francais v1s32_77b3a786:
+# game/v14/scene32.rpy:654
+translate francais v14s32_77b3a786:
 
     # imre "You really wanna know?"
-    imre ""
+    imre "Tu veux vraiment l'savoir ?"
 
-# game/v1/scene32.rpy:658
-translate francais v1s32_e02d91b5:
+# game/v14/scene32.rpy:659
+translate francais v14s32_e02d91b5:
 
     # u "That's why I asked, ha."
-    u ""
+    u "Oui, c'est pour ça que j'ai demandé."
 
-# game/v1/scene32.rpy:663
-translate francais v1s32_ba3078bf:
+# game/v14/scene32.rpy:664
+translate francais v14s32_ba3078bf:
 
     # imre "*Sighs* It's Chris."
-    imre ""
+    imre "*Soupirs* C'est Chris."
 
-# game/v1/scene32.rpy:668
-translate francais v1s32_79175f15:
+# game/v14/scene32.rpy:669
+translate francais v14s32_79175f15:
 
     # u "What'd he do?"
-    u ""
+    u "Qu'est-ce qu'il a fait ?"
 
-# game/v1/scene32.rpy:673
-translate francais v1s32_c57d0591:
+# game/v14/scene32.rpy:674
+translate francais v14s32_c57d0591:
 
     # imre "He didn't do anything, someone did something to him."
-    imre ""
+    imre "Il a rien fait, quelqu'un lui a fait quelque chose."
 
-# game/v1/scene32.rpy:678
-translate francais v1s32_0002a865:
+# game/v14/scene32.rpy:679
+translate francais v14s32_0002a865:
 
     # u "Oh... Who?"
-    u ""
+    u "Oh... Qui ?"
 
-# game/v1/scene32.rpy:683
-translate francais v1s32_be1e7af7:
+# game/v14/scene32.rpy:684
+translate francais v14s32_be1e7af7:
 
     # imre "Nora. She went the entire trip complaining about where Chris was and what he was doing, but guess what?"
-    imre ""
+    imre "C'est Nora. Elle a passé tout l'voyage à s'plaindre de Chris et de c'qu'y faisait, mais devine !"
 
-# game/v1/scene32.rpy:685
-translate francais v1s32_19b1b1d6:
+# game/v14/scene32.rpy:686
+translate francais v14s32_19b1b1d6:
 
     # imre "Ever since we've been back, she's been gone."
-    imre ""
+    imre "Depuis qu'on est revenu, elle a disparu."
 
-# game/v1/scene32.rpy:690
-translate francais v1s32_bfb16011:
+# game/v14/scene32.rpy:691
+translate francais v14s32_bfb16011:
 
     # u "What do you mean gone?"
-    u ""
+    u "Comment ça, \"disparu\" ?"
 
-# game/v1/scene32.rpy:695
-translate francais v1s32_7c9e49c0:
+# game/v14/scene32.rpy:696
+translate francais v14s32_7c9e49c0:
 
     # imre "I mean gone. None of us have seen her."
-    imre ""
+    imre "J'veux dire disparue. Personne l'a vue."
 
-# game/v1/scene32.rpy:700
-translate francais v1s32_fcd9c60b:
+# game/v14/scene32.rpy:701
+translate francais v14s32_fcd9c60b:
 
     # u "At all?"
-    u ""
+    u "Du tout ?"
 
-# game/v1/scene32.rpy:705
-translate francais v1s32_31a65b19:
+# game/v14/scene32.rpy:706
+translate francais v14s32_31a65b19:
 
     # imre "At all."
-    imre ""
+    imre "Du tout."
 
-# game/v1/scene32.rpy:710
-translate francais v1s32_18a1184f:
+# game/v14/scene32.rpy:711
+translate francais v14s32_18a1184f:
 
     # u "I'm sure Chris knows where she is."
-    u ""
+    u "Chris doit savoir où elle est, j'en suis sûr. "
 
-# game/v1/scene32.rpy:715
-translate francais v1s32_4ab5f2e7:
+# game/v14/scene32.rpy:716
+translate francais v14s32_4ab5f2e7:
 
     # imre "I bet not, but maybe. I don't know..."
-    imre ""
+    imre "J'crois pas, mais peut-être. J'en sais rien..."
 
-# game/v1/scene32.rpy:717
-translate francais v1s32_dc279818:
+# game/v14/scene32.rpy:718
+translate francais v14s32_dc279818:
 
     # imre "Either way, she hasn't been around."
-    imre ""
+    imre "En tout cas, elle est nulle part."
 
-# game/v1/scene32.rpy:722
-translate francais v1s32_b9d76349:
+# game/v14/scene32.rpy:723
+translate francais v14s32_b9d76349:
 
     # u "Chris is taking that pretty badly I assume?"
-    u ""
+    u "J'imagine que Chris prend ça plutôt mal ?"
 
-# game/v1/scene32.rpy:727
-translate francais v1s32_7b9281c4:
+# game/v14/scene32.rpy:728
+translate francais v14s32_7b9281c4:
 
     # imre "He's broken, whether he's showing it or not."
-    imre ""
+    imre "Il est anéanti, qu'il le montre ou non."
 
-# game/v1/scene32.rpy:732
-translate francais v1s32_7c785969:
+# game/v14/scene32.rpy:733
+translate francais v14s32_7c785969:
 
     # u "*Sighs* That's rough."
-    u ""
+    u "*Soupirs* C'est dur."
 
-# game/v1/scene32.rpy:737
-translate francais v1s32_36a5c0c9:
+# game/v14/scene32.rpy:738
+translate francais v14s32_36a5c0c9:
 
     # imre "Yeah it is, and you know what?"
-    imre ""
+    imre "Ouais, et tu sais quoi ?"
 
-# game/v1/scene32.rpy:742
-translate francais v1s32_8b258704:
+# game/v14/scene32.rpy:743
+translate francais v14s32_8b258704:
 
     # u "Huh?"
-    u ""
+    u "Hein ?"
 
-# game/v1/scene32.rpy:747
-translate francais v1s32_910b9566:
+# game/v14/scene32.rpy:748
+translate francais v14s32_910b9566:
 
     # imre "Instead of being here, I should be with him."
-    imre ""
+    imre "Au lieu d'être là, j'devrais être avec lui."
 
-# game/v1/scene32.rpy:752
-translate francais v1s32_88d2dbb1:
+# game/v14/scene32.rpy:753
+translate francais v14s32_88d2dbb1:
 
     # u "Oh, okay."
-    u ""
+    u "Oh, okay."
 
-# game/v1/scene32.rpy:757
-translate francais v1s32_22e4bfa1:
+# game/v14/scene32.rpy:758
+translate francais v14s32_22e4bfa1:
 
     # imre "Sorry. Later man."
-    imre ""
+    imre "Désolé. À plus, mec."
 
-# game/v1/scene32.rpy:762
-translate francais v1s32_a8337174:
+# game/v14/scene32.rpy:763
+translate francais v14s32_a8337174:
 
     # u "Uh, bye."
-    u ""
+    u "Euh, salut."
 
-# game/v1/scene32.rpy:773
-translate francais v1s32_2d96fc4e:
+# game/v14/scene32.rpy:774
+translate francais v14s32_2d96fc4e:
 
     # imre "And just so you know, I'm having a really hard time not telling Chris about you and Nora."
-    imre ""
+    imre "Et pour info, j'ai beaucoup d'mal à pas parler à Chris de Nora et toi."
 
-# game/v1/scene32.rpy:778
-translate francais v1s32_fc7386d5:
+# game/v14/scene32.rpy:779
+translate francais v14s32_fc7386d5:
 
     # u "Imre-"
-    u ""
+    u "Imre-"
 
-# game/v1/scene32.rpy:783
-translate francais v1s32_04544737:
+# game/v14/scene32.rpy:784
+translate francais v14s32_04544737:
 
     # imre "Part of me feels like you had a lot to do with the problems they've been having."
-    imre ""
+    imre "J'ai un peu l'impression qu't'as beaucoup à voir avec les problèmes qu'ils ont eus."
 
-# game/v1/scene32.rpy:788
-translate francais v1s32_d84c8001:
+# game/v14/scene32.rpy:789
+translate francais v14s32_d84c8001:
 
     # u "I know what I did wasn't right, but I'm not involved in their relationship like that."
-    u ""
+    u "Je sais que ce que j'ai fait n'était pas bien, mais je suis pas impliqué dans leur relation comme ça."
 
-# game/v1/scene32.rpy:793
-translate francais v1s32_44f17122:
+# game/v14/scene32.rpy:794
+translate francais v14s32_44f17122:
 
     # imre "*Sighs* Whatever man."
-    imre ""
+    imre "*Soupirs* Comme tu veux, mec."
 
 translate francais strings:
 
-    # game/v1/scene32.rpy:83
+    # game/v14/scene32.rpy:83
     old "Chris"
-    new ""
+    new "Chris"
 
-    # game/v1/scene32.rpy:83
-    old "Ryan"
-    new ""
-
-    # game/v1/scene32.rpy:134
-    old "You're right"
-    new ""
-
-    # game/v1/scene32.rpy:134
+    # game/v14/scene32.rpy:134
     old "Please just get along"
-    new ""
-
+    new "S'il te plaît, dégage"
