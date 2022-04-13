@@ -4,5 +4,4 @@
 translate francais v3s9_873df24c:
 
     # u "(Okay, brain. Get ready to be bored! *Sighs*)"
-    u ""
-
+    u "(Ok, petit cerveau. Prépare-toi à te faire chier ! *Soupirs*)"

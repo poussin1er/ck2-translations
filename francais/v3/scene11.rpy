@@ -629,4 +629,3 @@ translate francais strings:
     # game/v3/scene11.rpy:413
     old "Not your best photo"
     new ""
-
