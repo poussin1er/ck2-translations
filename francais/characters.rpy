@@ -179,7 +179,7 @@ define character.admin = Character("Administratrice de réservation", who_color=
 define character.aumom = Character("Mère d'Aubrey", who_color="#a815f2", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.audad = Character("Père d'Aubrey", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.rick = Character("Oncle Rick", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.wedoff = Character("Officiant de mariage, who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.wedoff = Character("Officiant de mariage", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 
 # # 16.0
 define character.ab = Character("Patron d'Amber", who_color="#ecd9c9", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
