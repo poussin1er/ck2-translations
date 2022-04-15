@@ -204,7 +204,7 @@ define character.jog = Character("Jogger", who_color="#fd9426", who_outlines=[ (
 define character.pa = Character("Haut parleur", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.pha = Character("Kiwii Audio") ### Kiwii Audio??
 define character.tb = Character("The Bullseye", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.wa = Character("Wheel Attendant", who_color="#8b0000", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.wa = Character("Responsable de la roue", who_color="#8b0000", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.oldw = Character("Vieille femme", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.tenr = Character("Tenor", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.soprano = Character("Soprano", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
