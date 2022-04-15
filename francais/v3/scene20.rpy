@@ -141,4 +141,3 @@ translate francais strings:
     # game/v3/scene20.rpy:36
     old "Leave them"
     new ""
-
