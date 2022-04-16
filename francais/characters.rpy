@@ -186,7 +186,7 @@ define character.ab = Character("Patron d'Amber", who_color="#ecd9c9", who_outli
 define character.alls = Character("Tous les étudiants", who_color="#ff1694", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.baby = Character("[v3_baby_name]", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.carni = Character("Opérateur de carrousel", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.ds = Character("Ivrogne couché", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.ds = Character("Ivrogne", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.dy = Character("Dylan", who_color="#ff8afb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.hv = Character("Vendeur de hot-dogs", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.wtv = Character("Femme dans une émission télé", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
