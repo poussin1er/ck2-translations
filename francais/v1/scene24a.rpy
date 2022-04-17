@@ -1,90 +1,89 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v1/scene24a.rpy:22
-translate francais v1s24a_b5dd415c:
+# game/v14/scene24a.rpy:22
+translate francais v14s24a_b5dd415c:
 
     # u "What to buy, what to buy..."
-    u ""
+    u "Que choisir, que choisir..."
 
-# game/v1/scene24a.rpy:37
-translate francais v1s24a_d1d207d0:
+# game/v14/scene24a.rpy:37
+translate francais v14s24a_d1d207d0:
 
     # u "Hmm... (What candy would Amber like best?)"
-    u ""
+    u "Hmm... (C'est quoi les bonbons qu'Amber préfère ?)"
 
-# game/v1/scene24a.rpy:82
-translate francais v1s24a_2f53e20e:
+# game/v14/scene24a.rpy:82
+translate francais v14s24a_2f53e20e:
 
     # u "No fucking way... *Laughs*"
-    u ""
+    u "Putain, j'y crois pas... *Rire*"
 
-# game/v1/scene24a.rpy:87
-translate francais v1s24a_3736d3bd:
+# game/v14/scene24a.rpy:87
+translate francais v14s24a_3736d3bd:
 
     # gr "Is something funny, [name]?"
-    gr ""
+    gr "Y a quelque chose de drôle, [name] ?"
 
-# game/v1/scene24a.rpy:92
-translate francais v1s24a_7e8edfc0:
+# game/v14/scene24a.rpy:92
+translate francais v14s24a_7e8edfc0:
 
     # u "Ha, no... Nothing. I'm just shocked to find you working here."
-    u ""
+    u "Ha, non... Rien. Je suis juste étonné de voir que tu travailles là."
 
-# game/v1/scene24a.rpy:97
-translate francais v1s24a_15b656f7:
+# game/v14/scene24a.rpy:97
+translate francais v14s24a_15b656f7:
 
     # gr "Well, I need money like everyone else."
-    gr ""
+    gr "Hey, j'ai besoin d'argent comme tout l'monde."
 
-# game/v1/scene24a.rpy:102
-translate francais v1s24a_824f4a8d:
+# game/v14/scene24a.rpy:102
+translate francais v14s24a_824f4a8d:
 
     # u "Clearly, yeah, but I just never saw you doing something like this."
-    u ""
+    u "Ouais, bien sûr, mais je pensais pas que tu ferais un truc comme ça."
 
-# game/v1/scene24a.rpy:107
-translate francais v1s24a_420020f5:
+# game/v14/scene24a.rpy:107
+translate francais v14s24a_420020f5:
 
     # gr "Well I do. Make a big deal of it and it'll be lights out all over again."
-    gr ""
+    gr "Ben, moi si. Si tu le dis à tout l'monde, il va y avoir \"extinction des feux\", encore une fois."
 
-# game/v1/scene24a.rpy:112
-translate francais v1s24a_ea171566:
+# game/v14/scene24a.rpy:112
+translate francais v14s24a_ea171566:
 
     # u "Chill bro, just ring me up."
-    u ""
+    u "Tranquille mon frère, on se parle."
 
-# game/v1/scene24a.rpy:127
-translate francais v1s24a_3abe895b:
+# game/v14/scene24a.rpy:127
+translate francais v14s24a_3abe895b:
 
     # gr "Now get the fuck out so I can get back to watching my shows."
-    gr ""
+    gr "Maintenant, fous le camp que je puisse retourner regarder mes émissions."
 
-# game/v1/scene24a.rpy:132
-translate francais v1s24a_c61353ae:
+# game/v14/scene24a.rpy:132
+translate francais v14s24a_c61353ae:
 
     # u "Cartoons?"
-    u ""
+    u "Des dessins animés ?"
 
-# game/v1/scene24a.rpy:137
-translate francais v1s24a_4b09fef0:
+# game/v14/scene24a.rpy:137
+translate francais v14s24a_4b09fef0:
 
     # gr "You got jokes today or somethin'?"
-    gr ""
+    gr "Tu joues le comique aujourd'hui ou quoi ?"
 
-# game/v1/scene24a.rpy:142
-translate francais v1s24a_f1e1dd89:
+# game/v14/scene24a.rpy:142
+translate francais v14s24a_f1e1dd89:
 
     # u "Haha, later man."
-    u ""
+    u "Haha, à plus tard mec."
 
 translate francais strings:
 
-    # game/v1/scene24a.rpy:42
+    # game/v14/scene24a.rpy:42
     old "Twezzlers"
-    new ""
+    new "Twezzlers"
 
-    # game/v1/scene24a.rpy:42
+    # game/v14/scene24a.rpy:42
     old "Gummy Fish"
-    new ""
-
+    new "Gummy Fish"

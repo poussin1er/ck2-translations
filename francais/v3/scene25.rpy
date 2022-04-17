@@ -585,4 +585,3 @@ translate francais strings:
     # game/v3/scene25.rpy:707
     old "Hang up"
     new ""
-

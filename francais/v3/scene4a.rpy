@@ -4,5 +4,4 @@
 translate francais v3s4a_9c1645b6:
 
     # u "(Another day full of endless possibilities... Gotta love college.)"
-    u ""
-
+    u "(Une autre journée riche en occasions innombrables... Il faut vraiment que j'aime l'université.)"

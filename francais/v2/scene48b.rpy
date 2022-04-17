@@ -1,192 +1,191 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v2/scene48b.rpy:40
-translate francais v2s48b_fccdd165:
+# game/v15/scene48b.rpy:40
+translate francais v15s48b_fccdd165:
 
     # no "That was... incredible, [name]."
-    no ""
+    no "C'était... incroyable, [name]."
 
-# game/v2/scene48b.rpy:45
-translate francais v2s48b_8138d6f7:
+# game/v15/scene48b.rpy:45
+translate francais v15s48b_8138d6f7:
 
     # u "It really was. I hate to break it to you, but I don't think it'll be the last time either."
-    u ""
+    u "Oh oui, c'est vrai. Je suis désolé de te le dire, mais je pense pas que ça sera la dernière fois."
 
-# game/v2/scene48b.rpy:50
-translate francais v2s48b_ed7c541b:
+# game/v15/scene48b.rpy:50
+translate francais v15s48b_ed7c541b:
 
     # no "*Laughs* Fine by me."
-    no ""
+    no "*Rire* Ça me va."
 
-# game/v2/scene48b.rpy:55
-translate francais v2s48b_1ba3e7cb:
+# game/v15/scene48b.rpy:55
+translate francais v15s48b_1ba3e7cb:
 
     # no "I guess it's time to switch this on."
-    no ""
+    no "Je crois qu'il est temps de le rallumer."
 
-# game/v2/scene48b.rpy:62
-translate francais v2s48b_46bff76d:
+# game/v15/scene48b.rpy:62
+translate francais v15s48b_46bff76d:
 
     # no "Oh, God. So many messages."
-    no ""
+    no "Oh, merde. Il y a tellement de messages."
 
-# game/v2/scene48b.rpy:67
-translate francais v2s48b_afb4de61:
+# game/v15/scene48b.rpy:67
+translate francais v15s48b_afb4de61:
 
     # u "See how many people care about you?"
-    u ""
+    u "Tu vois combien de personnes se soucient de toi ?"
 
-# game/v2/scene48b.rpy:72
-translate francais v2s48b_561fd442:
+# game/v15/scene48b.rpy:72
+translate francais v15s48b_561fd442:
 
     # no "*Sighs* Yeah. Better get back to the Chicks house."
-    no ""
+    no "*Soupirs* Ouais. Je ferais mieux de retourner dans la maison des Chicks."
 
-# game/v2/scene48b.rpy:82
-translate francais v2s48b_5bf46117:
+# game/v15/scene48b.rpy:82
+translate francais v15s48b_5bf46117:
 
     # u "Are you sure?"
-    u ""
+    u "T'es sûre ?"
 
-# game/v2/scene48b.rpy:87
-translate francais v2s48b_790d5e46:
+# game/v15/scene48b.rpy:87
+translate francais v15s48b_790d5e46:
 
     # no "Believe me, I could stay here all week and do what we just did. But I've got some explaining to do."
-    no ""
+    no "Crois-moi, je pourrais rester ici toute la semaine et continuer à faire ce qu'on vient de faire. Mais j'ai des explications à donner."
 
-# game/v2/scene48b.rpy:89
-translate francais v2s48b_e09caf68:
+# game/v15/scene48b.rpy:89
+translate francais v15s48b_e09caf68:
 
     # no "I can't hide here forever."
-    no ""
+    no "Je ne peux pas me cacher là indéfiniment."
 
-# game/v2/scene48b.rpy:94
-translate francais v2s48b_b61ad066:
+# game/v15/scene48b.rpy:94
+translate francais v15s48b_b61ad066:
 
     # u "You want to get a cab with me?"
-    u ""
+    u "Tu veux prendre un taxi avec moi ?"
 
-# game/v2/scene48b.rpy:99
-translate francais v2s48b_186f5132:
+# game/v15/scene48b.rpy:99
+translate francais v15s48b_186f5132:
 
     # no "No, you go home. I just texted Lorraine to come pick me up."
-    no ""
+    no "Non, rentre chez toi. Je viens d'envoyer un SMS à Lorraine pour qu'elle vienne me chercher."
 
-# game/v2/scene48b.rpy:104
-translate francais v2s48b_66aaf154:
+# game/v15/scene48b.rpy:104
+translate francais v15s48b_66aaf154:
 
     # u "Oh, okay. Yeah, probably best I leave you to talk through some stuff."
-    u ""
+    u "Oh, d'accord. Ouais, c'est surement mieux que je te laisse seule, pour parler de certaines choses."
 
-# game/v2/scene48b.rpy:109
-translate francais v2s48b_a14b97dc:
+# game/v15/scene48b.rpy:109
+translate francais v15s48b_a14b97dc:
 
     # no "Yeah. Thanks again, for everything. Tonight was... perfect."
-    no ""
+    no "Tu as raison. Merci encore, pour tout. Cette soirée était... parfaite."
 
-# game/v2/scene48b.rpy:114
-translate francais v2s48b_9b9986cf:
+# game/v15/scene48b.rpy:114
+translate francais v15s48b_9b9986cf:
 
     # u "You really don't have to thank me, Nora. I'd do it all over again a million times, you know that."
-    u ""
+    u "T'as vraiment pas besoin de me remercier, Nora. Je referai ça un million de fois, tu sais."
 
-# game/v2/scene48b.rpy:125
-translate francais v2s48b_90c24dd1:
+# game/v15/scene48b.rpy:125
+translate francais v15s48b_90c24dd1:
 
     # u "I'd better go find my clothes first."
-    u ""
+    u "Je devrais d'abord aller chercher mes vêtements."
 
-# game/v2/scene48b.rpy:130
-translate francais v2s48b_b3481496:
+# game/v15/scene48b.rpy:130
+translate francais v15s48b_b3481496:
 
     # no "Haha, good idea."
-    no ""
+    no "Haha, bonne idée."
 
-# game/v2/scene48b.rpy:160
-translate francais v2s48bnosex_279d5f9c:
+# game/v15/scene48b.rpy:160
+translate francais v15s48bnosex_279d5f9c:
 
     # u "Nora, I think I'll head back now. Thanks for the wine."
-    u ""
+    u "Nora, je vais rentrer maintenant. Merci pour le vin."
 
-# game/v2/scene48b.rpy:165
-translate francais v2s48bnosex_ecd66db7:
+# game/v15/scene48b.rpy:165
+translate francais v15s48bnosex_ecd66db7:
 
     # no "Oh, okay... If you're sure."
-    no ""
+    no "Oh, d'accord... Si tu veux."
 
-# game/v2/scene48b.rpy:170
-translate francais v2s48bnosex_a422a4e7:
+# game/v15/scene48b.rpy:170
+translate francais v15s48bnosex_a422a4e7:
 
     # u "Yeah, it's getting late. I'll order a cab."
-    u ""
+    u "Ouais, il se fait tard. Je vais appeler un taxi."
 
-# game/v2/scene48b.rpy:185
-translate francais v2s48bnosex_1d1b7bcf:
+# game/v15/scene48b.rpy:185
+translate francais v15s48bnosex_1d1b7bcf:
 
     # u "Shouldn't be long."
-    u ""
+    u "Ça devrait pas être long."
 
-# game/v2/scene48b.rpy:190
-translate francais v2s48bnosex_5bc91e18:
+# game/v15/scene48b.rpy:190
+translate francais v15s48bnosex_5bc91e18:
 
     # no "It's okay. I was about to text Lorraine to come pick me up soon anyway."
-    no ""
+    no "Pas de problème. Je vais envoyer un SMS à Lorraine pour qu'elle vienne me chercher assez vite, de toute façon."
 
-# game/v2/scene48b.rpy:195
-translate francais v2s48bnosex_88d2dbb1:
+# game/v15/scene48b.rpy:195
+translate francais v15s48bnosex_88d2dbb1:
 
     # u "Oh, okay."
-    u ""
+    u "Oh, ok."
 
-# game/v2/scene48b.rpy:197
-translate francais v2s48bnosex_b046025b:
+# game/v15/scene48b.rpy:197
+translate francais v15s48bnosex_b046025b:
 
     # u "I'm glad I came out here. Maybe do it again sometime. You can show me around."
-    u ""
+    u "Je suis heureux d'être venu là. Peut-être qu'on reviendra un jour. Tu pourras me faire visiter."
 
-# game/v2/scene48b.rpy:202
-translate francais v2s48bnosex_487f8861:
+# game/v15/scene48b.rpy:202
+translate francais v15s48bnosex_487f8861:
 
     # no "I'd like that. Thanks for always being the guy who listens to all my shit."
-    no ""
+    no "Avec plaisir. Merci d'être toujours là pour écouter toutes mes conneries."
 
-# game/v2/scene48b.rpy:211
-translate francais v2s48bnosex_00c763f2:
+# game/v15/scene48b.rpy:211
+translate francais v15s48bnosex_00c763f2:
 
     # u "Haha, it's not shit. It's important to talk through your feelings with someone. Helps you figure things out."
-    u ""
+    u "Haha, il n'y a rien de mal. C'est essentiel de pouvoir parler de tes sentiments avec quelqu'un. Ça permet de comprendre certaines choses."
 
-# game/v2/scene48b.rpy:216
-translate francais v2s48bnosex_bbeb3cc2:
+# game/v15/scene48b.rpy:216
+translate francais v15s48bnosex_bbeb3cc2:
 
     # u "Haha, you're welcome. Any time, Nora."
-    u ""
+    u "Haha, je t'en prie. Toujours là pour toi, Nora."
 
-# game/v2/scene48b.rpy:221
-translate francais v2s48bnosex_e3a6a99a:
+# game/v15/scene48b.rpy:221
+translate francais v15s48bnosex_e3a6a99a:
 
     # no "Thanks, [name]."
-    no ""
+    no "Merci, [name]."
 
-# game/v2/scene48b.rpy:236
-translate francais v2s48bnosex_786b6197:
+# game/v15/scene48b.rpy:236
+translate francais v15s48bnosex_786b6197:
 
     # no "See you soon."
-    no ""
+    no "À très bientôt."
 
-# game/v2/scene48b.rpy:241
-translate francais v2s48bnosex_604e5884:
+# game/v15/scene48b.rpy:241
+translate francais v15s48bnosex_604e5884:
 
     # u "Bye."
-    u ""
+    u "Ciao."
 
 translate francais strings:
 
-    # game/v2/scene48b.rpy:207
+    # game/v15/scene48b.rpy:207
     old "It's not shit"
-    new ""
+    new "C'est pas de la merde"
 
-    # game/v2/scene48b.rpy:207
+    # game/v15/scene48b.rpy:207
     old "You're welcome"
-    new ""
-
+    new "Je t'en prie"

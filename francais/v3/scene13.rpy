@@ -4,11 +4,10 @@
 translate francais v3s13_352d141a:
 
     # u "(Good thing I had a clean change of clothes in my locker.)"
-    u ""
+    u "(Heureusement que j'avais des vêtements propres dans mon casier.)"
 
 # game/v3/scene13.rpy:17
 translate francais v3s13_60a587b9:
 
     # u "(This yoga session with Nora should do me good. I've been feeling very stiff, haha.)"
-    u ""
-
+    u "(Cette séance de yoga avec Nora devrait me faire du bien. Je me sens très tendu, haha.)"

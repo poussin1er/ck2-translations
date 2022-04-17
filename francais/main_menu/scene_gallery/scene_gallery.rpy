@@ -4,9 +4,8 @@ translate francais strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:123
     old "What's your name?"
-    new ""
+    new "Quel est votre nom ?"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:123
     old "Alex"
-    new ""
-
+    new "Alex"

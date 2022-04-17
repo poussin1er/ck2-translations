@@ -1,14 +1,13 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v1/scene45.rpy:34
-translate francais v1s45_PhoneContinueAmber_88d710ce:
+# game/v14/scene45.rpy:34
+translate francais v14s45_PhoneContinueAmber_88d710ce:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(Je devrais vérifier mon téléphone.)"
 
-# game/v1/scene45.rpy:40
-translate francais v1s45_PhoneContinueAmber_8eb92e2e:
+# game/v14/scene45.rpy:40
+translate francais v14s45_PhoneContinueAmber_8eb92e2e:
 
     # u "(News to share... Hmm.)"
-    u ""
-
+    u "(Des nouvelles à partager... Hmm.)"

@@ -4,5 +4,4 @@ translate francais strings:
 
     # game/options.rpy:17
     old "College Kings 2"
-    new ""
-
+    new "College Kings 2"
