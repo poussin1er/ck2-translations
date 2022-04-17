@@ -495,4 +495,3 @@ translate francais strings:
     # game/v3/scene30.rpy:309
     old "Stop Imre"
     new ""
-
