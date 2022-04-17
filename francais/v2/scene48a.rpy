@@ -1,878 +1,877 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v2/scene48a.rpy:21
-translate francais v2s48a_norasg_c06cf82e:
+# game/v15/scene48a.rpy:21
+translate francais v15s48a_norasg_c06cf82e:
 
     # no "Thank you, [name]. For everything."
-    no ""
+    no "Merci, [name]. Pour tout."
 
-# game/v2/scene48a.rpy:26
-translate francais v2s48a_norasg_c8f925ef:
+# game/v15/scene48a.rpy:26
+translate francais v15s48a_norasg_c8f925ef:
 
     # u "Nora-"
-    u ""
+    u "Nora-"
 
-# game/v2/scene48a.rpy:31
-translate francais v2s48a_norasg_8d391c53:
+# game/v15/scene48a.rpy:31
+translate francais v15s48a_norasg_8d391c53:
 
     # no "Seriously. You've always been there for me."
-    no ""
+    no "Sérieusement. Tu as toujours été là pour moi."
 
-# game/v2/scene48a.rpy:33
-translate francais v2s48a_norasg_fd5ac90c:
+# game/v15/scene48a.rpy:33
+translate francais v15s48a_norasg_fd5ac90c:
 
     # no "Chris literally left me at the altar... and you were the only one who stepped up for me."
-    no ""
+    no "Chris m'a littéralement lâché devant l'autel... et tu es le seul à être intervenu pour moi."
 
-# game/v2/scene48a.rpy:35
-translate francais v2s48a_norasg_cedfbdce:
+# game/v15/scene48a.rpy:35
+translate francais v15s48a_norasg_cedfbdce:
 
     # no "It took you just a few seconds to stand up and take his place."
-    no ""
+    no "Il ne t'a fallu que quelques secondes pour te lever et prendre sa place."
 
-# game/v2/scene48a.rpy:38
-translate francais v2s48a_norasg_eab67113:
+# game/v15/scene48a.rpy:38
+translate francais v15s48a_norasg_eab67113:
 
     # no "And who can forget that kiss?"
-    no ""
+    no "Et qui peut oublier ce baiser ?"
 
-# game/v2/scene48a.rpy:43
-translate francais v2s48a_norasg_1f66ce89:
+# game/v15/scene48a.rpy:43
+translate francais v15s48a_norasg_1f66ce89:
 
     # u "(Damn straight.)"
-    u ""
+    u "(Carrément.)"
 
-# game/v2/scene48a.rpy:51
-translate francais v2s48a_norasg_25c31d12:
+# game/v15/scene48a.rpy:51
+translate francais v15s48a_norasg_25c31d12:
 
     # no "I mean, you helped me get people signed up for the Europe trip. And I didn't even have to ask."
-    no ""
+    no "Après tout, tu m'as aidé à faire signer des gens pour le voyage en Europe. Et je n'ai même pas eu à demander."
 
-# game/v2/scene48a.rpy:59
-translate francais v2s48a_norasg_1d932c5c:
+# game/v15/scene48a.rpy:59
+translate francais v15s48a_norasg_1d932c5c:
 
     # no "You cheered me on from the side-lines when I wrestled Chloe..."
-    no ""
+    no "Tu m'as encouragé depuis les bancs de touche lorsque je luttais contre Chloé..."
 
-# game/v2/scene48a.rpy:64
-translate francais v2s48a_norasg_f279b30a:
+# game/v15/scene48a.rpy:64
+translate francais v15s48a_norasg_f279b30a:
 
     # u "Oh, that was nothing."
-    u ""
+    u "Oh, c'était rien."
 
-# game/v2/scene48a.rpy:69
-translate francais v2s48a_norasg_586c4b87:
+# game/v15/scene48a.rpy:69
+translate francais v15s48a_norasg_586c4b87:
 
     # no "Haha, yeah, I'm sure you enjoyed the big finale that day!"
-    no ""
+    no "Haha, pourtant, je suis sûr que tu as apprécié la grande finale ce jour-là !"
 
-# game/v2/scene48a.rpy:74
-translate francais v2s48a_norasg_628e5504:
+# game/v15/scene48a.rpy:74
+translate francais v15s48a_norasg_628e5504:
 
     # u "*Laughs* I can't lie to you... Actually, no- I could, but I'm choosing not to."
-    u ""
+    u "*Rire* Je peux pas te mentir... En fait, non, je pourrais, mais j'ai choisi de pas le faire."
 
-# game/v2/scene48a.rpy:79
-translate francais v2s48a_norasg_305ad263:
+# game/v15/scene48a.rpy:79
+translate francais v15s48a_norasg_305ad263:
 
     # no "*Giggles*"
-    no ""
+    no "*Ricane*"
 
-# game/v2/scene48a.rpy:87
-translate francais v2s48a_norasg_b8e6ce1e:
+# game/v15/scene48a.rpy:87
+translate francais v15s48a_norasg_b8e6ce1e:
 
     # no "When I got robbed in Europe, your first instinct was to make sure that I was okay."
-    no ""
+    no "Quand je me suis fait détrousser en Europe, ton premier réflexe a été de t'assurer que tout allait bien pour moi."
 
-# game/v2/scene48a.rpy:95
-translate francais v2s48a_norasg_b6aca465:
+# game/v15/scene48a.rpy:95
+translate francais v15s48a_norasg_b6aca465:
 
     # no "When my purse got stolen in Europe-"
-    no ""
+    no "Quand mon sac à main a été volé en Europe-"
 
-# game/v2/scene48a.rpy:100
-translate francais v2s48a_norasg_f017e6e2:
+# game/v15/scene48a.rpy:100
+translate francais v15s48a_norasg_f017e6e2:
 
     # u "Almost... Got stolen."
-    u ""
+    u "A presque... été volé."
 
-# game/v2/scene48a.rpy:105
-translate francais v2s48a_norasg_6bca995c:
+# game/v15/scene48a.rpy:105
+translate francais v15s48a_norasg_6bca995c:
 
     # no "*Chuckles* Almost because you kicked the guy's ass."
-    no ""
+    no "*Rire* Presque parce que tu as démoli la gueule du type."
 
-# game/v2/scene48a.rpy:110
-translate francais v2s48a_norasg_0ddfc9b6:
+# game/v15/scene48a.rpy:110
+translate francais v15s48a_norasg_0ddfc9b6:
 
     # u "Of course, I did."
-    u ""
+    u "Bien sûr que oui."
 
-# game/v2/scene48a.rpy:118
-translate francais v2s48a_norasg_f464f144:
+# game/v15/scene48a.rpy:118
+translate francais v15s48a_norasg_f464f144:
 
     # no "You didn't hesitate to choose me over \"the boys\"."
-    no ""
+    no "Tu n'as pas hésité à me choisir plutôt que \"les garçons\"."
 
-# game/v2/scene48a.rpy:124
-translate francais v2s48a_norasg_8d335f5e:
+# game/v15/scene48a.rpy:124
+translate francais v15s48a_norasg_8d335f5e:
 
     # no "I just can't believe how much time I've wasted without you, ha."
-    no ""
+    no "Je n'arrive pas à croire tout le temps que j'ai perdu sans toi..."
 
-# game/v2/scene48a.rpy:126
-translate francais v2s48a_norasg_85069907:
+# game/v15/scene48a.rpy:126
+translate francais v15s48a_norasg_85069907:
 
     # no "It's been you all along."
-    no ""
+    no "Ça a toujours été toi."
 
-# game/v2/scene48a.rpy:129
-translate francais v2s48a_norasg_8d335f5e_1:
+# game/v15/scene48a.rpy:129
+translate francais v15s48a_norasg_8d335f5e_1:
 
     # no "I just can't believe how much time I've wasted without you, ha."
-    no ""
+    no "Je n'arrive pas à croire tout le temps que j'ai perdu sans toi..."
 
-# game/v2/scene48a.rpy:134
-translate francais v2s48a_norasg_e18502ad:
+# game/v15/scene48a.rpy:134
+translate francais v15s48a_norasg_e18502ad:
 
     # u "Well, we're here now."
-    u ""
+    u "Eh bien, on est là maintenant."
 
-# game/v2/scene48a.rpy:139
-translate francais v2s48a_norasg_36c5ab23:
+# game/v15/scene48a.rpy:139
+translate francais v15s48a_norasg_36c5ab23:
 
     # no "Honestly, since the moment we met, you've made me feel... wanted."
-    no ""
+    no "Honnêtement, depuis le jour de notre rencontre, tu m'as fait me sentir... désirée."
 
-# game/v2/scene48a.rpy:147
-translate francais v2s48a_norasg_ca76ad36:
+# game/v15/scene48a.rpy:147
+translate francais v15s48a_norasg_ca76ad36:
 
     # u "You are..."
-    u ""
+    u "Tu es..."
 
-# game/v2/scene48a.rpy:153
-translate francais v2s48a_norasg_97f02ae2:
+# game/v15/scene48a.rpy:153
+translate francais v15s48a_norasg_97f02ae2:
 
     # u "completely..."
-    u ""
+    u "totalement..."
 
-# game/v2/scene48a.rpy:159
-translate francais v2s48a_norasg_8cd9c46b:
+# game/v15/scene48a.rpy:159
+translate francais v15s48a_norasg_8cd9c46b:
 
     # u "and utterly..."
-    u ""
+    u "et complètement..."
 
-# game/v2/scene48a.rpy:175
-translate francais v2s48a_norasg_2ba68022:
+# game/v15/scene48a.rpy:175
+translate francais v15s48a_norasg_2ba68022:
 
     # u "wanted."
-    u ""
+    u "désirée."
 
-# game/v2/scene48a.rpy:180
-translate francais v2s48a_norasg_cd60ce44:
+# game/v15/scene48a.rpy:180
+translate francais v15s48a_norasg_cd60ce44:
 
     # no "You are too..."
-    no ""
+    no "Tu l'es aussi..."
 
-# game/v2/scene48a.rpy:199
-translate francais v2s48a_norasg_f09ae81a:
+# game/v15/scene48a.rpy:199
+translate francais v15s48a_norasg_f09ae81a:
 
     # no "It's about damn time. *Chuckles*"
-    no ""
+    no "Il est grand temps. *Rire*"
 
-# game/v2/scene48a.rpy:204
-translate francais v2s48a_norasg_528df037:
+# game/v15/scene48a.rpy:204
+translate francais v15s48a_norasg_528df037:
 
     # u "I couldn't wait any longer."
-    u ""
+    u "Je pouvais plus attendre."
 
-# game/v2/scene48a.rpy:209
-translate francais v2s48a_norasg_2d30cda2:
+# game/v15/scene48a.rpy:209
+translate francais v15s48a_norasg_2d30cda2:
 
     # no "Then don't."
-    no ""
+    no "Alors n'attends plus."
 
-# game/v2/scene48a.rpy:262
-translate francais v2s48a_boobs_7c4f03e2:
+# game/v15/scene48a.rpy:264
+translate francais v15s48a_boobs_7c4f03e2:
 
     # no "Mmm, that feels so nice."
-    no ""
+    no "Mmm, c'est si agréable."
 
-# game/v2/scene48a.rpy:267
-translate francais v2s48a_boobs_21c22c99:
+# game/v15/scene48a.rpy:269
+translate francais v15s48a_boobs_21c22c99:
 
     # u "Good. I'm doing the right thing, then."
-    u ""
+    u "Bien. Ce qui veut dire que je fais ce qu'il faut."
 
-# game/v2/scene48a.rpy:272
-translate francais v2s48a_boobs_aea81471:
+# game/v15/scene48a.rpy:274
+translate francais v15s48a_boobs_aea81471:
 
     # no "You're so... attentive."
-    no ""
+    no "Tu es si... attentionné."
 
-# game/v2/scene48a.rpy:277
-translate francais v2s48a_boobs_6a0087da:
+# game/v15/scene48a.rpy:279
+translate francais v15s48a_boobs_6a0087da:
 
     # u "I just want to touch you; I want to feel every part of you."
-    u ""
+    u "Je veux simplement te toucher, je veux sentir chaque partie de toi."
 
-# game/v2/scene48a.rpy:279
-translate francais v2s48a_boobs_9bf99ca6:
+# game/v15/scene48a.rpy:281
+translate francais v15s48a_boobs_9bf99ca6:
 
     # u "I want to make you feel good."
-    u ""
+    u "Je veux que tu te sentes bien."
 
-# game/v2/scene48a.rpy:284
-translate francais v2s48a_boobs_fdcaec14:
+# game/v15/scene48a.rpy:286
+translate francais v15s48a_boobs_fdcaec14:
 
     # no "You're doing a really good job so far... *Giggles*"
-    no ""
+    no "Tu fais du très bon boulot jusqu'à présent... *Ricane*"
 
-# game/v2/scene48a.rpy:290
-translate francais v2s48a_boobs_e7923332:
+# game/v15/scene48a.rpy:292
+translate francais v15s48a_boobs_e7923332:
 
     # no "*Gasps* Oh!"
-    no ""
+    no "*Soupire* Oh !"
 
-# game/v2/scene48a.rpy:295
-translate francais v2s48a_boobs_a9e08cb6:
+# game/v15/scene48a.rpy:297
+translate francais v15s48a_boobs_a9e08cb6:
 
     # u "Do you like that?"
-    u ""
+    u "Tu aimes ça ?"
 
-# game/v2/scene48a.rpy:300
-translate francais v2s48a_boobs_00a9f99d:
+# game/v15/scene48a.rpy:302
+translate francais v15s48a_boobs_00a9f99d:
 
     # no "Of course I do..."
-    no ""
+    no "Bien sûr..."
 
-# game/v2/scene48a.rpy:302
-translate francais v2s48a_boobs_8444ede9:
+# game/v15/scene48a.rpy:304
+translate francais v15s48a_boobs_8444ede9:
 
     # no "You make me feel special, you know?"
-    no ""
+    no "Tu me fais me sentir spéciale, tu sais ?"
 
-# game/v2/scene48a.rpy:304
-translate francais v2s48a_boobs_37b5bca7:
+# game/v15/scene48a.rpy:306
+translate francais v15s48a_boobs_37b5bca7:
 
     # no "*Moans* You're so good to me."
-    no ""
+    no "*Gémis* Tu es si bon pour moi."
 
-# game/v2/scene48a.rpy:309
-translate francais v2s48a_boobs_9d0753d0:
+# game/v15/scene48a.rpy:311
+translate francais v15s48a_boobs_9d0753d0:
 
     # u "Oh, come on... This is a pleasure."
-    u ""
+    u "Oh, arrête... C'est un plaisir."
 
-# game/v2/scene48a.rpy:311
-translate francais v2s48a_boobs_336a57b3:
+# game/v15/scene48a.rpy:313
+translate francais v15s48a_boobs_336a57b3:
 
     # u "I could play with you all night."
-    u ""
+    u "Je pourrais m'amuser avec toi toute la nuit."
 
-# game/v2/scene48a.rpy:316
-translate francais v2s48a_boobs_6b29e975:
+# game/v15/scene48a.rpy:318
+translate francais v15s48a_boobs_6b29e975:
 
     # no "Mmm, not before I get to your dick."
-    no ""
+    no "Mmm, pas avant que je ne m'occupe de ta queue."
 
-# game/v2/scene48a.rpy:321
-translate francais v2s48a_boobs_6bcd435f:
+# game/v15/scene48a.rpy:323
+translate francais v15s48a_boobs_6bcd435f:
 
     # u "Yeah?"
-    u ""
+    u "Ah bon ?"
 
-# game/v2/scene48a.rpy:326
-translate francais v2s48a_boobs_8baf4e27:
+# game/v15/scene48a.rpy:328
+translate francais v15s48a_boobs_8baf4e27:
 
     # no "Then we'll see how horny you are."
-    no ""
+    no "Ensuite, on verra à quel point tu es excité."
 
-# game/v2/scene48a.rpy:331
-translate francais v2s48a_boobs_aab86e8a:
+# game/v15/scene48a.rpy:333
+translate francais v15s48a_boobs_aab86e8a:
 
     # u "Hmm, I guess we will."
-    u ""
+    u "Hmm, je pense que oui."
 
-# game/v2/scene48a.rpy:345
-translate francais v2s48a_feet_d0b7aba0:
+# game/v15/scene48a.rpy:349
+translate francais v15s48a_feet_d0b7aba0:
 
     # no "Oh, [name]. Nobody's ever massaged my feet before."
-    no ""
+    no "Oh, [name]. Personne n'a jamais massé mes pieds auparavant."
 
-# game/v2/scene48a.rpy:350
-translate francais v2s48a_feet_593fb19e:
+# game/v15/scene48a.rpy:354
+translate francais v15s48a_feet_593fb19e:
 
     # u "Do you like it?"
-    u ""
+    u "Tu aimes ?"
 
-# game/v2/scene48a.rpy:355
-translate francais v2s48a_feet_7c47c90c:
+# game/v15/scene48a.rpy:359
+translate francais v15s48a_feet_7c47c90c:
 
     # no "I love it."
-    no ""
+    no "J'adore ça."
 
-# game/v2/scene48a.rpy:357
-translate francais v2s48a_feet_569f851e:
+# game/v15/scene48a.rpy:361
+translate francais v15s48a_feet_569f851e:
 
     # no "As long as your hands are touching me, I'm loving it. *Giggles*"
-    no ""
+    no "Du moment que tes mains me touchent, j'adore ça. *Ricane*"
 
-# game/v2/scene48a.rpy:362
-translate francais v2s48a_feet_26267627:
+# game/v15/scene48a.rpy:366
+translate francais v15s48a_feet_26267627:
 
     # u "Good, because I love exploring your body."
-    u ""
+    u "Bien, parce que j'adore explorer ton corps."
 
-# game/v2/scene48a.rpy:364
-translate francais v2s48a_feet_b4ca500d:
+# game/v15/scene48a.rpy:368
+translate francais v15s48a_feet_b4ca500d:
 
     # u "I can't wait to worship every inch of it."
-    u ""
+    u "J'ai hâte d'en admirer chaque centimètre."
 
-# game/v2/scene48a.rpy:370
-translate francais v2s48a_feet_2232cded:
+# game/v15/scene48a.rpy:374
+translate francais v15s48a_feet_2232cded:
 
     # no "Oh! Fuck, [name]!"
-    no ""
+    no "Oh ! Putain, [name] !"
 
-# game/v2/scene48a.rpy:372
-translate francais v2s48a_feet_ef4feafb:
+# game/v15/scene48a.rpy:376
+translate francais v15s48a_feet_ef4feafb:
 
     # no "I didn't know you had a foot kink."
-    no ""
+    no "Je ne savais pas que tu avais un penchant pour les pieds."
 
-# game/v2/scene48a.rpy:377
-translate francais v2s48a_feet_0266155e:
+# game/v15/scene48a.rpy:381
+translate francais v15s48a_feet_0266155e:
 
     # u "I'm full of surprises."
-    u ""
+    u "Je suis plein de surprises."
 
-# game/v2/scene48a.rpy:382
-translate francais v2s48a_feet_51712b66:
+# game/v15/scene48a.rpy:386
+translate francais v15s48a_feet_51712b66:
 
     # no "Mmm, obviously."
-    no ""
+    no "Mmm, manifestement."
 
-# game/v2/scene48a.rpy:384
-translate francais v2s48a_feet_f28e062a:
+# game/v15/scene48a.rpy:388
+translate francais v15s48a_feet_f28e062a:
 
     # no "I've never had..."
-    no ""
+    no "Je n'ai jamais..."
 
-# game/v2/scene48a.rpy:386
-translate francais v2s48a_feet_74d10e16:
+# game/v15/scene48a.rpy:390
+translate francais v15s48a_feet_74d10e16:
 
     # no "Oh!"
-    no ""
+    no "Oh !"
 
-# game/v2/scene48a.rpy:388
-translate francais v2s48a_feet_f6bef4ad:
+# game/v15/scene48a.rpy:392
+translate francais v15s48a_feet_f6bef4ad:
 
     # no "My toes sucked before."
-    no ""
+    no "Eu les orteils sucés, avant."
 
-# game/v2/scene48a.rpy:395
-translate francais v2s48a_feet_1861b964:
+# game/v15/scene48a.rpy:399
+translate francais v15s48a_feet_1861b964:
 
     # no "I think it's my new favorite thing."
-    no ""
+    no "Je crois que c'est mon nouveau truc préféré."
 
-# game/v2/scene48a.rpy:397
-translate francais v2s48a_feet_fc13f66c:
+# game/v15/scene48a.rpy:401
+translate francais v15s48a_feet_fc13f66c:
 
     # no "But I have a lot of favorites when it comes to sex..."
-    no ""
+    no "Mais j'ai beaucoup de préférences quand il s'agit de sexe..."
 
-# game/v2/scene48a.rpy:402
-translate francais v2s48a_feet_ee42bf0f:
+# game/v15/scene48a.rpy:406
+translate francais v15s48a_feet_ee42bf0f:
 
     # u "And I can't wait to find out what they are."
-    u ""
+    u "Et j'ai hâte de découvrir lesquelles."
 
-# game/v2/scene48a.rpy:418
-translate francais v2s48a_vagina_acdba68d:
+# game/v15/scene48a.rpy:424
+translate francais v15s48a_vagina_acdba68d:
 
     # no "*Gasps*"
-    no ""
+    no "*Soupire*"
 
-# game/v2/scene48a.rpy:420
-translate francais v2s48a_vagina_0902931a:
+# game/v15/scene48a.rpy:426
+translate francais v15s48a_vagina_0902931a:
 
     # no "You're such a fucking tease!"
-    no ""
+    no "Tu es un vrai allumeur !"
 
-# game/v2/scene48a.rpy:425
-translate francais v2s48a_vagina_64e31989:
+# game/v15/scene48a.rpy:431
+translate francais v15s48a_vagina_64e31989:
 
     # u "I want to make you feel good, but I'm still going to have some fun."
-    u ""
+    u "Je veux faire en sorte que tu te sentes bien, mais je vais quand même m'amuser un peu."
 
-# game/v2/scene48a.rpy:432
-translate francais v2s48a_vagina_7d16425f:
+# game/v15/scene48a.rpy:438
+translate francais v15s48a_vagina_7d16425f:
 
     # no "God, you're such a fucking turn on."
-    no ""
+    no "Merde, tu m'excites tellement."
 
-# game/v2/scene48a.rpy:437
-translate francais v2s48a_vagina_af7d93f3:
+# game/v15/scene48a.rpy:443
+translate francais v15s48a_vagina_af7d93f3:
 
     # u "Haha, am I?"
-    u ""
+    u "Haha, c'est vrai ?"
 
-# game/v2/scene48a.rpy:442
-translate francais v2s48a_vagina_9f79b6c5:
+# game/v15/scene48a.rpy:448
+translate francais v15s48a_vagina_9f79b6c5:
 
     # no "Just fuck me already."
-    no ""
+    no "Contente-toi de me baiser."
 
-# game/v2/scene48a.rpy:448
-translate francais v2s48a_vagina_ce8e81a6:
+# game/v15/scene48a.rpy:454
+translate francais v15s48a_vagina_ce8e81a6:
 
     # no "Oh, [name]..."
-    no ""
+    no "Oh, [name]..."
 
-# game/v2/scene48a.rpy:450
-translate francais v2s48a_vagina_c80bf8c3:
+# game/v15/scene48a.rpy:456
+translate francais v15s48a_vagina_c80bf8c3:
 
     # no "*Moans*"
-    no ""
+    no "*Gémis*"
 
-# game/v2/scene48a.rpy:455
-translate francais v2s48a_vagina_0433e828:
+# game/v15/scene48a.rpy:461
+translate francais v15s48a_vagina_0433e828:
 
     # u "You like that?"
-    u ""
+    u "Tu aimes ça ?"
 
-# game/v2/scene48a.rpy:460
-translate francais v2s48a_vagina_247d73f7:
+# game/v15/scene48a.rpy:466
+translate francais v15s48a_vagina_247d73f7:
 
     # no "Mmm, yeah... I do. But it's not what I want..."
-    no ""
+    no "Mmm, oui... j'aime ça. Mais ce n'est pas ce que je veux..."
 
-# game/v2/scene48a.rpy:462
-translate francais v2s48a_vagina_4f638af3:
+# game/v15/scene48a.rpy:468
+translate francais v15s48a_vagina_4f638af3:
 
     # no "And you know it."
-    no ""
+    no "Et tu le sais."
 
-# game/v2/scene48a.rpy:467
-translate francais v2s48a_vagina_adb373e3:
+# game/v15/scene48a.rpy:473
+translate francais v15s48a_vagina_adb373e3:
 
     # u "Yeah? What do you want, Nora?"
-    u ""
+    u "Ah ouais ? Qu'est-ce que tu veux, Nora ?"
 
-# game/v2/scene48a.rpy:472
-translate francais v2s48a_vagina_10ccd9aa:
+# game/v15/scene48a.rpy:478
+translate francais v15s48a_vagina_10ccd9aa:
 
     # no "Quit teasing!"
-    no ""
+    no "Arrête de me taquiner !"
 
-# game/v2/scene48a.rpy:492
-translate francais v2s48a_vagina_9e8832b0:
+# game/v15/scene48a.rpy:498
+translate francais v15s48a_vagina_9e8832b0:
 
     # u "Tell me what you want."
-    u ""
+    u "Dis-moi ce que tu veux."
 
-# game/v2/scene48a.rpy:497
-translate francais v2s48a_vagina_5bf31684:
+# game/v15/scene48a.rpy:503
+translate francais v15s48a_vagina_5bf31684:
 
     # no "I want to feel you..."
-    no ""
+    no "Je veux te sentir..."
 
-# game/v2/scene48a.rpy:499
-translate francais v2s48a_vagina_4d2b5e72:
+# game/v15/scene48a.rpy:505
+translate francais v15s48a_vagina_4d2b5e72:
 
     # no "*Moans* Fuck me, [name]..."
-    no ""
+    no "*Gémis* Baise-moi, [name]..."
 
-# game/v2/scene48a.rpy:501
-translate francais v2s48a_vagina_16cc1aa1:
+# game/v15/scene48a.rpy:507
+translate francais v15s48a_vagina_16cc1aa1:
 
     # no "Oh, [name]. Please..."
-    no ""
+    no "Oh, [name]. S'il te plaît..."
 
-# game/v2/scene48a.rpy:515
-translate francais v2s48a_end_c1394f16:
+# game/v15/scene48a.rpy:522
+translate francais v15s48a_end_c1394f16:
 
     # u "You want this dick now?"
-    u ""
+    u "Tu veux cette queue maintenant ?"
 
-# game/v2/scene48a.rpy:520
-translate francais v2s48a_end_d1d09899:
+# game/v15/scene48a.rpy:527
+translate francais v15s48a_end_d1d09899:
 
     # no "More than anything."
-    no ""
+    no "Plus que toute autre chose."
 
-# game/v2/scene48a.rpy:525
-translate francais v2s48a_end_d605ec8d:
+# game/v15/scene48a.rpy:532
+translate francais v15s48a_end_d605ec8d:
 
     # u "Then come get it."
-    u ""
+    u "Alors viens la chercher."
 
-# game/v2/scene48a.rpy:530
-translate francais v2s48a_end_bba4eb60:
+# game/v15/scene48a.rpy:537
+translate francais v15s48a_end_bba4eb60:
 
     # no "Gladly. *Giggles*"
-    no ""
+    no "Volontiers. *Ricane*"
 
-# game/v2/scene48a.rpy:550
-translate francais v2s48a_end_8ce5527e:
+# game/v15/scene48a.rpy:557
+translate francais v15s48a_end_8ce5527e:
 
     # u "Ah, fuck... yeah."
-    u ""
+    u "Ah, putain... ouais."
 
-# game/v2/scene48a.rpy:552
-translate francais v2s48a_end_49519396:
+# game/v15/scene48a.rpy:559
+translate francais v15s48a_end_49519396:
 
     # u "Wow, you REALLY want it!"
-    u ""
+    u "Wow, tu la veux VRAIMENT !"
 
-# game/v2/scene48a.rpy:559
-translate francais v2s48a_end_70e702de:
+# game/v15/scene48a.rpy:566
+translate francais v15s48a_end_70e702de:
 
     # no "Mhmm!"
-    no ""
+    no "Mhmm !"
 
-# game/v2/scene48a.rpy:561
-translate francais v2s48a_end_523ebf01:
+# game/v15/scene48a.rpy:568
+translate francais v15s48a_end_523ebf01:
 
     # no "*Gagging*"
-    no ""
+    no "*Halète*"
 
-# game/v2/scene48a.rpy:571
-translate francais v2s48a_end_310c75ef:
+# game/v15/scene48a.rpy:578
+translate francais v15s48a_end_310c75ef:
 
     # u "*Moans* Ssssshit Nora, you really know what you're doing."
-    u ""
+    u "*Gémis* Meeeerde Nora, tu sais vraiment ce que tu fais."
 
-# game/v2/scene48a.rpy:578
-translate francais v2s48a_end_ffc61652:
+# game/v15/scene48a.rpy:585
+translate francais v15s48a_end_ffc61652:
 
     # u "I'm not going to last much longer if you keep that up..."
-    u ""
+    u "Je vais pas tenir longtemps si tu continues comme ça..."
 
-# game/v2/scene48a.rpy:608
-translate francais v2s48a_end_a72cae83:
+# game/v15/scene48a.rpy:615
+translate francais v15s48a_end_a72cae83:
 
     # no "Oh... Fuck!"
-    no ""
+    no "Oh... Putain !"
 
-# game/v2/scene48a.rpy:610
-translate francais v2s48a_end_967b15bb:
+# game/v15/scene48a.rpy:617
+translate francais v15s48a_end_967b15bb:
 
     # no "*Panting* I've never felt this good before, [name]."
-    no ""
+    no "*Halète* Je ne me suis jamais sentie aussi bien avant, [name]."
 
-# game/v2/scene48a.rpy:619
-translate francais v2s48a_end_231be03a:
+# game/v15/scene48a.rpy:626
+translate francais v15s48a_end_231be03a:
 
     # u "You do deserve the best, you know."
-    u ""
+    u "Tu sais que tu mérites ce qu'il y a de mieux."
 
-# game/v2/scene48a.rpy:624
-translate francais v2s48a_end_f4138178:
+# game/v15/scene48a.rpy:631
+translate francais v15s48a_end_f4138178:
 
     # no "Ha, I guess..."
-    no ""
+    no "Sans doute..."
 
-# game/v2/scene48a.rpy:630
-translate francais v2s48a_end_da050f94:
+# game/v15/scene48a.rpy:637
+translate francais v15s48a_end_da050f94:
 
     # u "Good, get used to it."
-    u ""
+    u "Bon, habitue-toi à ça."
 
-# game/v2/scene48a.rpy:635
-translate francais v2s48a_end_17c66d05:
+# game/v15/scene48a.rpy:642
+translate francais v15s48a_end_17c66d05:
 
     # no "Ha! Should I?"
-    no ""
+    no "Ha ! Je devrais ?"
 
-# game/v2/scene48a.rpy:637
-translate francais v2s48a_end_58c78658:
+# game/v15/scene48a.rpy:644
+translate francais v15s48a_end_58c78658:
 
     # no "Mmm..."
-    no ""
+    no "Mmm..."
 
-# game/v2/scene48a.rpy:642
-translate francais v2s48a_end_6881822b:
+# game/v15/scene48a.rpy:649
+translate francais v15s48a_end_6881822b:
 
     # u "You're so fucking wet, Nora."
-    u ""
+    u "T'es si mouillée, Nora."
 
-# game/v2/scene48a.rpy:653
-translate francais v2s48a_end_a1d2ddce:
+# game/v15/scene48a.rpy:660
+translate francais v15s48a_end_a1d2ddce:
 
     # no "*Moans* Yeah?"
-    no ""
+    no "*Gémis* Ah oui ?"
 
-# game/v2/scene48a.rpy:655
-translate francais v2s48a_end_989bec68:
+# game/v15/scene48a.rpy:662
+translate francais v15s48a_end_989bec68:
 
     # u "You taste incredible..."
-    u ""
+    u "T'as un goût incroyable..."
 
-# game/v2/scene48a.rpy:657
-translate francais v2s48a_end_0e60966d:
+# game/v15/scene48a.rpy:664
+translate francais v15s48a_end_0e60966d:
 
     # no "Mhmm... Right..."
-    no ""
+    no "Mhmm... C'est vrai..."
 
-# game/v2/scene48a.rpy:659
-translate francais v2s48a_end_8dc547c7:
+# game/v15/scene48a.rpy:666
+translate francais v15s48a_end_8dc547c7:
 
     # no "You..."
-    no ""
+    no "Tu..."
 
-# game/v2/scene48a.rpy:661
-translate francais v2s48a_end_e2765539:
+# game/v15/scene48a.rpy:668
+translate francais v15s48a_end_e2765539:
 
     # no "Y-you have to fuck me."
-    no ""
+    no "T-tu dois me baiser."
 
-# game/v2/scene48a.rpy:668
-translate francais v2s48a_end_3b8fa941:
+# game/v15/scene48a.rpy:675
+translate francais v15s48a_end_3b8fa941:
 
     # u "Do I?"
-    u ""
+    u "Je dois ?"
 
-# game/v2/scene48a.rpy:688
-translate francais v2s48a_end_d67a7cc3:
+# game/v15/scene48a.rpy:695
+translate francais v15s48a_end_d67a7cc3:
 
     # no "*Giggles* Got me where you want me?"
-    no ""
+    no "*Ricane* Tu veux me mettre là où tu veux ?"
 
-# game/v2/scene48a.rpy:690
-translate francais v2s48a_end_93d4f3a5:
+# game/v15/scene48a.rpy:697
+translate francais v15s48a_end_93d4f3a5:
 
     # u "For now."
-    u ""
+    u "Pour l'instant."
 
-# game/v2/scene48a.rpy:705
-translate francais v2s48a_end_acdba68d:
+# game/v15/scene48a.rpy:712
+translate francais v15s48a_end_acdba68d:
 
     # no "*Gasps*"
-    no ""
+    no "*Soupire*"
 
-# game/v2/scene48a.rpy:707
-translate francais v2s48a_end_e69e3320:
+# game/v15/scene48a.rpy:714
+translate francais v15s48a_end_e69e3320:
 
     # u "*Groans*"
-    u ""
+    u "*Grogne*"
 
-# game/v2/scene48a.rpy:714
-translate francais v2s48a_end_101b203d:
+# game/v15/scene48a.rpy:721
+translate francais v15s48a_end_101b203d:
 
     # no "Oh, shit!"
-    no ""
+    no "Oh, merde !"
 
-# game/v2/scene48a.rpy:724
-translate francais v2s48a_end_38aca1dd:
+# game/v15/scene48a.rpy:731
+translate francais v15s48a_end_38aca1dd:
 
     # u "You feel amazing, Nora..."
-    u ""
+    u "T'as l'air de te sentir incroyablement bien, Nora..."
 
-# game/v2/scene48a.rpy:731
-translate francais v2s48a_end_a18aafef:
+# game/v15/scene48a.rpy:738
+translate francais v15s48a_end_a18aafef:
 
     # no "You... *Moans* Too..."
-    no ""
+    no "Tu... *Gémis* Trop..."
 
-# game/v2/scene48a.rpy:758
-translate francais v2s48a_end_e4ce346c:
+# game/v15/scene48a.rpy:765
+translate francais v15s48a_end_e4ce346c:
 
     # no "Oooh... You're so strong, hehe."
-    no ""
+    no "Oooh... Tu es si dur, héhé."
 
-# game/v2/scene48a.rpy:763
-translate francais v2s48a_end_6f2b4a4c:
+# game/v15/scene48a.rpy:770
+translate francais v15s48a_end_6f2b4a4c:
 
     # no "Oh- fuck!"
-    no ""
+    no "Oh- putain !"
 
-# game/v2/scene48a.rpy:768
-translate francais v2s48a_end_3dbdc9cc:
+# game/v15/scene48a.rpy:775
+translate francais v15s48a_end_3dbdc9cc:
 
     # u "Too rough?"
-    u ""
+    u "Trop brutal ?"
 
-# game/v2/scene48a.rpy:773
-translate francais v2s48a_end_0ef69ae7:
+# game/v15/scene48a.rpy:780
+translate francais v15s48a_end_0ef69ae7:
 
     # no "Ha! Too rough? Is that a thing?"
-    no ""
+    no "Ha ! Trop brutal ? Est-ce que ça existe ?"
 
-# game/v2/scene48a.rpy:793
-translate francais v2s48a_end_92f6ae76:
+# game/v15/scene48a.rpy:800
+translate francais v15s48a_end_92f6ae76:
 
     # no "Oh my- *Moans*"
-    no ""
+    no "Oh put- *Gémis*"
 
-# game/v2/scene48a.rpy:795
-translate francais v2s48a_end_916071d3:
+# game/v15/scene48a.rpy:802
+translate francais v15s48a_end_916071d3:
 
     # no "Harder, [name]. Please!"
-    no ""
+    no "Plus fort, [name]. S'il te plaît !"
 
-# game/v2/scene48a.rpy:802
-translate francais v2s48a_end_0433e828:
+# game/v15/scene48a.rpy:809
+translate francais v15s48a_end_0433e828:
 
     # u "You like that?"
-    u ""
+    u "Tu aimes ça ?"
 
-# game/v2/scene48a.rpy:804
-translate francais v2s48a_end_73204e95:
+# game/v15/scene48a.rpy:811
+translate francais v15s48a_end_73204e95:
 
     # no "I... love that... Yes!"
-    no ""
+    no "Je... J'aime ça... Oui !"
 
-# game/v2/scene48a.rpy:814
-translate francais v2s48a_end_e424fd9a:
+# game/v15/scene48a.rpy:821
+translate francais v15s48a_end_e424fd9a:
 
     # no "*Whispers* You're so sexy, [name]..."
-    no ""
+    no "*Chuchote* Tu es si sexy, [name]..."
 
-# game/v2/scene48a.rpy:816
-translate francais v2s48a_end_9314b150:
+# game/v15/scene48a.rpy:823
+translate francais v15s48a_end_9314b150:
 
     # u "I'm so close, I-"
-    u ""
+    u "Je suis si près, je-"
 
-# game/v2/scene48a.rpy:818
-translate francais v2s48a_end_6c7dac3c:
+# game/v15/scene48a.rpy:825
+translate francais v15s48a_end_6c7dac3c:
 
     # no "*Panting* Me too... Don't... Stop..."
-    no ""
+    no "*Halète* Moi aussi... Ne... N'arrête..."
 
-# game/v2/scene48a.rpy:825
-translate francais v2s48a_end_29224eff:
+# game/v15/scene48a.rpy:832
+translate francais v15s48a_end_29224eff:
 
     # u "I'm... *Moans* Nora-"
-    u ""
+    u "Je... *Gémis* Nora-"
 
-# game/v2/scene48a.rpy:827
-translate francais v2s48a_end_79bc3e29:
+# game/v15/scene48a.rpy:834
+translate francais v15s48a_end_79bc3e29:
 
     # no "Yes, baby..."
-    no ""
+    no "Oui, bébé..."
 
-# game/v2/scene48a.rpy:834
-translate francais v2s48a_end_23e61005:
+# game/v15/scene48a.rpy:841
+translate francais v15s48a_end_23e61005:
 
     # no "Cum in me."
-    no ""
+    no "Jouis en moi."
 
-# game/v2/scene48a.rpy:839
-translate francais v2s48a_end_326e8d2c:
+# game/v15/scene48a.rpy:846
+translate francais v15s48a_end_326e8d2c:
 
     # u "Wha- Nora, I-"
-    u ""
+    u "Qu- Nora, je-"
 
-# game/v2/scene48a.rpy:844
-translate francais v2s48a_end_c3538837:
+# game/v15/scene48a.rpy:851
+translate francais v15s48a_end_c3538837:
 
     # no "*Whispers* Please..."
-    no ""
+    no "*Chuchote* S'il te plaît..."
 
-# game/v2/scene48a.rpy:849
-translate francais v2s48a_end_89181d75:
+# game/v15/scene48a.rpy:856
+translate francais v15s48a_end_89181d75:
 
     # u "Ahhh... (Fuck!)"
-    u ""
+    u "Ahhh... (Putain !)"
 
-# game/v2/scene48a.rpy:861
-translate francais v2s48a_cum_c6c2f9b4:
+# game/v15/scene48a.rpy:868
+translate francais v15s48a_cum_c6c2f9b4:
 
     # u "*Groans* Mmm..."
-    u ""
+    u "*Grogne* Mmm..."
 
-# game/v2/scene48a.rpy:866
-translate francais v2s48a_cum_be9940e3:
+# game/v15/scene48a.rpy:873
+translate francais v15s48a_cum_be9940e3:
 
     # no "I'm- I... *Moans* Yes, [name]..."
-    no ""
+    no "Je suis... Je... *Gémis* Oui, [name]..."
 
-# game/v2/scene48a.rpy:869
-translate francais v2s48a_cum_94cf6239:
+# game/v15/scene48a.rpy:876
+translate francais v15s48a_cum_94cf6239:
 
     # u "(No. Fucking. Thank you.)"
-    u ""
+    u "(Non. Putain. Merci.)"
 
-# game/v2/scene48a.rpy:884
-translate francais v2s48a_cum_72c8b22f:
+# game/v15/scene48a.rpy:891
+translate francais v15s48a_cum_72c8b22f:
 
     # u "*Groans* Fuck..."
-    u ""
+    u "*Grogne* Putain..."
 
-# game/v2/scene48a.rpy:889
-translate francais v2s48a_cum_2664535f:
+# game/v15/scene48a.rpy:896
+translate francais v15s48a_cum_2664535f:
 
     # no "But-"
-    no ""
+    no "Mais-"
 
-# game/v2/scene48a.rpy:894
-translate francais v2s48a_cum_2056e805:
+# game/v15/scene48a.rpy:901
+translate francais v15s48a_cum_2056e805:
 
     # u "I'm sorry."
-    u ""
+    u "Je suis désolé."
 
-# game/v2/scene48a.rpy:919
-translate francais v2s48a_cum_55a4a5ed:
+# game/v15/scene48a.rpy:926
+translate francais v15s48a_cum_55a4a5ed:
 
     # no "Oh- *Moans* [name]... *Gasps*"
-    no ""
+    no "Oh- *Gémis* [name]... *Soupirs*"
 
-# game/v2/scene48a.rpy:924
-translate francais v2s48a_cum_aa799f11:
+# game/v15/scene48a.rpy:931
+translate francais v15s48a_cum_aa799f11:
 
     # u "*Panting*"
-    u ""
+    u "*Halète*"
 
-# game/v2/scene48a.rpy:929
-translate francais v2s48a_cum_ae34f0b2:
+# game/v15/scene48a.rpy:936
+translate francais v15s48a_cum_ae34f0b2:
 
     # no "*Panting*"
-    no ""
+    no "*Halète*"
 
-# game/v2/scene48a.rpy:934
-translate francais v2s48a_cum_9a0deace:
+# game/v15/scene48a.rpy:941
+translate francais v15s48a_cum_9a0deace:
 
     # u "That was-"
-    u ""
+    u "C'était..."
 
-# game/v2/scene48a.rpy:939
-translate francais v2s48a_cum_ab312544:
+# game/v15/scene48a.rpy:946
+translate francais v15s48a_cum_ab312544:
 
     # no "No, you are."
-    no ""
+    no "Non, c'est toi qui l'était."
 
 translate francais strings:
 
-    # game/v2/scene48a.rpy:144
+    # game/v15/scene48a.rpy:144
     old "You are wanted"
-    new ""
+    new "Tu es désirée"
 
-    # game/v2/scene48a.rpy:144
+    # game/v15/scene48a.rpy:144
     old "Just kiss her"
-    new ""
+    new "L'embrasser simplement"
 
-    # game/v2/scene48a.rpy:411
+    # game/v15/scene48a.rpy:417
     old "Tease with kissing"
-    new ""
+    new "L'aguicher en l'embrassant"
 
-    # game/v2/scene48a.rpy:411
+    # game/v15/scene48a.rpy:417
     old "Finger"
-    new ""
+    new "Doigt"
 
-    # game/v2/scene48a.rpy:617
+    # game/v15/scene48a.rpy:624
     old "You deserve it"
-    new ""
+    new "Tu le mérites"
 
-    # game/v2/scene48a.rpy:617
+    # game/v15/scene48a.rpy:624
     old "Get used to it"
-    new ""
+    new "Habitue-toi à ça"
 
-    # game/v2/scene48a.rpy:852
+    # game/v15/scene48a.rpy:859
     old "Cum inside Nora"
-    new ""
-
+    new "Jouis à l'intérieur de Nora"

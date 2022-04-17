@@ -4,245 +4,244 @@ translate francais strings:
 
     # game/screens.rpy:257
     old "Start"
-    new ""
+    new "Démarrer"
 
     # game/screens.rpy:261
     old "History"
-    new ""
+    new "Histoire"
 
     # game/screens.rpy:263
     old "Save"
-    new ""
+    new "Sauvegarde"
 
     # game/screens.rpy:265
     old "Load"
-    new ""
+    new "Chargement"
 
     # game/screens.rpy:267
     old "Preferences"
-    new ""
+    new "Préférences"
 
     # game/screens.rpy:271
     old "End Replay"
-    new ""
+    new "Fin de la lecture"
 
     # game/screens.rpy:275
     old "Main Menu"
-    new ""
+    new "Menu principal"
 
     # game/screens.rpy:277
     old "About"
-    new ""
+    new "À propos"
 
     # game/screens.rpy:282
     old "Help"
-    new ""
+    new "Aide"
 
     # game/screens.rpy:288
     old "Quit"
-    new ""
+    new "Quitter"
 
     # game/screens.rpy:477
     old "Return"
-    new ""
+    new "Retour"
 
     # game/screens.rpy:561
     old "Version [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/screens.rpy:567
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Réalisé avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:643
     old "PAGE {}"
-    new ""
+    new "PAGE {}"
 
     # game/screens.rpy:643
     old "AUTOMATIC SAVES"
-    new ""
+    new "SAUVEGARDES AUTOMATIQUES"
 
     # game/screens.rpy:643
     old "QUICK SAVES"
-    new ""
+    new "SAUVEGARDES RAPIDES"
 
     # game/screens.rpy:703
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:703
     old "empty slot"
-    new ""
+    new "emplacement vide"
 
     # game/screens.rpy:724
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:727
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}Q"
 
     # game/screens.rpy:1093
     old "The dialogue history is empty."
-    new ""
+    new "L'historique du dialogue est vide."
 
     # game/screens.rpy:1163
     old "Keyboard"
-    new ""
+    new "Clavier"
 
     # game/screens.rpy:1164
     old "Mouse"
-    new ""
+    new "Souris"
 
     # game/screens.rpy:1167
     old "Gamepad"
-    new ""
+    new "Manette"
 
     # game/screens.rpy:1180
     old "Enter"
-    new ""
+    new "Entrée"
 
     # game/screens.rpy:1181
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Avancer le dialogue et activer l'interface."
 
     # game/screens.rpy:1184
     old "Space"
-    new ""
+    new "Espace"
 
     # game/screens.rpy:1185
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Avancer le dialogue sans sélectionner de choix."
 
     # game/screens.rpy:1188
     old "Arrow Keys"
-    new ""
+    new "Touches fléchées"
 
     # game/screens.rpy:1189
     old "Navigate the interface."
-    new ""
+    new "Naviguer dans l'interface."
 
     # game/screens.rpy:1192
     old "Escape"
-    new ""
+    new "Echap"
 
     # game/screens.rpy:1193
     old "Accesses the game menu."
-    new ""
+    new "Accèder au menu du jeu."
 
     # game/screens.rpy:1196
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens.rpy:1197
     old "Skips dialogue while held down."
-    new ""
+    new "Sauter le dialogue lorsqu'il est maintenu enfoncé."
 
     # game/screens.rpy:1200
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/screens.rpy:1201
     old "Toggles dialogue skipping."
-    new ""
+    new "Activer le saut de dialogue."
 
     # game/screens.rpy:1204
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/screens.rpy:1205
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Revenir au dialogue précédent."
 
     # game/screens.rpy:1208
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # game/screens.rpy:1209
     old "Rolls forward to later dialogue."
-    new ""
+    new "Aller au dialogue suivant."
 
     # game/screens.rpy:1213
     old "Hides the user interface."
-    new ""
+    new "Masquer l'interface utilisateur."
 
     # game/screens.rpy:1217
     old "Takes a screenshot."
-    new ""
+    new "Prendre une capture d'écran."
 
     # game/screens.rpy:1221
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
+    new "Basculer l'assistance {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/screens.rpy:1225
     old "Opens the accessibility menu."
-    new ""
+    new "Ouvrir le menu accessibilité."
 
     # game/screens.rpy:1231
     old "Left Click"
-    new ""
+    new "Clic gauche"
 
     # game/screens.rpy:1235
     old "Middle Click"
-    new ""
+    new "Clic central"
 
     # game/screens.rpy:1239
     old "Right Click"
-    new ""
+    new "Clic droit"
 
     # game/screens.rpy:1243
     old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
+    new "Molette de la souris Clic vers le haut\nRetour en arrière"
 
     # game/screens.rpy:1247
     old "Mouse Wheel Down"
-    new ""
+    new "Molette de la souris vers le bas"
 
     # game/screens.rpy:1254
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Gâchette droite\nA/Bouton du bas"
 
     # game/screens.rpy:1258
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Gâchette gauche\nA/Bouton d'épaule gauche"
 
     # game/screens.rpy:1262
     old "Right Shoulder"
-    new ""
+    new "Bouton d'épaule droite"
 
     # game/screens.rpy:1267
     old "D-Pad, Sticks"
-    new ""
+    new "D-Pad, Sticks"
 
     # game/screens.rpy:1271
     old "Start, Guide"
-    new ""
+    new "Start, Guide"
 
     # game/screens.rpy:1275
     old "Y/Top Button"
-    new ""
+    new "Y/Bouton du haut"
 
     # game/screens.rpy:1278
     old "Calibrate"
-    new ""
+    new "Calibrer"
 
     # game/screens.rpy:1371
     old "Skipping"
-    new ""
+    new "Sauter"
 
     # game/screens.rpy:1580
     old "Back"
-    new ""
+    new "Retour"
 
     # game/screens.rpy:1581
     old "Skip"
-    new ""
+    new "Saute"
 
     # game/screens.rpy:1582
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/screens.rpy:1583
     old "Menu"
-    new ""
-
+    new "Menu"

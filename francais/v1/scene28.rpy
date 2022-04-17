@@ -1,482 +1,477 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v1/scene28.rpy:18
-translate francais v1s28_3e834dd2:
+# game/v14/scene28.rpy:18
+translate francais v14s28_3e834dd2:
 
     # em "So... You and I have been on and off, and on and off..."
-    em ""
+    em "Alors... Toi et moi, nous avons été en couple puis séparés, puis de nouveau en couple et à nouveau..."
 
-# game/v1/scene28.rpy:20
-translate francais v1s28_65f7e3a8:
+# game/v14/scene28.rpy:20
+translate francais v14s28_65f7e3a8:
 
     # em "Seems like you don't mind fucking me but when it comes to actually being a nice person or resurrecting our relationship, you're not for it."
-    em ""
+    em "On dirait que ça ne te dérange pas de me baiser, mais dès qu'il s'agit d'être gentil ou de faire renaître notre relation, tu n'es pas d'accord."
 
-# game/v1/scene28.rpy:25
-translate francais v1s28_0238517d:
+# game/v14/scene28.rpy:25
+translate francais v14s28_0238517d:
 
     # u "I-"
-    u ""
+    u "Je-"
 
-# game/v1/scene28.rpy:30
-translate francais v1s28_b131916e:
+# game/v14/scene28.rpy:30
+translate francais v14s28_b131916e:
 
     # em "Please, let me finish."
-    em ""
+    em "S'il te plaît, laisse-moi finir."
 
-# game/v1/scene28.rpy:32
-translate francais v1s28_1f58f62e:
+# game/v14/scene28.rpy:32
+translate francais v14s28_1f58f62e:
 
     # em "I've made mistakes, not just the cheating either."
-    em ""
+    em "Oui, j'ai fait des erreurs et pas seulement en te trompant."
 
-# game/v1/scene28.rpy:42
-translate francais v1s28_0a4c1d23:
+# game/v14/scene28.rpy:42
+translate francais v14s28_0a4c1d23:
 
     # em "I've made dozens of more mistakes since we've been in college, but regardless of that, I know how I feel and have always felt about you."
-    em ""
+    em "J'ai également fait des dizaines d'autres erreurs depuis qu'on est à l'université, mais malgré tout ça, je sais ce que je ressens et ai toujours ressenti pour toi."
 
-# game/v1/scene28.rpy:44
-translate francais v1s28_c6ce96b1:
+# game/v14/scene28.rpy:44
+translate francais v14s28_c6ce96b1:
 
     # em "I..."
-    em ""
+    em "Je..."
 
-# game/v1/scene28.rpy:54
-translate francais v1s28_18a509cf:
+# game/v14/scene28.rpy:54
+translate francais v14s28_18a509cf:
 
     # em "I love you, [name]."
-    em ""
+    em "Je t'aime, [name]."
 
-# game/v1/scene28.rpy:56
-translate francais v1s28_a62b8331:
+# game/v14/scene28.rpy:56
+translate francais v14s28_a62b8331:
 
     # em "Even if you don't feel the same way."
-    em ""
+    em "Même si tu ne ressens pas la même chose."
 
-# game/v1/scene28.rpy:66
-translate francais v1s28_5d0b5896:
+# game/v14/scene28.rpy:66
+translate francais v14s28_5d0b5896:
 
     # em "But deep down, of course... I hope that you still love me too."
-    em ""
+    em "Au fond de moi, bien sûr... J'espère que tu m'aimes toujours également."
 
-# game/v1/scene28.rpy:71
-translate francais v1s28_2cab454a:
+# game/v14/scene28.rpy:71
+translate francais v14s28_2cab454a:
 
     # u "(Oh... Fuck...)"
-    u ""
+    u "(Oh... Merde...)"
 
-# game/v1/scene28.rpy:78
-translate francais v1s28_8c7b61a6:
+# game/v14/scene28.rpy:78
+translate francais v14s28_8c7b61a6:
 
     # u "Emily..."
-    u ""
+    u "Emily..."
 
-# game/v1/scene28.rpy:80
-translate francais v1s28_564ae353:
+# game/v14/scene28.rpy:80
+translate francais v14s28_564ae353:
 
     # u "I've had a hard time admitting to myself, let alone expressing to you, how I feel about you."
-    u ""
+    u "J'ai eu du mal à me l'avouer, et encore plus à t'exprimer, ce que je ressens pour toi."
 
-# game/v1/scene28.rpy:82
-translate francais v1s28_7f59ffc7:
+# game/v14/scene28.rpy:82
+translate francais v14s28_7f59ffc7:
 
     # u "We've had our bumps in the road but someway, somehow, we always get drawn right back to each other."
-    u ""
+    u "On a eu des obstacles sur la route, mais d'une manière ou d'une autre, on est toujours attirés l'un vers l'autre."
 
-# game/v1/scene28.rpy:84
-translate francais v1s28_da21dd65:
+# game/v14/scene28.rpy:84
+translate francais v14s28_da21dd65:
 
     # u "That's what tells me that there's something between us, and it is meant to be."
-    u ""
+    u "C'est ça qui me dit qu'il y a quelque chose entre nous et qu'il doit en être ainsi."
 
-# game/v1/scene28.rpy:86
-translate francais v1s28_a565f2b5:
+# game/v14/scene28.rpy:86
+translate francais v14s28_a565f2b5:
 
     # u "I love you too, Em."
-    u ""
+    u "Moi aussi je t'aime, Em."
 
-# game/v1/scene28.rpy:96
-translate francais v1s28_f834b3f8:
+# game/v14/scene28.rpy:96
+translate francais v14s28_f834b3f8:
 
     # em "Do you really mean that?"
-    em ""
+    em "Tu es vraiment sincère ?"
 
-# game/v1/scene28.rpy:101
-translate francais v1s28_d637c397:
+# game/v14/scene28.rpy:101
+translate francais v14s28_d637c397:
 
     # u "I do."
-    u ""
+    u "Oui, je le suis."
 
-# game/v1/scene28.rpy:111
-translate francais v1s28_2174e76f:
+# game/v14/scene28.rpy:111
+translate francais v14s28_2174e76f:
 
     # em "You just made me the happiest I've ever been."
-    em ""
+    em "Tu viens de me rendre encore plus heureuse que je ne l'ai jamais été."
 
-# game/v1/scene28.rpy:113
-translate francais v1s28_d4d449fa:
+# game/v14/scene28.rpy:113
+translate francais v14s28_d4d449fa:
 
     # em "God, I love you so much..."
-    em ""
+    em "[name], je t'aime tellement..."
 
-# game/v1/scene28.rpy:123
-translate francais v1s28_cee884d8:
+# game/v14/scene28.rpy:123
+translate francais v14s28_cee884d8:
 
     # u "I'm not going to be rude or anything, but I have to be honest."
-    u ""
+    u "Je vais pas être désagréable ou quoi que ce soit, mais je dois être franc avec toi."
 
-# game/v1/scene28.rpy:125
-translate francais v1s28_fdba6637:
+# game/v14/scene28.rpy:125
+translate francais v14s28_fdba6637:
 
     # u "I don't want to be in a relationship with you."
-    u ""
+    u "Je veux plus être avec toi."
 
-# game/v1/scene28.rpy:130
-translate francais v1s28_7ea1bc6b:
+# game/v14/scene28.rpy:130
+translate francais v14s28_7ea1bc6b:
 
     # u "I feel like I've made that clear in the past few months, but in the event that I haven't, I will now."
-    u ""
+    u "Je croyais avoir été clair ces derniers mois, mais vu qu'apparemment ça n'a pas été le cas, je vais te le dire maintenant."
 
-# game/v1/scene28.rpy:132
-translate francais v1s28_ddb9587e:
+# game/v14/scene28.rpy:132
+translate francais v14s28_ddb9587e:
 
     # u "Considering you cheat on me, my friend is interested in you, and the fact that I've met other people..."
-    u ""
+    u "Étant donné que tu me trompes, que mon ami s'intéresse à toi et que j'ai rencontré d'autres personnes..."
 
-# game/v1/scene28.rpy:134
-translate francais v1s28_ca18efb5:
+# game/v14/scene28.rpy:134
+translate francais v14s28_ca18efb5:
 
     # u "I just really don't see us working out."
-    u ""
+    u "Je ne nous vois vraiment pas nous remettre ensemble."
 
-# game/v1/scene28.rpy:139
-translate francais v1s28_30e1efb9:
+# game/v14/scene28.rpy:139
+translate francais v14s28_30e1efb9:
 
     # em "*Sighs*"
-    em ""
+    em "*Soupirs*"
 
-# game/v1/scene28.rpy:141
-translate francais v1s28_9b929bc2:
+# game/v14/scene28.rpy:141
+translate francais v14s28_9b929bc2:
 
     # em "I knew that's what you were going to say. And honestly, I'm upset, but..."
-    em ""
+    em "Je savais que tu allais dire ça. Et franchement, je suis bouleversée, mais..."
 
-# game/v1/scene28.rpy:143
-translate francais v1s28_e95acc74:
+# game/v14/scene28.rpy:143
+translate francais v14s28_e95acc74:
 
     # em "This is exactly why I'm doing what I'm doing."
-    em ""
+    em "C'est exactement la raison pour laquelle je vais faire ça."
 
-# game/v1/scene28.rpy:148
-translate francais v1s28_39718f20:
+# game/v14/scene28.rpy:148
+translate francais v14s28_39718f20:
 
     # u "What's the news?"
-    u ""
+    u "Quoi ?"
 
-# game/v1/scene28.rpy:153
-translate francais v1s28_7350ea4d:
+# game/v14/scene28.rpy:153
+translate francais v14s28_7350ea4d:
 
     # em "I've put a lot of thought into what I'm about to say..."
-    em ""
+    em "J'ai beaucoup réfléchi à ce que je vais dire..."
 
-# game/v1/scene28.rpy:155
-translate francais v1s28_7762068e:
+# game/v14/scene28.rpy:155
+translate francais v14s28_7762068e:
 
     # em "I've talked it over with a lot of people, and I'm set in my decision."
-    em ""
+    em "J'en ai parlé avec beaucoup de personnes et je suis décidée à prendre cette décision."
 
-# game/v1/scene28.rpy:160
-translate francais v1s28_2b674013:
+# game/v14/scene28.rpy:160
+translate francais v14s28_2b674013:
 
     # u "Okay..."
-    u ""
+    u "Okay..."
 
-# game/v1/scene28.rpy:165
-translate francais v1s28_7344780b:
+# game/v14/scene28.rpy:165
+translate francais v14s28_7344780b:
 
     # em "I-I'm transferring schools."
-    em ""
+    em "Je... je change d'école."
 
-# game/v1/scene28.rpy:173
-translate francais v1s28_2370e27a:
+# game/v14/scene28.rpy:173
+translate francais v14s28_2370e27a:
 
     # u "What? Emily... Why?"
-    u ""
+    u "Quoi ? Emily... Pourquoi ?"
 
-# game/v1/scene28.rpy:177
-translate francais v1s28_c1a96bb0:
+# game/v14/scene28.rpy:177
+translate francais v14s28_c1a96bb0:
 
     # u "You're what? Why the fuck-"
-    u ""
+    u "Tu vas quoi ? Putain, pourquoi..."
 
-# game/v1/scene28.rpy:182
-translate francais v1s28_64ab6b36:
+# game/v14/scene28.rpy:182
+translate francais v14s28_64ab6b36:
 
     # em "I don't want to argue. Please."
-    em ""
+    em "Je ne veux pas en parler. S'il te plaît."
 
-# game/v1/scene28.rpy:187
-translate francais v1s28_57ae9944:
+# game/v14/scene28.rpy:187
+translate francais v14s28_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Soupirs*"
 
-# game/v1/scene28.rpy:192
-translate francais v1s28_43644073:
+# game/v14/scene28.rpy:192
+translate francais v14s28_43644073:
 
     # em "I need a fresh start, [name]."
-    em ""
+    em "J'ai besoin d'un nouveau départ, [name]."
 
-# game/v1/scene28.rpy:194
-translate francais v1s28_0e56cf8d:
+# game/v14/scene28.rpy:194
+translate francais v14s28_0e56cf8d:
 
     # em "I came to this school with the wrong focus and it's led me to a bad place and messed up my best relationships."
-    em ""
+    em "Je suis arrivée dans cette école avec un mauvais objectif et ça m'a conduit dans une mauvaise situation et a foutu en l'air mes meilleures relations."
 
-# game/v1/scene28.rpy:196
-translate francais v1s28_d865e00e:
+# game/v14/scene28.rpy:196
+translate francais v14s28_d865e00e:
 
     # em "I need to just start over, I think."
-    em ""
+    em "J'ai besoin de repartir à zéro, je crois."
 
-# game/v1/scene28.rpy:201
-translate francais v1s28_57ae9944_1:
+# game/v14/scene28.rpy:201
+translate francais v14s28_57ae9944_1:
 
     # u "*Sighs*"
-    u ""
+    u "*Soupirs*"
 
-# game/v1/scene28.rpy:203
-translate francais v1s28_24704303:
+# game/v14/scene28.rpy:203
+translate francais v14s28_24704303:
 
     # u "This is a really big decision."
-    u ""
+    u "C'est une décision vraiment importante."
 
-# game/v1/scene28.rpy:208
-translate francais v1s28_a2c5f3ed:
+# game/v14/scene28.rpy:208
+translate francais v14s28_a2c5f3ed:
 
     # em "You're telling me? *Chuckles*"
-    em ""
+    em "C'est toi qui me dis ça ? *Rire*"
 
-# game/v1/scene28.rpy:213
-translate francais v1s28_c5a07c36:
+# game/v14/scene28.rpy:213
+translate francais v14s28_c5a07c36:
 
     # u "You're sure about this?"
-    u ""
+    u "T'es sûre de toi ?"
 
-# game/v1/scene28.rpy:218
-translate francais v1s28_27e20465:
+# game/v14/scene28.rpy:218
+translate francais v14s28_27e20465:
 
     # em "Like I said, I'm set on my decision, I just..."
-    em ""
+    em "Comme j'ai dit, je suis sûre de mon choix, j'ai juste..."
 
-# game/v1/scene28.rpy:220
-translate francais v1s28_a210880e:
+# game/v14/scene28.rpy:220
+translate francais v14s28_a210880e:
 
     # em "I wanted to tell you in private."
-    em ""
+    em "Je voulais te le dire en privé."
 
-# game/v1/scene28.rpy:225
-translate francais v1s28_048759a0:
+# game/v14/scene28.rpy:225
+translate francais v14s28_048759a0:
 
     # u "I wasn't aware that you were even considering this."
-    u ""
+    u "Je savais même pas que tu envisageais de faire ça."
 
-# game/v1/scene28.rpy:230
-translate francais v1s28_817122dc:
+# game/v14/scene28.rpy:230
+translate francais v14s28_817122dc:
 
     # em "I know I didn't consult you on what my plans were, and that's just because I wanted to make the decision with a clear head."
-    em ""
+    em "Je sais que je ne t'ai pas fait part de mes projets, et c'est simplement parce que je voulais prendre cette décision à tête reposée."
 
-# game/v1/scene28.rpy:235
-translate francais v1s28_3b800371:
+# game/v14/scene28.rpy:235
+translate francais v14s28_3b800371:
 
     # u "I understand you wanting a fresh start, and I'm not gonna hold you back."
-    u ""
+    u "Je comprends parfaitement que tu veuilles prendre un nouveau départ, et je vais pas te retenir."
 
-# game/v1/scene28.rpy:237
-translate francais v1s28_47a603d7:
+# game/v14/scene28.rpy:237
+translate francais v14s28_47a603d7:
 
     # u "Honestly, for you I feel like it's a great idea."
-    u ""
+    u "En toute franchise, je crois que c'est une excellente décision pour toi."
 
-# game/v1/scene28.rpy:242
-translate francais v1s28_154d981f:
+# game/v14/scene28.rpy:242
+translate francais v14s28_154d981f:
 
     # em "Really?"
-    em ""
+    em "Vraiment ?"
 
-# game/v1/scene28.rpy:247
-translate francais v1s28_7a816942:
+# game/v14/scene28.rpy:247
+translate francais v14s28_7a816942:
 
     # u "I do, yeah. It'll be good for you to start fresh."
-    u ""
+    u "Oui, c'est vrai. Ça te fera du bien de prendre un nouveau départ."
 
-# game/v1/scene28.rpy:252
-translate francais v1s28_0528cc12:
+# game/v14/scene28.rpy:252
+translate francais v14s28_0528cc12:
 
     # em "I'm happy to hear you say that. *Chuckles*"
-    em ""
+    em "Je suis heureuse de t'entendre dire ça. *Rire*"
 
-# game/v1/scene28.rpy:257
-translate francais v1s28_0be3a0c5:
+# game/v14/scene28.rpy:257
+translate francais v14s28_0be3a0c5:
 
     # u "Of course, when will you be leaving?"
-    u ""
+    u "Évidemment et quand as-tu l'intention de partir ?"
 
-# game/v1/scene28.rpy:262
-translate francais v1s28_3db835c3:
+# game/v14/scene28.rpy:262
+translate francais v14s28_3db835c3:
 
     # em "This weekend."
-    em ""
+    em "Ce week-end."
 
-# game/v1/scene28.rpy:267
-translate francais v1s28_1a49f73c:
+# game/v14/scene28.rpy:267
+translate francais v14s28_1a49f73c:
 
     # u "That soon? Jeez..."
-    u ""
+    u "Si tôt ? Ouaaah..."
 
-# game/v1/scene28.rpy:272
-translate francais v1s28_f71174e6:
+# game/v14/scene28.rpy:272
+translate francais v14s28_f71174e6:
 
     # em "Yeah, honestly... I wasn't even going to tell you. *Laughs* I was just going to leave."
-    em ""
+    em "Ouais, vraiment... Je ne comptais même pas te le dire. *Rire* J'allais juste partir."
 
-# game/v1/scene28.rpy:274
-translate francais v1s28_de6c6282:
+# game/v14/scene28.rpy:274
+translate francais v14s28_de6c6282:
 
     # em "I told myself that if fate wanted you to know, we'd bump into each other. And well, here we are."
-    em ""
+    em "Je me suis dit que si le destin voulait que tu le saches, nous nous croiserions. Et bien, nous y voilà."
 
-# game/v1/scene28.rpy:279
-translate francais v1s28_e40ed444:
+# game/v14/scene28.rpy:279
+translate francais v14s28_e40ed444:
 
     # u "Well, I'm glad you did."
-    u ""
+    u "Et bien, je suis content que tu l'aies fait."
 
-# game/v1/scene28.rpy:281
-translate francais v1s28_b236b055:
+# game/v14/scene28.rpy:281
+translate francais v14s28_b236b055:
 
     # u "Regardless of our relationship, I would've been upset not knowing you'd left."
-    u ""
+    u "Quelle que soit notre relation, j'aurais été bouleversé de pas savoir que tu étais partie."
 
-# game/v1/scene28.rpy:286
-translate francais v1s28_20904f2f:
+# game/v14/scene28.rpy:286
+translate francais v14s28_20904f2f:
 
     # em "In that case, I'm glad I told you."
-    em ""
+    em "Dans ce cas, je suis contente de te l'avoir dit."
 
-# game/v1/scene28.rpy:288
-translate francais v1s28_f55a836e:
+# game/v14/scene28.rpy:288
+translate francais v14s28_f55a836e:
 
     # em "Now, I have a lot of packing and paperwork that needs to be handled, so I really need to get out of here."
-    em ""
+    em "Maintenant, j'ai beaucoup de cartons et de paperasse à gérer, alors je dois vraiment y aller."
 
-# game/v1/scene28.rpy:290
-translate francais v1s28_3959905e:
+# game/v14/scene28.rpy:290
+translate francais v14s28_3959905e:
 
     # em "This may be the last time I see you for a while, ha. Can I get a hug?"
-    em ""
+    em "C'est peut-être la dernière fois que je te vois avant un bon moment. Tu me fais un câlin ?"
 
-# game/v1/scene28.rpy:301
-translate francais v1s28_3b7e0c28:
+# game/v14/scene28.rpy:301
+translate francais v14s28_3b7e0c28:
 
     # em "If you want this relationship as much as you say you do, we'll be able to make this long distance thing work."
-    em ""
+    em "Si tu souhaites vraiment que ça continue entre nous, on pourrait faire en sorte que notre relation longue distance fonctionne."
 
-# game/v1/scene28.rpy:303
-translate francais v1s28_d2733691:
+# game/v14/scene28.rpy:303
+translate francais v14s28_d2733691:
 
     # em "This is real. So, I know we can."
-    em ""
+    em "Et si c'est vraiment sincère. Alors, je sais qu'on y arrivera."
 
-# game/v1/scene28.rpy:320
-translate francais v1s28_18a509cf_1:
+# game/v14/scene28.rpy:320
+translate francais v14s28_18a509cf_1:
 
     # em "I love you, [name]."
-    em ""
+    em "Je t'aime, [name]."
 
-# game/v1/scene28.rpy:325
-translate francais v1s28_a565f2b5_1:
+# game/v14/scene28.rpy:325
+translate francais v14s28_a565f2b5_1:
 
     # u "I love you too, Em."
-    u ""
+    u "Je t'aime aussi, Em."
 
-# game/v1/scene28.rpy:330
-translate francais v1s28_d76d93e7:
+# game/v14/scene28.rpy:330
+translate francais v14s28_d76d93e7:
 
     # em "Bye."
-    em ""
+    em "Bye."
 
-# game/v1/scene28.rpy:335
-translate francais v1s28_604e5884:
+# game/v14/scene28.rpy:335
+translate francais v14s28_604e5884:
 
     # u "Bye."
-    u ""
+    u "Bye."
 
-# game/v1/scene28.rpy:346
-translate francais v1s28_41dba1d9:
+# game/v14/scene28.rpy:346
+translate francais v14s28_41dba1d9:
 
     # em "For what it's worth, it was nice seeing you before I left."
-    em ""
+    em "Pour ce que ça vaut, c'était sympa de te voir avant mon départ."
 
-# game/v1/scene28.rpy:351
-translate francais v1s28_be4d7142:
+# game/v14/scene28.rpy:351
+translate francais v14s28_be4d7142:
 
     # u "Yeah, you too."
-    u ""
+    u "Ouais, toi aussi."
 
-# game/v1/scene28.rpy:356
-translate francais v1s28_afacc1f4:
+# game/v14/scene28.rpy:356
+translate francais v14s28_afacc1f4:
 
     # em "Bye [name]."
-    em ""
+    em "Salut [name]."
 
-# game/v1/scene28.rpy:361
-translate francais v1s28_d999d1e1:
+# game/v14/scene28.rpy:361
+translate francais v14s28_d999d1e1:
 
     # u "Bye, Emily. Good luck."
-    u ""
+    u "Salut, Emily. Bonne chance."
 
-# game/v1/scene28.rpy:371
-translate francais v1s28_ed1f8277:
+# game/v14/scene28.rpy:371
+translate francais v14s28_ed1f8277:
 
     # u "(Damn, she's actually gone...)"
-    u ""
+    u "(Merde, elle est vraiment partie...)"
 
-# game/v1/scene28.rpy:373
-translate francais v1s28_f964a0a0:
+# game/v14/scene28.rpy:373
+translate francais v14s28_f964a0a0:
 
     # u "(After all our history, our ups and downs on campus... She's actually gone.)"
-    u ""
+    u "(Après toute notre histoire, les hauts et les bas qu'on a vécu sur le campus... Elle est vraiment partie.)"
 
-# game/v1/scene28.rpy:376
-translate francais v1s28_d978c3bc:
+# game/v14/scene28.rpy:376
+translate francais v14s28_d978c3bc:
 
     # u "(I'm sure I'll see her again, but still... It won't be the same around here.)"
-    u ""
+    u "(Je suis sûr que je la reverrai, mais quand même... Ça va plus être pareil ici.)"
 
-# game/v1/scene28.rpy:378
-translate francais v1s28_c213381e:
+# game/v14/scene28.rpy:378
+translate francais v14s28_c213381e:
 
     # u "(I see why she wanted to talk in private now, I wonder who else she's told.)"
-    u ""
+    u "(Je comprends maintenant pourquoi elle voulait en parler en privé, je me demande à qui d'autre elle l'a dit.)"
 
 translate francais strings:
 
-    # game/v1/scene28.rpy:73
-    old "I love you too"
-    new ""
-
-    # game/v1/scene28.rpy:73
+    # game/v14/scene28.rpy:73
     old "It'll never work between us"
-    new ""
+    new "Ça ne marchera jamais entre nous"
 
-    # game/v1/scene28.rpy:170
+    # game/v14/scene28.rpy:170
     old "Stay calm"
-    new ""
+    new "Rester calme"
 
-    # game/v1/scene28.rpy:170
+    # game/v14/scene28.rpy:170
     old "Be angry"
-    new ""
-
+    new "Être en colère"

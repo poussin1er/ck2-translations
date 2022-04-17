@@ -1,454 +1,449 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-03-17 15:15
 
-# game/v2/scene2.rpy:23
-translate francais v2s2_61760787:
+# game/v15/scene2.rpy:23
+translate francais v15s2_61760787:
 
     # u "What the fuck?! Hey!"
-    u ""
+    u "C'est quoi ce bordel ?! Hé !"
 
-# game/v2/scene2.rpy:28
-translate francais v2s2_289dfb1f:
+# game/v15/scene2.rpy:28
+translate francais v15s2_289dfb1f:
 
     # u "Who the fu-"
-    u ""
+    u "Qui est le-"
 
-# game/v2/scene2.rpy:33
-translate francais v2s2_709505dc:
+# game/v15/scene2.rpy:33
+translate francais v15s2_709505dc:
 
     # ca "Shut up, pledge!"
-    ca ""
+    ca "Ferme-la, le nouveau !"
 
-# game/v2/scene2.rpy:38
-translate francais v2s2_c39754da:
+# game/v15/scene2.rpy:38
+translate francais v15s2_c39754da:
 
     # u "Cameron?!"
-    u ""
+    u "Cameron ?!"
 
-# game/v2/scene2.rpy:40
-translate francais v2s2_a582259a:
+# game/v15/scene2.rpy:40
+translate francais v15s2_a582259a:
 
     # u "Pledge?! We're back to this shit now? What the hell are you doing?!"
-    u ""
+    u "Le nouveau ?! On est reparti avec cette merde ? Mais putain, tu fais quoi ?"
 
-# game/v2/scene2.rpy:47
-translate francais v2s2_4d1e99b7:
+# game/v15/scene2.rpy:47
+translate francais v15s2_4d1e99b7:
 
     # ca "I'll be the one asking the questions!"
-    ca ""
+    ca "C'est moi qui vais poser les questions !"
 
-# game/v2/scene2.rpy:52
-translate francais v2s2_896fe6e7:
+# game/v15/scene2.rpy:52
+translate francais v15s2_896fe6e7:
 
     # ca "What the fuck were you doing with my sister?"
-    ca ""
+    ca "Qu'est-ce que t'as foutu avec ma sœur ?"
 
-# game/v2/scene2.rpy:62
-translate francais v2s2_bd8c0dde:
+# game/v15/scene2.rpy:62
+translate francais v15s2_bd8c0dde:
 
     # u "T-talking! W-we were just talking!"
-    u ""
+    u "P-parlé ! O-On était juste en train de parler !"
 
-# game/v2/scene2.rpy:67
-translate francais v2s2_47140b6e:
+# game/v15/scene2.rpy:67
+translate francais v15s2_47140b6e:
 
     # ca "And drinking! I know she drinks when I'm not around."
-    ca ""
+    ca "Et boire ! J'sais qu'elle boit quand j'suis pas là."
 
-# game/v2/scene2.rpy:73
-translate francais v2s2_b8a537e6:
+# game/v15/scene2.rpy:73
+translate francais v15s2_b8a537e6:
 
     # u "None of your business, Cameron."
-    u ""
+    u "Ça te regarde pas, Cameron."
 
-# game/v2/scene2.rpy:75
-translate francais v2s2_6b1933e7:
+# game/v15/scene2.rpy:75
+translate francais v15s2_6b1933e7:
 
     # u "So lay off."
-    u ""
+    u "Donc, lâche l'affaire."
 
-# game/v2/scene2.rpy:80
-translate francais v2s2_0b1353e9:
+# game/v15/scene2.rpy:80
+translate francais v15s2_0b1353e9:
 
     # ca "Were you drinking?! I know she drinks when I'm not around."
-    ca ""
+    ca "T'as bu ? J'sais qu'elle boit quand j'suis pas là."
 
-# game/v2/scene2.rpy:86
-translate francais v2s2_03c3f13c:
+# game/v15/scene2.rpy:86
+translate francais v15s2_03c3f13c:
 
     # u "I heard her singing, and came down here to find her drinking, yes..."
-    u ""
+    u "Je l'ai entendue chanter et je suis venue la voir pour la trouver en train de boire, oui..."
 
-# game/v2/scene2.rpy:88
-translate francais v2s2_76228df5:
+# game/v15/scene2.rpy:88
+translate francais v15s2_76228df5:
 
     # u "But we talked about how she can get help to quit."
-    u ""
+    u "Mais on a parlé de la façon dont elle peut obtenir de l'aide pour arrêter."
 
-# game/v2/scene2.rpy:90
-translate francais v2s2_6743f50d:
+# game/v15/scene2.rpy:90
+translate francais v15s2_6743f50d:
 
     # u "I'm trying to help her, Cameron. I actually care about her, okay?!"
-    u ""
+    u "J'essaie de l'aider, Cameron. Je me soucie vraiment d'elle, ok ?"
 
-# game/v2/scene2.rpy:95
-translate francais v2s2_00fb4568:
+# game/v15/scene2.rpy:95
+translate francais v15s2_00fb4568:
 
     # ca "..."
-    ca ""
+    ca "..."
 
-# game/v2/scene2.rpy:100
-translate francais v2s2_31c06cea:
+# game/v15/scene2.rpy:100
+translate francais v15s2_31c06cea:
 
     # u "Cameron?"
-    u ""
+    u "Cameron ?"
 
-# game/v2/scene2.rpy:105
-translate francais v2s2_5b9acb2b:
+# game/v15/scene2.rpy:105
+translate francais v15s2_5b9acb2b:
 
     # ca "You better be telling the truth."
-    ca ""
+    ca "T'as intérêt à m'dire la vérité."
 
-# game/v2/scene2.rpy:110
-translate francais v2s2_b3357440:
+# game/v15/scene2.rpy:110
+translate francais v15s2_b3357440:
 
     # u "I am, man. Look at me."
-    u ""
+    u "C'est le cas, mec. Regarde-moi."
 
-# game/v2/scene2.rpy:120
-translate francais v2s2_a3b28fa4:
+# game/v15/scene2.rpy:120
+translate francais v15s2_a3b28fa4:
 
     # ca "So, how are you helping her?"
-    ca ""
+    ca "Alors, comment tu l'aides ?"
 
-# game/v2/scene2.rpy:125
-translate francais v2s2_c3834810:
+# game/v15/scene2.rpy:125
+translate francais v15s2_c3834810:
 
     # u "I told her about some people who are trained to help with this kind of stuff, to get her off the drinks and drugs forever."
-    u ""
+    u "Je lui ai dit qu'il y avait des personnes formées pour l'aider dans ce genre de situation, afin qu'elle arrête définitivement de boire et de se droguer."
 
-# game/v2/scene2.rpy:130
-translate francais v2s2_4baac5ac:
+# game/v15/scene2.rpy:130
+translate francais v15s2_4baac5ac:
 
     # ca "*Scoffs* You really think that's possible?"
-    ca ""
+    ca "*Rire moqueur* Tu crois vraiment qu'c'est possible ?"
 
-# game/v2/scene2.rpy:135
-translate francais v2s2_8f34140a:
+# game/v15/scene2.rpy:135
+translate francais v15s2_8f34140a:
 
     # u "*Sighs* Who knows, Cam. All we can do is try our best."
-    u ""
+    u "*Soupirs* Qui sait, Cam. Tout ce qu'on peut faire, c'est faire de notre mieux."
 
-# game/v2/scene2.rpy:137
-translate francais v2s2_5337f114:
+# game/v15/scene2.rpy:137
+translate francais v15s2_5337f114:
 
     # u "She needs more positivity in her life. The moment she feels like shit, she goes right back to it."
-    u ""
+    u "Elle a besoin de plus de choses positives dans sa vie. Dès qu'elle se sent mal, elle replonge direct."
 
-# game/v2/scene2.rpy:142
-translate francais v2s2_d3082d9d:
+# game/v15/scene2.rpy:142
+translate francais v15s2_d3082d9d:
 
     # ca "...Yeah."
-    ca ""
+    ca "...Ouais."
 
-# game/v2/scene2.rpy:144
-translate francais v2s2_94eb8a8d:
+# game/v15/scene2.rpy:144
+translate francais v15s2_94eb8a8d:
 
     # ca "You heard her singing, huh? Ha..."
-    ca ""
+    ca "Tu l'as entendue chanter, hein ? Ha..."
 
-# game/v2/scene2.rpy:149
-translate francais v2s2_48b26ed9:
+# game/v15/scene2.rpy:149
+translate francais v15s2_48b26ed9:
 
     # u "Yeah. She seems to enjoy it."
-    u ""
+    u "Ouais. Elle avait l'air d'aimer ça."
 
-# game/v2/scene2.rpy:154
-translate francais v2s2_14b2ea80:
+# game/v15/scene2.rpy:154
+translate francais v15s2_14b2ea80:
 
     # ca "She always has. Even if she just sounds like a dying whale..."
-    ca ""
+    ca "Elle l'a toujours fait. Même si elle a l'air d'une baleine mourante..."
 
-# game/v2/scene2.rpy:159
-translate francais v2s2_212f59aa:
+# game/v15/scene2.rpy:159
+translate francais v15s2_212f59aa:
 
     # u "So that's something you can encourage her to do more of."
-    u ""
+    u "Tu peux donc l'encourager à chanter plus souvent."
 
-# game/v2/scene2.rpy:160
-translate francais v2s2_bb41b775:
+# game/v15/scene2.rpy:160
+translate francais v15s2_bb41b775:
 
     # u "It'll get her to focus on something that makes her happy instead of all the other emotional shit."
-    u ""
+    u "Ça lui permettra de se concentrer sur quelque chose qui la rend heureuse, au lieu de s'occuper de toutes les autres conneries qui lui font du mal."
 
-# game/v2/scene2.rpy:165
-translate francais v2s2_934bcdb9:
+# game/v15/scene2.rpy:165
+translate francais v15s2_934bcdb9:
 
     # ca "I guess you're right..."
-    ca ""
+    ca "Tu dois avoir raison..."
 
-# game/v2/scene2.rpy:170
-translate francais v2s2_83a15af5:
+# game/v15/scene2.rpy:170
+translate francais v15s2_83a15af5:
 
     # u "(No shit.)"
-    u ""
+    u "(Sans blague.)"
 
-# game/v2/scene2.rpy:175
-translate francais v2s2_4d70316f:
+# game/v15/scene2.rpy:175
+translate francais v15s2_4d70316f:
 
     # ca "Sorry about the sack over your head..."
-    ca ""
+    ca "Désolé pour l'sac sur la tête..."
 
-# game/v2/scene2.rpy:184
-translate francais v2s2_8c56361f:
+# game/v15/scene2.rpy:184
+translate francais v15s2_8c56361f:
 
     # u "*Chuckles* It was a bit extreme..."
-    u ""
+    u "*Rire* C'était un peu extrême..."
 
-# game/v2/scene2.rpy:189
-translate francais v2s2_332cec2e:
+# game/v15/scene2.rpy:189
+translate francais v15s2_332cec2e:
 
     # ca "Yeah, but that's my style."
-    ca ""
+    ca "Ouais, mais c'est mon style."
 
-# game/v2/scene2.rpy:194
-translate francais v2s2_5b00d35d:
-
-    # u "Night, Cameron. Get some rest, man."
-    u ""
-
-# game/v2/scene2.rpy:202
-translate francais v2s2_5b00d35d_1:
+# game/v15/scene2.rpy:194
+translate francais v15s2_5b00d35d:
 
     # u "Night, Cameron. Get some rest, man."
-    u ""
+    u "Bonne nuit, Cameron. Repose-toi bien, mec."
 
-# game/v2/scene2.rpy:207
-translate francais v2s2_7bd60257:
+# game/v15/scene2.rpy:202
+translate francais v15s2_5b00d35d_1:
+
+    # u "Night, Cameron. Get some rest, man."
+    u "Bonne nuit, Cameron. Repose-toi bien, mec."
+
+# game/v15/scene2.rpy:207
+translate francais v15s2_7bd60257:
 
     # ca "Yeah, catch you later, [name]."
-    ca ""
+    ca "Ouais, à plus tard, [name]."
 
-# game/v2/scene2.rpy:213
-translate francais v2s2_8c66c3f1:
+# game/v15/scene2.rpy:213
+translate francais v15s2_8c66c3f1:
 
     # u "I'm just letting her be who she is!"
-    u ""
+    u "Je la laisse seulement être qui elle est !"
 
-# game/v2/scene2.rpy:215
-translate francais v2s2_cc226844:
+# game/v15/scene2.rpy:215
+translate francais v15s2_cc226844:
 
     # u "Do you really think you can stop her from doing what she wants all the time?"
-    u ""
+    u "Tu crois vraiment que tu pourras tout le temps l'empêcher de faire ce qu'elle veut ?"
 
-# game/v2/scene2.rpy:220
-translate francais v2s2_293bc574:
+# game/v15/scene2.rpy:220
+translate francais v15s2_293bc574:
 
     # ca "Who the fuck do you think you're talking to?! I've known her all my life!"
-    ca ""
+    ca "À qui tu crois parler ?! J'l'ai connue toute ma vie !"
 
-# game/v2/scene2.rpy:222
-translate francais v2s2_4cad5c95:
+# game/v15/scene2.rpy:222
+translate francais v15s2_4cad5c95:
 
     # ca "That's not who she is, she's-"
-    ca ""
+    ca "C'est pas c'qu'elle est, elle est..."
 
-# game/v2/scene2.rpy:227
-translate francais v2s2_a43716d5:
+# game/v15/scene2.rpy:227
+translate francais v15s2_a43716d5:
 
     # u "So, what are you going to do about it? Huh?! You can't be her prison guard forever."
-    u ""
+    u "Alors, tu vas faire quoi pour changer ça ? Hein ?! Tu pourras pas être son geôlier toute ta vie."
 
-# game/v2/scene2.rpy:232
-translate francais v2s2_a4d92cfb:
+# game/v15/scene2.rpy:232
+translate francais v15s2_a4d92cfb:
 
     # ca "Keep talking to me like that, [name], and I'll knock your teeth out."
-    ca ""
+    ca "Continue à m'parler comme ça, [name], et j'vais t'éclater la tête."
 
-# game/v2/scene2.rpy:237
-translate francais v2s2_5a74ae4f:
+# game/v15/scene2.rpy:237
+translate francais v15s2_5a74ae4f:
 
     # u "I accept her for who she is, Cameron. She's not a fucking kid anymore."
-    u ""
+    u "Je l'accepte comme elle est, Cameron. C'est plus une putain de gamine."
 
-# game/v2/scene2.rpy:239
-translate francais v2s2_6b2f2ecc:
+# game/v15/scene2.rpy:239
+translate francais v15s2_6b2f2ecc:
 
     # u "You need to let her live her life the way she wants to."
-    u ""
+    u "Tu dois la laisser vivre sa vie comme elle veut."
 
-# game/v2/scene2.rpy:244
-translate francais v2s2_be1a9c3d:
+# game/v15/scene2.rpy:244
+translate francais v15s2_be1a9c3d:
 
     # ca "Stop... talking..."
-    ca ""
+    ca "Arrête... de parler..."
 
-# game/v2/scene2.rpy:249
-translate francais v2s2_b822b676:
+# game/v15/scene2.rpy:249
+translate francais v15s2_b822b676:
 
     # u "One day, she may decide to live her life a different way, but that will be her choice. Not yours. Not mine. Hers."
-    u ""
+    u "Un jour, elle décidera peut-être de vivre sa vie d'une manière différente, mais ça sera son choix. Pas le tien. Pas le mien. Le sien."
 
-# game/v2/scene2.rpy:254
-translate francais v2s2_a06d5afa:
+# game/v15/scene2.rpy:254
+translate francais v15s2_a06d5afa:
 
     # ca "Stay the fuck out of it, [name]!"
-    ca ""
+    ca "Te mêle pas de ça, [name] !"
 
-# game/v2/scene2.rpy:259
-translate francais v2s2_49cb5c8f:
+# game/v15/scene2.rpy:259
+translate francais v15s2_49cb5c8f:
 
     # ca "If you're not going to help me stop her, then stay the hell away from her. Understand?"
-    ca ""
+    ca "Si tu veux pas m'aider à la stopper, alors t'approche plus d'elle. T'as compris ?"
 
-# game/v2/scene2.rpy:264
-translate francais v2s2_9b301ce4:
+# game/v15/scene2.rpy:264
+translate francais v15s2_9b301ce4:
 
     # u "*Choking* I- I-"
-    u ""
+    u "*Étouffe* Je- Je-"
 
-# game/v2/scene2.rpy:269
-translate francais v2s2_46c21650:
+# game/v15/scene2.rpy:269
+translate francais v15s2_46c21650:
 
     # u "*Coughing*"
-    u ""
+    u "*Tousse*"
 
-# game/v2/scene2.rpy:284
-translate francais v2s2_c9ad0bfd:
+# game/v15/scene2.rpy:284
+translate francais v15s2_c9ad0bfd:
 
     # u "(Fuck!) *Panting*"
-    u ""
+    u "(Putain !) *Halète"
 
-# game/v2/scene2.rpy:286
-translate francais v2s2_5fc21c13:
+# game/v15/scene2.rpy:286
+translate francais v15s2_5fc21c13:
 
     # u "(So, this is what living with a psychopath is like? For fuck's sake...)"
-    u ""
+    u "(Alors, c'est à ça que ressemble le fait de vivre avec un psychopathe ? Bordel de merde...)"
 
-# game/v2/scene2.rpy:289
-translate francais v2s2_a03a4119:
+# game/v15/scene2.rpy:289
+translate francais v15s2_a03a4119:
 
     # u "(I wouldn't have made it out of that conversation alive if he knew what we actually did in there...)"
-    u ""
+    u "(Je serais pas ressorti vivant de cette conversation s'il avait su ce qu'on a vraiment fait là-dedans...)"
 
-# game/v2/scene2.rpy:290
-translate francais v2s2_4e7e732d:
+# game/v15/scene2.rpy:290
+translate francais v15s2_4e7e732d:
 
     # u "(Damn, we're so lucky he didn't hear us.)"
-    u ""
+    u "(Putain, on a de la chance qu'il nous ait pas entendus.)"
 
-# game/v2/scene2.rpy:326
-translate francais v2s2_77517535:
+# game/v15/scene2.rpy:326
+translate francais v15s2_77517535:
 
     # u "*Sighs* (So much drama...)"
-    u ""
+    u "*Soupirs* (Tellement de drames...)"
 
-# game/v2/scene2.rpy:328
-translate francais v2s2_5221e4c7:
+# game/v15/scene2.rpy:328
+translate francais v15s2_5221e4c7:
 
     # u "(I wonder how many people have had that sack treatment from Cameron.)"
-    u ""
+    u "(Je me demande combien de personnes ont subi ce traitement avec le sac de Cameron.)"
 
-# game/v2/scene2.rpy:330
-translate francais v2s2_994ae2bd:
+# game/v15/scene2.rpy:330
+translate francais v15s2_994ae2bd:
 
     # u "(He's one crazy motherfucking Ape.)"
-    u ""
+    u "(C'est un putain de Ape cinglé.)"
 
-# game/v2/scene2.rpy:334
-translate francais v2s2_5d77e627:
+# game/v15/scene2.rpy:334
+translate francais v15s2_5d77e627:
 
     # u "(Ah, shit... What now?)"
-    u ""
+    u "(Ah, merde... Quoi encore ?)"
 
-# game/v2/scene2.rpy:362
-translate francais v2s2_PhoneContinueChl_e4edb176:
+# game/v15/scene2.rpy:362
+translate francais v15s2_PhoneContinueChl_e4edb176:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(Je devrais répondre à Chloé.)"
 
-# game/v2/scene2.rpy:369
-translate francais v2s2_PhoneContinueAut_cc6e6768:
+# game/v15/scene2.rpy:369
+translate francais v15s2_PhoneContinueAut_cc6e6768:
 
     # u "(I should reply to Autumn.)"
-    u ""
+    u "(Je devrais répondre à Autumn.)"
 
-# game/v2/scene2.rpy:372
-translate francais v2s2_PhoneContinueAut_c47a28cf:
+# game/v15/scene2.rpy:372
+translate francais v15s2_PhoneContinueAut_c47a28cf:
 
     # u "(Almost forgot about that... It'll be interesting to spend some one-on-one time with Autumn.)"
-    u ""
+    u "(J'ai presque oublié... Ça sera intéressant de passer du temps avec Autumn en tête-à-tête.)"
 
-# game/v2/scene2.rpy:374
-translate francais v2s2_PhoneContinueAut_41d31444:
+# game/v15/scene2.rpy:374
+translate francais v15s2_PhoneContinueAut_41d31444:
 
     # u "(Should probably set an alarm...)"
-    u ""
+    u "(Je devrais mettre une alarme...)"
 
-# game/v2/scene2.rpy:376
-translate francais v2s2_PhoneContinueAut_e073a9aa:
+# game/v15/scene2.rpy:376
+translate francais v15s2_PhoneContinueAut_e073a9aa:
 
     # u "(And... done. Now, it's time for be-)"
-    u ""
+    u "(Et... c'est bon. Maintenant, il est temps de-)"
 
-# game/v2/scene2.rpy:390
-translate francais v2s2_PhoneContinueAut_83c30440:
+# game/v15/scene2.rpy:390
+translate francais v15s2_PhoneContinueAut_83c30440:
 
     # u "(The hell?)"
-    u ""
+    u "(Putain !)"
 
-# game/v2/scene2.rpy:399
-translate francais v2s2_PhoneContinueAut_6aaf1b96:
+# game/v15/scene2.rpy:399
+translate francais v15s2_PhoneContinueAut_6aaf1b96:
 
     # u "(\"Dress to impress your ghoulish empress...\") *Chuckles*"
-    u ""
+    u "(\"Habille-toi de façon à impressionner ton impératrice diabolique...\") *Rire*"
 
-# game/v2/scene2.rpy:401
-translate francais v2s2_PhoneContinueAut_fa544629:
+# game/v15/scene2.rpy:401
+translate francais v15s2_PhoneContinueAut_fa544629:
 
     # u "(Guess I need to go gift shopping...)"
-    u ""
+    u "(Je crois qu'il faut que j'aille acheter des cadeaux...)"
 
-# game/v2/scene2.rpy:402
-translate francais v2s2_PhoneContinueAut_f8727ffa:
+# game/v15/scene2.rpy:402
+translate francais v15s2_PhoneContinueAut_f8727ffa:
 
     # u "(Maybe Autumn can give me ideas on what Lauren would like, or I can just get her some kind of gift card... She likes books, I think?)"
-    u ""
+    u "(Peut-être qu'Autumn pourrait me donner des idées sur ce que Lauren aimerait, ou je pourrais simplement lui offrir un genre de chèque-cadeau.... Elle aime les livres, je crois ?)"
 
-# game/v2/scene2.rpy:412
-translate francais v2s2_PhoneContinueAut_e753f65c:
+# game/v15/scene2.rpy:412
+translate francais v15s2_PhoneContinueAut_e753f65c:
 
     # u "(Finally...)"
-    u ""
+    u "(Enfin...)"
 
-# game/v2/scene2.rpy:430
-translate francais v2s2_PhoneContinueAut_97bf1824:
+# game/v15/scene2.rpy:430
+translate francais v15s2_PhoneContinueAut_97bf1824:
 
     # u "*Groans* (No time for a snooze today. Need to get up.)"
-    u ""
+    u "*Grogne* (Pas le temps de traîner au lit aujourd'hui. Je dois me lever.)"
 
 translate francais strings:
 
-    # game/v2/scene2.rpy:57
+    # game/v15/scene2.rpy:57
     old "We were just talking"
-    new ""
+    new "On parlait c'est tout"
 
-    # game/v2/scene2.rpy:57
+    # game/v15/scene2.rpy:57
     old "None of your business"
-    new ""
+    new "Ça te regarde pas"
 
-    # game/v2/scene2.rpy:177
-    old "Laugh it off"
-    new ""
-
-    # game/v2/scene2.rpy:354
+    # game/v15/scene2.rpy:354
     old "Hey! Just reminding you that I'll be setting up the shelter tomorrow if you wanted to swing by? :)"
-    new ""
+    new "Hé ! Je voulais juste te rappeler que j'installerai le refuge demain si jamais tu voulais passer ! :)"
 
-    # game/v2/scene2.rpy:355
+    # game/v15/scene2.rpy:355
     old "Uhm, sure."
-    new ""
+    new "Euh, bien sûr."
 
-    # game/v2/scene2.rpy:356
+    # game/v15/scene2.rpy:356
     old "Of course! I'll always be there if there's puppies, haha."
-    new ""
-
+    new "Bien sûr ! Je serai toujours présent s'il y a des chiots, haha."
