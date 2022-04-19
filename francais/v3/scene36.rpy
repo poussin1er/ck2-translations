@@ -4,5 +4,4 @@
 translate francais v3s36_8acf0cd0:
 
     # u "(This is going to be a special night, I can already feel it. Just don't fuck it up, [name]. *Laughs*)"
-    u ""
-
+    u "(Cette soirée promet d'être spéciale, je le sens déjà. Foire pas tout, [name]. *Rire*)"

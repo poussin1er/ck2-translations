@@ -4,494 +4,494 @@
 translate francais v3s30_2ac9ad32:
 
     # u "(Is there a meeting?)"
-    u ""
+    u "(Y a une réunion ?)"
 
 # game/v3/scene30.rpy:22
 translate francais v3s30_769fe0a0:
 
     # u "Am I late for something? *Laughs*"
-    u ""
+    u "Je suis en retard pour un truc ? *Rire*"
 
 # game/v3/scene30.rpy:27
 translate francais v3s30_a113c907:
 
     # ch "Nah, not officially. There's a power outage, so we're just chatting."
-    ch ""
+    ch "Non, pas de façon officielle. Il y a une coupure de courant, alors on ne fait que bavarder."
 
 # game/v3/scene30.rpy:32
 translate francais v3s30_81537f1c:
 
     # se "Until we can go back online and ignore each other again, haha!"
-    se ""
+    se "Jusqu'à ce qu'on puisse retourner en ligne et s'ignorer à nouveau, haha !"
 
 # game/v3/scene30.rpy:37
 translate francais v3s30_241a1bda:
 
     # u "Oh yeah. Aubrey mentioned something about power outages lately. How long's it been out for?"
-    u ""
+    u "Oh ouais. Aubrey a mentionné un truc sur les coupures de courant qui ont lieu en ce moment. Depuis combien de temps ça dure ?"
 
 # game/v3/scene30.rpy:42
 translate francais v3s30_3d90e300:
 
     # imre "Who knows? Our phones are dead so we don't know what time it is."
-    imre ""
+    imre "On sait pas. Les téléphones sont morts, alors on sait même pas quelle heure il est."
 
 # game/v3/scene30.rpy:47
 translate francais v3s30_f2130678:
 
     # ch "Imre, we have a clock in the kitchen."
-    ch ""
+    ch "Imre, il y a une horloge dans la cuisine."
 
 # game/v3/scene30.rpy:52
 translate francais v3s30_4b636d8f:
 
     # imre "Dude, that thing is ancient."
-    imre ""
+    imre "Mon gars, ce truc est antique."
 
 # game/v3/scene30.rpy:57
 translate francais v3s30_d6011e09:
 
     # ch "*Sighs* It's been about... an hour?"
-    ch ""
+    ch "*Soupirs* ça doit faire environ... une heure..."
 
 # game/v3/scene30.rpy:63
 translate francais v3s30_28186b70:
 
     # se "Yeah, something like that."
-    se ""
+    se "Oui, quelque chose comme ça."
 
 # game/v3/scene30.rpy:68
 translate francais v3s30_6a4ae7ec:
 
     # ch "But who cares? It's good to have some time like this."
-    ch ""
+    ch "Mais peu importe. Ça fait du bien d'avoir un peu de temps libre comme ça."
 
 # game/v3/scene30.rpy:73
 translate francais v3s30_a18ed27a:
 
     # u "What were you chatting about?"
-    u ""
+    u "Vous parliez de quoi ?"
 
 # game/v3/scene30.rpy:78
 translate francais v3s30_945c7932:
 
     # se "We were kind of talking with Chris about the Nora situation."
-    se ""
+    se "On était en train de parler avec Chris à propos de la situation de Nora."
 
 # game/v3/scene30.rpy:83
 translate francais v3s30_6c4ff6b7:
 
     # u "(Chris talking about Nora? No surprises there.)"
-    u ""
+    u "(Chris parlant de Nora ? Rien de surprenant...)"
 
 # game/v3/scene30.rpy:88
 translate francais v3s30_c01ae4ea:
 
     # ch "Yeah, so back to what I was saying..."
-    ch ""
+    ch "Ouais... Donc, pour en revenir à ce que je disais..."
 
 # game/v3/scene30.rpy:93
 translate francais v3s30_78f8f639:
 
     # ch "I guess deep down I always knew Nora wasn't the right girl for me."
-    ch ""
+    ch "Je pense qu'au fond de moi, j'ai toujours su que Nora n'était pas la personne idéale pour moi."
 
 # game/v3/scene30.rpy:98
 translate francais v3s30_5c30d5ba:
 
     # se "What makes you say that?"
-    se ""
+    se "Qu'est-ce qui te fait dire ça ?"
 
 # game/v3/scene30.rpy:103
 translate francais v3s30_87cb8caa:
 
     # ch "Well..."
-    ch ""
+    ch "Eh bien..."
 
 # game/v3/scene30.rpy:108
 translate francais v3s30_43c65a5f:
 
     # ch "I'm with my Wolves, so I know I can speak freely. Without judgement."
-    ch ""
+    ch "Je suis avec mes Wolves, je sais donc que je peux parler librement. Sans jugement."
 
 # game/v3/scene30.rpy:113
 translate francais v3s30_ccd58191:
 
     # imre "Of course. That's what we stand for."
-    imre ""
+    imre "Bien sûr. C'est notre devise."
 
 # game/v3/scene30.rpy:118
 translate francais v3s30_d776e314:
 
     # ch "I want to tell you guys something, because it'd be good to get it off of my chest. But don't get pissed off."
-    ch ""
+    ch "Je voudrais vous dire quelque chose, parce qu'il faut que ça sorte. Mais ne vous énervez pas."
 
 # game/v3/scene30.rpy:123
 translate francais v3s30_f71e9e63:
 
     # se "That's impossible. Spit it out, man."
-    se ""
+    se "Pas moyen qu'on s'énerve. Crache le morceau, mec."
 
 # game/v3/scene30.rpy:128
 translate francais v3s30_4af7290d:
 
     # imre "Don't keep us in suspense any longer, bro. Come on!"
-    imre ""
+    imre "Vas-y arrête le suspense, mon frère. Continue !"
 
 # game/v3/scene30.rpy:133
 translate francais v3s30_0714f5ef:
 
     # ch "Okay, well. This isn't easy, but..."
-    ch ""
+    ch "Ok, alors. Ce n'est pas facile à dire, mais..."
 
 # game/v3/scene30.rpy:138
 translate francais v3s30_1e2b668d:
 
     # ch "About a year ago, during break..."
-    ch ""
+    ch "Il y a environ un an, pendant qu'on faisait une pause..."
 
 # game/v3/scene30.rpy:143
 translate francais v3s30_ece148c5:
 
     # ch "I hooked up with this random girl."
-    ch ""
+    ch "Je suis sorti avec une autre fille prise au hasard."
 
 # game/v3/scene30.rpy:148
 translate francais v3s30_999e824d:
 
     # u "(Oh, shit.)"
-    u ""
+    u "(Oh, merde.)"
 
 # game/v3/scene30.rpy:153
 translate francais v3s30_d6fe6a00:
 
     # imre "You what?"
-    imre ""
+    imre "T'as fait quoi ?"
 
 # game/v3/scene30.rpy:158
 translate francais v3s30_7869552a:
 
     # ch "I know it sounds bad, Imre, but just let me-"
-    ch ""
+    ch "Je sais que ça a l'air mal, Imre, mais laisse-moi juste..."
 
 # game/v3/scene30.rpy:163
 translate francais v3s30_3f3e7eb8:
 
     # imre "Let you what?! Tell me the whole goddamn story about how you managed to cheat on Nora?"
-    imre ""
+    imre "T'laisser quoi ?! M'raconter toute l'histoire de comment t'as pu tromper Nora ?"
 
 # game/v3/scene30.rpy:165
 translate francais v3s30_a84fe4d2:
 
     # imre "Are you for real?"
-    imre ""
+    imre "T'es sérieux ?"
 
 # game/v3/scene30.rpy:170
 translate francais v3s30_a4bfa01d:
 
     # ch "Imre, chill. It's not like that, bro."
-    ch ""
+    ch "Calme-toi, Imre. Ça ne s'est pas passé comme ça, mon frère."
 
 # game/v3/scene30.rpy:181
 translate francais v3s30_1db01bfd:
 
     # imre "*Scoffs* Don't call me your fucking, bro."
-    imre ""
+    imre "*Rire moqueur* Putain, m'appelle pas ton frère."
 
 # game/v3/scene30.rpy:186
 translate francais v3s30_fc7386d5:
 
     # u "Imre-"
-    u ""
+    u "Imre-"
 
 # game/v3/scene30.rpy:191
 translate francais v3s30_b719e428:
 
     # imre "I've always looked up to you, Chris."
-    imre ""
+    imre "J't'ai toujours respecté, Chris."
 
 # game/v3/scene30.rpy:196
 translate francais v3s30_afd80743:
 
     # imre "Since the day I arrived at SVC, you've talked about nothing but loyalty and brotherhood."
-    imre ""
+    imre "Depuis qu'je suis arrivé au SVC, tu parles que d'loyauté et d'fraternité."
 
 # game/v3/scene30.rpy:201
 translate francais v3s30_7ee9706e:
 
     # ch "Imre, this doesn't change anything. I'm still the same person."
-    ch ""
+    ch "Imre, ça ne change rien. Je suis toujours le même."
 
 # game/v3/scene30.rpy:206
 translate francais v3s30_9ae306ce:
 
     # imre "That's where you're wrong. This changes everything."
-    imre ""
+    imre "Et c'est là qu'tu t'trompes. Ça change tout."
 
 # game/v3/scene30.rpy:211
 translate francais v3s30_cf8c3c2f:
 
     # ch "It was just one night, and it was a mistake."
-    ch ""
+    ch "Ça n'a duré qu'une nuit, et c'était une erreur."
 
 # game/v3/scene30.rpy:216
 translate francais v3s30_26fe40dd:
 
     # imre "Bullshit! You don't fuck someone by mistake. What happened to loyalty being everything, huh?"
-    imre ""
+    imre "Conneries ! On baise pas quelqu'un par erreur. Elle est passée où la \"loyauté qui est essentielle\", hein ?"
 
 # game/v3/scene30.rpy:221
 translate francais v3s30_b1702476:
 
     # imre "What happened to loyalty?! Because right now, all I can think about is how lucky she is to have left you already, you fucking prick!"
-    imre ""
+    imre "Qu'est-ce qui lui est arrivé à cette loyauté ? Parce que là, tout c'que j'me dis, c'est qu'elle a d'la chance de t'avoir déjà quitté, espèce de connard !"
 
 # game/v3/scene30.rpy:223
 translate francais v3s30_4e6ec347:
 
     # u "(I don't think I've ever seen Imre this angry before.)"
-    u ""
+    u "(Je crois que j'ai jamais vu Imre aussi furieux.)"
 
 # game/v3/scene30.rpy:228
 translate francais v3s30_a0650ce7:
 
     # ch "Don't fucking talk to me like that, Imre. I'm still your President, and until that changes you need to show me some respect!"
-    ch ""
+    ch "Ne me parle pas comme ça, Imre. Je suis toujours ton Président, et jusqu'à ce que ça change, tu dois me montrer un peu de respect !"
 
 # game/v3/scene30.rpy:233
 translate francais v3s30_bc35614f:
 
     # imre "Respect? Are you-"
-    imre ""
+    imre "Respect ? Tu-"
 
 # game/v3/scene30.rpy:238
 translate francais v3s30_e2c51fed:
 
     # imre "Are you fucking hearing this guy?!"
-    imre ""
+    imre "Vous entendez c'mec ?!"
 
 # game/v3/scene30.rpy:243
 translate francais v3s30_fe93843f:
 
     # se "Imre, breathe for a second."
-    se ""
+    se "Imre, respire un peu."
 
 # game/v3/scene30.rpy:248
 translate francais v3s30_7003b5ed:
 
     # imre "We all stood by and listened to you cry and complain about Nora. You even suggested that she might have been seeing someone else."
-    imre ""
+    imre "On est tous restés là à t'écouter pleurer et t'plaindre de Nora. T'as même sous-entendu qu'elle aurait pu voir quelqu'un d'autre."
 
 # game/v3/scene30.rpy:251
 translate francais v3s30_a52724de:
 
     # u "(Please Imre, don't...)"
-    u ""
+    u "(S'il te plaît Imre, ne...)"
 
 # game/v3/scene30.rpy:253
 translate francais v3s30_049ffd82:
 
     # imre "I guess it takes a cheater to recognize one, huh?"
-    imre ""
+    imre "J'imagine qu'il faut être un infidèle pour pouvoir en reconnaître un, c'est ça ?"
 
 # game/v3/scene30.rpy:258
 translate francais v3s30_340476e5:
 
     # ch "I told you this because you're my brothers and I trusted you. Doesn't brotherhood mean anything to you?"
-    ch ""
+    ch "Je vous ai dit ça parce que vous êtes mes frères et que j'avais confiance en vous. La fraternité ne signifie rien pour toi ?"
 
 # game/v3/scene30.rpy:263
 translate francais v3s30_240ff853:
 
     # imre "Nothing about you means anything to me anymore, man. Whether that includes this fraternity or not. And that's fucking final."
-    imre ""
+    imre "Rien de c'qui vient de toi signifie plus rien pour moi, mec. Que ça inclue cette fraternité ou pas. Et là, c'est un putain de point final."
 
 # game/v3/scene30.rpy:268
 translate francais v3s30_3d70065f:
 
     # ch "Oh, come on, you're completely overreacting! Sit back down and I'll explain what happened, dude."
-    ch ""
+    ch "Oh, allez, tu réagis de manière complètement disproportionnée ! Assieds-toi et je vais t'expliquer ce qui s'est passé, mec."
 
 # game/v3/scene30.rpy:273
 translate francais v3s30_203c76ed:
 
     # imre "No, you're not my leader anymore. You're a cheating, lying, backstabbing dick-"
-    imre ""
+    imre "Nan, t'es plus mon chef. T'es infidèle, menteur, un traître qui poignarde dans l'dos..."
 
 # game/v3/scene30.rpy:299
 translate francais v3s30_1b4f0422:
 
     # imre "Is this what you do when people don't listen? Ha, nice."
-    imre ""
+    imre "C'est ça qu'tu fais quand les autres t'écoutent pas ? Ha, c'est super."
 
 # game/v3/scene30.rpy:304
 translate francais v3s30_b2cd1791:
 
     # ch "Do you need another one?!"
-    ch ""
+    ch "Tu en veux un autre ?"
 
 # game/v3/scene30.rpy:314
 translate francais v3s30_288c9093:
 
     # u "*Grunts* What the hell is wrong with you?!"
-    u ""
+    u "*Grogne* Mais qu'est-ce qui va pas chez vous ?!"
 
 # game/v3/scene30.rpy:319
 translate francais v3s30_fad9b6a5:
 
     # u "Look at what you're doing, bro."
-    u ""
+    u "Regardez à quoi vous jouez, mes frères."
 
 # game/v3/scene30.rpy:329
 translate francais v3s30_7eef48ac:
 
     # ch "I'm... I'm sorry, Imre."
-    ch ""
+    ch "Je suis... Je suis désolé, Imre."
 
 # game/v3/scene30.rpy:334
 translate francais v3s30_32ac797b:
 
     # se "Seriously Chris, you just hit your own Wolf! What is going on with you?"
-    se ""
+    se "Sérieusement Chris, tu viens de frapper un de tes propres Wolf ! C'est quoi ton problème ?"
 
 # game/v3/scene30.rpy:339
 translate francais v3s30_afd64382:
 
     # ch "I don't know, he just kept on saying shit and I..."
-    ch ""
+    ch "J'en sais rien, il n'arrêtait pas de dire des conneries et je..."
 
 # game/v3/scene30.rpy:344
 translate francais v3s30_0d046cb4:
 
     # ch "I snapped."
-    ch ""
+    ch "J'ai craqué."
 
 # game/v3/scene30.rpy:355
 translate francais v3s30_677e7f04:
 
     # u "Imre, for once in your life, shut up."
-    u ""
+    u "Imre, pour une fois dans ta vie, ferme ta gueule."
 
 # game/v3/scene30.rpy:360
 translate francais v3s30_4c6d03d2:
 
     # imre "You're seriously siding with him after what he did?!"
-    imre ""
+    imre "T'es vraiment d'son côté après qu'il ait fait ça ? !"
 
 # game/v3/scene30.rpy:365
 translate francais v3s30_8aa4d13d:
 
     # u "Seriously, just let it go before things get worse."
-    u ""
+    u "Sérieusement, lâchez l'affaire avant que ça empire."
 
 # game/v3/scene30.rpy:370
 translate francais v3s30_36e84da6:
 
     # imre "Easy for you to say, this is the worse it can possibly get. My own friend is a dishonest cheater!"
-    imre ""
+    imre "Facile à dire, c'est le pire qui peut arriver. Mon propre ami est un infidèle malhonnête !"
 
 # game/v3/scene30.rpy:375
 translate francais v3s30_5a767aff:
 
     # ch "Haven't you said enough bullshit already, Imre? Shut the fuck up, already."
-    ch ""
+    ch "T'as pas dit assez de conneries comme ça, Imre ? Maintenant, tu fermes ta gueule."
 
 # game/v3/scene30.rpy:380
 translate francais v3s30_175f62ae:
 
     # se "Chris, stop. He's one of us."
-    se ""
+    se "Chris, arrête. Il est des nôtres."
 
 # game/v3/scene30.rpy:385
 translate francais v3s30_fb456fd7:
 
     # ch "..."
-    ch ""
+    ch "..."
 
 # game/v3/scene30.rpy:390
 translate francais v3s30_3f13befa:
 
     # ch "You're right."
-    ch ""
+    ch "C'est vrai."
 
 # game/v3/scene30.rpy:392
 translate francais v3s30_0d230476:
 
     # ch "I..."
-    ch ""
+    ch "Je..."
 
 # game/v3/scene30.rpy:397
 translate francais v3s30_31ce879d:
 
     # ch "I'm sorry I reacted like that."
-    ch ""
+    ch "Je suis désolé d'avoir réagi comme ça."
 
 # game/v3/scene30.rpy:402
 translate francais v3s30_ea227319:
 
     # ch "Fuck..."
-    ch ""
+    ch "Putain..."
 
 # game/v3/scene30.rpy:412
 translate francais v3s30_4f4b69a4:
 
     # imre "Fucking clown."
-    imre ""
+    imre "Putain de bouffon."
 
 # game/v3/scene30.rpy:417
 translate francais v3s30_f69d45ec:
 
     # se "Imre-"
-    se ""
+    se "Imre-"
 
 # game/v3/scene30.rpy:422
 translate francais v3s30_6e216d2a:
 
     # imre "No, Seb. No peace-making right now, you know what he did is fucked up. Both of you do."
-    imre ""
+    imre "Nan, Seb. Pas d'réconciliation pour l'instant, tu sais que c'qu'il a fait est merdique. Vous l'savez tous les deux."
 
 # game/v3/scene30.rpy:427
 translate francais v3s30_6a299255:
 
     # imre "I'm out of here. And don't wait up, I don't know when I'll be back."
-    imre ""
+    imre "J'me casse. Et m'attendez pas, j'sais pas quand j'reviendrai."
 
 # game/v3/scene30.rpy:432
 translate francais v3s30_e56276be:
 
     # u "(What the hell just happened?)"
-    u ""
+    u "(Putain, qu'est-ce qui s'est passé ?)"
 
 # game/v3/scene30.rpy:437
 translate francais v3s30_31f6c785:
 
     # se "I'm gonna go meditate."
-    se ""
+    se "Je vais aller méditer."
 
 # game/v3/scene30.rpy:442
 translate francais v3s30_8e575ee5:
 
     # u "(Looks like Imre and Chris are both going through some shit right now, and they clearly don't know how to handle it.)"
-    u ""
+    u "(On dirait qu'Imre et Chris traversent tous les deux une période de merde, là, et ils ont clairement perdu le contrôle.)"
 
 # game/v3/scene30.rpy:447
 translate francais v3s30_43e38692:
 
     # u "(Hopefully they can come back from this. I can't believe Chris punched him...)"
-    u ""
+    u "(J'espère qu'ils pourront s'en remettre. J'arrive pas à croire que Chris l'ait frappé...)"
 
 # game/v3/scene30.rpy:452
 translate francais v3s30_4cec18d7:
 
     # u "(I guess I'll leave too.)"
-    u ""
+    u "(Je crois que je vais partir moi aussi.)"
 
 translate francais strings:
 
     # game/v3/scene30.rpy:309
     old "Push Chris"
-    new ""
+    new "Pousser Chris"
 
     # game/v3/scene30.rpy:309
     old "Stop Imre"
-    new ""
+    new "Stopper Imre"
