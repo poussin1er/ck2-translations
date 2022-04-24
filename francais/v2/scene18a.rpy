@@ -2587,3 +2587,16 @@ translate francais strings:
     # game/v2/scene18a.rpy:1306
     old "Lie"
     new "Mentir"
+# TODO: Translation updated at 2022-04-24 18:59
+
+# game/v2/scene18a.rpy:432
+translate francais v2s18a_Ryan_bd3eb2a0:
+
+    # ry "Every year... I never learn. Why do I never- *Pukes*"
+    ry "Tous les ans... je ne sais jamais... Comment ça se fait que je ne... *Vomit*"
+
+# game/v2/scene18a.rpy:1396
+translate francais v2s18a_Riley_9f17e1b8:
+
+    # ri "Does the arrangement of this food look okay to you?"
+    ri "La disposition de ces aliments te convient-elle ?"
