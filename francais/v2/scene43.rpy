@@ -1061,3 +1061,10 @@ translate francais strings:
     # game/v2/scene43.rpy:521
     old "You're lying"
     new "Tu mens"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene43.rpy:139
+translate francais v2s43_b3e16d09:
+
+    # u "Right... We could be anybody."
+    u "C'est vrai... On pourrait être n'importe qui."

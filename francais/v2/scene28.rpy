@@ -1337,3 +1337,10 @@ translate francais strings:
     # game/v2/scene28.rpy:467
     old "Ask why"
     new "Demander pourquoi"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene28.rpy:1005
+translate francais v2s28_cd701dde:
+
+    # u "(The tequila is trying to take control... Stay strong, [name].)"
+    u "(La tequila essaie de prendre le contrôle... Reste forts, [name].)"

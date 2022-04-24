@@ -2080,7 +2080,7 @@ translate francais v2s18c_autumnsg_8a1dedb2:
 translate francais v2s18c_autumnsg_7b978365:
 
     # u "(Well, that could've gone worse...)"
-    u "(Eh bien, ça aurait pu être pire...)"
+    u "(Eh ben, ça aurait pu être pire...)"
 
 # game/v2/scene18c.rpy:2077
 translate francais v2s18c_autumnsg_8064c10c:
@@ -2769,3 +2769,136 @@ translate francais strings:
     # game/v2/scene18c.rpy:1876
     old "Never mind"
     new "T'en fais pas"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene18c.rpy:743
+translate francais v2s18c_imre_aubrey_597f8897:
+
+    # au "So... Do you still need some help with that list you mentioned earlier?"
+    au "Alors... T'as toujours besoin d'aide pour la liste dont tu m'as parlé tout à l'heure ?"
+
+# game/v2/scene18c.rpy:748
+translate francais v2s18c_imre_aubrey_1b3da86d:
+
+    # u "Yeah, if you want-"
+    u "Ouais, si tu veux-"
+
+# game/v2/scene18c.rpy:1930
+translate francais v2s18c_autumn_amber_33716fc7:
+
+    # aut "[name]! You're dating my sister, what are you-"
+    aut "[name] ! Tu sors avec ma sœur, qu'est-ce que tu-"
+
+# game/v2/scene18c.rpy:1935
+translate francais v2s18c_autumn_amber_f5b43cd7:
+
+    # u "Yeah, I know, I'm sorry... I just-"
+    u "Ouais, je sais, je suis désolé... J'ai just-"
+
+# game/v2/scene18c.rpy:1940
+translate francais v2s18c_autumn_amber_b71d5a88:
+
+    # aut "You just nothing. You're lucky I won't tell Lauren that you even asked me."
+    aut "Tu ne dis rien. Tu as beaucoup de chance que je ne dise pas à Lauren que tu me l'as demandé."
+
+# game/v2/scene18c.rpy:1945
+translate francais v2s18c_autumn_amber_76ec5f31:
+
+    # u "I'm sorry, Autumn. I thought-"
+    u "Je suis désolé, Autumn. Je pensais-"
+
+# game/v2/scene18c.rpy:1950
+translate francais v2s18c_autumn_amber_35707dd3:
+
+    # aut "This never happened, [name]. Go away."
+    aut "Ça n'est jamais arrivé, [name]. Va-t'en."
+
+# game/v2/scene18c.rpy:1955
+translate francais v2s18c_autumn_amber_22f8f829:
+
+    # u "Yeah. Okay..."
+    u "Ouais. Ok..."
+
+# game/v2/scene18c.rpy:1960
+translate francais v2s18c_autumn_amber_3bf3cdce:
+
+    # u "(Well, fuck...)"
+    u "(Eh ben, merde...)"
+
+# game/v2/scene18c.rpy:1965
+translate francais v2s18c_autumn_amber_ba34248b:
+
+    # aut "I'm just gonna leave and go check on Amber."
+    aut "Je vais y aller et aller voir Amber."
+
+# game/v2/scene18c.rpy:1971
+translate francais v2s18c_autumn_amber_7a669a23:
+
+    # aut "Ha, I uh..."
+    aut "Ha, je euh..."
+
+# game/v2/scene18c.rpy:1973
+translate francais v2s18c_autumn_amber_1f23b441:
+
+    # aut "There's too much drama I think... Between you and Lauren."
+    aut "Je pense qu'il y a trop de scènes dramatiques... Entre toi et Lauren."
+
+# game/v2/scene18c.rpy:1975
+translate francais v2s18c_autumn_amber_fc970a72:
+
+    # aut "It's just hard to-"
+    aut "C'est très dur de-"
+
+# game/v2/scene18c.rpy:1980
+translate francais v2s18c_autumn_amber_06c69842:
+
+    # u "I understand. No worries."
+    u "Je comprends. T'inquiète pas."
+
+# game/v2/scene18c.rpy:1985
+translate francais v2s18c_autumn_amber_bc4d3b8f:
+
+    # aut "Okay, thanks."
+    aut "D'accord, merci."
+
+# game/v2/scene18c.rpy:1987
+translate francais v2s18c_autumn_amber_c33545a0:
+
+    # aut "I'm gonna go force Amber out of the bathroom, haha! I have to pee really bad..."
+    aut "Je vais aller obliger Amber à sortir des toilettes, haha ! J'ai vraiment envie de faire pipi..."
+
+# game/v2/scene18c.rpy:1992
+translate francais v2s18c_autumn_amber_f1c2b281:
+
+    # u "Haha, okay. See you around."
+    u "Haha, ok. À plus tard."
+
+# game/v2/scene18c.rpy:1997
+translate francais v2s18c_autumn_amber_8a1dedb2:
+
+    # aut "Later!"
+    aut "À plus !"
+
+# game/v2/scene18c.rpy:2002
+translate francais v2s18c_autumn_amber_7b978365:
+
+    # u "(Well, that could've gone worse...)"
+    u "(Eh ben, ça aurait pu être pire...)"
+
+# game/v2/scene18c.rpy:2394
+translate francais v2s18c_askhelp_f2081299:
+
+    # pe "Um, I don't think we should do anything while we're here."
+    pe "Hum, je ne pense pas qu'on devrait faire quoi que ce soit pendant qu'on est là."
+
+# game/v2/scene18c.rpy:2399
+translate francais v2s18c_askhelp_923343fe:
+
+    # u "Oh, okay, sure."
+    u "Oh, oui, bien sûr."
+
+# game/v2/scene18c.rpy:2404
+translate francais v2s18c_askhelp_3e1f5d40:
+
+    # pe "Sorry, I just don't feel comfortable."
+    pe "Désolée, je ne me sens pas à l'aise."

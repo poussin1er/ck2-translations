@@ -1087,3 +1087,10 @@ translate francais strings:
     # game/v2/scene39.rpy:950
     old "Don't risk it"
     new "Ne pas prendre le risque"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene39.rpy:160
+translate francais v2s39_1adf7bb2:
+
+    # bartender "Yes... I'll be back in a bit."
+    bartender "Oui... Je reviens dans un instant."

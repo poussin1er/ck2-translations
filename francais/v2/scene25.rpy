@@ -945,3 +945,10 @@ translate francais strings:
     # game/v2/scene25.rpy:666
     old "Ask about student discounts"
     new "Se renseigner sur les réductions pour les étudiants"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene25.rpy:564
+translate francais v2s25_9467257c:
+
+    # u "Okay... I'm sure I can get the money back after we resolve this confusion."
+    u "Ok... De toute façon, je vais pouvoir récupérer mon argent une fois que nous aurons résolu cette confusion."

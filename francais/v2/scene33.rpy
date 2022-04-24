@@ -2675,3 +2675,10 @@ translate francais strings:
     # game/v2/scene33.rpy:2310
     old "Stay out of it"
     new "Rester en dehors de ça"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene33.rpy:702
+translate francais v2s33_1de5ab46:
+
+    # u "Mmm... That hit the spot, ha."
+    u "Mmm... Ça a fait du bien."

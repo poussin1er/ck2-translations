@@ -1173,3 +1173,10 @@ translate francais strings:
     # game/v2/scene26.rpy:878
     old "Side with Aubrey, pro-monogamy"
     new "Du côté d'Aubrey, pro-monogamie"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene26.rpy:689
+translate francais v2s26_27054cf4:
+
+    # u "I mean, I've never tried it, so... I wouldn't know for sure, haha. But I don't see any problems with it personally."
+    u "J'ai jamais essayé, alors... je pourrais pas en être sûr, haha. Mais personnellement, je vois aucun problème avec ça."

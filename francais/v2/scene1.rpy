@@ -673,3 +673,10 @@ translate francais strings:
     # game/v2/scene1.rpy:561
     old "Say nothing"
     new "Ne rien dire"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene1.rpy:533
+translate francais v2s1_cc757f66:
+
+    # u "*Chuckles* Right... Yeah, no. I guess I don't watch a lot of television."
+    u "*Rire* Bien sûr... Ouais. Non, c'est vrai que je regarde pas beaucoup la Télé."

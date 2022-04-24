@@ -779,3 +779,10 @@ translate francais strings:
     # game/v2/scene18e.rpy:175
     old "Massage"
     new "Masser"
+# TODO: Translation updated at 2022-04-24 18:38
+
+# game/v2/scene18e.rpy:780
+translate francais v2s18e_nsfwSkipLabel1_abc5a6a4:
+
+    # u "(What a fucking party...) *Laughs*"
+    u "(Quelle putain de fête...) *Rire*"
