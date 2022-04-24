@@ -249,3 +249,58 @@ translate francais strings:
     # game/v1/scene53a.rpy:230
     old "Pull out"
     new "Retire-toi"
+# TODO: Translation updated at 2022-04-24 16:05
+
+# game/v1/scene53a.rpy:274
+translate francais v1s53a_122e9aef:
+
+    # u "You okay? *Chuckles*"
+    u "Tu vas bien ? *Rire*"
+
+# game/v1/scene53a.rpy:279
+translate francais v1s53a_01db0147:
+
+    # sa "*Mumbling* Mmm?"
+    sa "*Murmure* Mmm ?"
+
+# game/v1/scene53a.rpy:284
+translate francais v1s53a_f8d9abd8:
+
+    # u "Sam? Are you okay?"
+    u "Sam ? Tu vas bien ?"
+
+# game/v1/scene53a.rpy:289
+translate francais v1s53a_f0179cbe:
+
+    # sa "Yeah, perfect... I'm going to sleep now."
+    sa "Ouais, très bien... Je vais dormir maintenant."
+
+# game/v1/scene53a.rpy:294
+translate francais v1s53a_70100565:
+
+    # u "Ha, alright. Sleep tight, okay?"
+    u "Ha, bon. Fais de beaux rêves, okay ?"
+
+# game/v1/scene53a.rpy:299
+translate francais v1s53a_ad377f97:
+
+    # sa "Mhmm... I love you, [name]..."
+    sa "Mhmm... Je t'aime, [name]..."
+
+# game/v1/scene53a.rpy:304
+translate francais v1s53a_fc76400f:
+
+    # u "(Holy fuck... I don't even know how to reply to that.)"
+    u "(Putain de merde... je sais même pas quoi répondre à ça.)"
+
+# game/v1/scene53a.rpy:309
+translate francais v1s53a_4d3ae924:
+
+    # sa "*Soft snoring*"
+    sa "*Ronflement doux*"
+
+# game/v1/scene53a.rpy:311
+translate francais v1s53a_c99c30f7:
+
+    # u "(Haha, guess I don't have to. Let's get to bed.)"
+    u "(Haha, je crois que je suis inutile. Allons nous coucher.)"

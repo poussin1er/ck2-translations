@@ -225,3 +225,46 @@ translate francais strings:
     # game/v1/scene34.rpy:57
     old "See you soon!"
     new "À bientôt !"
+# TODO: Translation updated at 2022-04-24 16:05
+
+# game/v1/scene34.rpy:175
+translate francais v1s34_nsfwSkipLabel1_4f193132:
+
+    # pe "How about that really nice place, on Stevenson?"
+    pe "Que dirais-tu de cet endroit très sympa, sur Stevenson ?"
+
+# game/v1/scene34.rpy:181
+translate francais v1s34_nsfwSkipLabel1_de6379e0:
+
+    # u "They aren't closed?"
+    u "Ils sont pas fermés ?"
+
+# game/v1/scene34.rpy:186
+translate francais v1s34_nsfwSkipLabel1_b3896001:
+
+    # pe "Nope! They stay open pretty late."
+    pe "Nan ! Ils sont ouverts assez tard."
+
+# game/v1/scene34.rpy:191
+translate francais v1s34_nsfwSkipLabel1_f537ecdf:
+
+    # u "Sounds like a plan, then. Meet you there in twenty?"
+    u "On fait comme ça, alors. On se retrouve là-bas dans vingt minutes ?"
+
+# game/v1/scene34.rpy:196
+translate francais v1s34_nsfwSkipLabel1_d784d5a1:
+
+    # pe "Yes. Sounds perfect."
+    pe "Oui, c'est parfait."
+
+# game/v1/scene34.rpy:201
+translate francais v1s34_nsfwSkipLabel1_1622f4d2:
+
+    # u "Alright. Bye."
+    u "Parfait. À tout de suite."
+
+# game/v1/scene34.rpy:206
+translate francais v1s34_nsfwSkipLabel1_56e69898:
+
+    # pe "*Chuckles* Bye."
+    pe "*Rire* À tout de suite."

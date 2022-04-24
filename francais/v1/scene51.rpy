@@ -837,3 +837,10 @@ translate francais strings:
     # game/v1/scene51.rpy:543
     old "Don't peek"
     new "Ne pas mater"
+# TODO: Translation updated at 2022-04-24 16:05
+
+# game/v1/scene51.rpy:864
+translate francais v1s51Chloe_PhoneContinue_bccb21a3:
+
+    # li "*Whispers* I'm sure I can get it open, this is crazy!"
+    li "*Chuchote* C'est fou, je suis sûre de pouvoir l'ouvrir !"

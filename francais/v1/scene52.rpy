@@ -431,3 +431,10 @@ translate francais strings:
     # game/v1/scene52.rpy:385
     old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... Please text me back, ASAP"
     new "Salut, toi. Je commence à m'inquiéter de pas t'avoir vu dans le coin. Fais-moi au moins savoir qu'il t'a pas fait de mal... S'il te plaît, réponds-moi par texto, dès que possible"
+# TODO: Translation updated at 2022-04-24 16:05
+
+# game/v1/scene52.rpy:44
+translate francais v1s52_ef21f737:
+
+    # u "Oh. (Nora? Fight King? What could possibly be happening now?)"
+    u "Oh. (Nora ? Fight king ? Qu'est-ce qu'il se passe encore ?)"

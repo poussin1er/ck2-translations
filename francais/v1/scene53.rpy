@@ -619,3 +619,10 @@ translate francais strings:
     # game/v1/scene53.rpy:594
     old "Don't take your pants off"
     new "N'enlève pas ton pantalon"
+# TODO: Translation updated at 2022-04-24 16:05
+
+# game/v1/scene53.rpy:205
+translate francais v1s53_9b7fa09f:
+
+    # sa "Oh, don't be. You did the right thing. I just like to rebel. *Chuckles*"
+    sa "Oh, le sois pas. T'as fait ce qu'il fallait. C'est juste que j'aime être rebelle. *Rire*"
