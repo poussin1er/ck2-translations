@@ -243,119 +243,118 @@ translate francais strings:
 translate francais v3s3a_nsfwSkipLabel1_ca988ecd:
 
     # ri "I hope you feel nice and relaxed now."
-    ri ""
+    ri "J'espère que maintenant, tu te sens mieux et détendu."
 
 # game/v3/scene3a.rpy:152
 translate francais v3s3a_nsfwSkipLabel1_7156b3a8:
 
     # u "Oh, my God. I can't even explain how relaxing that was, haha."
-    u ""
+    u "Oh, merde. Je peux même pas dire à quel point c'était relaxant, haha."
 
 # game/v3/scene3a.rpy:157
 translate francais v3s3a_nsfwSkipLabel1_9d8d881f:
 
     # ri "I'm glad. I love pleasing you."
-    ri ""
+    ri "Je suis heureuse. J'aime te faire plaisir."
 
 # game/v3/scene3a.rpy:167
 translate francais v3s3a_nsfwSkipLabel1_b7bddc6f:
 
     # u "Haha, well thank you. But, I also like pleasing you."
-    u ""
+    u "Haha, eh bien merci. Mais moi aussi, j'aime te faire plaisir."
 
 # game/v3/scene3a.rpy:172
 translate francais v3s3a_nsfwSkipLabel1_470957df:
 
     # ri "Well, how is this gonna work then?"
-    ri ""
+    ri "Alors, comment peut-on organiser ça ?"
 
 # game/v3/scene3a.rpy:177
 translate francais v3s3a_nsfwSkipLabel1_1dfa59d3:
 
     # u "I guess we'll have to fight over who pleases who every time."
-    u ""
+    u "J'imagine qu'on va devoir se battre pour savoir qui fait plaisir à qui à chaque fois."
 
 # game/v3/scene3a.rpy:182
 translate francais v3s3a_nsfwSkipLabel1_e113fa58:
 
     # ri "Hmm... We can always take turns."
-    ri ""
+    ri "Hmm... On pourrait envisager de se relayer."
 
 # game/v3/scene3a.rpy:187
 translate francais v3s3a_nsfwSkipLabel1_d812ec80:
 
     # u "Eh, or we could fight about it. *Laughs*"
-    u ""
+    u "Eh, ou alors on pourrait se chamailler pour ça. *Rire*"
 
 # game/v3/scene3a.rpy:192
 translate francais v3s3a_nsfwSkipLabel1_5c94830a:
 
     # ri "Haha, okay, that sounds fun too."
-    ri ""
+    ri "Haha, ok, ça aussi ça a l'air sympa."
 
 # game/v3/scene3a.rpy:203
 translate francais v3s3a_nsfwSkipLabel1_8dc75497:
 
     # u "Well, I just so happen to like being pleased."
-    u ""
+    u "Eh bien, il se trouve que j'aime être satisfait."
 
 # game/v3/scene3a.rpy:208
 translate francais v3s3a_nsfwSkipLabel1_1beb3a7d:
 
     # ri "*Gasps* No way! What are the odds? *Giggles*"
-    ri ""
+    ri "*Soupirs* Pas moyen ! Quelles sont les chances ? *Ricane*"
 
 # game/v3/scene3a.rpy:213
 translate francais v3s3a_nsfwSkipLabel1_d03143bf:
 
     # u "One in a million?"
-    u ""
+    u "Une sur un million ?"
 
 # game/v3/scene3a.rpy:218
 translate francais v3s3a_nsfwSkipLabel1_1167c3aa:
 
     # ri "I know I am."
-    ri ""
+    ri "Je sais que j'ai gagné, alors. *Rire*"
 
 # game/v3/scene3a.rpy:244
 translate francais v3s3a_nsfwSkipLabel1_d36a2a4c:
 
     # u "Alright well, I know this is going to sound lame, but I really need to get home. Tomorrow's another big day."
-    u ""
+    u "Bon, je sais que ça peut paraître nul, mais j'ai vraiment besoin de rentrer à la maison. Demain est encore un grand jour."
 
 # game/v3/scene3a.rpy:249
 translate francais v3s3a_nsfwSkipLabel1_135b8492:
 
     # ri "Yeah, no problem. Nurse Riley has done her job, hehe."
-    ri ""
+    ri "Ouais, pas de problème. L'infirmière Riley a rempli sa mission, héhé."
 
 # game/v3/scene3a.rpy:254
 translate francais v3s3a_nsfwSkipLabel1_e392c1bf:
 
     # u "One hell of a job. I don't know if I'll ever experience that feeling again."
-    u ""
+    u "Du très bon travail. Je sais pas si un jour je retrouverai cette sensation."
 
 # game/v3/scene3a.rpy:259
 translate francais v3s3a_nsfwSkipLabel1_ef1dec95:
 
     # ri "Haha... Guess I'll have to step up my game next time?"
-    ri ""
+    ri "Haha... Tu crois que je devrai améliorer mon travail, la prochaine fois ?"
 
 # game/v3/scene3a.rpy:264
 translate francais v3s3a_nsfwSkipLabel1_e500e382:
 
     # u "I'm already looking forward to it."
-    u ""
+    u "Je suis impatient de voir ce que ça donnera."
 
 # game/v3/scene3a.rpy:274
 translate francais v3s3a_nsfwSkipLabel1_05c7a440:
 
     # u "Goodnight, Nurse Riley."
-    u ""
+    u "Bonne nuit, infirmière Riley"
 
 # game/v3/scene3a.rpy:279
 translate francais v3s3a_nsfwSkipLabel1_848edceb:
 
     # ri "Goodnight, my hero! *Chortles*"
-    ri ""
-
+    ri "Bonne nuit, mon héros ! *Glousse*"

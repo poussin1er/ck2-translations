@@ -29,11 +29,10 @@ translate francais v3s41_d67e4f2e:
 translate francais v3s41_94d9704b:
 
     # u "(And then there were four... What am I doing out here? *Laughs* I need to start being extra careful around my ladies...)"
-    u ""
+    u "(Et puis il y en a eu quatre... Qu'est-ce que je fous, là ? *Rire* Je vais devoir commencer à faire très attention avec mes copines...)"
 
 # game/v3/scene41.rpy:35
 translate francais v3s41_e4e95bb9:
 
     # u "(Is multiple girlfriends a thing? Now I'm just asking for trouble, haha! *Sighs*)"
-    u ""
-
+    u "(Est-ce qu'avoir de multiples petites amies multiples est une chose courante ? On dirait que je cherche les ennuis, haha ! *Soupirs*)"

@@ -715,11 +715,10 @@ translate francais strings:
 translate francais v3s48a_nsfwSkipLabel1_a3af4d7a:
 
     # u "(Ah, fuck. My neck hurts sleeping like that.)"
-    u ""
+    u "(Ah, merde. J'ai mal au cou à force de dormir comme ça.)"
 
 # game/v3/scene48a.rpy:684
 translate francais v3s48a_nsfwSkipLabel1_51ba1ea4:
 
     # u "(She's still asleep. I think this'll be a good time for me to head home.)"
-    u ""
-
+    u "(Elle dort encore. Je crois que c'est le bon moment pour rentrer à la maison.)"

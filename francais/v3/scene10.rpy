@@ -433,65 +433,64 @@ translate francais strings:
 translate francais v3s10_nsfwSkipLabel1_1550164a:
 
     # u "(Shit! Did she hear me?)"
-    u ""
+    u "(Merde ! Elle m'a entendu ?)"
 
 # game/v3/scene10.rpy:354
 translate francais v3s10_nsfwSkipLabel1_0511725e:
 
     # u "(Oh god, please tell me she didn't see anything.)"
-    u ""
+    u "(Oh merde, dites-moi qu'elle n'a rien vu.)"
 
 # game/v3/scene10.rpy:359
 translate francais v3s10_nsfwSkipLabel1_ca02652a:
 
     # la "*Whispers* I hope you enjoyed that as much as I did."
-    la ""
+    la "*Chuchote* J'espère que tu as apprécié autant que moi."
 
 # game/v3/scene10.rpy:364
 translate francais v3s10_nsfwSkipLabel1_6968ab96:
 
     # u "*Whispers* What was that all about, you sexy freak?"
-    u ""
+    u "*Chuchote* C'était quoi tout ça, espèce de monstre en chaleur ?"
 
 # game/v3/scene10.rpy:369
 translate francais v3s10_nsfwSkipLabel1_3013adb6:
 
     # la "*Soft giggle* Just having a little fun, that's all."
-    la ""
+    la "*Doux ricanement* Je m'amuse un peu, c'est tout."
 
 # game/v3/scene10.rpy:374
 translate francais v3s10_nsfwSkipLabel1_1d844a22:
 
     # u "(She's gonna be the death of me. Lauren of all people. Damn.)"
-    u ""
+    u "(Elle va être responsable de ma mort. De toutes les filles, c'est Lauren qui va me tuer. Merde.)"
 
 # game/v3/scene10.rpy:385
 translate francais v3s10_nsfwSkipLabel1_35b77351:
 
     # u "(I'd better concentrate now. I hate being called out like that...)"
-    u ""
+    u "(Je dois me concentrer maintenant. Je déteste qu'on m'appelle comme ça...)"
 
 # game/v3/scene10.rpy:396
 translate francais v3s10_nsfwSkipLabel1_2d6ea62d:
 
     # ro "See, that wasn't so bad, huh? You all survived."
-    ro ""
+    ro "Vous voyez, ce n'était pas si mal, hein ? Vous avez tous survécu."
 
 # game/v3/scene10.rpy:401
 translate francais v3s10_nsfwSkipLabel1_19808145:
 
     # ro "And if I'm lucky, some of you learned a thing or two as well."
-    ro ""
+    ro "Et si j'ai de la chance, certains d'entre vous ont également appris une chose ou deux."
 
 # game/v3/scene10.rpy:418
 translate francais v3s10_nsfwSkipLabel1_e7d1d59f:
 
     # la "Next time, I want you inside of me."
-    la ""
+    la "La prochaine fois, je te veux en moi."
 
 # game/v3/scene10.rpy:424
 translate francais v3s10_nsfwSkipLabel1_5249f987:
 
     # la "I hope you plan on making it up to me later."
-    la ""
-
+    la "J'espère que tu as l'intention de te rattraper plus tard."

@@ -1071,53 +1071,52 @@ translate francais strings:
 translate francais v3s14_06792917:
 
     # no "But, um, let's maybe cool it on the PDAs."
-    no ""
+    no "Mais, euh, on va se calmer un peu avec les gestes d'affection."
 
 # game/v3/scene14.rpy:47
 translate francais v3s14_819a510c:
 
     # u "Uh... okay?"
-    u ""
+    u "Euh... d'accord ?"
 
 # game/v3/scene14.rpy:52
 translate francais v3s14_5922cc54:
 
     # no "*Sighs* Look, [name], it's not you."
-    no ""
+    no "*Soupirs* Écoute, [name], c'est pas ta faute."
 
 # game/v3/scene14.rpy:54
 translate francais v3s14_d2a0d92d:
 
     # no "I'm in a really weird headspace with relationships right now. Chris and I literally just broke up. If people found out you and I are dating..."
-    no ""
+    no "Je suis dans un état d'esprit vraiment bizarre avec les relations en ce moment. Chris et moi venons littéralement de rompre. Si les gens découvraient que toi et moi on sort ensemble..."
 
 # game/v3/scene14.rpy:59
 translate francais v3s14_5c07e14d:
 
     # no "Everyone would make such a big deal about it. And I know it'll upset Chris, even if he doesn't say anything."
-    no ""
+    no "Tout le monde en ferait toute une histoire. Et je sais que ça contrarierait Chris, même s'il ne dit rien."
 
 # game/v3/scene14.rpy:64
 translate francais v3s14_653cc3ef:
 
     # u "Yeah, but he'll find out eventually."
-    u ""
+    u "Oui, mais il finira par le découvrir."
 
 # game/v3/scene14.rpy:69
 translate francais v3s14_af165dfc:
 
     # no "I know. But, can we just please take it slow and keep it private for now?"
-    no ""
+    no "Je sais. Mais est-ce qu'on pourrait y aller doucement et garder ça privé pour l'instant ?"
 
 # game/v3/scene14.rpy:74
 translate francais v3s14_c97dcec5:
 
     # u "Of course, Nora."
-    u ""
+    u "Bien sûr, Nora."
 
 # game/v3/scene14.rpy:76
 translate francais v3s14_ff2f147f:
 
     # u "(Well that sucks, can't even kiss my own girlfriend, at least in the light of day.)"
-    u ""
-
+    u "(Eh ben, ça craint, je peux même pas embrasser ma propre petite amie, à la lumière du jour en tout cas.)"

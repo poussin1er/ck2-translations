@@ -904,7 +904,7 @@ translate francais v3s23_75d6d265:
 translate francais v3s23_aa197342:
 
     # am "*Scoffs*"
-    am "*se moque*"
+    am "*Rire moqueur*"
 
 # game/v3/scene23.rpy:878
 translate francais v3s23_7f7c00c3:
@@ -1045,293 +1045,292 @@ translate francais strings:
 translate francais v3s23_nsfwSkipLabel1_26cd774c:
 
     # u "Aw, is it over already?"
-    u ""
+    u "Oooh, c'est déjà fini ?"
 
 # game/v3/scene23.rpy:699
 translate francais v3s23_nsfwSkipLabel1_46a44b2f:
 
     # am "Afraid so. I need to go find some actual paying customers."
-    am ""
+    am "J'ai bien peur que oui. J'dois aller voir les clients qui paient vraiment."
 
 # game/v3/scene23.rpy:711
 translate francais v3s23_nsfwSkipLabel1_f4dcce9d:
 
     # u "I appreciate the freebie. I really enjoyed watching you."
-    u ""
+    u "J'ai bien aimé le cadeau gratuit. Te regarder était un plaisir."
 
 # game/v3/scene23.rpy:716
 translate francais v3s23_nsfwSkipLabel1_f1267060:
 
     # am "You're most welcome. But next time you're going to pay me, haha."
-    am ""
+    am "Je t'en prie. Mais la prochaine fois, faudra que tu payes, haha."
 
 # game/v3/scene23.rpy:724
 translate francais v3s23_nsfwSkipLabel1_672c0b2a:
 
     # u "Aww, come on. Can't you get back up there for another twenty minutes or so?"
-    u ""
+    u "Oooh, allez. Tu peux pas remonter encore une vingtaine de minutes ?"
 
 # game/v3/scene23.rpy:729
 translate francais v3s23_nsfwSkipLabel1_0bba7c8a:
 
     # am "Haha, fuck off. You need to get that wallet out if you want any more out of me."
-    am ""
+    am "Haha, va te faire foutre. Tu vas devoir sortir le portefeuille, si tu veux en avoir plus de moi."
 
 # game/v3/scene23.rpy:736
 translate francais v3s23_nsfwSkipLabel1_6e4607bc:
 
     # am "Come on. Out you go. I'm sure you can find some other girl to strip for you for free."
-    am ""
+    am "Allez. Va-t'en. Je suis sûre que tu pourras trouver une autre jeune fille prête à se déshabiller gratuitement pour toi."
 
 # game/v3/scene23.rpy:741
 translate francais v3s23_nsfwSkipLabel1_e05eaa60:
 
     # u "Haha, fingers crossed."
-    u ""
+    u "Haha, je croise les doigts."
 
 # game/v3/scene23.rpy:746
 translate francais v3s23_nsfwSkipLabel1_6b9dd23a:
 
     # am "Thanks again for bringing my charger."
-    am ""
+    am "Merci encore pour mon chargeur."
 
 # game/v3/scene23.rpy:751
 translate francais v3s23_nsfwSkipLabel1_1ca16874:
 
     # u "No problem."
-    u ""
+    u "Aucun problème."
 
 # game/v3/scene23.rpy:772
 translate francais v3s23_nsfwSkipLabel1_321eda02:
 
     # u "Am I getting a preview?"
-    u ""
+    u "J'ai droit à un aperçu ?"
 
 # game/v3/scene23.rpy:777
 translate francais v3s23_nsfwSkipLabel1_6e223dfb:
 
     # am "Haha, no! Just testing my balance in these heels."
-    am ""
+    am "Haha, non ! Je teste juste mon équilibre avec ces talons."
 
 # game/v3/scene23.rpy:787
 translate francais v3s23_nsfwSkipLabel1_cd53e7e0:
 
     # am "Should be good."
-    am ""
+    am "Ça devrait être bon."
 
 # game/v3/scene23.rpy:798
 translate francais v3s23_nsfwSkipLabel1_b72a7993:
 
     # u "You know, seeing you like this tonight, I'm starting to get flashbacks to Lauren's party."
-    u ""
+    u "Tu sais, en te voyant comme ça ce soir, je commence à avoir des flashbacks de la fête de Lauren."
 
 # game/v3/scene23.rpy:803
 translate francais v3s23_nsfwSkipLabel1_9f84b39f:
 
     # am "Haha! I was just helping you out with that list, [name]. It was a one-time deal."
-    am ""
+    am "Haha ! J'faisais que t'aider avec ta liste, [name]. C'était une action exceptionnelle."
 
 # game/v3/scene23.rpy:808
 translate francais v3s23_nsfwSkipLabel1_d249e223:
 
     # am "No blowjobs happening in the private booth."
-    am ""
+    am "Pas d'pipes dans la cabine privée."
 
 # game/v3/scene23.rpy:813
 translate francais v3s23_nsfwSkipLabel1_d32a2c8e:
 
     # u "Ha, no, I didn't mean-"
-    u ""
+    u "Ha, non, je disais pas-"
 
 # game/v3/scene23.rpy:818
 translate francais v3s23_nsfwSkipLabel1_c1b687c7:
 
     # am "I know what you meant. Don't worry."
-    am ""
+    am "J'vois c'que tu voulais dire. T'inquiète pas."
 
 # game/v3/scene23.rpy:820
 translate francais v3s23_nsfwSkipLabel1_4e133386:
 
     # am "But the guys here are always trying to pay me to blow them or fuck them."
-    am ""
+    am "Mais les mecs d'ici essaient toujours de me payer pour que j'les suce ou les baise."
 
 # game/v3/scene23.rpy:826
 translate francais v3s23_nsfwSkipLabel1_9c39361c:
 
     # am "It's hard to manoeuver sometimes with all the guys here always trying to get me to blow them or fuck them."
-    am ""
+    am "C'est parfois dur d'gérer les choses avec tous les gars d'ici, qui essaient toujours d'faire en sorte que j'les suce ou que j'les baise."
 
 # game/v3/scene23.rpy:831
 translate francais v3s23_nsfwSkipLabel1_221aaf89:
 
     # u "Really? Doesn't that get annoying?"
-    u ""
+    u "Sérieux ? Ça devient pas chiant ?"
 
 # game/v3/scene23.rpy:836
 translate francais v3s23_nsfwSkipLabel1_bf556e47:
 
     # am "Of course it gets annoying. But the money I go home with in my pocket is worth having to fake a smile during their bullshit."
-    am ""
+    am "Bien sûr, c'est chiant. Mais tout l'fric que j'ramène chez moi vaut la peine de faire semblant d'sourire pendant leurs conneries."
 
 # game/v3/scene23.rpy:838
 translate francais v3s23_nsfwSkipLabel1_e529b6a1:
 
     # am "Cause I'd never do anything besides dancing for any of them. No matter how much fucking money they offer."
-    am ""
+    am "Parce que j'ferais jamais rien d'autre que danser pour eux. Peu importe l'putain d'fric qu'ils proposent."
 
 # game/v3/scene23.rpy:848
 translate francais v3s23_nsfwSkipLabel1_30a27d24:
 
     # u "As long as it's still what you want to do, you've got my support."
-    u ""
+    u "Aussi longtemps que tu voudras continuer à faire ça, t'auras mon soutien."
 
 # game/v3/scene23.rpy:853
 translate francais v3s23_nsfwSkipLabel1_70dd5c5a:
 
     # am "Ha, thanks, [name]."
-    am ""
+    am "Oh, merci, [name]."
 
 # game/v3/scene23.rpy:858
 translate francais v3s23_nsfwSkipLabel1_e21655b2:
 
     # u "I know you can handle yourself."
-    u ""
+    u "Je sais que tu peux gérer tes problèmes."
 
 # game/v3/scene23.rpy:863
 translate francais v3s23_nsfwSkipLabel1_4ad5067f:
 
     # am "Yeah, I know a few different ways to punish a guy..."
-    am ""
+    am "Ouais, j'connais pas mal d'façons différentes d'punir un mec..."
 
 # game/v3/scene23.rpy:869
 translate francais v3s23_nsfwSkipLabel1_ccb10c6d:
 
     # u "Amber, I know I supported you in the beginning of this..."
-    u ""
+    u "Amber, je sais que je t'ai soutenu au début de tout ça..."
 
 # game/v3/scene23.rpy:870
 translate francais v3s23_nsfwSkipLabel1_426afb6b:
 
     # u "But you shouldn't have to deal with all these creeps just because you make a good amount of money."
-    u ""
+    u "Mais tu devrais pas avoir à gérer tous ces sales types, juste parce que tu gagnes beaucoup de fric."
 
 # game/v3/scene23.rpy:875
 translate francais v3s23_nsfwSkipLabel1_75d6d265:
 
     # u "I don't think this is good for you."
-    u ""
+    u "Je crois que c'est pas bon pour toi."
 
 # game/v3/scene23.rpy:880
 translate francais v3s23_nsfwSkipLabel1_aa197342:
 
     # am "*Scoffs*"
-    am ""
+    am "*Rire moqueur*"
 
 # game/v3/scene23.rpy:885
 translate francais v3s23_nsfwSkipLabel1_7f7c00c3:
 
     # u "What if someone tries to hurt you? At least at Lew's you were safe and it was decent."
-    u ""
+    u "Et si quelqu'un essayait de te faire du mal ? Au moins chez Lew's, t'étais en sécurité et c'était correct."
 
 # game/v3/scene23.rpy:890
 translate francais v3s23_nsfwSkipLabel1_a15265c1:
 
     # am "I wouldn't say it was decent."
-    am ""
+    am "J'dirais pas que c'était \"correct\"."
 
 # game/v3/scene23.rpy:895
 translate francais v3s23_nsfwSkipLabel1_dc8d070b:
 
     # u "But still, you didn't have to deal with guys trying to pay you to fuck them. Maybe you should try to get your job back."
-    u ""
+    u "Mais quand même, t'avais pas à faire face à des mecs qui essayaient de te payer pour les baiser. Tu devrais peut-être essayer de récupérer ton travail."
 
 # game/v3/scene23.rpy:900
 translate francais v3s23_nsfwSkipLabel1_03d58299:
 
     # am "What? Why the hell would I do that?"
-    am ""
+    am "Quoi ? Mais putain, pourquoi j'ferais ça ?"
 
 # game/v3/scene23.rpy:905
 translate francais v3s23_nsfwSkipLabel1_8dd0188c:
 
     # am "I like it here, [name]. I get to be whoever I want to be. And I can be a different person every night if I wanted to."
-    am ""
+    am "J'aime cet endroit, [name]. J'peux être qui j'veux. Et j'peux être une personne différente chaque soir, si j'veux."
 
 # game/v3/scene23.rpy:910
 translate francais v3s23_nsfwSkipLabel1_5043e1d3:
 
     # u "But Amber-"
-    u ""
+    u "Mais Amber-"
 
 # game/v3/scene23.rpy:915
 translate francais v3s23_nsfwSkipLabel1_74491552:
 
     # am "Don't try to convince me to quit, [name]. I'm not interested in hearing it."
-    am ""
+    am "Cherche pas à m'pousser à quitter c'taf, [name]. J'ai pas envie d'entendre ça."
 
 # game/v3/scene23.rpy:920
 translate francais v3s23_nsfwSkipLabel1_e82be77b:
 
     # u "(Fuck, I should've known that'd piss her off. I'm just worried about her here... It's gross.)"
-    u ""
+    u "(Putain, j'aurais du me rendre compte que ça la mettrait en colère. Je suis tout de même inquiet de la voir là... C'est vulgaire.)"
 
 # game/v3/scene23.rpy:926
 translate francais v3s23_nsfwSkipLabel1_4654e305:
 
     # am "Anyways, I should probably go back to work."
-    am ""
+    am "Bref, j'vais devoir retourner au travail."
 
 # game/v3/scene23.rpy:931
 translate francais v3s23_nsfwSkipLabel1_94033a44:
 
     # u "Yeah, okay. I'll leave you to it."
-    u ""
+    u "Ouais, ok. Je vais te laisser travailler."
 
 # game/v3/scene23.rpy:936
 translate francais v3s23_nsfwSkipLabel1_6b9dd23a_1:
 
     # am "Thanks again for bringing my charger."
-    am ""
+    am "Merci encore pour mon chargeur."
 
 # game/v3/scene23.rpy:941
 translate francais v3s23_nsfwSkipLabel1_c8a051a0:
 
     # u "Anytime, just call."
-    u ""
+    u "De rien, il suffit de m'appeler."
 
 # game/v3/scene23.rpy:977
 translate francais v3s23_nsfwSkipLabel1_04e93a54:
 
     # ds "Ahhh... The seal has been broken!"
-    ds ""
+    ds "Ahhh... La vanne s'est ouverte !"
 
 # game/v3/scene23.rpy:982
 translate francais v3s23_nsfwSkipLabel1_310d84f2:
 
     # u "(What a dickhead.)"
-    u ""
+    u "(Quel connard.)"
 
 # game/v3/scene23.rpy:991
 translate francais v3s23_nsfwSkipLabel1_133da4f0:
 
     # u "Hey dickhead!"
-    u ""
+    u "Hey Connard !"
 
 # game/v3/scene23.rpy:1003
 translate francais v3s23_nsfwSkipLabel1_0a927265:
 
     # u "Don't ever speak to a woman like you did in there again. You hear me?"
-    u ""
+    u "Parle plus jamais à une femme comme tu l'as fait là-bas. T'as compris ?"
 
 # game/v3/scene23.rpy:1008
 translate francais v3s23_nsfwSkipLabel1_31fd5ba8:
 
     # ds "*Crying* W-wh-where's my mommy..."
-    ds ""
+    ds "*Pleure* M-m-maman, t'es où ?"
 
 # game/v3/scene23.rpy:1016
 translate francais v3s23_nsfwSkipLabel1_ed608bf3:
 
     # u "(The dude's already drunk out of his mind, I'll let him go this time. Can't promise that no one else won't kick his ass tonight, haha.)"
-    u ""
-
+    u "(Ce mec est déjà complètement bourré, je vais le laisser tranquille pour cette fois. Par contre, je peux pas garantir que personne lui éclatera la gueule ce soir, haha.)"
