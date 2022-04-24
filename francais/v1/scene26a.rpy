@@ -353,3 +353,11 @@ translate francais v1s26a_d0b38712:
 
     # u "(It's a sad day for honesty.)"
     u "(C'est un triste jour pour l'honnêteté.)"
+# TODO: Translation updated at 2022-04-24 15:31
+
+# game/v1/scene26a.rpy:62
+translate francais v1s26a_97cec1a8:
+
+    # li "So far most of what I could sell was to my family. *Sighs*"
+    li ""
+
