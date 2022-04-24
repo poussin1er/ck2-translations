@@ -1039,3 +1039,299 @@ translate francais strings:
     # game/v3/scene23.rpy:977
     old "Give him a break"
     new "Le laisser tranquille"
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v3/scene23.rpy:694
+translate francais v3s23_nsfwSkipLabel1_26cd774c:
+
+    # u "Aw, is it over already?"
+    u ""
+
+# game/v3/scene23.rpy:699
+translate francais v3s23_nsfwSkipLabel1_46a44b2f:
+
+    # am "Afraid so. I need to go find some actual paying customers."
+    am ""
+
+# game/v3/scene23.rpy:711
+translate francais v3s23_nsfwSkipLabel1_f4dcce9d:
+
+    # u "I appreciate the freebie. I really enjoyed watching you."
+    u ""
+
+# game/v3/scene23.rpy:716
+translate francais v3s23_nsfwSkipLabel1_f1267060:
+
+    # am "You're most welcome. But next time you're going to pay me, haha."
+    am ""
+
+# game/v3/scene23.rpy:724
+translate francais v3s23_nsfwSkipLabel1_672c0b2a:
+
+    # u "Aww, come on. Can't you get back up there for another twenty minutes or so?"
+    u ""
+
+# game/v3/scene23.rpy:729
+translate francais v3s23_nsfwSkipLabel1_0bba7c8a:
+
+    # am "Haha, fuck off. You need to get that wallet out if you want any more out of me."
+    am ""
+
+# game/v3/scene23.rpy:736
+translate francais v3s23_nsfwSkipLabel1_6e4607bc:
+
+    # am "Come on. Out you go. I'm sure you can find some other girl to strip for you for free."
+    am ""
+
+# game/v3/scene23.rpy:741
+translate francais v3s23_nsfwSkipLabel1_e05eaa60:
+
+    # u "Haha, fingers crossed."
+    u ""
+
+# game/v3/scene23.rpy:746
+translate francais v3s23_nsfwSkipLabel1_6b9dd23a:
+
+    # am "Thanks again for bringing my charger."
+    am ""
+
+# game/v3/scene23.rpy:751
+translate francais v3s23_nsfwSkipLabel1_1ca16874:
+
+    # u "No problem."
+    u ""
+
+# game/v3/scene23.rpy:772
+translate francais v3s23_nsfwSkipLabel1_321eda02:
+
+    # u "Am I getting a preview?"
+    u ""
+
+# game/v3/scene23.rpy:777
+translate francais v3s23_nsfwSkipLabel1_6e223dfb:
+
+    # am "Haha, no! Just testing my balance in these heels."
+    am ""
+
+# game/v3/scene23.rpy:787
+translate francais v3s23_nsfwSkipLabel1_cd53e7e0:
+
+    # am "Should be good."
+    am ""
+
+# game/v3/scene23.rpy:798
+translate francais v3s23_nsfwSkipLabel1_b72a7993:
+
+    # u "You know, seeing you like this tonight, I'm starting to get flashbacks to Lauren's party."
+    u ""
+
+# game/v3/scene23.rpy:803
+translate francais v3s23_nsfwSkipLabel1_9f84b39f:
+
+    # am "Haha! I was just helping you out with that list, [name]. It was a one-time deal."
+    am ""
+
+# game/v3/scene23.rpy:808
+translate francais v3s23_nsfwSkipLabel1_d249e223:
+
+    # am "No blowjobs happening in the private booth."
+    am ""
+
+# game/v3/scene23.rpy:813
+translate francais v3s23_nsfwSkipLabel1_d32a2c8e:
+
+    # u "Ha, no, I didn't mean-"
+    u ""
+
+# game/v3/scene23.rpy:818
+translate francais v3s23_nsfwSkipLabel1_c1b687c7:
+
+    # am "I know what you meant. Don't worry."
+    am ""
+
+# game/v3/scene23.rpy:820
+translate francais v3s23_nsfwSkipLabel1_4e133386:
+
+    # am "But the guys here are always trying to pay me to blow them or fuck them."
+    am ""
+
+# game/v3/scene23.rpy:826
+translate francais v3s23_nsfwSkipLabel1_9c39361c:
+
+    # am "It's hard to manoeuver sometimes with all the guys here always trying to get me to blow them or fuck them."
+    am ""
+
+# game/v3/scene23.rpy:831
+translate francais v3s23_nsfwSkipLabel1_221aaf89:
+
+    # u "Really? Doesn't that get annoying?"
+    u ""
+
+# game/v3/scene23.rpy:836
+translate francais v3s23_nsfwSkipLabel1_bf556e47:
+
+    # am "Of course it gets annoying. But the money I go home with in my pocket is worth having to fake a smile during their bullshit."
+    am ""
+
+# game/v3/scene23.rpy:838
+translate francais v3s23_nsfwSkipLabel1_e529b6a1:
+
+    # am "Cause I'd never do anything besides dancing for any of them. No matter how much fucking money they offer."
+    am ""
+
+# game/v3/scene23.rpy:848
+translate francais v3s23_nsfwSkipLabel1_30a27d24:
+
+    # u "As long as it's still what you want to do, you've got my support."
+    u ""
+
+# game/v3/scene23.rpy:853
+translate francais v3s23_nsfwSkipLabel1_70dd5c5a:
+
+    # am "Ha, thanks, [name]."
+    am ""
+
+# game/v3/scene23.rpy:858
+translate francais v3s23_nsfwSkipLabel1_e21655b2:
+
+    # u "I know you can handle yourself."
+    u ""
+
+# game/v3/scene23.rpy:863
+translate francais v3s23_nsfwSkipLabel1_4ad5067f:
+
+    # am "Yeah, I know a few different ways to punish a guy..."
+    am ""
+
+# game/v3/scene23.rpy:869
+translate francais v3s23_nsfwSkipLabel1_ccb10c6d:
+
+    # u "Amber, I know I supported you in the beginning of this..."
+    u ""
+
+# game/v3/scene23.rpy:870
+translate francais v3s23_nsfwSkipLabel1_426afb6b:
+
+    # u "But you shouldn't have to deal with all these creeps just because you make a good amount of money."
+    u ""
+
+# game/v3/scene23.rpy:875
+translate francais v3s23_nsfwSkipLabel1_75d6d265:
+
+    # u "I don't think this is good for you."
+    u ""
+
+# game/v3/scene23.rpy:880
+translate francais v3s23_nsfwSkipLabel1_aa197342:
+
+    # am "*Scoffs*"
+    am ""
+
+# game/v3/scene23.rpy:885
+translate francais v3s23_nsfwSkipLabel1_7f7c00c3:
+
+    # u "What if someone tries to hurt you? At least at Lew's you were safe and it was decent."
+    u ""
+
+# game/v3/scene23.rpy:890
+translate francais v3s23_nsfwSkipLabel1_a15265c1:
+
+    # am "I wouldn't say it was decent."
+    am ""
+
+# game/v3/scene23.rpy:895
+translate francais v3s23_nsfwSkipLabel1_dc8d070b:
+
+    # u "But still, you didn't have to deal with guys trying to pay you to fuck them. Maybe you should try to get your job back."
+    u ""
+
+# game/v3/scene23.rpy:900
+translate francais v3s23_nsfwSkipLabel1_03d58299:
+
+    # am "What? Why the hell would I do that?"
+    am ""
+
+# game/v3/scene23.rpy:905
+translate francais v3s23_nsfwSkipLabel1_8dd0188c:
+
+    # am "I like it here, [name]. I get to be whoever I want to be. And I can be a different person every night if I wanted to."
+    am ""
+
+# game/v3/scene23.rpy:910
+translate francais v3s23_nsfwSkipLabel1_5043e1d3:
+
+    # u "But Amber-"
+    u ""
+
+# game/v3/scene23.rpy:915
+translate francais v3s23_nsfwSkipLabel1_74491552:
+
+    # am "Don't try to convince me to quit, [name]. I'm not interested in hearing it."
+    am ""
+
+# game/v3/scene23.rpy:920
+translate francais v3s23_nsfwSkipLabel1_e82be77b:
+
+    # u "(Fuck, I should've known that'd piss her off. I'm just worried about her here... It's gross.)"
+    u ""
+
+# game/v3/scene23.rpy:926
+translate francais v3s23_nsfwSkipLabel1_4654e305:
+
+    # am "Anyways, I should probably go back to work."
+    am ""
+
+# game/v3/scene23.rpy:931
+translate francais v3s23_nsfwSkipLabel1_94033a44:
+
+    # u "Yeah, okay. I'll leave you to it."
+    u ""
+
+# game/v3/scene23.rpy:936
+translate francais v3s23_nsfwSkipLabel1_6b9dd23a_1:
+
+    # am "Thanks again for bringing my charger."
+    am ""
+
+# game/v3/scene23.rpy:941
+translate francais v3s23_nsfwSkipLabel1_c8a051a0:
+
+    # u "Anytime, just call."
+    u ""
+
+# game/v3/scene23.rpy:977
+translate francais v3s23_nsfwSkipLabel1_04e93a54:
+
+    # ds "Ahhh... The seal has been broken!"
+    ds ""
+
+# game/v3/scene23.rpy:982
+translate francais v3s23_nsfwSkipLabel1_310d84f2:
+
+    # u "(What a dickhead.)"
+    u ""
+
+# game/v3/scene23.rpy:991
+translate francais v3s23_nsfwSkipLabel1_133da4f0:
+
+    # u "Hey dickhead!"
+    u ""
+
+# game/v3/scene23.rpy:1003
+translate francais v3s23_nsfwSkipLabel1_0a927265:
+
+    # u "Don't ever speak to a woman like you did in there again. You hear me?"
+    u ""
+
+# game/v3/scene23.rpy:1008
+translate francais v3s23_nsfwSkipLabel1_31fd5ba8:
+
+    # ds "*Crying* W-wh-where's my mommy..."
+    ds ""
+
+# game/v3/scene23.rpy:1016
+translate francais v3s23_nsfwSkipLabel1_ed608bf3:
+
+    # u "(The dude's already drunk out of his mind, I'll let him go this time. Can't promise that no one else won't kick his ass tonight, haha.)"
+    u ""
+

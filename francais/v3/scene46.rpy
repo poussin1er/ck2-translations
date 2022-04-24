@@ -226,7 +226,7 @@ translate francais v3s46_734d0bb7:
 translate francais v3s46_58ed2bab:
 
     # baby "*Screaming cries*"
-    baby "*Cris de pleurs*"
+    baby "*Crie en pleurant*"
 
 # game/v3/scene46.rpy:307
 translate francais v3s46_c5b5fbd8:

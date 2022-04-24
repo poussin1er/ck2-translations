@@ -215,3 +215,34 @@ translate francais test_frat_selection_eb382f0a:
 
     # u "or worse... sisters."
     u "ou pire... soeurs."
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/recap/recap01.rpy:20
+translate francais recap_start_92d2876d:
+
+    # narrator "I still remember my first day at San Vallejo College."
+    narrator "Je me souviens encore de mon premier jour à l'université San Vallejo."
+
+# game/recap/recap01.rpy:25
+translate francais recap_start_110e2fed:
+
+    # narrator "Young and naive, I had no idea how my life was about to change."
+    narrator "Jeune et naïf, je n'avais aucune idée de la façon dont ma vie allait changer."
+
+# game/recap/recap01.rpy:50
+translate francais recap_start_79e2d75d:
+
+    # narrator "All of the sudden, I could be whoever I wanted to be..."
+    narrator "D'un seul coup, je pouvais être qui je voulais..."
+
+# game/recap/recap01.rpy:119
+translate francais test_rep_screen_9d52cd73:
+
+    # u "That kinda leads me to the first huge decision I had to make that was going to shape my whole future."
+    u "Ce qui m'a amené à la première grande décision que j'ai dû prendre et qui allait façonner tout mon avenir."
+
+# game/recap/recap01.rpy:295
+translate francais test_frat_selection_0fc7cf7e:
+
+    # u "I had to decide who to pursue."
+    u "Je devais décider qui suivre."

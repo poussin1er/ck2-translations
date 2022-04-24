@@ -433,3 +433,431 @@ translate francais strings:
     # game/v14/scene33.rpy:109
     old "Get excited"
     new "S'exciter"
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v1/scene33.rpy:42
+translate francais v1s33_fcfea652:
+
+    # u "Hello?"
+    u ""
+
+# game/v1/scene33.rpy:50
+translate francais v1s33_0bb21bf1:
+
+    # la "Hey, babe. Did I wake you?"
+    la ""
+
+# game/v1/scene33.rpy:55
+translate francais v1s33_2a9aa7ee:
+
+    # u "Nope. What's up?"
+    u ""
+
+# game/v1/scene33.rpy:60
+translate francais v1s33_6efaf11c:
+
+    # la "Not much, I just miss you. I've been thinking about you all night..."
+    la ""
+
+# game/v1/scene33.rpy:68
+translate francais v1s33_eeb65c70:
+
+    # u "Want me to come over?"
+    u ""
+
+# game/v1/scene33.rpy:73
+translate francais v1s33_540fbac3:
+
+    # la "Haha, I wish."
+    la ""
+
+# game/v1/scene33.rpy:81
+translate francais v1s33_3023ec83:
+
+    # u "I miss you too."
+    u ""
+
+# game/v1/scene33.rpy:86
+translate francais v1s33_6681368a:
+
+    # la "I wish you could come over..."
+    la ""
+
+# game/v1/scene33.rpy:88
+translate francais v1s33_fdb215d6:
+
+    # la "But sadly, I have an early meeting with the Deers tomorrow."
+    la ""
+
+# game/v1/scene33.rpy:93
+translate francais v1s33_97a5fd20:
+
+    # u "Oh, haha."
+    u ""
+
+# game/v1/scene33.rpy:98
+translate francais v1s33_d27c56c2:
+
+    # la "Well... I was thinking about trying something."
+    la ""
+
+# game/v1/scene33.rpy:103
+translate francais v1s33_8a9b4409:
+
+    # u "Oh? What's that?"
+    u ""
+
+# game/v1/scene33.rpy:108
+translate francais v1s33_cdb15e75:
+
+    # la "I mean..."
+    la ""
+
+# game/v1/scene33.rpy:110
+translate francais v1s33_c190106c:
+
+    # la "I'm in bed naked, all alone, and I'm thinking I should try to watch some porn and..."
+    la ""
+
+# game/v1/scene33.rpy:112
+translate francais v1s33_f74ec78c:
+
+    # la "I don't know... See what it does for me?"
+    la ""
+
+# game/v1/scene33.rpy:120
+translate francais v1s33_ad4ff414:
+
+    # u "*Laughs* You've never watched porn before?"
+    u ""
+
+# game/v1/scene33.rpy:125
+translate francais v1s33_245fafff:
+
+    # la "Oh my gosh, don't laugh!"
+    la ""
+
+# game/v1/scene33.rpy:127
+translate francais v1s33_fc5051f7:
+
+    # la "And no, I haven't ever felt the need to but... I've been really curious."
+    la ""
+
+# game/v1/scene33.rpy:132
+translate francais v1s33_56da8b1e:
+
+    # u "Well, be sure to tell me how it goes."
+    u ""
+
+# game/v1/scene33.rpy:137
+translate francais v1s33_ca36bef3:
+
+    # la "I don't know if I want to now..."
+    la ""
+
+# game/v1/scene33.rpy:139
+translate francais v1s33_97f4e924:
+
+    # la "Kinda embarrassed, ha."
+    la ""
+
+# game/v1/scene33.rpy:144
+translate francais v1s33_ffba4cc1:
+
+    # u "No need to be embarrassed, haha. Enjoy yourself."
+    u ""
+
+# game/v1/scene33.rpy:149
+translate francais v1s33_da8f8794:
+
+    # la "I will. Just, um..."
+    la ""
+
+# game/v1/scene33.rpy:151
+translate francais v1s33_8f9adf2e:
+
+    # la "Just go back to whatever you were doing."
+    la ""
+
+# game/v1/scene33.rpy:156
+translate francais v1s33_e1b3a609:
+
+    # u "Will do. *Chuckles*"
+    u ""
+
+# game/v1/scene33.rpy:165
+translate francais v1s33_nsfwSkipLabelW_8daf9c19:
+
+    # u "(Lauren watching porn for the first time? Haha! I hope she didn't take that the wrong way... But, damn...)"
+    u ""
+
+# game/v1/scene33.rpy:183
+translate francais v1s33_nsfwSkipLabelW_05961626:
+
+    # u "Oh shit, now I really wish I was there."
+    u ""
+
+# game/v1/scene33.rpy:188
+translate francais v1s33_nsfwSkipLabelW_ed0edbae:
+
+    # la "We think a lot alike."
+    la ""
+
+# game/v1/scene33.rpy:193
+translate francais v1s33_nsfwSkipLabelW_7eef44d2:
+
+    # u "Do you know what you wanna watch?"
+    u ""
+
+# game/v1/scene33.rpy:198
+translate francais v1s33_nsfwSkipLabelW_cde9627e:
+
+    # la "Plenty!"
+    la ""
+
+# game/v1/scene33.rpy:203
+translate francais v1s33_nsfwSkipLabelW_6b33efe9:
+
+    # u "O-Oh! Well shit, I guess I'll let you go handle your biz."
+    u ""
+
+# game/v1/scene33.rpy:208
+translate francais v1s33_nsfwSkipLabelW_1d20df29:
+
+    # la "When we get together again, I wanna talk about it."
+    la ""
+
+# game/v1/scene33.rpy:213
+translate francais v1s33_nsfwSkipLabelW_feb397d2:
+
+    # u "Okay, sure. I'd like that."
+    u ""
+
+# game/v1/scene33.rpy:218
+translate francais v1s33_nsfwSkipLabelW_5f189f3e:
+
+    # la "Good Night!"
+    la ""
+
+# game/v1/scene33.rpy:227
+translate francais v1s33_nsfwSkipLabelW_5fea22a6:
+
+    # u "(Lauren is watching porn for the first time...)"
+    u ""
+
+# game/v1/scene33.rpy:279
+translate francais v1s33_nsfwSkipLabelW_fcfea652:
+
+    # u "Hello?"
+    u ""
+
+# game/v1/scene33.rpy:287
+translate francais v1s33_nsfwSkipLabelW_0bb21bf1:
+
+    # la "Hey, babe. Did I wake you?"
+    la ""
+
+# game/v1/scene33.rpy:292
+translate francais v1s33_nsfwSkipLabelW_2a9aa7ee:
+
+    # u "Nope. What's up?"
+    u ""
+
+# game/v1/scene33.rpy:297
+translate francais v1s33_nsfwSkipLabelW_6efaf11c:
+
+    # la "Not much, I just miss you. I've been thinking about you all night..."
+    la ""
+
+# game/v1/scene33.rpy:305
+translate francais v1s33_nsfwSkipLabelW_eeb65c70:
+
+    # u "Want me to come over?"
+    u ""
+
+# game/v1/scene33.rpy:310
+translate francais v1s33_nsfwSkipLabelW_540fbac3:
+
+    # la "Haha, I wish."
+    la ""
+
+# game/v1/scene33.rpy:317
+translate francais v1s33_nsfwSkipLabelW_3023ec83:
+
+    # u "I miss you too."
+    u ""
+
+# game/v1/scene33.rpy:322
+translate francais v1s33_nsfwSkipLabelW_6681368a:
+
+    # la "I wish you could come over..."
+    la ""
+
+# game/v1/scene33.rpy:324
+translate francais v1s33_nsfwSkipLabelW_fdb215d6:
+
+    # la "But sadly, I have an early meeting with the Deers tomorrow."
+    la ""
+
+# game/v1/scene33.rpy:329
+translate francais v1s33_nsfwSkipLabelW_97a5fd20:
+
+    # u "Oh, haha."
+    u ""
+
+# game/v1/scene33.rpy:334
+translate francais v1s33_nsfwSkipLabelW_d27c56c2:
+
+    # la "Well... I was thinking about trying something."
+    la ""
+
+# game/v1/scene33.rpy:339
+translate francais v1s33_nsfwSkipLabelW_8a9b4409:
+
+    # u "Oh? What's that?"
+    u ""
+
+# game/v1/scene33.rpy:344
+translate francais v1s33_nsfwSkipLabelW_cdb15e75:
+
+    # la "I mean..."
+    la ""
+
+# game/v1/scene33.rpy:346
+translate francais v1s33_nsfwSkipLabelW_c190106c:
+
+    # la "I'm in bed naked, all alone, and I'm thinking I should try to watch some porn and..."
+    la ""
+
+# game/v1/scene33.rpy:348
+translate francais v1s33_nsfwSkipLabelW_f74ec78c:
+
+    # la "I don't know... See what it does for me?"
+    la ""
+
+# game/v1/scene33.rpy:356
+translate francais v1s33_nsfwSkipLabelW_ad4ff414:
+
+    # u "*Laughs* You've never watched porn before?"
+    u ""
+
+# game/v1/scene33.rpy:361
+translate francais v1s33_nsfwSkipLabelW_245fafff:
+
+    # la "Oh my gosh, don't laugh!"
+    la ""
+
+# game/v1/scene33.rpy:363
+translate francais v1s33_nsfwSkipLabelW_fc5051f7:
+
+    # la "And no, I haven't ever felt the need to but... I've been really curious."
+    la ""
+
+# game/v1/scene33.rpy:368
+translate francais v1s33_nsfwSkipLabelW_56da8b1e:
+
+    # u "Well, be sure to tell me how it goes."
+    u ""
+
+# game/v1/scene33.rpy:373
+translate francais v1s33_nsfwSkipLabelW_ca36bef3:
+
+    # la "I don't know if I want to now..."
+    la ""
+
+# game/v1/scene33.rpy:375
+translate francais v1s33_nsfwSkipLabelW_97f4e924:
+
+    # la "Kinda embarrassed, ha."
+    la ""
+
+# game/v1/scene33.rpy:380
+translate francais v1s33_nsfwSkipLabelW_ffba4cc1:
+
+    # u "No need to be embarrassed, haha. Enjoy yourself."
+    u ""
+
+# game/v1/scene33.rpy:385
+translate francais v1s33_nsfwSkipLabelW_da8f8794:
+
+    # la "I will. Just, um..."
+    la ""
+
+# game/v1/scene33.rpy:387
+translate francais v1s33_nsfwSkipLabelW_8f9adf2e:
+
+    # la "Just go back to whatever you were doing."
+    la ""
+
+# game/v1/scene33.rpy:392
+translate francais v1s33_nsfwSkipLabelW_5d02055e:
+
+    # u "Will do."
+    u ""
+
+# game/v1/scene33.rpy:399
+translate francais v1s33_nsfwSkipLabelW_8daf9c19_1:
+
+    # u "(Lauren watching porn for the first time? Haha! I hope she didn't take that the wrong way... But, damn...)"
+    u ""
+
+# game/v1/scene33.rpy:416
+translate francais v1s33_nsfwSkipLabelW_05961626_1:
+
+    # u "Oh shit, now I really wish I was there."
+    u ""
+
+# game/v1/scene33.rpy:421
+translate francais v1s33_nsfwSkipLabelW_ed0edbae_1:
+
+    # la "We think a lot alike."
+    la ""
+
+# game/v1/scene33.rpy:426
+translate francais v1s33_nsfwSkipLabelW_7eef44d2_1:
+
+    # u "Do you know what you wanna watch?"
+    u ""
+
+# game/v1/scene33.rpy:431
+translate francais v1s33_nsfwSkipLabelW_cde9627e_1:
+
+    # la "Plenty!"
+    la ""
+
+# game/v1/scene33.rpy:436
+translate francais v1s33_nsfwSkipLabelW_6b33efe9_1:
+
+    # u "O-Oh! Well shit, I guess I'll let you go handle your biz."
+    u ""
+
+# game/v1/scene33.rpy:441
+translate francais v1s33_nsfwSkipLabelW_1d20df29_1:
+
+    # la "When we get together again, I wanna talk about it."
+    la ""
+
+# game/v1/scene33.rpy:446
+translate francais v1s33_nsfwSkipLabelW_feb397d2_1:
+
+    # u "Okay, sure. I'd like that."
+    u ""
+
+# game/v1/scene33.rpy:451
+translate francais v1s33_nsfwSkipLabelW_5f189f3e_1:
+
+    # la "Good Night!"
+    la ""
+
+# game/v1/scene33.rpy:462
+translate francais v1s33_nsfwSkipLabelA_5fea22a6:
+
+    # u "(Lauren is watching porn for the first time...)"
+    u ""
+
+translate francais strings:
+
+    # game/v1/scene33.rpy:114
+    old "Laugh"
+    new ""
+

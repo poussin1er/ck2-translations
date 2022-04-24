@@ -4,465 +4,464 @@
 translate francais v3s71a_2040d93d:
 
     # u "Oh, wow. Did you plan this?"
-    u ""
+    u "Oh, waouh. T'avais planifié ça ?"
 
 # game/v3/scene71a.rpy:37
 translate francais v3s71a_5d56fbef:
 
     # pe "*Giggles* Maybe."
-    pe ""
+    pe "*Ricane* Peut-être."
 
 # game/v3/scene71a.rpy:45
 translate francais v3s71a_a11bc80f:
 
     # pe "I slipped this on without you seeing it this morning."
-    pe ""
+    pe "J'ai enfilé ça sans que tu le voies, ce matin."
 
 # game/v3/scene71a.rpy:52
 translate francais v3s71a_fd3201ed:
 
     # u "I approve."
-    u ""
+    u "J'adore."
 
 # game/v3/scene71a.rpy:107
 translate francais v3s71a_neck_78c5752e:
 
     # pe "Mmm, yeah, I like that."
-    pe ""
+    pe "Mmm, oui, j'adore ça."
 
 # game/v3/scene71a.rpy:112
 translate francais v3s71a_neck_2c1af0da:
 
     # pe "I cannot get enough of your kisses, [name]."
-    pe ""
+    pe "Je me lasse pas de tes baisers, [name]."
 
 # game/v3/scene71a.rpy:117
 translate francais v3s71a_neck_bf4aca94:
 
     # pe "Mmm, this is making me so... horny."
-    pe ""
+    pe "Mmm, ça m'excite tellement...."
 
 # game/v3/scene71a.rpy:124
 translate francais v3s71a_neck_26aaac98:
 
     # pe "*Gasps*"
-    pe ""
+    pe "*Soupire*"
 
 # game/v3/scene71a.rpy:126
 translate francais v3s71a_neck_ed895f81:
 
     # pe "Oh... *Moans*"
-    pe ""
+    pe "Ah... *Gémis*"
 
 # game/v3/scene71a.rpy:131
 translate francais v3s71a_neck_0433e828:
 
     # u "You like that?"
-    u ""
+    u "Tu aimes ça ?"
 
 # game/v3/scene71a.rpy:136
 translate francais v3s71a_neck_9228c6ad:
 
     # pe "I-I do."
-    pe ""
+    pe "J-j'aime ça, oui."
 
 # game/v3/scene71a.rpy:138
 translate francais v3s71a_neck_c76696ab:
 
     # pe "I want you to take control."
-    pe ""
+    pe "Je veux que tu prennes le contrôle"
 
 # game/v3/scene71a.rpy:154
 translate francais v3s71a_boobs_6a7af402:
 
     # pe "Do you like my boobs?"
-    pe ""
+    pe "Tu aimes ma poitrine ?"
 
 # game/v3/scene71a.rpy:159
 translate francais v3s71a_boobs_75d65a3c:
 
     # u "Yeah, a lot."
-    u ""
+    u "Oui, énormément."
 
 # game/v3/scene71a.rpy:164
 translate francais v3s71a_boobs_0e7764d5:
 
     # pe "*Giggles* I like it when you play with them."
-    pe ""
+    pe "*Ricane* J'adore quand tu joues avec eux."
 
 # game/v3/scene71a.rpy:166
 translate francais v3s71a_boobs_06752751:
 
     # pe "Mmm..."
-    pe ""
+    pe "Mmm..."
 
 # game/v3/scene71a.rpy:173
 translate francais v3s71a_boobs_9de2824c:
 
     # pe "Oh, fuck... your mouth feels so good."
-    pe ""
+    pe "Oh, putain... ta bouche est si agréable."
 
 # game/v3/scene71a.rpy:178
 translate francais v3s71a_boobs_970dbf05:
 
     # u "Mm-hmm."
-    u ""
+    u "Mm-hmm."
 
 # game/v3/scene71a.rpy:180
 translate francais v3s71a_boobs_06752751_1:
 
     # pe "Mmm..."
-    pe ""
+    pe "Mmm..."
 
 # game/v3/scene71a.rpy:185
 translate francais v3s71a_boobs_89ef46fa:
 
     # pe "You're making me really wet, [name]."
-    pe ""
+    pe "Tu me fais mouiller, [name]."
 
 # game/v3/scene71a.rpy:190
 translate francais v3s71a_boobs_dda57172:
 
     # u "Am I?"
-    u ""
+    u "C'est vrai ?"
 
 # game/v3/scene71a.rpy:195
 translate francais v3s71a_boobs_d02680a4:
 
     # pe "Yes, and you need to do something about it."
-    pe ""
+    pe "Oui, et tu vas devoir faire quelque chose pour y remédier."
 
 # game/v3/scene71a.rpy:212
 translate francais v3s71a_feet_290e1285:
 
     # pe "Ooh, a foot massage?"
-    pe ""
+    pe "Ooh, un massage des pieds ?"
 
 # game/v3/scene71a.rpy:214
 translate francais v3s71a_feet_83401da3:
 
     # pe "You're really spoiling me, [name]. *Giggles*"
-    pe ""
+    pe "Tu me gâtes vraiment, [name]. *Ricane*"
 
 # game/v3/scene71a.rpy:219
 translate francais v3s71a_feet_5459c68a:
 
     # u "I need to give you some attention before it's my turn."
-    u ""
+    u "Je dois te donner un peu d'attention avant que ça soit mon tour."
 
 # game/v3/scene71a.rpy:224
 translate francais v3s71a_feet_e7c7a247:
 
     # pe "Oh no... *Giggles* What are you going to do to me?"
-    pe ""
+    pe "Oh non... *Ricane* Qu'est-ce que tu vas me faire ?"
 
 # game/v3/scene71a.rpy:229
 translate francais v3s71a_feet_283950eb:
 
     # u "You're about to find out."
-    u ""
+    u "Tu vas bientôt le découvrir."
 
 # game/v3/scene71a.rpy:236
 translate francais v3s71a_feet_68d91ac3:
 
     # pe "Oh, fuck, [name]."
-    pe ""
+    pe "Oh, putain, [name]."
 
 # game/v3/scene71a.rpy:241
 translate francais v3s71a_feet_06752751:
 
     # pe "Mmm..."
-    pe ""
+    pe "Mmm..."
 
 # game/v3/scene71a.rpy:246
 translate francais v3s71a_feet_9aad438e:
 
     # pe "I didn't even know this would feel like this... *Gasps*"
-    pe ""
+    pe "Je ne savais même pas que ça pourrait faire cet effet... *Soupire*"
 
 # game/v3/scene71a.rpy:248
 translate francais v3s71a_feet_d80c4b63:
 
     # pe "That feels... amazing."
-    pe ""
+    pe "C'est une sensation... incroyable."
 
 # game/v3/scene71a.rpy:253
 translate francais v3s71a_feet_4d9ced00:
 
     # pe "*Moans* Oh, fuck."
-    pe ""
+    pe "*Gémis* Oh, putain."
 
 # game/v3/scene71a.rpy:272
 translate francais v3s71a_continue_b4296132:
 
     # u "I've been looking forward to this since the day I met you, Penelope."
-    u ""
+    u "J'attends ça avec impatience depuis le jour où je t'ai rencontré, Pénélope."
 
 # game/v3/scene71a.rpy:277
 translate francais v3s71a_continue_23e67163:
 
     # pe "Yeah, I've... *Gasps*"
-    pe ""
+    pe "Oui, j'ai... *Soupire*"
 
 # game/v3/scene71a.rpy:279
 translate francais v3s71a_continue_0b30e6d6:
 
     # pe "I've been waiting for this, too."
-    pe ""
+    pe "J'attendais ça aussi."
 
 # game/v3/scene71a.rpy:286
 translate francais v3s71a_continue_6b2d410d:
 
     # pe "And your dick is so fucking... big. *Moans*"
-    pe ""
+    pe "Et ta queue est si... grosse. *Gémis*"
 
 # game/v3/scene71a.rpy:291
 translate francais v3s71a_continue_c72d1e2d:
 
     # u "You like how it feels?"
-    u ""
+    u "Tu aimes cette sensation ?"
 
 # game/v3/scene71a.rpy:296
 translate francais v3s71a_continue_7d6cc93b:
 
     # pe "Mmhmm."
-    pe ""
+    pe "Mmhmm."
 
 # game/v3/scene71a.rpy:301
 translate francais v3s71a_continue_886662e0:
 
     # pe "I love it."
-    pe ""
+    pe "J'aime ça."
 
 # game/v3/scene71a.rpy:319
 translate francais v3s71a_continue_77954f23:
 
     # pe "Oh my - Fuck, [name], you're so strong!"
-    pe ""
+    pe "Oh pu- Putain, [name], tu es si puissant !"
 
 # game/v3/scene71a.rpy:330
 translate francais v3s71a_continue_9690d48b:
 
     # pe "Shiiit... You're so deep... *Gasps*"
-    pe ""
+    pe "Meeerde... T'es si profonde... *Soupire*"
 
 # game/v3/scene71a.rpy:335
 translate francais v3s71a_continue_c76e5714:
 
     # u "Your body is perfect."
-    u ""
+    u "Ton corps est parfait."
 
 # game/v3/scene71a.rpy:340
 translate francais v3s71a_continue_5853a1be:
 
     # u "You're so fucking hot, Penelope."
-    u ""
+    u "Putain, t'es si chaude, Pénélope."
 
 # game/v3/scene71a.rpy:345
 translate francais v3s71a_continue_043ee290:
 
     # pe "Mmm... Keep talking to me like that and I'm going to cum, [name]."
-    pe ""
+    pe "Mmm... Continue à me parler comme ça et je vais jouir, [name]."
 
 # game/v3/scene71a.rpy:361
 translate francais v3s71a_continue_af357043:
 
     # pe "Yes! *Moans* Fuck me on the Dean's chair..."
-    pe ""
+    pe "Oui ! *Gémis* Baise-moi sur la chaise de la Doyenne..."
 
 # game/v3/scene71a.rpy:366
 translate francais v3s71a_continue_f31d55e7:
 
     # u "*Grunts*"
-    u ""
+    u "*Grogne*"
 
 # game/v3/scene71a.rpy:368
 translate francais v3s71a_continue_85a8d8cf:
 
     # pe "*Panting* Oh, fuck..."
-    pe ""
+    pe "*Halète* Oh, putain..."
 
 # game/v3/scene71a.rpy:373
 translate francais v3s71a_continue_691a0a84:
 
     # pe "This feels so bad..."
-    pe ""
+    pe "C'est si mal..."
 
 # game/v3/scene71a.rpy:375
 translate francais v3s71a_continue_f6305479:
 
     # pe "We're being so naughty."
-    pe ""
+    pe "On est vraiment vilains."
 
 # game/v3/scene71a.rpy:380
 translate francais v3s71a_continue_cc34467f:
 
     # u "You like being naughty, huh?"
-    u ""
+    u "Tu aimes être vilaine, hein ?"
 
 # game/v3/scene71a.rpy:382
 translate francais v3s71a_continue_4530ff1c:
 
     # pe "Hehe... I do."
-    pe ""
+    pe "Héhé... Oui, j'aime ça."
 
 # game/v3/scene71a.rpy:384
 translate francais v3s71a_continue_9683c4a4:
 
     # pe "*Moans* Harder, [name]..."
-    pe ""
+    pe "*Gémis* Plus fort, [name]..."
 
 # game/v3/scene71a.rpy:389
 translate francais v3s71a_continue_e899735b:
 
     # u "Mmm, fuck! *Grunts*"
-    u ""
+    u "Mmm, putain ! *Grogne*."
 
 # game/v3/scene71a.rpy:391
 translate francais v3s71a_continue_f69240ff:
 
     # pe "I'm gonna cum!"
-    pe ""
+    pe "Je vais jouir !"
 
 # game/v3/scene71a.rpy:393
 translate francais v3s71a_continue_2538d506:
 
     # pe "I'm- *Moans*"
-    pe ""
+    pe "Je vais- *Gémis*."
 
 # game/v3/scene71a.rpy:395
 translate francais v3s71a_continue_4a90a228:
 
     # u "Cum for me."
-    u ""
+    u "Jouis pour moi."
 
 # game/v3/scene71a.rpy:402
 translate francais v3s71a_continue_be99658a:
 
     # pe "Oh... Fuuuck..."
-    pe ""
+    pe "Oh... PUTAIIIINNN..."
 
 # game/v3/scene71a.rpy:407
 translate francais v3s71a_continue_26aaac98:
 
     # pe "*Gasps*"
-    pe ""
+    pe "*Soupire*"
 
 # game/v3/scene71a.rpy:412
 translate francais v3s71a_continue_f886fba8:
 
     # u "I'm almost ready, too."
-    u ""
+    u "Moi aussi, je suis bientôt prêt."
 
 # game/v3/scene71a.rpy:417
 translate francais v3s71a_continue_61f31671:
 
     # pe "*Panting* Here, let me finish you off."
-    pe ""
+    pe "*Halète* Laisse-moi te finir."
 
 # game/v3/scene71a.rpy:422
 translate francais v3s71a_continue_d455098a:
 
     # u "Sit down."
-    u ""
+    u "Assied-toi."
 
 # game/v3/scene71a.rpy:429
 translate francais v3s71a_continue_095a2c2d:
 
     # pe "Yes sir."
-    pe ""
+    pe "Oui, monsieur."
 
 # game/v3/scene71a.rpy:442
 translate francais v3s71a_continue_0af5f87d:
 
     # u "*Groans* Holy..."
-    u ""
+    u "*Grogne* Bordel..."
 
 # game/v3/scene71a.rpy:444
 translate francais v3s71a_continue_802ab3f6:
 
     # u "Fuck, Penelope. You're so damn good..."
-    u ""
+    u "Putain, Pénélope. T'es vraiment bonne..."
 
 # game/v3/scene71a.rpy:446
 translate francais v3s71a_continue_d497862a:
 
     # pe "Mmhmm!"
-    pe ""
+    pe "Mmhmm !"
 
 # game/v3/scene71a.rpy:451
 translate francais v3s71a_continue_60c34cc9:
 
     # pe "*Gagging*"
-    pe ""
+    pe "*Halète*"
 
 # game/v3/scene71a.rpy:453
 translate francais v3s71a_continue_ad6872e1:
 
     # u "*Moans*"
-    u ""
+    u "*Gémis*"
 
 # game/v3/scene71a.rpy:455
 translate francais v3s71a_continue_e9c40f23:
 
     # u "Fuck..."
-    u ""
+    u "Suce..."
 
 # game/v3/scene71a.rpy:460
 translate francais v3s71a_continue_c403f86c:
 
     # u "Me..."
-    u ""
+    u "Moi..."
 
 # game/v3/scene71a.rpy:462
 translate francais v3s71a_continue_06752751:
 
     # pe "Mmm..."
-    pe ""
+    pe "Mmm..."
 
 # game/v3/scene71a.rpy:464
 translate francais v3s71a_continue_e8566cf3:
 
     # u "*Gasps* Fuck, I'm gonna cum..."
-    u ""
+    u "*Soupire* Putain, je vais jouir..."
 
 # game/v3/scene71a.rpy:469
 translate francais v3s71a_continue_60c34cc9_1:
 
     # pe "*Gagging*"
-    pe ""
+    pe "*Halète*"
 
 # game/v3/scene71a.rpy:476
 translate francais v3s71a_continue_7806afbc:
 
     # u "*Groans* Fuuuck..."
-    u ""
+    u "*Grogne* Putaiiinnn..."
 
 # game/v3/scene71a.rpy:491
 translate francais v3s71a_continue_b97b1c69:
 
     # pe "*Moans* Mmm..."
-    pe ""
+    pe "*Gémis* Mmm..."
 
 # game/v3/scene71a.rpy:500
 translate francais v3s71a_continue_57b7854e:
 
     # pe "Oh, shit! The door is open!"
-    pe ""
+    pe "Oh, merde ! La porte est ouverte !"
 
 # game/v3/scene71a.rpy:515
 translate francais v3_end_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 translate francais strings:
 
     # game/v3/scene71a.rpy:101
     old "Kiss neck"
-    new ""
+    new "Embrasser le cou"
 
     # game/v3/scene71a.rpy:101
     old "Choke her"
-    new ""
-
+    new "L'étrangler"

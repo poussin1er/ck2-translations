@@ -57,3 +57,40 @@ translate francais strings:
     # game/v14/scene14.rpy:43
     old "Right, you're probably asleep. When you read this, just meet me in the hall near Ms. Rose's classroom at 10."
     new "Bon, tu dois être en train de dormir. Quand tu liras ceci, retrouve-moi dans le hall près de la classe de Mme Rose à 10 heures."
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v1/scene14.rpy:23
+translate francais v1s14_3cd301c3:
+
+    # u "Mmm... Huh?"
+    u "Mmm... Hein ?"
+
+# game/v1/scene14.rpy:31
+translate francais v1s14_3f89b3b1:
+
+    # u "*Phone vibrates*"
+    u "*Le téléphone vibre*"
+
+# game/v1/scene14.rpy:39
+translate francais v1s14_3f89b3b1_1:
+
+    # u "*Phone vibrates*"
+    u "*Le téléphone vibre*"
+
+# game/v1/scene14.rpy:41
+translate francais v1s14_9d6ab971:
+
+    # u "(Who's blowing up my phone?)"
+    u "(Qui fait exploser mon téléphone ?)"
+
+# game/v1/scene14.rpy:50
+translate francais v1s14_19080ff1:
+
+    # u "(Fuck, what time is it now?)"
+    u "(Putain... Quelle heure il est, là ?)"
+
+# game/v1/scene14.rpy:55
+translate francais v1s14_f7af5aa1:
+
+    # u "Nine fifty ni- OH, SHIT!"
+    u "Neuf heures cinquante neu- OH, MERDE !"

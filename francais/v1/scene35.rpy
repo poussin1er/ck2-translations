@@ -19,3 +19,11 @@ translate francais strings:
     # game/v14/scene35.rpy:25
     old "Yeah, why not? ;) Penelope doesn't seem to be up, so I wanted to see if you'd want to come."
     new "Ouais, pourquoi pas ? ;) Pénélope n'a pas l'air d'être réveillée, alors je voulais savoir si tu voulais venir."
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v1/scene35.rpy:34
+translate francais v1s35_PhoneContinue_75118932:
+
+    # u "(I should reply to Jenny.)"
+    u ""
+

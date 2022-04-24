@@ -175,3 +175,107 @@ translate francais strings:
     # game/v14/scene49.rpy:79
     old "Yeah, sounds great"
     new "Ouais, maintenant."
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v1/scene49.rpy:15
+translate francais v1s49_b52502ba:
+
+    # u "(What do we have here?)"
+    u ""
+
+# game/v1/scene49.rpy:35
+translate francais v1s49Lindsey_PhoneContinue_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u ""
+
+# game/v1/scene49.rpy:42
+translate francais v1s49Lindsey_PhoneContinue_33671ad1:
+
+    # u "Hey, Lindsey."
+    u ""
+
+# game/v1/scene49.rpy:47
+translate francais v1s49Lindsey_PhoneContinue_433518ef:
+
+    # li "Hey, now is the perfect time. Text Chloe and tell her to meet you at Classico Cuisine."
+    li ""
+
+# game/v1/scene49.rpy:53
+translate francais v1s49Lindsey_PhoneContinue_93b710e4:
+
+    # u "Oh, right. Yeah."
+    u ""
+
+# game/v1/scene49.rpy:58
+translate francais v1s49Lindsey_PhoneContinue_62794ff8:
+
+    # li "I'll stay on the phone while you do it so we can make sure she actually takes the bait."
+    li ""
+
+# game/v1/scene49.rpy:63
+translate francais v1s49Lindsey_PhoneContinue_b8019a20:
+
+    # u "Okay, I'm texting her now."
+    u ""
+
+# game/v1/scene49.rpy:85
+translate francais v1s49Chloe_PhoneContinue_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u ""
+
+# game/v1/scene49.rpy:91
+translate francais v1s49Chloe_PhoneContinue_ceb12c3b:
+
+    # u "Okay, seems to me like she took the bait."
+    u ""
+
+# game/v1/scene49.rpy:96
+translate francais v1s49Chloe_PhoneContinue_3b0207b3:
+
+    # li "Okay, hang on."
+    li ""
+
+# game/v1/scene49.rpy:98
+translate francais v1s49Chloe_PhoneContinue_9e717813:
+
+    # li "..."
+    li ""
+
+# game/v1/scene49.rpy:100
+translate francais v1s49Chloe_PhoneContinue_19dedf50:
+
+    # li "Oh! I can hear her heading to the door now. I'm just checking out the window."
+    li ""
+
+# game/v1/scene49.rpy:102
+translate francais v1s49Chloe_PhoneContinue_9a33edf3:
+
+    # li "She's getting into an Uber! Nice!"
+    li ""
+
+# game/v1/scene49.rpy:107
+translate francais v1s49Chloe_PhoneContinue_c54fe661:
+
+    # u "Success!"
+    u ""
+
+# game/v1/scene49.rpy:112
+translate francais v1s49Chloe_PhoneContinue_66c3b853:
+
+    # li "Hurry here. Don't be long."
+    li ""
+
+# game/v1/scene49.rpy:117
+translate francais v1s49Chloe_PhoneContinue_884507e0:
+
+    # u "Okay, boss lady. *Chuckles*"
+    u ""
+
+# game/v1/scene49.rpy:129
+translate francais v1s49Chloe_PhoneContinue_e1887f70:
+
+    # u "(Time to commit the perfect crime.)"
+    u ""
+

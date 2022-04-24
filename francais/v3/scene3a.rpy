@@ -237,3 +237,125 @@ translate francais strings:
     # game/v3/scene3a.rpy:157
     old "I like being pleased"
     new "J'aime qu'on me fasse plaisir"
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v3/scene3a.rpy:147
+translate francais v3s3a_nsfwSkipLabel1_ca988ecd:
+
+    # ri "I hope you feel nice and relaxed now."
+    ri ""
+
+# game/v3/scene3a.rpy:152
+translate francais v3s3a_nsfwSkipLabel1_7156b3a8:
+
+    # u "Oh, my God. I can't even explain how relaxing that was, haha."
+    u ""
+
+# game/v3/scene3a.rpy:157
+translate francais v3s3a_nsfwSkipLabel1_9d8d881f:
+
+    # ri "I'm glad. I love pleasing you."
+    ri ""
+
+# game/v3/scene3a.rpy:167
+translate francais v3s3a_nsfwSkipLabel1_b7bddc6f:
+
+    # u "Haha, well thank you. But, I also like pleasing you."
+    u ""
+
+# game/v3/scene3a.rpy:172
+translate francais v3s3a_nsfwSkipLabel1_470957df:
+
+    # ri "Well, how is this gonna work then?"
+    ri ""
+
+# game/v3/scene3a.rpy:177
+translate francais v3s3a_nsfwSkipLabel1_1dfa59d3:
+
+    # u "I guess we'll have to fight over who pleases who every time."
+    u ""
+
+# game/v3/scene3a.rpy:182
+translate francais v3s3a_nsfwSkipLabel1_e113fa58:
+
+    # ri "Hmm... We can always take turns."
+    ri ""
+
+# game/v3/scene3a.rpy:187
+translate francais v3s3a_nsfwSkipLabel1_d812ec80:
+
+    # u "Eh, or we could fight about it. *Laughs*"
+    u ""
+
+# game/v3/scene3a.rpy:192
+translate francais v3s3a_nsfwSkipLabel1_5c94830a:
+
+    # ri "Haha, okay, that sounds fun too."
+    ri ""
+
+# game/v3/scene3a.rpy:203
+translate francais v3s3a_nsfwSkipLabel1_8dc75497:
+
+    # u "Well, I just so happen to like being pleased."
+    u ""
+
+# game/v3/scene3a.rpy:208
+translate francais v3s3a_nsfwSkipLabel1_1beb3a7d:
+
+    # ri "*Gasps* No way! What are the odds? *Giggles*"
+    ri ""
+
+# game/v3/scene3a.rpy:213
+translate francais v3s3a_nsfwSkipLabel1_d03143bf:
+
+    # u "One in a million?"
+    u ""
+
+# game/v3/scene3a.rpy:218
+translate francais v3s3a_nsfwSkipLabel1_1167c3aa:
+
+    # ri "I know I am."
+    ri ""
+
+# game/v3/scene3a.rpy:244
+translate francais v3s3a_nsfwSkipLabel1_d36a2a4c:
+
+    # u "Alright well, I know this is going to sound lame, but I really need to get home. Tomorrow's another big day."
+    u ""
+
+# game/v3/scene3a.rpy:249
+translate francais v3s3a_nsfwSkipLabel1_135b8492:
+
+    # ri "Yeah, no problem. Nurse Riley has done her job, hehe."
+    ri ""
+
+# game/v3/scene3a.rpy:254
+translate francais v3s3a_nsfwSkipLabel1_e392c1bf:
+
+    # u "One hell of a job. I don't know if I'll ever experience that feeling again."
+    u ""
+
+# game/v3/scene3a.rpy:259
+translate francais v3s3a_nsfwSkipLabel1_ef1dec95:
+
+    # ri "Haha... Guess I'll have to step up my game next time?"
+    ri ""
+
+# game/v3/scene3a.rpy:264
+translate francais v3s3a_nsfwSkipLabel1_e500e382:
+
+    # u "I'm already looking forward to it."
+    u ""
+
+# game/v3/scene3a.rpy:274
+translate francais v3s3a_nsfwSkipLabel1_05c7a440:
+
+    # u "Goodnight, Nurse Riley."
+    u ""
+
+# game/v3/scene3a.rpy:279
+translate francais v3s3a_nsfwSkipLabel1_848edceb:
+
+    # ri "Goodnight, my hero! *Chortles*"
+    ri ""
+

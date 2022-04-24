@@ -100,7 +100,7 @@ translate francais recap_msrose_questions_80568837:
 translate francais recap_msrose_questions_a7ec43f0:
 
     # u "and that kiss sealed the deal for a couple of amazing sex sessions!"
-    u "et ce baiser a permis de mettre en place une paire de magnifiques moments de plaisir !"
+    u "Et ce baiser a permis de mettre en place une paire de magnifiques moments de plaisir !"
 
 # game/recap/recap02.rpy:345
 translate francais recap_msrose_questions_e27a9ca2:
@@ -1065,3 +1065,134 @@ translate francais strings:
     # game/recap/recap02.rpy:1916
     old "Don't take things further"
     new "Ne pas aller plus loin"
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/recap/recap02.rpy:102
+translate francais recap_emily_questions_7d6f03c7:
+
+    # u "Things with Emily were very on and off. She was jealous of the attention I was getting from other girls and she wanted to stop seeing me."
+    u "Les relations avec Emily étaient très irrégulières. Elle était jalouse de l'attention que les autres filles me portaient et souhaitait cesser de me fréquenter."
+
+# game/recap/recap02.rpy:266
+translate francais recap_aubrey_questions_1ac411c0:
+
+    # u "Aubrey never thought of herself as the relationship type."
+    u "Aubrey ne s'est jamais imaginée comme étant du genre à entretenir une relation."
+
+# game/recap/recap02.rpy:268
+translate francais recap_aubrey_questions_f3122591:
+
+    # u "I thought I saw a romantic side in her but I didn't know if it would end well if I tried to push her in that direction."
+    u "Je pensais déceler un côté sentimental en elle, mais je ne savais pas si ça se terminerait bien si je cherchais à la pousser dans cette direction."
+
+# game/recap/recap02.rpy:279
+translate francais recap_aubrey_questions_8d36890e:
+
+    # u "She didn't take it seriously at first."
+    u "Au début, elle ne l'a pas pris au sérieux."
+
+# game/recap/recap02.rpy:284
+translate francais recap_aubrey_questions_508783c1:
+
+    # u "Though as we became closer, she began to come around to the idea."
+    u "Cependant, à mesure que nous nous rapprochions, elle a commencé à se faire à cette idée."
+
+# game/recap/recap02.rpy:289
+translate francais recap_aubrey_questions_d65706a4:
+
+    # u "But this is still new territory for us to explore."
+    u "Mais ça reste encore un nouveau territoire à explorer pour nous."
+
+# game/recap/recap02.rpy:297
+translate francais recap_aubrey_questions_a383a4cd:
+
+    # u "In the end, I didn't go for it. Our relationship wasn't very deep, but I liked what I had."
+    u "Finalement, je ne me suis pas lancé. Notre relation était peu approfondie, mais j'aimais ce que j'avais."
+
+# game/recap/recap02.rpy:610
+translate francais recap_riley_questions_ab18d836:
+
+    # u "She seemed to be hinting that she'd like some sexual experiences with other girls."
+    u "Elle laissait entendre qu'elle aimerait avoir des expériences sexuelles avec d'autres filles."
+
+# game/recap/recap02.rpy:963
+translate francais recap_ms_rose_questions_2067b6ca:
+
+    # u "She's my teacher, so no way is anything happening there. It would only lead to trouble anyway!"
+    u "C'est mon professeur, alors il est hors de question que quelque chose se passe ici. De toute façon, ça ne ferait que créer des problèmes !"
+
+# game/recap/recap02.rpy:971
+translate francais recap_ms_rose_questions_e3f84db7:
+
+    # u "Who doesn't want to bang the hottest teacher at SVC? You just have to believe it's possible."
+    u "Qui ne veut pas se taper la prof la plus sexy de la SVC ? Il suffit simplement de se dire que c'est possible."
+
+# game/recap/recap02.rpy:976
+translate francais recap_ms_rose_questions_983d60c0:
+
+    # u "I had the chance to kiss her, but it was a big play with a lot of risk."
+    u "J'ai eu la chance de l'embrasser, mais c'était une action très risquée."
+
+# game/recap/recap02.rpy:999
+translate francais recap_ms_rose_questions_f1dcccaa:
+
+    # u "On our Europe trip, the chance came up again."
+    u "Lors de notre voyage en Europe, l'occasion s'est de nouveau présentée."
+
+# game/recap/recap02.rpy:1004
+translate francais recap_ms_rose_questions_a028489b:
+
+    # u "She wanted to speak alone with me, and I could feel the sexual tension."
+    u "Elle voulait me parler en tête à tête, et je pouvais sentir la tension sexuelle qui se dégageait."
+
+# game/recap/recap02.rpy:1019
+translate francais recap_ms_rose_questions_80568837:
+
+    # u "I wasn't wrong about the sexual tension..."
+    u "Je ne m'étais pas trompée pour ce qui est de la tension sexuelle..."
+
+# game/recap/recap02.rpy:1024
+translate francais recap_ms_rose_questions_a7ec43f0:
+
+    # u "and that kiss sealed the deal for a couple of amazing sex sessions!"
+    u "Et ce baiser a permis de mettre en place une paire de magnifiques moments de plaisir !"
+
+# game/recap/recap02.rpy:1039
+translate francais recap_ms_rose_questions_e27a9ca2:
+
+    # u "What happens in Europe stays in Europe!"
+    u "Ce qui se passe en Europe reste en Europe !"
+
+# game/recap/recap02.rpy:1048
+translate francais recap_ms_rose_questions_b202e842:
+
+    # u "Okay, maybe I didn't feel so confident about that sexual tension after all."
+    u "Ok, peut-être que je ne me sentais pas si sûr de moi concernant cette tension sexuelle, après tout."
+
+# game/recap/recap02.rpy:1057
+translate francais recap_ms_rose_questions_450e1f10:
+
+    # u "Yeah, on second thoughts, I figured it would be best to stay out of that one."
+    u "Ouais, à bien y réfléchir, je me suis dit qu'il valait mieux éviter ce genre de situation."
+
+# game/recap/recap02.rpy:1223
+translate francais recap_chloe_questions_7ffe1683:
+
+    # u "She seemed to be considering my reputation all the time, whether I'm popular enough..."
+    u "Elle semble constamment considérer ma réputation, de savoir si je suis assez populaire..."
+
+# game/recap/recap02.rpy:1228
+translate francais recap_chloe_questions_f3822d52:
+
+    # u "And I think I've been relegated to the friend zone."
+    u "Et je crois bien avoir été relégué dans la friend zone."
+
+translate francais strings:
+
+    # game/recap/recap02.rpy:270
+    old "Try being romantic"
+    new "Essayer d'être romantique"
+
+    # game/recap/recap02.rpy:270
+    old "Stay FWB"
+    new "Rester ami avec bénéfices"

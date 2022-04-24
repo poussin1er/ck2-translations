@@ -22,7 +22,7 @@ translate francais v3s47_68995f1f:
 translate francais v3s47_81c0fb14:
 
     # no "Look who it is, [v3_baby_name]! It's your daddy!"
-    no "Regarde qui c'est, [v3_nom_du_bébé] ! C'est ton papa !"
+    no "Regarde qui c'est, [v3_baby_name] ! C'est ton papa !"
 
 # game/v3/scene47.rpy:60
 translate francais v3s47_4c1d8e0c:

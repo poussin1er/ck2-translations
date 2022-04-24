@@ -4,5 +4,4 @@
 translate francais v3s66_a784cfdb:
 
     # u "(I hope I haven't missed the start of Polly's performance...)"
-    u ""
-
+    u "(J'espère que j'ai pas manqué le début du concert de Polly...)"

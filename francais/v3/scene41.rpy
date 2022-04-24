@@ -23,3 +23,17 @@ translate francais v3s41_d67e4f2e:
 
     # u "(Two girlfriends... Now I'm just asking for trouble, haha! *Sighs*)"
     u "(Deux petites amies... On dirait que je cherche les embrouilles, haha ! *Soupirs*.)"
+# TODO: Translation updated at 2022-04-22 01:18
+
+# game/v3/scene41.rpy:28
+translate francais v3s41_94d9704b:
+
+    # u "(And then there were four... What am I doing out here? *Laughs* I need to start being extra careful around my ladies...)"
+    u ""
+
+# game/v3/scene41.rpy:35
+translate francais v3s41_e4e95bb9:
+
+    # u "(Is multiple girlfriends a thing? Now I'm just asking for trouble, haha! *Sighs*)"
+    u ""
+
