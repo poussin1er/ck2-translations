@@ -613,3 +613,22 @@ translate francais strings:
     # game/v1/scene20.rpy:443
     old "It was nice catching up"
     new "C'était sympa de rattraper le temps perdu"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene20.rpy:82
+translate francais v1s20_6f83ce42:
+
+    # aut "We didn't really. We just had some major renovations and they also renamed the place."
+    aut "Ce n'est pas vraiment le cas. On a juste fait de grosses rénovations et ils ont aussi renommé les locaux."
+
+# game/v1/scene20.rpy:282
+translate francais v1s20_c8d59096:
+
+    # aut "So... We're setting up for the re-opening on Saturday, don't forget!"
+    aut "Donc... On se prépare pour la réouverture de samedi, n'oublie pas !"
+
+# game/v1/scene20.rpy:470
+translate francais v1s20_01d95b70:
+
+    # aut "So, I might shoot you a text on Friday and see if you're free? To help at the shelter on Saturday?"
+    aut "Alors, je pourrais t'envoyer un SMS vendredi et voir si tu es libre, pour aider au refuge le samedi ?"

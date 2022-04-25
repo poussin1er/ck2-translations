@@ -153,3 +153,28 @@ translate francais strings:
     # game/v1/scene15.rpy:112
     old "It's idiotic"
     new "Complètement con"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene15.rpy:22
+translate francais v1s15_bb349984:
+
+    # u "(Holy... shit. This is serious!)"
+    u "(Putain... de... merde... C'est du sérieux, tout ça !)"
+
+# game/v1/scene15.rpy:42
+translate francais v1s15_88446de6:
+
+    # u "(I can see why Chloe was freaking out now. I don't see a single Chloe poster. She must feel like she can't compete or has already lost.)"
+    u "(Je comprends maintenant pourquoi Chloé paniquait... Je vois pas une seule affiche d'elle. Elle doit avoir l'impression de pas pouvoir rivaliser ou d'avoir déjà perdu.)"
+
+# game/v1/scene15.rpy:145
+translate francais v1s15_26c6f3ac:
+
+    # imre "There's no doubt in my mind that this is what Chris would want me to be doing. So, if you'll excuse me, I'll be getting back to impressing the pretty woma-"
+    imre "Y a aucun doute dans mon esprit que c'est c'que Chris voudrait qu'je fasse. Alors, si tu veux bien m'excuser, j'vais retourner impressionner les jolies fem-"
+
+# game/v1/scene15.rpy:160
+translate francais v1s15_3d1a9aee:
+
+    # u "(That man is a whole ass character, but I think he has more than one reason why he's on Chloe's side. *Laughs*)"
+    u "(Ce mec est un vrai personnage.... Mais je crois qu'il a plus d'une raison d'être du côté de Chloé. *Rire*)"

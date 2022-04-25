@@ -47,3 +47,10 @@ translate francais v1s14a_f7af5aa1:
 
     # u "Nine fifty ni- OH, SHIT!"
     u "Neuf heures cinquante neu- OH, MERDE !"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene14a.rpy:54
+translate francais v1s14a_19080ff1:
+
+    # u "(Fuck, what time is it now?)"
+    u "(Putain, il est quelle heure, là ?)"

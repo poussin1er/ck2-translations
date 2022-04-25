@@ -251,3 +251,16 @@ translate francais v1s18_0947c62f:
 
     # u "(Well, oddly enough, it's time to go help Chloe.)"
     u "(Bizarrement, il est temps pour moi d'aller aider Chloé.)"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene18.rpy:52
+translate francais v1s18_45c9194d:
+
+    # u "Seems like you have all the help you need. I don't see much of Chloe anywhere. *Chuckles*"
+    u "On dirait que t'as toute l'aide dont t'as besoin. Je vois pas beaucoup de Chloé nulle part. *Rire*"
+
+# game/v1/scene18.rpy:62
+translate francais v1s18_d7012555:
+
+    # u "Ha, alright. Just don't work yourself too hard."
+    u "Ha, d'accord. Mais ne travaille pas trop dur."

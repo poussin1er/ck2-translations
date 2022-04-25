@@ -107,3 +107,16 @@ translate francais v1s13a_1eb0edab:
 
     # u "(Jet lag recovery begins in five... four... three... two...-)"
     u "(Récupération du décalage horaire, mise à feu dans cinq... quatre... trois... deux...-)"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene13a.rpy:12
+translate francais v1s13a_646b1da4:
+
+    # u "(Look at that beautiful bed. Oh, the things I'm gonna do to you.)"
+    u "(Regardez-moi ce lit magnifique. Oh, j'imagine déjà toutes les choses que je vais pouvoir te faire.)"
+
+# game/v1/scene13a.rpy:72
+translate francais v1s13a_425fc94d:
+
+    # gr "*Sniffs* There's a smell of change in the air. And you need to be ready."
+    gr "*Snif* Ça sent le changement dans l'air. Et tu dois être prêt."

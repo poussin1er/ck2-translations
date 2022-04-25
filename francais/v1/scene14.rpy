@@ -57,3 +57,10 @@ translate francais strings:
     # game/v1/scene14.rpy:43
     old "Right, you're probably asleep. When you read this, just meet me in the hall near Ms. Rose's classroom at 10."
     new "Bon, tu dois être en train de dormir. Quand t'auras lu ça, retrouve-moi dans le hall, près de la classe de Mme Rose à 10 heures."
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene14.rpy:50
+translate francais v1s14_19080ff1:
+
+    # u "(Fuck, what time is it now?)"
+    u "(Putain, il est quelle heure, là ?)"

@@ -214,7 +214,7 @@ translate francais v1s17_6783479b:
 translate francais v1s17_455826d3:
 
     # la "I really wish you hadn't done the things that you did... You know?"
-    la "J'aurais vraiment aimé que tu n'aies pas fait toutes ces bêtises... Tu sais ?"
+    la "J'aurais vraiment aimé que tu n'aies pas fait toutes ces bêtises... Tu comprends ?"
 
 # game/v1/scene17.rpy:234
 translate francais v1s17_3f38af09:
@@ -851,3 +851,172 @@ translate francais strings:
     # game/v1/scene17.rpy:476
     old "Help Lindsey"
     new "Aider Lindsey"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene17.rpy:17
+translate francais v1s17_8b37e5e7:
+
+    # u "(Umm, this is different.)"
+    u "(Hum, ça a changé...)"
+
+# game/v1/scene17.rpy:57
+translate francais v1s17_5b93783a:
+
+    # u "That's pretty messed up to call Lauren the class clown behind her back."
+    u "C'est assez déplacé d'appeler Lauren \"le clown de la classe\" derrière son dos."
+
+# game/v1/scene17.rpy:63
+translate francais v1s17_c1b6d0b2:
+
+    # ro "*Laughs* And you continue to find new ways to make me laugh."
+    ro "*Rire* Et tu continues à trouver de nouvelles façons de me faire rire."
+
+# game/v1/scene17.rpy:98
+translate francais v1s17_0bd34811:
+
+    # u "(Hot damn, I like when she does that sneaky shit, haha.)"
+    u "(Putain de merde. j'aime bien quand elle fait ce genre de trucs sournois, haha.)"
+
+# game/v1/scene17.rpy:114
+translate francais v1s17_574851b5_1:
+
+    # u "Yes, ma'am."
+    u "Oui, m'dame."
+
+# game/v1/scene17.rpy:153
+translate francais v1s17_faa6c7c9:
+
+    # la "...or flattered because that just means you consider me responsible."
+    la "...ou flattée parce que ça veut dire que tu me trouves responsable."
+
+# game/v1/scene17.rpy:171
+translate francais v1s17_b9917154:
+
+    # u "Really? I think you're laughing."
+    u "Vraiment ? Pourtant, je vois que tu rigoles."
+
+# game/v1/scene17.rpy:183
+translate francais v1s17_8f1b2d56:
+
+    # u "Responsible would be an understatement. I've never seen you focus on anything other than your future."
+    u "Responsable serait un euphémisme. Je t'ai jamais vu te concentrer sur autre chose que ton avenir."
+
+# game/v1/scene17.rpy:193
+translate francais v1s17_657f9369:
+
+    # u "Hah. Just stating facts."
+    u "Ha... Je fais que constater les faits."
+
+# game/v1/scene17.rpy:195
+translate francais v1s17_3c56f6f8:
+
+    # u "And might also be trying to tell you that you should get out more, in the most subtle way possible of course."
+    u "Et pourrait aussi essayer de te conseiller de sortir davantage, de la manière la plus subtile possible bien sûr."
+
+# game/v1/scene17.rpy:229
+translate francais v1s17_7d8535f6:
+
+    # la "I really wish you hadn't done the things that you did, you know?"
+    la "J'aurais vraiment aimé que tu n'aies pas fait toutes ces bêtises... Tu comprends ?"
+
+# game/v1/scene17.rpy:253
+translate francais v1s17_89621d57:
+
+    # la "I've moved on from it regardless though, so..."
+    la "Mais... J'ai malgré tout tourné la page... Alors..."
+
+# game/v1/scene17.rpy:307
+translate francais v1s17_d3a7625f:
+
+    # la "Let's... put this off for today, yeah?"
+    la "Allons... Laissons ça de côté pour aujourd'hui, tu veux bien ?"
+
+# game/v1/scene17.rpy:312
+translate francais v1s17_0382dfcb:
+
+    # u "*Scoffs* Easy for you to say! You were basically partnered with me to teach me. You already know all of this stuff."
+    u "*Rire moqueur* Facile à dire pour toi ! En gros, t'as fait équipe avec moi pour pouvoir m'enseigner tout ça... Toi, tu les maîtrises déjà parfaitement."
+
+# game/v1/scene17.rpy:327
+translate francais v1s17_6e907b39:
+
+    # u "Well, thanks. How do you have the TA notes?"
+    u "Eh bien, merci. Comment as-tu obtenu les notes de la déléguée ?"
+
+# game/v1/scene17.rpy:341
+translate francais v1s17_a38771b2:
+
+    # u "Ooooohhh. *Coughs* Nerd! *Coughs*"
+    u "Ooooohhh... *Toux* Nerd ! *Toux*"
+
+# game/v1/scene17.rpy:351
+translate francais v1s17_e0b78c5f:
+
+    # u "I mean, damn. Look at you getting in nice and good with the people on the inside."
+    u "Enfin, merde... Regarde-toi, tu t'entends bien avec les gens de cette communauté."
+
+# game/v1/scene17.rpy:384
+translate francais v1s17_12b2eddf:
+
+    # la "No, we can talk."
+    la "Non... On peut discuter."
+
+# game/v1/scene17.rpy:389
+translate francais v1s17_639c088a:
+
+    # u "Ooooh, about what?"
+    u "Ooooh... À propos de quoi ?"
+
+# game/v1/scene17.rpy:414
+translate francais v1s17_fffbf995:
+
+    # la "A girl named Lauren."
+    la "Une fille nommée Lauren."
+
+# game/v1/scene17.rpy:419
+translate francais v1s17_89180842:
+
+    # u "Oh, wow, I see... (Lindsey really has been busy.)"
+    u "Oh, wow, je vois... (Lindsey a donc vraiment été très active.)"
+
+# game/v1/scene17.rpy:454
+translate francais v1s17_ab3107d1:
+
+    # la "Exactly, it's all kinda crazy right now."
+    la "Tout juste, c'est un peu la folie en ce moment."
+
+# game/v1/scene17.rpy:565
+translate francais v1s17_5c108a08:
+
+    # u "Plus, it's not your job to stress about this, you know?"
+    u "Et puis... C'est pas à toi de stresser pour ça, tu comprends ?"
+
+# game/v1/scene17.rpy:575
+translate francais v1s17_521f8d03:
+
+    # la "*Sighs* You're right. Thank you."
+    la "*Soupirs* Tu as raison... Merci."
+
+# game/v1/scene17.rpy:716
+translate francais v1s17_ed1621dd:
+
+    # u "You say that like it's nothing. Lauren, that's perfect. Everything will go south without you."
+    u "Tu dis ça comme si ce n'était rien... Lauren, c'est parfait. Tout partira en vrille sans toi."
+
+# game/v1/scene17.rpy:760
+translate francais v1s17_078f567d:
+
+    # u "*Awkward Chuckle* Yeah, yeah, I knew. I was just joking. *Laughs*"
+    u "*Rire gêné* Ouais, ouais... je le savais. Je plaisantais. *Rire*"
+
+# game/v1/scene17.rpy:790
+translate francais v1s17_end_42951949:
+
+    # la "Oh perfect, class is over. Be careful about everything you do during this whole... \"mess\", okay?"
+    la "Oh super, le cours est terminé. Fais attention à tout ce que tu fais pendant tout ce... \"bordel\", d'accord ?"
+
+# game/v1/scene17.rpy:800
+translate francais v1s17_end_853e4089:
+
+    # la "Bye."
+    la "Bye."

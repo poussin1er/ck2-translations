@@ -199,3 +199,28 @@ translate francais strings:
     # game/v1/scene12.rpy:225
     old "I'm not sure that you do"
     new "Je ne suis pas sûr que tu en sois capable"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene12.rpy:92
+translate francais v1s12_c0f6f674:
+
+    # u "Oh, alright. What's that?"
+    u "Ah... Vas-y. Qu'est-ce qui se passe ?"
+
+# game/v1/scene12.rpy:147
+translate francais v1s12_917997c3:
+
+    # ju "Ha! How come? I'm smart and in good shape."
+    ju "Ha ! Pourquoi ça ? Je suis intelligente et en pleine forme..."
+
+# game/v1/scene12.rpy:162
+translate francais v1s12_b54e4039:
+
+    # u "Haha."
+    u "Haha..."
+
+# game/v1/scene12.rpy:179
+translate francais v1s12_cf147d3d:
+
+    # ju "I will honey. Be safe, and please don't hesitate to call if you need me. I love you."
+    ju "Je ferai ce que je peux, chéri. Sois prudent et n'hésite pas à m'appeler si tu as besoin de moi... Je t'aime."

@@ -137,3 +137,34 @@ translate francais v1s13_1eb0edab:
 
     # u "(Jet lag recovery begins in five... four... three... two...-)"
     u "(Récupération du décalage horaire, mise à feu dans cinq... quatre... trois... deux...-)"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene13.rpy:17
+translate francais v1s13_646b1da4:
+
+    # u "(Look at that beautiful bed. Oh, the things I'm gonna do to you.)"
+    u "(Regardez-moi ce lit magnifique. Oh, j'imagine déjà toutes les choses que je vais pouvoir te faire.)"
+
+# game/v1/scene13.rpy:32
+translate francais v1s13_e3be0ca1:
+
+    # u "Hah, sorry Seb. I was gonna save that for the morning."
+    u "Ha... Désolé Seb, j'allais réserver ça pour demain matin."
+
+# game/v1/scene13.rpy:47
+translate francais v1s13_bee905be:
+
+    # u "Alright... You make it sound like you're dying though. *Laughs*"
+    u "Ha, si tu le dis... Mais tu parles comme si tu étais en train de mourir. *Rire*"
+
+# game/v1/scene13.rpy:52
+translate francais v1s13_db82acd6:
+
+    # se "Well, you never know."
+    se "Eh bien, on ne sait jamais."
+
+# game/v1/scene13.rpy:112
+translate francais v1s13_34c89875:
+
+    # se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would. *Laughs*"
+    se "Très drôle... Je suis content que tu sois de retour, mec. Vraiment, tu m'as manqué plus que je ne le pensais. *Rire*"

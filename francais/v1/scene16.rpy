@@ -363,3 +363,64 @@ translate francais strings:
     # game/v1/scene16.rpy:172
     old "I don't have the time"
     new "Je n'ai pas le temps"
+# TODO: Translation updated at 2022-04-25 09:47
+
+# game/v1/scene16.rpy:65
+translate francais v1s16_e9280e8a:
+
+    # cl "I didn't have a choice. I just wanted to go home and sleep last night, yet I was up for hours being a part of non-stop sorority bickering."
+    cl "Je n'avais pas le choix... Je voulais juste rentrer chez moi et dormir la nuit dernière, pourtant je suis restée debout pendant des heures à participer à des chamailleries de sororité sans fin."
+
+# game/v1/scene16.rpy:70
+translate francais v1s16_6ef2c753:
+
+    # u "Non-stop? Sheesh. About what?"
+    u "Sans fin ? Pfff... À propos de quoi ?"
+
+# game/v1/scene16.rpy:84
+translate francais v1s16_a97cda33:
+
+    # u "I mean, did she do all of this overnight?"
+    u "Mais... elle a fait tout ça en une nuit ?"
+
+# game/v1/scene16.rpy:149
+translate francais v1s16_a92dd55b:
+
+    # cl "*Chuckles* I can think of a few rewards already."
+    cl "*Rire* Je réfléchis déjà à quelques récompenses."
+
+# game/v1/scene16.rpy:159
+translate francais v1s16_32f00351:
+
+    # cl "*Whispering* Plus, the President always needs an assistant and if it's my job to, you know, take care of you, while also running the sorority..."
+    cl "*Chuchote* De plus, la présidente a toujours besoin d'un assistant et si c'est à moi de, tu sais... m'occuper de toi, tout en dirigeant la sororité..."
+
+# game/v1/scene16.rpy:161
+translate francais v1s16_94710025:
+
+    # cl "*Whispering* I might end up needing someone to help me with all of that... and all of you."
+    cl "*Chuchote* Je pourrais finir par avoir besoin de quelqu'un pour m'aider à m'occuper de tout ça... et avec toi."
+
+# game/v1/scene16.rpy:168
+translate francais v1s16_29bb6b20:
+
+    # u "(I think she means having an assistant in the bedroom?!) I'm definitely following."
+    u "(Et si elle voulait dire \"avoir un assistant dans la chambre\"...?! Je serais définitivement avec toi.)"
+
+# game/v1/scene16.rpy:226
+translate francais v1s16_ef2e2c81:
+
+    # u "(I don't wanna get in my head too much about what her intentions are. I want to help her, so that's what I'm gonna do.)"
+    u "(Je veux pas trop me prendre la tête sur ses intentions. Je veux l'aider, c'est tout, et c'est ce que je vais faire.)"
+
+# game/v1/scene16.rpy:298
+translate francais v1s16_770f357f:
+
+    # u "*Sighs* (This is gonna cause some serious issues for us. Fuck. Kinda surprised she didn't break up with me right there... Chloe's way or no way.)"
+    u "*Soupirs* (Ça va causer de sérieux problèmes entre nous. Putain. Je suis un peu surpris qu'elle n'ait pas rompu avec moi sur le champ... que ce soit à la manière de Chloé ou pas)"
+
+# game/v1/scene16.rpy:340
+translate francais v1s16_12e59fb5:
+
+    # u "(Oh well. Time for class!)"
+    u "(Bon, c'est l'heure des cours !)"
