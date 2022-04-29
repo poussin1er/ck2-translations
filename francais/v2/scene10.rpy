@@ -1179,35 +1179,34 @@ translate francais strings:
 translate francais v2s10_077effdf:
 
     # male_buyer "$[v2s10_buyer_max_amount] is the best I can do."
-    male_buyer ""
+    male_buyer "$[v2s10_buyer_max_amount] est le mieux que je puisse faire."
 
 # game/v2/scene10.rpy:382
 translate francais v2s10_977124b7:
 
     # male_buyer "I'll pay you the $[v1s48_car_price]."
-    male_buyer ""
+    male_buyer "Je te paie les $[v1s48_car_price]."
 
 # game/v2/scene10.rpy:638
 translate francais v2s10_86d53e2f:
 
     # male_buyer "$[v1s48_car_price] is my offer based on everything I'm seeing here."
-    male_buyer ""
+    male_buyer "$[v1s48_car_price] est mon offre basée sur tout ce que je vois là."
 
 # game/v2/scene10.rpy:1042
 translate francais v2s10_7da57ae6:
 
     # female_buyer "So, I can offer $[v2s10_buyer_max_amount]."
-    female_buyer ""
+    female_buyer "Ainsi, je peux proposer $[v2s10_buyer_max_amount]."
 
 # game/v2/scene10.rpy:1091
 translate francais v2s10_f0fdb29d:
 
     # female_buyer "I'll pay you the $[v1s48_car_price] you asked."
-    female_buyer ""
+    female_buyer "Je vous paierai les $[v1s48_car_price] que vous avez demandés."
 
 # game/v2/scene10.rpy:1224
 translate francais v2s10_555305c7:
 
     # female_buyer "I am. It's an honest price for an honest seller. I'm happy to pay $[v1s48_car_price]."
-    female_buyer ""
-
+    female_buyer "Oui, en effet. C'est un prix honnête pour un vendeur honnête. Je suis heureuse de payer $[v1s48_car_price]."
