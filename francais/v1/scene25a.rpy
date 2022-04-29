@@ -58,7 +58,7 @@ translate francais v1s25a_311f7640:
 translate francais v1s25a_13a41f44:
 
     # am "So much better..."
-    am "C'est tellement mieux..."
+    am "C'est si bon..."
 
 # game/v1/scene25a.rpy:132
 translate francais v1s25a_d3afeb29:
@@ -94,7 +94,7 @@ translate francais v1s25a_a6cff55f:
 translate francais v1s25a_7ebfd414:
 
     # am "*Panting* Why ride a horse when you can ride a cowboy? *Laughs*"
-    am "*Halète* Pourquoi monter à cheval quand on peut monter un cow-boy ? *Rire*"
+    am "*Halète* Pourquoi monter un cheval quand on peut monter un cow-boy ? *Rire*"
 
 # game/v1/scene25a.rpy:197
 translate francais v1s25a_9814f62e:
@@ -112,7 +112,7 @@ translate francais v1s25a_9c0476a4:
 translate francais v1s25a_a01f317c:
 
     # u "(Damn, girl...)"
-    u "(Merde, jeune fille...)"
+    u "(Merde, c'est bon ma jolie...)"
 
 # game/v1/scene25a.rpy:221
 translate francais v1s25a_7ea7fd7b:
@@ -208,4 +208,4 @@ translate francais v1s25a_16dac629:
 translate francais v1s25a_a93e3e38:
 
     # am "Oh, yeahhhh... I'm so stupid, I forgot what I just said to you. *Laughs* Goodnight."
-    am "Oh, ouaiiiis... Je suis tellement con que j'ai oublié ce que je viens de te dire. *Rire* Bonne nuit."
+    am "Oh, ouaiiiis... Je suis trop conne, j'ai oublié ce que je viens de te dire. *Rire* Bonne nuit."

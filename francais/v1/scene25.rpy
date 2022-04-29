@@ -4,7 +4,7 @@
 translate francais v1s25_b9258d04:
 
     # u "(Oh... Hello?)"
-    u "(Oh... Salut ?)"
+    u "(Oh... C'est ouvert ?)"
 
 # game/v1/scene25.rpy:41
 translate francais v1s25_0056d4f9:
@@ -1090,7 +1090,7 @@ translate francais strings:
 
     # game/v1/scene25.rpy:311
     old "What a dick"
-    new "Quel cons"
+    new "Quel con"
 
     # game/v1/scene25.rpy:449
     old "Empathize with her"

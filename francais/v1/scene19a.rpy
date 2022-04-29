@@ -184,7 +184,7 @@ translate francais v1s19a_0716f529:
 translate francais v1s19a_dabf04ab:
 
     # u "*Laughs* That's amazing."
-    u "*Rire* C'est étonnant."
+    u "*Rire* tu m'étonnes..."
 
 # game/v1/scene19a.rpy:153
 translate francais v1s19a_d90c42f3:

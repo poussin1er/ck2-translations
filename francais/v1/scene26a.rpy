@@ -359,5 +359,4 @@ translate francais v1s26a_d0b38712:
 translate francais v1s26a_97cec1a8:
 
     # li "So far most of what I could sell was to my family. *Sighs*"
-    li ""
-
+    li "Jusqu'à présent, la plupart de ce que j'ai pu vendre était à ma famille. *Soupir*"

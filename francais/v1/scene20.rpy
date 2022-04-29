@@ -388,7 +388,7 @@ translate francais v1s20_817d1c2c:
 translate francais v1s20_fe212256:
 
     # aut "His parents used to say they knew he'd never be mistaken for someone else and that's why they liked the name at first. *Chuckles*"
-    aut "Ses parents disaient qu'ils savaient qu'il ne serait jamais confondu avec quelqu'un d'autre et c'est pour ça qu'ils aimaient ce nom au début. *Rire *"
+    aut "Ses parents disaient qu'ils savaient qu'il ne serait jamais confondu avec quelqu'un d'autre et c'est pour ça qu'ils aimaient ce nom au début. *Rire*"
 
 # game/v1/scene20.rpy:348
 translate francais v1s20_dc4ccbde:
