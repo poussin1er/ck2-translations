@@ -333,3 +333,11 @@ translate francais strings:
     # game/v3/scene61.rpy:277
     old "Be a helper"
     new "Sois un assistant"
+# TODO: Translation updated at 2022-04-29 21:19
+
+# game/v3/scene61.rpy:475
+translate francais v3s61_kiwii_reply_d35202bf:
+
+    # u "(Oh, shit. I better hurry to help out Chloe with the cover design!)"
+    u ""
+

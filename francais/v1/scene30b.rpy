@@ -274,7 +274,7 @@ translate francais strings:
 
     # game/v1/scene30b.rpy:270
     old "Omg! Can I have that thing?"
-    new "OMG ! Je peux avoir ce truc ?"
+    new "OMG ! Je peux l'avoir ?"
 
     # game/v1/scene30b.rpy:271
     old "These turned out perfect! #Vote4Chloe"

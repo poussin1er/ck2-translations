@@ -178,13 +178,13 @@ translate francais v1s39_8c204c99:
 translate francais v1s39_f4b07db4:
 
     # pe "I'm headed this way."
-    pe "Je vais dans cette direction."
+    pe "Je vais dans par là."
 
 # game/v1/scene39.rpy:171
 translate francais v1s39_5b7f70e8:
 
     # u "Okay, I'm this way."
-    u "Ok, je vais par là."
+    u "Et moi par là."
 
 # game/v1/scene39.rpy:180
 translate francais v1s39_82d693c2:

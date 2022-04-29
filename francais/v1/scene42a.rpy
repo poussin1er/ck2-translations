@@ -76,7 +76,7 @@ translate francais v1s42a_e1451d83:
 translate francais v1s42a_4834f519:
 
     # pe "I mean, I was looking forward to our night together as well, but I got so tired and comfy while we were cuddling. I must have fallen asleep."
-    pe "Je voulais dire que j'avais aussi hâte de passer la nuit ensemble, mais j'étais tellement fatiguée et à l'aise pendant que nous nous faisions des câlins que... J'ai dû m'endormir."
+    pe "Tu sais, j'avais également hâte de passer la nuit à tes côtés, mais j'étais tellement fatiguée et à l'aise pendant que nous nous faisions des câlins que... J'ai dû m'endormir."
 
 # game/v1/scene42a.rpy:87
 translate francais v1s42a_4a50289e:
@@ -166,7 +166,7 @@ translate francais v1s42a_56b80308:
 translate francais v1s42a_c717069d:
 
     # u "Haha, nah. We have enough time to get ready and walk there."
-    u "Haha, nan. On a encore le temps de se préparer et d'y aller tranquillement."
+    u "Haha, nan. On a encore le temps de se préparer pour y aller tranquillement."
 
 # game/v1/scene42a.rpy:164
 translate francais v1s42a_a0c76f2a:
