@@ -16,7 +16,7 @@ translate francais v1s43b_3b608183:
 translate francais v1s43b_b44a1631:
 
     # lee "Today is a very good day, everyone. Although, I understand that you're unaware."
-    lee "Aujourd'hui est une très bonne journée pour tout le monde. Bien que je comprenne que vous ne soyez pas au courant."
+    lee "Aujourd'hui est une très bonne journée pour tout le monde. Bien que je puisse comprendre que vous ne soyez pas encore au courant."
 
 # game/v1/scene43b.rpy:74
 translate francais v1s43b_99f26781:
@@ -28,19 +28,19 @@ translate francais v1s43b_99f26781:
 translate francais v1s43b_47b74055:
 
     # lee "Riley! Yes! I'm so glad you asked."
-    lee "Riley ! Oui ! Je suis si content que ça soit vous qui ayez demandé."
+    lee " Oui Riley ! D'ailleurs, je suis vraiment content que ça soit vous qui posiez la question."
 
 # game/v1/scene43b.rpy:84
 translate francais v1s43b_8cce4a6a:
 
     # lee "The college has recently begun to advance its usage of the teacher assistant program and so have I."
-    lee "Le collège a récemment commencé à faire progresser son utilisation du programme d'aide-enseignant et il en va de même pour moi."
+    lee "L'université a récemment commencé à utiliser le programme d'aide-enseignant et il en va de même pour moi."
 
 # game/v1/scene43b.rpy:89
 translate francais v1s43b_e8464b91:
 
     # u "(Oh, haha... That's why Riley is here.)"
-    u "(Oh, haha... C'est pour ça que Riley est à cette place.)"
+    u "(Oh, haha... C'est pour ça que Riley s'est placée ici.)"
 
 # game/v1/scene43b.rpy:94
 translate francais v1s43b_e4a7433f:
@@ -64,19 +64,19 @@ translate francais v1s43b_d266a549:
 translate francais v1s43b_536f3e2a:
 
     # ri "I, thank you... I mean, you could've just told me that's what was happening. *Chuckles* But really, thanks. Im excited!"
-    ri "Je, merci... Enfin, vous auriez pu me dire que c'était ça qui allait arriver. *Rire* Mais vraiment, merci. Je suis excitée !"
+    ri "Je, merci... Enfin, vous auriez pu me dire que c'était ce qui allait se passer. *Rire* Mais vraiment, merci. Je suis excitée !"
 
 # game/v1/scene43b.rpy:114
 translate francais v1s43b_78847f99:
 
     # lee "So are we. Right class?"
-    lee "Nous le sommes aussi. N'est-ce pas la classe ?"
+    lee "Nous le sommes aussi. N'est-ce pas chers élèves ?"
 
 # game/v1/scene43b.rpy:119
 translate francais v1s43b_ebb0294d:
 
     # ri "Haha, it's okay."
-    ri "Haha, c'est bon."
+    ri "Haha, merci."
 
 # game/v1/scene43b.rpy:124
 translate francais v1s43b_d35f1fd9:
@@ -100,7 +100,7 @@ translate francais v1s43b_216a225a:
 translate francais v1s43b_bbbb0ca0:
 
     # lee "Really. Now."
-    lee "Vraiment ? Maintenant."
+    lee "Vraiment. Maintenant."
 
 # game/v1/scene43b.rpy:144
 translate francais v1s43b_613ad5e2:
@@ -172,7 +172,7 @@ translate francais v1s43b_f515f860:
 translate francais v1s43b_b1f024dc:
 
     # u "Guess we were meant to work together."
-    u "Je présume qu'on était destinés à travailler ensemble."
+    u "J'imagine qu'on était destinés à travailler ensemble."
 
 # game/v1/scene43b.rpy:230
 translate francais v1s43b_4f51850b:
@@ -304,13 +304,13 @@ translate francais v1s43b_84f1c6cc:
 translate francais v1s43b_ff7ee2fa:
 
     # lee "Everyone's paired up? Good!"
-    lee "Tout le monde s'est mis en couple ? Bien !"
+    lee "Tout le monde est en couple ? Bien !"
 
 # game/v1/scene43b.rpy:356
 translate francais v1s43b_042b57fd:
 
     # lee "Now, once I'm finished speaking you may leave the classroom and begin reading pages 100-103 in your textbook."
-    lee "Dès que j'aurai fini de parler, vous pourrez quitter la salle de classe et commencer à lire les pages 100-103 de votre manuel."
+    lee "Dès que j'aurai fini de parler, vous pourrez quitter la salle de classe et commencer à lire les pages 100 à 103 de votre manuel."
 
 # game/v1/scene43b.rpy:358
 translate francais v1s43b_56fc6f0c:

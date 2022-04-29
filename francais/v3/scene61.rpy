@@ -339,5 +339,4 @@ translate francais strings:
 translate francais v3s61_kiwii_reply_d35202bf:
 
     # u "(Oh, shit. I better hurry to help out Chloe with the cover design!)"
-    u ""
-
+    u "(Oh, merde. Je ferais mieux de me dépêcher d'aider Chloé pour la mise en page de la couverture !)"
