@@ -1153,3 +1153,10 @@ translate francais strings:
     # renpy/common/_errorhandling.rpym:671
     old "Parsing the script failed."
     new "L'analyse du script a échoué."
+# TODO: Translation updated at 2022-04-29 22:25
+
+translate francais strings:
+
+    # renpy/common/00preferences.rpy:505
+    old "audio when minimized"
+    new "audio lorsqu'il est réduit"
