@@ -340,7 +340,7 @@ translate francais v1s44_7dca4922:
 translate francais v1s44_34ec2b8b:
 
     # u "*Laughs* Okay. Then tell me another truth, what did you send-"
-    u "*Rire* Ok. Sinon, dis-moi une autre vérité, t'as envoyé quoi à-"
+    u "*Rire* Ok. Sinon, sérieux, dis-moi, t'as envoyé quoi à-"
 
 # game/v1/scene44.rpy:434
 translate francais v1s44_8869efff:
@@ -352,7 +352,7 @@ translate francais v1s44_8869efff:
 translate francais v1s44_6ef758af:
 
     # u "(Forgot all about the Riley thing, I guess? Either that or he's avoiding the hell out of it, ha.)"
-    u "(Il a oublié le truc de Riley, apparemment ? Soit ça, soit il évite d'en parler.)"
+    u "(Apparemment, il a zappé le truc de Riley...? Soit ça, soit il évite d'en parler.)"
 
 translate francais strings:
 
@@ -362,7 +362,7 @@ translate francais strings:
 
     # game/v1/scene44.rpy:380
     old "She was pretty hot"
-    new "Elle était très chaude"
+    new "Elle était vraiment canon"
 
     # game/v1/scene44.rpy:380
     old "Meh, not my type"

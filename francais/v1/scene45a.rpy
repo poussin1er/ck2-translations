@@ -34,7 +34,7 @@ translate francais v1s45a_94dd95dd:
 translate francais v1s45a_f156f280:
 
     # am "I know it sounds kinda... Whatever, I think I'm gonna try to be a private dancer or something."
-    am "Je sais que ça a l'air un peu... et puis on s'en fout, je crois que je vais essayer de devenir une danseuse particulière ou un truc comme ça."
+    am "Je sais que ça a l'air un peu... Et puis on s'en fout, je pense que je vais essayer d'être danseuse exotique ou un truc comme ça."
 
 # game/v1/scene45a.rpy:38
 translate francais v1s45a_e8df4390:

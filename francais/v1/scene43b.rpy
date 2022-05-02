@@ -364,7 +364,7 @@ translate francais v1s43Chloe_PhoneContinue1_3cab5643:
 translate francais v1s43Chloe_PhoneContinue1_3d48716d:
 
     # pe "We can just go sit outside on the stairs and work, if that's cool."
-    pe "On peut simplement aller nous asseoir dehors sur les escaliers et travailler, si ça te va."
+    pe "On peut simplement aller s'asseoir dehors sur les escaliers et travailler, si ça te va."
 
 # game/v1/scene43b.rpy:439
 translate francais v1s43Chloe_PhoneContinue1_5619d9e0:
@@ -382,7 +382,7 @@ translate francais v1s43Chloe_PhoneContinue1_6cea4070:
 translate francais v1s43Chloe_PhoneContinue1_3d48716d_1:
 
     # pe "We can just go sit outside on the stairs and work, if that's cool."
-    pe "On peut simplement aller nous asseoir dehors sur les escaliers et travailler, si ça te va."
+    pe "On peut simplement aller s'asseoir dehors sur les escaliers et travailler, si ça te va."
 
 # game/v1/scene43b.rpy:471
 translate francais v1s43Chloe_PhoneContinue1_5619d9e0_1:
