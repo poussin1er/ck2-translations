@@ -244,7 +244,7 @@ translate francais v2s1_bcb30917:
 translate francais v2s1_14185d23:
 
     # imre "*Laughs* My man..."
-    imre "*Rire* Mon pote..."
+    imre "*Rire* Mon frère..."
 
 # game/v2/scene1.rpy:277
 translate francais v2s1_b54e4039:
@@ -262,13 +262,13 @@ translate francais v2s1_53c0db1c:
 translate francais v2s1_29364748:
 
     # imre "*Sighs* Nothing, you boomer..."
-    imre "*Soupirs* Rien, espèce de vieux..."
+    imre "*Soupirs* Rien, espèce de boomer..."
 
 # game/v2/scene1.rpy:295
 translate francais v2s1_cb390720:
 
     # u "*Chuckles* Alright."
-    u "*Rire* D'accord."
+    u "*Rire* Si tu le dis."
 
 # game/v2/scene1.rpy:303
 translate francais v2s1_6ed212f2:
@@ -622,7 +622,7 @@ translate francais v2s1_PhoneContinueAut_a8b03d06:
 translate francais v2s1_PhoneContinueAut_744e02a2:
 
     # u "(Now it's really time for bed...)"
-    u "(Il est maintenant vraiment temps de dormir...)"
+    u "(Bon, c'est l'heure de dormir, là...)"
 
 # game/v2/scene1.rpy:671
 translate francais v2s1_PhoneContinueAut_dcc66eae:

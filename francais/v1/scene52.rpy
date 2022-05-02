@@ -46,13 +46,13 @@ translate francais v1s52_7078ca66:
 translate francais v1s52_e01e17bd:
 
     # ch "I know this probably won't come as a shock."
-    ch "Je sais que cela ne sera certainement pas un choc."
+    ch "Je sais que ça ne sera certainement pas un choc."
 
 # game/v1/scene52.rpy:71
 translate francais v1s52_bdb720e0:
 
     # ch "I mean, it's no secret that Nora and I have been going through a difficult time lately."
-    ch "Ce n'est un secret pour personne sur le fait que Nora et moi avons traversé une période difficile ces derniers temps."
+    ch "Ce n'est un secret pour personne sur le fait que Nora et moi ayons traversé une période difficile ces derniers temps."
 
 # game/v1/scene52.rpy:76
 translate francais v1s52_c763821e:
@@ -64,7 +64,7 @@ translate francais v1s52_c763821e:
 translate francais v1s52_f801d5f3:
 
     # ch "But we've decided to break up. Officially, for good. I thought you should all know."
-    ch "Mais on a décidé de se séparer. Officiellement et pour de bon. Je me suis dit que vous deviez le savoir, tous."
+    ch "Mais on a décidé de se séparer. Officiellement et pour de bon. Je me suis dit que vous deviez tous le savoir."
 
 # game/v1/scene52.rpy:98
 translate francais v1s52_2f55f775:
@@ -88,7 +88,7 @@ translate francais v1s52_16ed02df:
 translate francais v1s52_ade12465:
 
     # ch "I know it's going to be a weird adjustment for everyone. You guys are also used to Nora being around. But we'll be perfectly fine."
-    ch "Je sais que cela va être une réadaptation bizarre pour tout le monde. Vous êtes également habitués à la présence de Nora. Mais tout ira très bien."
+    ch "Je sais que ça va être une réadaptation bizarre pour tout le monde. Vous êtes également habitués à la présence de Nora. Mais tout ira très bien."
 
 # game/v1/scene52.rpy:118
 translate francais v1s52_adf3e233:
@@ -112,13 +112,13 @@ translate francais v1s52_92e1cb96:
 translate francais v1s52_0d2b8ad5:
 
     # ch "But, no. There's nothing you can do. Nora made it pretty clear how she felt."
-    ch "Mais, non. Il n'y a rien que tu puisses faire. Nora a été très claire sur ce qu'elle ressentait."
+    ch "Mais, non. Il n'y a rien que vous puissiez faire. Nora a été très claire sur ce qu'elle ressentait."
 
 # game/v1/scene52.rpy:138
 translate francais v1s52_4b251a86:
 
     # ch "She's got a whole list of issues about how I've treated her lately."
-    ch "Elle a toute une liste de soucis concernant la façon dont je l'ai traitée dernièrement."
+    ch "Elle a toute une liste de soucis concernant la façon dont je l'ai traité dernièrement."
 
 # game/v1/scene52.rpy:143
 translate francais v1s52_f2255b9c:
@@ -202,7 +202,7 @@ translate francais v1s52_aa142e6d:
 translate francais v1s52_98bdafbf:
 
     # u "(Something just doesn't feel right about this...)"
-    u "(Quelque chose va pas dans cette histoire...)"
+    u "(Y a un truc bizarre dans tout ça...)"
 
 # game/v1/scene52.rpy:218
 translate francais v1s52_e622b0a1:
@@ -346,7 +346,7 @@ translate francais v1s52_b1f82d3f:
 translate francais v1s52_7b307ece:
 
     # u "(Fuck... I hope I'm just overthinking this.)"
-    u "(Putain... J'espère que je suis qu'en train de trop y penser.)"
+    u "(Putain... J'espère que je suis juste en train m'imaginer des choses.)"
 
 # game/v1/scene52.rpy:372
 translate francais v1s52_e5d71c15:

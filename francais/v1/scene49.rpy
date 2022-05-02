@@ -4,7 +4,7 @@
 translate francais v1s49_b52502ba:
 
     # u "(What do we have here?)"
-    u "(Qu'est-ce qu'on a là ?)"
+    u "(Quoi encore ?)"
 
 # game/v1/scene49.rpy:35
 translate francais v1s49Lindsey_PhoneContinue_f9e9813d:
@@ -110,7 +110,7 @@ translate francais strings:
 
     # game/v1/scene49.rpy:22
     old "It worked! How did you send the tickets without making her suspicious? Also, blonde girl?"
-    new "Ça a marché ! Comment t'as fait pour envoyer les billets sans la rendre méfiante ? Et à la fille blonde ?"
+    new "Ça a marché ! Comment t'as fait pour envoyer les billets sans la rendre méfiante ? Et à la fille blonde, c'est qui ?"
 
     # game/v1/scene49.rpy:23
     old "I just sent the e-tickets anonymously. She has plenty of admirers these days. Probably just assumed it was a gift from one of them. Easy, huh?"
@@ -122,11 +122,11 @@ translate francais strings:
 
     # game/v1/scene49.rpy:25
     old "Very smooth, Linds. Money well spent."
-    new "Tout en douceur, Linds. De l'argent bien dépensé."
+    new "Tout se passe à merveille, Linds. C'est de l'argent bien dépensé."
 
     # game/v1/scene49.rpy:26
     old "You've got to spend money to make money :P"
-    new "Il faut savoir dépenser de l'argent pour en gagner :P"
+    new "Ouais, il faut savoir dépenser de l'argent pour en gagner plus :P"
 
     # game/v1/scene49.rpy:27
     old "Or in this case, steal it."
@@ -138,7 +138,7 @@ translate francais strings:
 
     # game/v1/scene49.rpy:29
     old "I'm on my way."
-    new "Je suis en route."
+    new "J'arrive."
 
     # game/v1/scene49.rpy:69
     old "Hey... Think I'm in the mood for a little Italian cuisine and a beautiful woman across from me..."

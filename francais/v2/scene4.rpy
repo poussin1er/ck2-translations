@@ -4,7 +4,7 @@
 translate francais v2s4_add61745:
 
     # u "(Damn, this place really got an upgrade...)"
-    u "(Wow, cet endroit a vraiment été amélioré...)"
+    u "(Wouah, ça a bien changé ici...)"
 
 # game/v2/scene4.rpy:17
 translate francais v2s4_c7f99013:

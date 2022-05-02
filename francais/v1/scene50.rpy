@@ -28,7 +28,7 @@ translate francais v1s50_94066efb:
 translate francais v1s50_00bd37eb:
 
     # u "*Whispers* You look cute, by the way."
-    u "*Chuchote* Au fait, tu es mignonne."
+    u "*Chuchote* Au fait, t'es mignonne."
 
 # game/v1/scene50.rpy:52
 translate francais v1s50_80cbee5a:
@@ -64,19 +64,19 @@ translate francais v1s50_9922ddd2:
 translate francais v1s50_a8c88c75:
 
     # li "*Whispers* Umm... Anal."
-    li "*Chuchote* Euuh... Anal."
+    li "*Chuchote* Euuh... Sodomie."
 
 # game/v1/scene50.rpy:79
 translate francais v1s50_ed6dff43:
 
     # u "*Stifled laugh* *Whispers* Anal?"
-    u "*Rire étouffé* *Chuchote* Anal ?"
+    u "*Rire étouffé* *Chuchote* Sodomie ?"
 
 # game/v1/scene50.rpy:84
 translate francais v1s50_570a8bce:
 
     # li "*Giggles* Shhh! *Whispers* Yes... Anal."
-    li "*Ricane* Chuuut ! *Chuchote* Oui... Anal."
+    li "*Ricane* Chuuut ! *Chuchote* Oui... Sodomie."
 
 # game/v1/scene50.rpy:89
 translate francais v1s50_11496761:
@@ -106,7 +106,7 @@ translate francais v1s50_82755192:
 translate francais v1s50_f0c3d734:
 
     # u "*Whispers* Get on with anal, got it."
-    u "*Chuchote* Allez, va t'occuper de l'anal."
+    u "*Chuchote* Allez, va t'occuper de la sodomie avec Aubrey."
 
 # game/v1/scene50.rpy:114
 translate francais v1s50_039f9276:
@@ -142,7 +142,7 @@ translate francais v1s50_a07566dc:
 translate francais v1s50_ee8ebad6:
 
     # li "No, no! No, I am not pregnant. I promise. That's not it, haha."
-    li "Non, non ! Non, je ne suis pas enceinte. Je te jure. C'est pas ça, haha."
+    li "Non, non, non ! Je ne suis pas enceinte. Je te jure. C'est pas ça, haha."
 
 # game/v1/scene50.rpy:135
 translate francais v1s50_f5bf38a4:
@@ -160,7 +160,7 @@ translate francais v1s50_491551bb:
 translate francais v1s50_94fc1771:
 
     # au "Oooh, super serious! Come on, let's go."
-    au "Oooh, ça a l'air super sérieux ! Allez, on y va."
+    au "Oooh, ça a l'air vraiment sérieux ! Allez, on y va."
 
 # game/v1/scene50.rpy:147
 translate francais v1s50_f242bd3a:
@@ -190,7 +190,7 @@ translate francais v1s50_e29cf26b:
 translate francais v1s50_0db9fd8e:
 
     # li "Have you ever tried anal?"
-    li "Have you ever tried anal?"
+    li "Est-ce que tu as déjà essayé la sodomie ?"
 
 # game/v1/scene50.rpy:191
 translate francais v1s50_59f6c592:
@@ -220,7 +220,7 @@ translate francais v1s50_64357566:
 translate francais v1s50_20a3e801:
 
     # li "Ha, yeah. I figured."
-    li "Ha, ouais. C'est ce que je pensais."
+    li "Ha, ouais. C'est bien ce que je pensais."
 
 # game/v1/scene50.rpy:210
 translate francais v1s50_94c987ad:
@@ -256,7 +256,7 @@ translate francais v1s50_7562a745:
 translate francais v1s50_f1d5656d:
 
     # li "She had her ass, like... rip?"
-    li "Elle avait son cul, comme... déchiré ?"
+    li "Elle avait son cul, genre... déchiré..."
 
 # game/v1/scene50.rpy:240
 translate francais v1s50_c67b6f26:
@@ -316,13 +316,13 @@ translate francais v1s50_5905c3ad:
 translate francais v1s50_4bd93060:
 
     # u "(Is this story real or did she just pull this out of her ass? Pun intended...)"
-    u "(C'est une histoire vraie ou elle a sorti ça de son cul ? Jeu de mots...)"
+    u "(C'est une histoire vraie ou elle a sorti ça de son cul ? Oh trop fort le jeu de mots...)"
 
 # game/v1/scene50.rpy:281
 translate francais v1s50_25a0e550:
 
     # au "Well, fuck Linds! That sounds awful! I think that's a very rare occurrence, though. *Laughs*"
-    au "Ho putain, Linds ! Ça a l'air horrible ! Mais je crois que ça, ça arrive très rarement. *Rire*"
+    au "Oh putain, Linds ! Ça a l'air horrible ! Mais je crois que ça, ça arrive très rarement. *Rire*"
 
 # game/v1/scene50.rpy:283
 translate francais v1s50_7a18ff18:
@@ -346,7 +346,7 @@ translate francais v1s50_34a44c7d:
 translate francais v1s50_0de477ec:
 
     # li "Noted. So, what does it feel like?"
-    li "Noté. Alors, à quoi ça ressemble ?"
+    li "Noté. Sinon, on ressent quoi ?"
 
 # game/v1/scene50.rpy:310
 translate francais v1s50_8eae14e6:
@@ -394,13 +394,13 @@ translate francais v1s50_063d30aa:
 translate francais v1s50_362ecabc:
 
     # au "And it's a thrill."
-    au "Et c'est un grand frisson."
+    au "Et en même temps, c'est un grand frisson."
 
 # game/v1/scene50.rpy:341
 translate francais v1s50_2d6834a4:
 
     # li "Okay gotcha. So that's it then? Like, it's a rebellious thing?"
-    li "Okay compris. C'est donc ça alors ? Genre, c'est un truc de rebelle ?"
+    li "D'accord, j'ai compris. Alors c'est ça ? C'est genre, un truc de rebelle ?"
 
 # game/v1/scene50.rpy:343
 translate francais v1s50_aaa1822e:
@@ -430,7 +430,7 @@ translate francais v1s50_80dd47e6:
 translate francais v1s50_564a9d24:
 
     # u "(Aubrey has some strong feelings about anal...)"
-    u "(Aubrey a l'air de beaucoup aimer l'anal...)"
+    u "(Aubrey a l'air de beaucoup aimer la sodomie...)"
 
 # game/v1/scene50.rpy:365
 translate francais v1s50_bd50ebf2:
@@ -532,7 +532,7 @@ translate francais v1s50_7cab5b8c:
 translate francais v1s50_f5820d67:
 
     # u "(I think I've heard enough about Maria's injury. And gained enough knowledge about anal thanks to Aubrey...)"
-    u "(Je crois que j'ai assez entendu parler de la blessure de Maria. Et acquis suffisamment de connaissances sur l'anal grâce à Aubrey...)"
+    u "(Je crois que j'ai assez entendu parler de la blessure de Maria. Et acquis suffisamment de connaissances sur la sodomie grâce à Aubrey...)"
 
 # game/v1/scene50.rpy:447
 translate francais v1s50_e7c970cf:

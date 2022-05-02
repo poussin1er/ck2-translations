@@ -16,25 +16,25 @@ translate francais v1s46_fcfea652:
 translate francais v1s46_b97ec60a:
 
     # la "Hey, so... I just learned something really cool and I have to try it."
-    la "Salut ! Alors... Je viens d'apprendre un truc vraiment cool et je dois absolument l'essayer."
+    la "Coucou ! Bon... Je viens d'apprendre un truc vraiment cool et je voudrais absolument l'essayer."
 
 # game/v1/scene46.rpy:35
 translate francais v1s46_67fd289a:
 
     # u "What is it?"
-    u "Qu'est-ce que c'est ?"
+    u "C'est quoi ?"
 
 # game/v1/scene46.rpy:40
 translate francais v1s46_912cac35:
 
     # la "I learned the theory of hypnosis, and now I want to try and hypnotize someone... aka you."
-    la "J'ai appris la théorie de l'hypnose, et maintenant j'ai envie d'essayer d'hypnotiser quelqu'un... alias toi."
+    la "J'ai appris la théorie de l'hypnose, et maintenant j'ai vraiment envie d'essayer d'hypnotiser quelqu'un... alias toi."
 
 # game/v1/scene46.rpy:45
 translate francais v1s46_abe8b31d:
 
     # u "Haha, okay. When?"
-    u "Haha, okay. Quand ?"
+    u "Haha, si tu veux. Quand ?"
 
 # game/v1/scene46.rpy:50
 translate francais v1s46_135182b4:
@@ -46,13 +46,13 @@ translate francais v1s46_135182b4:
 translate francais v1s46_b72ee99c:
 
     # u "Oh wow, yeah I guess I can volunteer. Where are you?"
-    u "Oh wow ! Ouais, je pourrais me porter volontaire. T'es où ?"
+    u "Oh waouh, ouais je pourrais être volontaire. T'es où ?"
 
 # game/v1/scene46.rpy:61
 translate francais v1s46_833f2ee4:
 
     # la "My place, do you remember where it is?"
-    la "Ma chambre, tu te souviens où elle se trouve ?"
+    la "Dans ma chambre, tu te souviens où elle est ?"
 
 # game/v1/scene46.rpy:66
 translate francais v1s46_6c320eef:

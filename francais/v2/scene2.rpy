@@ -438,7 +438,7 @@ translate francais strings:
 
     # game/v2/scene2.rpy:354
     old "Hey! Just reminding you that I'll be setting up the shelter tomorrow if you wanted to swing by? :)"
-    new "Hé ! Je voulais juste te rappeler que j'installerai le refuge demain si jamais tu voulais passer ! :)"
+    new "Hé ! Je voulais juste te rappeler que j'emménagerai le refuge demain si jamais tu voulais passer ! :)"
 
     # game/v2/scene2.rpy:355
     old "Uhm, sure."

@@ -70,13 +70,13 @@ translate francais v1s45a_08c2f77d:
 translate francais v1s45a_c4b01192:
 
     # am "Wow, haha. Thank you."
-    am "Wow, haha. Merci."
+    am "Waouh, haha. Merci."
 
 # game/v1/scene45a.rpy:68
 translate francais v1s45a_bffc15ce:
 
     # am "That kinda changes how I feel. Like, I feel pretty good about things now."
-    am "Ça change un peu mon ressenti. Je me sens plutôt bien à propos de tout ça maintenant."
+    am "Ça change un peu mon ressenti. Je me sens plutôt rassurée par tout ça, maintenant."
 
 # game/v1/scene45a.rpy:73
 translate francais v1s45a_5f31472f:
@@ -100,7 +100,7 @@ translate francais v1s45a_8e36650d:
 translate francais v1s45a_f7863631:
 
     # u "A private dancer? Same thing. Now answer the question."
-    u "Une \"danseuse particulière\" ? C'est la même chose. Maintenant, réponds à la question, s'te plait."
+    u "Une \"danseuse exotique\" ? C'est la même chose. Maintenant, réponds à la question, s'te plait."
 
 # game/v1/scene45a.rpy:95
 translate francais v1s45a_06575ebb:
@@ -190,7 +190,7 @@ translate francais v1s45a_ec160e96:
 translate francais v1s45a_0529a669:
 
     # u "Wow..."
-    u "Wow..."
+    u "Waouh..."
 
 # game/v1/scene45a.rpy:169
 translate francais v1s45a_6e1871a7:
@@ -238,7 +238,7 @@ translate francais v1s45a_3680a079:
 translate francais v1s45a_bbb9ccc9:
 
     # u "Oh wow. I'm scared."
-    u "Oh wow. J'ai peur."
+    u "Oh waouh. J'ai peur."
 
 # game/v1/scene45a.rpy:203
 translate francais v1s45a_134075c5:
@@ -322,7 +322,7 @@ translate francais v1s45a_383c99e0:
 translate francais v1s45a_82041738:
 
     # u "Haha, I won't. I promise. Thank you for saying that."
-    u "Haha, je vais pas faire ça. Je te promets. Merci de m'avoir dit ça."
+    u "Haha, ça risque pas. Je te promets. Merci de m'avoir dit ça."
 
 # game/v1/scene45a.rpy:315
 translate francais v1s45a_fec428ae:
@@ -334,13 +334,13 @@ translate francais v1s45a_fec428ae:
 translate francais v1s45a_62966b5c:
 
     # u "Oh, wow!"
-    u "Oh, wow !"
+    u "Oh, wahou !"
 
 # game/v1/scene45a.rpy:325
 translate francais v1s45a_554c7a78:
 
     # am "I have to run soon, but I wanna mark the occasion with a celebratory sip."
-    am "Je dois bientôt y aller, mais je veux célébrer ce moment en buvant un coup."
+    am "Je vais bientôt devoir partir, mais je voudrais célébrer l'occasion en buvant un coup."
 
 # game/v1/scene45a.rpy:330
 translate francais v1s45a_2b776c43:
@@ -382,7 +382,7 @@ translate francais v1s45a_7052e130:
 translate francais v1s45a_29199454:
 
     # u "Sounds like a plan, yeah."
-    u "Quand tu veux, ouais."
+    u "Ouais, quand tu veux."
 
 # game/v1/scene45a.rpy:382
 translate francais v1s45a_a23165e0:
@@ -394,7 +394,7 @@ translate francais v1s45a_a23165e0:
 translate francais v1s45a_f4ea0f08:
 
     # u "(Let's check it out.)"
-    u "(Allons vérifier.)"
+    u "(Ah, voyons voir ça.)"
 
 # game/v1/scene45a.rpy:415
 translate francais v1s45a_PhoneContinue_f9e9813d:
