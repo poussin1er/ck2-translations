@@ -34,7 +34,7 @@ translate francais recap_emily_questions_e3eaf8ab:
 translate francais recap_emily_questions_2f9a01ef:
 
     # u "Then when we were in Europe, all that built-up tension boiled over into potentially having some angry sex."
-    u "Puis, lorsque nous étions en Europe, toute cette tension accumulée s'est transformée en une possibilité de coucher avec elle de manière furieuse."
+    u "Puis, lorsqu'on était en Europe, toute cette tension accumulée s'est transformée en un potentiel rapport sexuel tout en étant furieux."
 
 # game/recap/recap02.rpy:149
 translate francais recap_emily_questions_0883a59f:
@@ -226,7 +226,7 @@ translate francais recap_lauren_questions_8ca34a23:
 translate francais recap_lauren_questions_2009530c:
 
     # u "I put on some extra charm..."
-    u "J'ai ajouté une touche de charme supplémentaire..."
+    u "J'y ai ajouté une touche de charme supplémentaire..."
 
 # game/recap/recap02.rpy:562
 translate francais recap_lauren_questions_e68c6e30:
@@ -268,13 +268,13 @@ translate francais recap_riley_questions_7ddc64c9:
 translate francais recap_riley_questions_ed720181:
 
     # u "and the sex was great..."
-    u "et les rapports sexuels étaient géniaux..."
+    u "et les rapports sexuels étaient super..."
 
 # game/recap/recap02.rpy:622
 translate francais recap_riley_questions_4a53143b:
 
     # u "then later I found out that she's actually bisexual..."
-    u "puis plus tard, j'ai découvert qu'elle était bisexuelle, en réalité..."
+    u "puis plus tard, j'ai découvert qu'en réalité, elle était bisexuelle..."
 
 # game/recap/recap02.rpy:632
 translate francais recap_riley_questions_3a680e6e:
@@ -316,7 +316,7 @@ translate francais recap_riley_questions_057608ab:
 translate francais recap_riley_questions_ad2f8e03:
 
     # u "Wow! I won't be forgetting that in a hurry!"
-    u "Wow ! Je ne risque pas d'oublier ça de sitôt !"
+    u "Whaou ! Je ne risque pas d'oublier ça de sitôt !"
 
 # game/recap/recap02.rpy:722
 translate francais recap_riley_questions_6c615474:
@@ -1052,7 +1052,7 @@ translate francais strings:
 
     # game/recap/recap02.rpy:1784
     old "Invite on Weed Bus tour"
-    new "Inviter à la promenade du Weed Bus"
+    new "Inviter à la promenade du Weed tour"
 
     # game/recap/recap02.rpy:1859
     old "Pull away"
