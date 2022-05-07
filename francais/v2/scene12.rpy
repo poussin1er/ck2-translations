@@ -658,7 +658,7 @@ translate francais v2s12_7bfada48:
 translate francais v2s12_0aded0f3:
 
     # u "Me too, I'll be waiting for your call to start the next phase. *Laughs*"
-    u "Moi aussi. Je guette ton appel pour commencer la prochaine étape. *Rire*"
+    u "Moi aussi. J'attend ton appel pour commencer la prochaine étape. *Rire*"
 
 # game/v2/scene12.rpy:634
 translate francais v2s12_77c17839:

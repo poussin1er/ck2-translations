@@ -532,7 +532,7 @@ translate francais v2s6_6c012194:
 translate francais v2s6_3fec3f08:
 
     # cl "So, I can count on you guys for your support?"
-    cl "Alors, je peux compter sur ton soutien ?"
+    cl "Alors, je peux compter sur votre soutien ?"
 
 # game/v2/scene6.rpy:551
 translate francais v2s6_368909fd:
@@ -562,7 +562,7 @@ translate francais v2s6_aff97532:
 translate francais v2s6_ce20289e:
 
     # cl "Yeah, but every Chick has friends outside the sorority. And every single one of them will be influenced by the opinion of the public."
-    cl "Ouais, mais chaque Chick a des amis en dehors de la sororité. Et chacune d'entre elles sera influencée par l'opinion du public."
+    cl "Si, mais chaque Chick a des amis en dehors de la sororité. Et chacune d'entre elles sera influencée par l'opinion du public."
 
 # game/v2/scene6.rpy:574
 translate francais v2s6_de85f608:

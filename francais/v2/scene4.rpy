@@ -112,7 +112,7 @@ translate francais v2s4_9743271d:
 translate francais v2s4_9e8bd2d7:
 
     # u "Can I have one?"
-    u "Je peux en avoir un ?"
+    u "Je peux en avoir une ?"
 
 # game/v2/scene4.rpy:133
 translate francais v2s4_09d5894f:
@@ -142,7 +142,7 @@ translate francais v2s4_f41f777e:
 translate francais v2s4_72e7991a:
 
     # aut "Haha, I'll give you a mug at the re-opening. Promise."
-    aut "Haha, je te donnerai un mug lors de la réouverture. Promis."
+    aut "Haha, je te donnerai une tasse lors de la réouverture. Promis."
 
 # game/v2/scene4.rpy:161
 translate francais v2s4_ee07622e:
@@ -328,7 +328,7 @@ translate francais v2s4_eb41e2dc:
 translate francais v2s4_6280dc76:
 
     # aut "How could someone give up on you, bud?"
-    aut "Comment quelqu'un a-t-il pu renoncer à toi, mon grand ?"
+    aut "Comment quelqu'un a-t-il pu t'abandonner, mon beau ?"
 
 # game/v2/scene4.rpy:344
 translate francais v2s4_5ceb7c71:
@@ -466,7 +466,7 @@ translate francais v2s4_063616f6:
 translate francais v2s4_1d6128a7:
 
     # aut "Yeah, he is. Little Blue."
-    aut "Ouais, il l'est. Petit Blue"
+    aut "C'est vrai, oui. Petit Blue."
 
 # game/v2/scene4.rpy:480
 translate francais v2s4_9d0e4eee:
@@ -862,7 +862,7 @@ translate francais v2s4_dog_68b2ffad:
 translate francais v2s4_dog_fa112fec:
 
     # u "Yeah, it looks cozy."
-    u "Ouais, ça a l'air chaleureux."
+    u "Ouais, c'est plus chaleureux."
 
 # game/v2/scene4.rpy:884
 translate francais v2s4_dog_ad04b3d0:
@@ -880,7 +880,7 @@ translate francais v2s4_dog_bd481542:
 translate francais v2s4_dog_5b69e2a6:
 
     # u "Oh, no. It can't be worse than a two-hundred-pound potted plant, can it?"
-    u "Oh, pas fini ? de toute façon, ça peut pas être pire qu'une plante en pot de cent kilos, si ?"
+    u "Oh, c'est pas fini ? de toute façon, ça peut pas être pire qu'une plante en pot de cent kilos, si ?"
 
 # game/v2/scene4.rpy:899
 translate francais v2s4_dog_4dd3d81f:
@@ -910,7 +910,7 @@ translate francais v2s4_dog_d7c2a0c6:
 translate francais v2s4_dog_c1dd1b7c:
 
     # aut "*Gasps* You-"
-    aut "*Soupirs* Tu-"
+    aut "*Soupire* Tu-"
 
 # game/v2/scene4.rpy:961
 translate francais v2s4_dog_1eb77fb8:
@@ -946,7 +946,7 @@ translate francais v2s4_dog_2aa685cc:
 translate francais v2s4_dog_32790dbc:
 
     # aut "*Laughs* You're so annoying."
-    aut "*Rire* Tu es si énervant."
+    aut "*Rire* Tu es vraiment énervant."
 
 # game/v2/scene4.rpy:988
 translate francais v2s4_dog_29f7943c:
@@ -988,13 +988,13 @@ translate francais v2s4_dog_d552c137:
 translate francais v2s4_dog_703f31c3:
 
     # aut "Okay, okay... back to work."
-    aut "Ok, ok... Retour au travail."
+    aut "Bon, bon... On continue le travail."
 
 # game/v2/scene4.rpy:1035
 translate francais v2s4_dog_5c36b6f0:
 
     # u "Alrighty..."
-    u "Très bien..."
+    u "Super..."
 
 # game/v2/scene4.rpy:1040
 translate francais v2s4_dog_e445910c:
@@ -1006,13 +1006,13 @@ translate francais v2s4_dog_e445910c:
 translate francais v2s4_dog_44be8ad0:
 
     # u "That's it! Let's have a look."
-    u "C'est fini ! Jetons un coup d'œil."
+    u "C'est fini ! Regardons un peu ce que ça donne."
 
 # game/v2/scene4.rpy:1055
 translate francais v2s4_dog_79029504:
 
     # u "Great job! Seriously, you're really good at this."
-    u "Excellent travail ! Sérieusement, tu es vraiment douée pour ça."
+    u "Excellent travail ! Sérieusement, t'es vraiment douée pour ça."
 
 # game/v2/scene4.rpy:1060
 translate francais v2s4_dog_9f53b619:
@@ -1054,7 +1054,7 @@ translate francais v2s4_dog_16985f90:
 translate francais v2s4_dog_2d77b23d:
 
     # aut "The strongest candidate. *Laughs* That seems like such a shit answer, but honestly..."
-    aut "La candidate la plus forte. *Rire* Ça a l'air d'être une réponse de merde, mais honnêtement..."
+    aut "La candidate la plus forte. *Rire* La réponse a l'air nulle, mais honnêtement..."
 
 # game/v2/scene4.rpy:1092
 translate francais v2s4_dog_65596d7f:
@@ -1096,7 +1096,7 @@ translate francais v2s4_dog_1d2179f5:
 translate francais v2s4_dog_e5f35e85:
 
     # aut "Oh, hello! Wait, it's Oscar!"
-    aut "Oh, bonjour ! Attends, c'est Oscar !"
+    aut "Oh, bonjour ! Attendez, c'est Oscar !"
 
 # game/v2/scene4.rpy:1137
 translate francais v2s4_dog_8aebf7b2:
@@ -1120,7 +1120,7 @@ translate francais v2s4_dog_e6e27072:
 translate francais v2s4_dog_9ac6a974:
 
     # u "*Chuckles* How are you, buddy? Good?"
-    u "*Rire* Comment tu vas, mon pote ? Bien ?"
+    u "*Rire* Comment ça vas, mon pote ? Bien ?"
 
 # game/v2/scene4.rpy:1164
 translate francais v2s4_dog_49e63b2e:
@@ -1306,7 +1306,7 @@ translate francais v2s4_dog_24515cea:
 translate francais v2s4_dog_dcffd5c5:
 
     # aut "Ha, yeah. He will."
-    aut "Ha, ouais. Il va y arriver."
+    aut "Ha, c'est vrai. Il y arrivera."
 
 # game/v2/scene4.rpy:1307
 translate francais v2s4_dog_e1e1af52:
@@ -1318,13 +1318,13 @@ translate francais v2s4_dog_e1e1af52:
 translate francais v2s4_dog_9490c687:
 
     # aut "I think he likes you..."
-    aut "Je crois qu'il t'aime bien..."
+    aut "On dirait qu'il t'aime bien..."
 
 # game/v2/scene4.rpy:1322
 translate francais v2s4_dog_c526155f:
 
     # u "*Chuckles* Too bad I can't take you back to campus with me."
-    u "*Rire* Dommage que je ne puisse pas te ramener sur le campus avec moi."
+    u "*Rire* Dommage que je puisse pas te ramener sur le campus avec moi."
 
 # game/v2/scene4.rpy:1327
 translate francais v2s4_dog_9334fac7:
@@ -1336,7 +1336,7 @@ translate francais v2s4_dog_9334fac7:
 translate francais v2s4_dog_b585cc4e_1:
 
     # aut "Hopefully we can find the perfect owner for him at the re-opening."
-    aut "Espérons que nous pourrons lui trouver le maître idéal lors de la réouverture."
+    aut "Espérons qu'on pourra lui trouver le maître idéal lors de la réouverture."
 
 # game/v2/scene4.rpy:1334
 translate francais v2s4_dog_0eca355e:
@@ -1372,7 +1372,7 @@ translate francais v2s4_dog_5dcad1e0:
 translate francais v2s4_dog_4ad2bd7b:
 
     # u "(Got a pretty good workout this morning. Almost as good as the gym, haha.)"
-    u "(Ce matin, m'a fait faire une bonne séance d'entraînement. Presque aussi bien qu'en salle de gym, haha.)"
+    u "(Cette matinée, m'a fait faire une bonne séance d'entraînement. Presque aussi bien qu'en salle de gym, haha.)"
 
 # game/v2/scene4.rpy:1367
 translate francais v2s4_dog_758f3f64:
@@ -1636,7 +1636,7 @@ translate francais v2s4_dog_7e1c1d63:
 translate francais v2s4_dog_9248f806:
 
     # u "Haha, thank you. I think..."
-    u "Haha, merci. On va dire..."
+    u "Haha, merci."
 
 # game/v2/scene4.rpy:1693
 translate francais v2s4_dog_04ed8c9a:

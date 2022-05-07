@@ -16,7 +16,7 @@ translate francais v2s9_625adad2:
 translate francais v2s9_05e8f70d:
 
     # u "Oh, really?"
-    u "Oh, vraiment ?"
+    u "Ah, c'est vrai ?"
 
 # game/v2/scene9.rpy:38
 translate francais v2s9_5a7336b0:
@@ -28,7 +28,7 @@ translate francais v2s9_5a7336b0:
 translate francais v2s9_6f41eb6e:
 
     # u "Okay... So far it doesn't sound very convincing, but I'll give you a chance"
-    u "Ok... Pour l'instant, ça n'a pas l'air très convaincant, mais je te laisse une chance."
+    u "Bon... Pour l'instant, ça n'a pas l'air très convaincant, mais je te laisse une chance."
 
 # game/v2/scene9.rpy:48
 translate francais v2s9_aca1219a:
@@ -46,19 +46,19 @@ translate francais v2s9_465c8d27:
 translate francais v2s9_bb7a2720:
 
     # u "Oooh, fun... Haha."
-    u "Oooh, génial... Haha."
+    u "Oooh, amusant... Haha."
 
 # game/v2/scene9.rpy:63
 translate francais v2s9_5822d735:
 
     # au "Yeah, I know, right? *Sighs*"
-    au "Ouais, je sais, hein ? *Soupirs*"
+    au "Hum, je sais bien, hein... *Soupirs*"
 
 # game/v2/scene9.rpy:65
 translate francais v2s9_8b5eccce:
 
     # au "Anyway, there will be food and drinks, so all we need to do is dress to impress."
-    au "De toute façon, il y aura de la nourriture et des boissons, alors tout ce qu'on doit faire, c'est s'habiller pour impressionner."
+    au "De toute façon, il y aura de la nourriture et des boissons, alors tout ce qu'on a à faire, c'est s'habiller pour impressionner."
 
 # game/v2/scene9.rpy:70
 translate francais v2s9_e566768c:
@@ -70,7 +70,7 @@ translate francais v2s9_e566768c:
 translate francais v2s9_3146cbae:
 
     # au "Yeah, so... I was kind of hoping you'd accompany me for the night, haha."
-    au "Ouais, bon... J'espérais plus ou moins que tu m'accompagnerais pendant cette soirée, haha."
+    au "Ouais, bon... J'espérais plus ou moins que tu m'accompagnerais pour cette soirée, haha."
 
 # game/v2/scene9.rpy:80
 translate francais v2s9_3b2883ca:
@@ -172,7 +172,7 @@ translate francais v2s9_dd448273:
 translate francais v2s9_0c2ed257:
 
     # au "But yeah, I'm starting to enjoy time with you as... you know..."
-    au "Mais ouais, je commence à aimer passer du temps avec toi comme... tu vois..."
+    au "Mais c'est vrai, je commence à aimer passer du temps avec toi comme... tu vois..."
 
 # game/v2/scene9.rpy:204
 translate francais v2s9_bc225582:
@@ -352,7 +352,7 @@ translate francais v2s9_9cda2a5e:
 translate francais v2s9_0c069f3b:
 
     # au "Okay, thank you. It's been a few days now and some of us are starting to worry."
-    au "Ok, merci. Ça fait plusieurs jours, là et certains d'entre nous commencent vraiment à s'inquiéter."
+    au "Ok, merci. Ça fait plusieurs jours, là. Et certains d'entre nous commencent vraiment à s'inquiéter."
 
 # game/v2/scene9.rpy:376
 translate francais v2s9_479a3c52:
@@ -370,7 +370,7 @@ translate francais v2s9_82c31055:
 translate francais v2s9_86e3468f:
 
     # au "It's worth a try, right? I should get going though, thanks again for coming on Sunday."
-    au "Ça vaut le coup d'essayer, non ? Je devrais quand même aller le voir et merci encore de venir dimanche."
+    au "Ça vaut le coup d'essayer, non ? Je devrais quand même aller le voir. Et encore merci de venir dimanche."
 
 # game/v2/scene9.rpy:391
 translate francais v2s9_04fa15a6:

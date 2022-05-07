@@ -220,7 +220,7 @@ translate francais v2s8_f373ccef:
 translate francais v2s8_08d8b0b5:
 
     # u "What was that?"
-    u "C'était quoi ça ?"
+    u "Comment ça ?"
 
 # game/v2/scene8.rpy:260
 translate francais v2s8_a69ff2e1:
