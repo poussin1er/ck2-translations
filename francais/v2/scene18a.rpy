@@ -64,7 +64,7 @@ translate francais v2s18a_Aubrey_a421cfaf:
 translate francais v2s18a_Aubrey_7b2efd1e:
 
     # u "Ha, okay. Maybe I will."
-    u "Ha, ok. J'y penserai."
+    u "Heu, ouais. On verra."
 
 # game/v2/scene18a.rpy:114
 translate francais v2s18a_Aubrey_7be2f947:
@@ -406,13 +406,13 @@ translate francais v2s18a_Ryan_62dac69b:
 translate francais v2s18a_Ryan_3a68421a:
 
     # u "Hey, at least your costume looks good."
-    u "Hé, au moins ton costume est beau."
+    u "Hé, au moins ton costume est sympa."
 
 # game/v2/scene18a.rpy:483
 translate francais v2s18a_Ryan_2e2e7081:
 
     # ry "Oh... Yeah. I just borrowed it from Cameron."
-    ry "Oh... Ouais. Je l'ai juste emprunté à Cameron."
+    ry "Oh... Ouais. Je l'ai emprunté à Cameron."
 
 # game/v2/scene18a.rpy:485
 translate francais v2s18a_Ryan_e3d38ce9:
@@ -424,7 +424,7 @@ translate francais v2s18a_Ryan_e3d38ce9:
 translate francais v2s18a_Ryan_b0fc2e36:
 
     # u "Trust me, I know the feeling... Ha."
-    u "Crois-moi, je sais ça... Ha."
+    u "Je connais, crois-moi..."
 
 # game/v2/scene18a.rpy:495
 translate francais v2s18a_Ryan_a197efe0:
@@ -478,7 +478,7 @@ translate francais v2s18a_AutumPenelope_5e444650:
 translate francais v2s18a_AutumPenelope_f0328676:
 
     # aut "Yeah, definitely! You could find an amazing career with your computer skills. Cyber security is a huge deal!"
-    aut "Ouais, sans aucun doute ! Tu pourrais avoir une carrière incroyable grâce à tes compétences en informatique. La cybersécurité est un marché énorme !"
+    aut "C'est vrai, j'en suis sûre ! Tu pourrais avoir une carrière incroyable grâce à tes compétences en informatique. La cybersécurité est un marché énorme !"
 
 # game/v2/scene18a.rpy:568
 translate francais v2s18a_AutumPenelope_5b07d22b:
@@ -490,19 +490,19 @@ translate francais v2s18a_AutumPenelope_5b07d22b:
 translate francais v2s18a_AutumPenelope_dcd2849c:
 
     # aut "Yeah! Haha, exactly."
-    aut "Ouais ! Haha, précisément."
+    aut "Oui ! Haha, tout à fait."
 
 # game/v2/scene18a.rpy:578
 translate francais v2s18a_AutumPenelope_e9f70508:
 
     # pe "That would be amazing, not gonna lie."
-    pe "Ça serait génial, sans mentir."
+    pe "Sans mentir, ça serait génial."
 
 # game/v2/scene18a.rpy:583
 translate francais v2s18a_AutumPenelope_141b7f2d:
 
     # u "Evening, ladies."
-    u "Bonsoir, mesdames."
+    u "Bonsoir, mesdemoiselles."
 
 # game/v2/scene18a.rpy:593
 translate francais v2s18a_AutumPenelope_25136811:
@@ -544,7 +544,7 @@ translate francais v2s18a_AutumPenelope_ffbf31cd:
 translate francais v2s18a_AutumPenelope_94dc4821:
 
     # u "Oh, trust me, I know. Luckily, it's nice and warm in here. Thanks, Autumn."
-    u "Oh, crois-moi, je le sais. Heureusement, il fait bon et chaud ici. Merci, Autumn."
+    u "Oh merci Autumn, je sais ça, crois-moi. Heureusement  qu'il fait bon et chaud ici.."
 
 # game/v2/scene18a.rpy:634
 translate francais v2s18a_AutumPenelope_d8bb072a:
@@ -568,7 +568,7 @@ translate francais v2s18a_AutumPenelope_7404e123:
 translate francais v2s18a_AutumPenelope_f9ccce4b:
 
     # aut "Well, it took ages to get where we are, so thank you. Tons of hard work and late nights, but..."
-    aut "Il a fallu des années pour en arriver là où on est, alors merci. Des tonnes de travail acharné et de nuits tardives, mais..."
+    aut "Il a fallu des années pour en arriver là où on est, alors merci. Des tonnes de travail acharné et de nuits blanches, mais..."
 
 # game/v2/scene18a.rpy:651
 translate francais v2s18a_AutumPenelope_0ae6fbba:
@@ -610,7 +610,7 @@ translate francais v2s18a_AutumPenelope_62cb590a:
 translate francais v2s18a_AutumPenelope_e1df42a9:
 
     # u "Oh shit, okay... Your secret is safe with me. *Chuckles*"
-    u "Oh merde, ok... Ton secret est en sécurité avec moi. *Rire*"
+    u "Oh merde, ok... votre secret est en sécurité avec moi. *Rire*"
 
 # game/v2/scene18a.rpy:700
 translate francais v2s18a_AutumPenelope_d7f22a24:
@@ -634,7 +634,7 @@ translate francais v2s18a_AutumPenelope_37c579e4:
 translate francais v2s18a_AutumPenelope_48d7f1c7:
 
     # u "Oh yeah! Thanks for your advice. I think she's gonna like it."
-    u "Oh ouais ! Merci pour ton conseil. Je crois que ça va lui plaire."
+    u "Oh ouais ! Merci pour ton conseil. J'espère que ça lui plaira."
 
 # game/v2/scene18a.rpy:722
 translate francais v2s18a_AutumPenelope_20d0f10f:
@@ -646,7 +646,7 @@ translate francais v2s18a_AutumPenelope_20d0f10f:
 translate francais v2s18a_AutumPenelope_553dc68a:
 
     # aut "She'll be opening them soon, probably."
-    aut "Elle va sûrement les ouvrir bientôt."
+    aut "Elle va sûrement bientôt les ouvrir."
 
 # game/v2/scene18a.rpy:732
 translate francais v2s18a_AutumPenelope_49c7a20b:
@@ -724,7 +724,7 @@ translate francais v2s18a_AutumPenelope_97d9e3d0:
 translate francais v2s18a_AutumPenelope_4a092c9d:
 
     # u "He's such a good boy."
-    u "Il est si gentil."
+    u "Il est vraiment adorable."
 
 # game/v2/scene18a.rpy:797
 translate francais v2s18a_AutumPenelope_d2515c76:
@@ -784,13 +784,13 @@ translate francais v2s18a_AutumPenelope_a0767160:
 translate francais v2s18a_AutumPenelope_6356a067:
 
     # u "Wait, really?!"
-    u "Attends, vraiment ?!"
+    u "Attends, c'est vrai ?!"
 
 # game/v2/scene18a.rpy:857
 translate francais v2s18a_AutumPenelope_4ae225c1:
 
     # aut "Really. Except it's called the \"sexless checklist\" for a reason, ha."
-    aut "Vraiment. Sauf qu'on l'appelle la \"checklist asexuée\" pour une raison, ha."
+    aut "Oui c'est vrai. Sauf qu'on l'appelle la \"checklist asexuée\" pour une bonne raison, haha."
 
 # game/v2/scene18a.rpy:862
 translate francais v2s18a_AutumPenelope_861084d0:
@@ -808,7 +808,7 @@ translate francais v2s18a_AutumPenelope_72f16fd6:
 translate francais v2s18a_AutumPenelope_513571c0:
 
     # u "(Oh... My... God... Imre is such a fucking idiot, haha!)"
-    u "(Oh... Pu... tain.. Imre est un vrai con, haha !)"
+    u "(Oh... Pu... tain.. Imre est un vrai crétin, haha !)"
 
 # game/v2/scene18a.rpy:877
 translate francais v2s18a_AutumPenelope_5c0f5a55:
@@ -958,13 +958,13 @@ translate francais v2s18a_AutumPenelope_32af0f29:
 translate francais v2s18a_AutumPenelope_6893d674:
 
     # u "Yeah, we're together."
-    u "Ouais, on est ensemble."
+    u "Oui, on est ensemble."
 
 # game/v2/scene18a.rpy:1010
 translate francais v2s18a_AutumPenelope_50062337:
 
     # pe "Oh, that's... Great news."
-    pe "Oh, c'est... Une excellente nouvelle."
+    pe "Oh, c'est... Une bonne nouvelle."
 
 # game/v2/scene18a.rpy:1015
 translate francais v2s18a_AutumPenelope_778a8d72:
@@ -1834,7 +1834,7 @@ translate francais v2s18a_rileysg_5077813d:
 translate francais v2s18a_rileysg_b0b88b28:
 
     # ri "Yeah?"
-    ri "Ouais ?"
+    ri "C'est vrai ?"
 
 # game/v2/scene18a.rpy:1937
 translate francais v2s18a_rileysg_17b5ac59:
@@ -1888,7 +1888,7 @@ translate francais v2s18a_rileysg_2e8c8088:
 translate francais v2s18a_nsfwSkipLabelR_0e5e36a0:
 
     # u "(Well... That wasn't so hard. *Laughs* Where to next?)"
-    u "(Eh ben... C'était pas si difficile. *Rire* Et maintenant ?)"
+    u "(Bon... C'était pas si compliqué, en fait ! *Rire* Et maintenant ?)"
 
 # game/v2/scene18a.rpy:2050
 translate francais v2s18a_ChrisAmber_bd250862:
@@ -2368,7 +2368,7 @@ translate francais v2s18a_nsfwSkipLabelAmb_a18332cd:
 translate francais v2s18a_BronzeDeer_3a52f5ae:
 
     # u "(That's an impressive deer... Looks expensive too. I wonder if it's been here since the beginning of the sorority?)"
-    u "(C'est un cerf impressionnant... Il a l'air cher également. Je me demande si il est là depuis le début de la sororité.)"
+    u "(Ce cerf est impressionnant... Il a l'air très cher, aussi. Je me demande si il est là depuis le début de la sororité.)"
 
 # game/v2/scene18a.rpy:2558
 translate francais v2s18a_AutumnLaurenPhoto_72a6d6d1:
@@ -2436,7 +2436,7 @@ translate francais strings:
 
     # game/v2/scene18a.rpy:23
     old "Thank you ladies!!"
-    new "Merci mesdames !!"
+    new "Merci les filles !!"
 
     # game/v2/scene18a.rpy:25
     old "Spooky sister season :)"
@@ -2540,7 +2540,7 @@ translate francais strings:
 
     # game/v2/scene18a.rpy:676
     old "Your secret is safe"
-    new "Ton secret est en sécurité"
+    new "Votre secret est en sécurité"
 
     # game/v2/scene18a.rpy:819
     old "Show the list"
@@ -2576,7 +2576,7 @@ translate francais strings:
 
     # game/v2/scene18a.rpy:1668
     old "Yeah, I do"
-    new "Ouais, j'y arriverai"
+    new "Oui, s'il te plait"
 
 translate francais strings:
 
@@ -2599,4 +2599,4 @@ translate francais v2s18a_Ryan_bd3eb2a0:
 translate francais v2s18a_Riley_9f17e1b8:
 
     # ri "Does the arrangement of this food look okay to you?"
-    ri "La disposition de ces aliments te convient-elle ?"
+    ri "La mise en place de la nourriture te va ?"

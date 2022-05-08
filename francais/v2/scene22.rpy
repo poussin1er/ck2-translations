@@ -1150,31 +1150,31 @@ translate francais v2dean_successful_f309f6c8:
 translate francais v2dean_successful_cc999c06:
 
     # de "I'm sure you can do it. You've come this far."
-    de "Je suis sûr que vous pouvez le faire. Vous avez déjà fait beaucoup de chemin."
+    de "Je suis sûre que vous pourrez y arriver. Vous avez déjà fait beaucoup de chemin."
 
 # game/v2/scene22.rpy:1353
 translate francais v2dean_successful_2810f586:
 
     # cl "We did it! *Laughs*"
-    cl "On l'a fait ! *Rire*"
+    cl "On a réussi ! *Rire*"
 
 # game/v2/scene22.rpy:1358
 translate francais v2dean_successful_4378afbb:
 
     # u "Haha, we did! I can't believe we actually just pulled that off."
-    u "Haha, on l'a fait ! Je n'arrive pas à croire qu'on ait réussi à faire ça."
+    u "Haha, on a réussi ! J'arrive pas à croire qu'on ait réussi à faire ça."
 
 # game/v2/scene22.rpy:1363
 translate francais v2dean_successful_74053933:
 
     # cl "Thank you so much for your help in there, [name]."
-    cl "Merci infiniment pour ton aide là-dedans, [name]."
+    cl "Merci infiniment pour ton aide, [name]."
 
 # game/v2/scene22.rpy:1368
 translate francais v2dean_successful_1b28a406:
 
     # u "Of course."
-    u "Pas de quoi."
+    u "De rien."
 
 # game/v2/scene22.rpy:1433
 translate francais v2dean_unsuccessful_4d51b6f2:
@@ -1216,7 +1216,7 @@ translate francais v2dean_unsuccessful_76b03b19:
 translate francais v2dean_unsuccessful_be599481:
 
     # u "Come on, let's talk about it!"
-    u "Viens, on va en parler !"
+    u "Viens, on va parler de tout ça !"
 
 # game/v2/scene22.rpy:1495
 translate francais v2dean_unsuccessful_6d7cb2fc:
@@ -1240,7 +1240,7 @@ translate francais v2s22_PhoneContinueAub_f4277857:
 translate francais v2s22_PhoneContinueAub_00232a02:
 
     # u "Looks like I need to go."
-    u "On dirait que je dois y aller."
+    u "Je vais devoir y aller."
 
 # game/v2/scene22.rpy:1558
 translate francais v2s22_PhoneContinueAub_38541eaa:

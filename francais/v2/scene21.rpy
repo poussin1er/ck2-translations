@@ -1384,7 +1384,7 @@ translate francais v2s21_37ab5b58:
 translate francais v2s21_d44f643e:
 
     # u "We need the opinion of someone who understands the inner workings of sorority life."
-    u "Nous avons besoin de de faire appel à quelqu'un qui comprend les mécanismes internes de la vie de sororité."
+    u "Nous avons besoin de faire appel à quelqu'un qui comprend les mécanismes internes de la vie de sororité."
 
 # game/v2/scene21.rpy:1361
 translate francais v2s21_1126ef87:

@@ -46,7 +46,7 @@ translate francais v2s26_7847e4df:
 translate francais v2s26_29c42cc2:
 
     # u "I think so... *Laughs*"
-    u "Je crois que oui... *Rire*"
+    u "On va dire que oui... *Rire*"
 
 # game/v2/scene26.rpy:55
 translate francais v2s26_648ff3e5:
@@ -394,7 +394,7 @@ translate francais v2s26_cbcd0416:
 translate francais v2s26_8869d1bd:
 
     # au "Lights off, then. Let's get cozy, cuties."
-    au "Alors, éteins les lumières. On va se mettre à l'aise, mes chéris."
+    au "Alors éteignons les lumières. on va se mettre à l'aise, mes chéris."
 
 # game/v2/scene26.rpy:440
 translate francais v2s26_b6540391:
@@ -532,7 +532,7 @@ translate francais v2s26_fe800786:
 translate francais v2s26_a0c13762:
 
     # ri "Like, what if the three of us had a relationship like that?"
-    ri "Comme si, si nous trois avions une relation comme celle-là ?"
+    ri "Comme si, nous trois avions une relation comme celle-là...?"
 
 # game/v2/scene26.rpy:548
 translate francais v2s26_a9b86ed1:

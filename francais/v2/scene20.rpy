@@ -196,7 +196,7 @@ translate francais v2s20_d0ce392d:
 translate francais v2s20_3a30615d:
 
     # u "You think they would?"
-    u "Tu crois qu'ils le feraient ?"
+    u "Tu crois qu'elle pourrait parler de ça ?"
 
 # game/v2/scene20.rpy:185
 translate francais v2s20_0bbe060b:
@@ -214,7 +214,7 @@ translate francais v2s20_af70d0cd:
 translate francais v2s20_d2979637:
 
     # u "Okay, I think I can handle that."
-    u "Ok, je dois pouvoir gérer ça."
+    u "Ok, je vais essayer."
 
 # game/v2/scene20.rpy:197
 translate francais v2s20_88c4444b:

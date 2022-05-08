@@ -808,7 +808,7 @@ translate francais v2s18c_aubreysg_bea2f980:
 translate francais v2s18c_aubreysg_3b84e907:
 
     # au "*Whispers* Nice! There's nobody in here..."
-    au "*Chuchote* Super ! Il n'y a personne ici..."
+    au "*Chuchote* Super ! Y a personne ici..."
 
 # game/v2/scene18c.rpy:774
 translate francais v2s18c_aubreysg_eff3b904:
@@ -1132,13 +1132,13 @@ translate francais v2s18c_nsfwSkipLabelAub_121fba87:
 translate francais v2s18c_nsfwSkipLabelAub_f5e70424:
 
     # u "*Exhales* (Damn, what a night so far.)"
-    u "*Expire* (Bon sang, quelle soirée pour l'instant.)"
+    u "*Expire* (Putain, quelle soirée pour l'instant.)"
 
 # game/v2/scene18c.rpy:1174
 translate francais v2s18c_nsfwSkipLabelAub_84d83784:
 
     # u "(Now would be the perfect chance to steal a pair of panties for the list... I just hope Autumn won't notice.)"
-    u "(Ça serait l'occasion parfaite de voler une paire de culottes pour la liste.... J'espère juste qu'Autumn le remarquera pas.)"
+    u "(Ça pourrait être une parfaite occasion pour voler une paire de culottes pour la liste.... J'espère qu'Autumn le remarquera pas.)"
 
 # game/v2/scene18c.rpy:1181
 translate francais v2s18c_nsfwSkipLabelAub_efc25783:
@@ -1636,7 +1636,7 @@ translate francais v2s18c_autumn_amber_d12d1f13:
 translate francais v2s18c_autumn_amber_cc83d727:
 
     # u "Should I interfere in this drug debate?"
-    u "Dois-je m'immiscer dans ce débat sur les drogues ?"
+    u "Puis-je m'immiscer dans ce débat sur les drogues ?"
 
 # game/v2/scene18c.rpy:1675
 translate francais v2s18c_autumn_amber_27e78e6c:
@@ -1660,7 +1660,7 @@ translate francais v2s18c_autumn_amber_20ae1b45:
 translate francais v2s18c_autumn_amber_d09a1635:
 
     # am "I'm just excited to find someone interested in this stuff."
-    am "Je suis juste excitée de trouver quelqu'un qui s'intéresse à ce genre de trucs."
+    am "Je suis juste excitée d'enfin trouver quelqu'un qui s'intéresse à ce genre de trucs."
 
 # game/v2/scene18c.rpy:1693
 translate francais v2s18c_autumn_amber_6e8d31f6:
@@ -1696,19 +1696,19 @@ translate francais v2s18c_autumn_amber_a4652aa9:
 translate francais v2s18c_autumn_amber_7221cdf8:
 
     # aut "Okay, haha. Fair."
-    aut "Ok, haha. C'est honnête."
+    aut "Ok, haha. Ça me va."
 
 # game/v2/scene18c.rpy:1723
 translate francais v2s18c_autumn_amber_9a3f8645:
 
     # am "I'm gonna run to the bathroom, be right back."
-    am "Je vais filer aux toilettes, je reviens tout de suite."
+    am "Je file aux chiottes, je reviens tout de suite."
 
 # game/v2/scene18c.rpy:1728
 translate francais v2s18c_autumn_amber_068302d3:
 
     # u "I'll keep your spot warm!"
-    u "Je garde ta place au chaud !"
+    u "Je garde ta place chaude !"
 
 # game/v2/scene18c.rpy:1733
 translate francais v2s18c_autumn_amber_ca022a4f:
@@ -2230,7 +2230,7 @@ translate francais v2s18c_chris_penelope_8fd4e488:
 translate francais v2s18c_chris_penelope_b365040f:
 
     # ch "Being single."
-    ch "Le fait d'être célibataire."
+    ch "Au fait d'être célibataire."
 
 # game/v2/scene18c.rpy:2258
 translate francais v2s18c_chris_penelope_4c69175d:
@@ -2254,7 +2254,7 @@ translate francais v2s18c_chris_penelope_d21bdce5:
 translate francais v2s18c_chris_penelope_cd843041:
 
     # ch "I'm such a lightweight these days, haha!"
-    ch "Je suis tellement léger ces jours-ci, haha !"
+    ch "Je me sens tellement libre ces jours-ci, haha !"
 
 # game/v2/scene18c.rpy:2275
 translate francais v2s18c_chris_penelope_5b7b7961:

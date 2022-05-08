@@ -154,7 +154,7 @@ translate francais v2s33_023d3feb:
 translate francais v2s33_9071861b:
 
     # au "Oh, trust me, we'll get right on that. *Laughs*"
-    au "Oh, crois-moi, on va se y mettre. *Rire*"
+    au "Oh, crois-moi, on va s'y mettre. *Rire*"
 
 # game/v2/scene33.rpy:153
 translate francais v2s33_9bf60c51:
@@ -430,7 +430,7 @@ translate francais v2s33_d9f4483b:
 translate francais v2s33_1f6d8fd0:
 
     # na "Hehe, I'm glad."
-    na "Hehe, je suis contente."
+    na "Héhé, Je suis heureuse."
 
 # game/v2/scene33.rpy:417
 translate francais v2s33_04f5f303:
@@ -478,7 +478,7 @@ translate francais v2s33_d4f58ded:
 translate francais v2s33_0213b0f0:
 
     # u "(The fuck?)"
-    u "(Putain ?)"
+    u "(C'est quoi cette merde ?)"
 
 # game/v2/scene33.rpy:467
 translate francais v2s33_e148df26:
@@ -496,7 +496,7 @@ translate francais v2s33_b6ef5840:
 translate francais v2s33_8a90bce8:
 
     # au "I can do modeling though. I'm good at modeling. Ha, they hired me on the spot when-"
-    au "Mais je peux faire de la modélisation. Je suis douée pour le mannequinat. En fait, ils m'ont engagée sur le champ quand..."
+    au "Mais je peux faire du mannequinat. Je suis douée pour ça. De plus, ils m'ont engagée sur le champ quand..."
 
 # game/v2/scene33.rpy:482
 translate francais v2s33_e8a00b06:
@@ -550,7 +550,7 @@ translate francais v2s33_a555cf23:
 translate francais v2s33_11180494:
 
     # u "Pleased to meet you both. And congratulations on your second wedding day."
-    u "Ravi de vous rencontrer tous les deux. Et félicitations pour votre deuxième mariage."
+    u "Ravi de vous rencontrer. Et félicitations pour votre deuxième mariage."
 
 # game/v2/scene33.rpy:529
 translate francais v2s33_52b4252e:
@@ -1024,7 +1024,7 @@ translate francais v2s33_3e5fce36:
 translate francais v2s33_409ca769:
 
     # u "I can really taste the... (Ugh, fuck...) the quality."
-    u "Je peux vraiment ressentir la... ( Argh, putain...) la qualité."
+    u "Je peux vraiment ressentir la... (Argh, putain...) la qualité."
 
 # game/v2/scene33.rpy:953
 translate francais v2s33_5c634044:
@@ -1120,13 +1120,13 @@ translate francais v2s33_10f71a18:
 translate francais v2s33_f2947d31:
 
     # u "Ha, no worries. She seems to have smiled the most so far when speaking to you, so... *Chuckles*"
-    u "Ha, vous inquiétez pas. Elle a l'air d'avoir souri davantage jusqu'à présent en vous parlant, alors... *Rire*"
+    u "Ha, vous inquiétez pas. Pour l'instant, c'est en vous parlant qu'elle semble avoir le plus souri, alors... *Rire*"
 
 # game/v2/scene33.rpy:1019
 translate francais v2s33_9edd8331:
 
     # u "But, uh, yeah... We go to college together, just met this year."
-    u "Mais, euh, ouais... On va à l'université ensemble, on s'est rencontrés cette année."
+    u "Sinon, euh, c'est ça... On va à l'université ensemble, on s'est rencontrés cette année."
 
 # game/v2/scene33.rpy:1024
 translate francais v2s33_4725e345:
@@ -1150,7 +1150,7 @@ translate francais v2s33_84d0dfa9:
 translate francais v2s33_8350835e:
 
     # rick "Naomi is clearly the favorite, everyone can see it. You don't have to act all \"good\" around me, kid. Neither of you do."
-    rick "Naomi est clairement la préférée, tout l'monde peut l'voir. Et t'as pas b'soin d'faire semblant pour t'sentir \"bien\" avec moi, p'tit. Aucun d'entre vous ne l'fait."
+    rick "Naomi est clairement la préférée, tout l'monde peut l'voir. Et t'as pas b'soin d'faire semblant pour t'sentir \"bien\" avec moi, p'tit. Personne ne l'fait."
 
 # game/v2/scene33.rpy:1041
 translate francais v2s33_1fe419a5:
@@ -1216,7 +1216,7 @@ translate francais v2s33_80f58cd9:
 translate francais v2s33_71b478c2:
 
     # u "(Fuck's sake...) That's just... I mean, it's horrible."
-    u "(Putain de merde...) C'est juste... Je veux dire, c'est horrible."
+    u "(Putain de merde...) C'est juste... Je trouve ça horrible."
 
 # game/v2/scene33.rpy:1091
 translate francais v2s33_12681a7f:
@@ -1234,13 +1234,13 @@ translate francais v2s33_20a2885f:
 translate francais v2s33_099b920e:
 
     # rick "Not at all, no. And they're pushing her to do anything but be like Naomi, for what reason?"
-    rick "Pas du tout, non. Et ils la poussent à tout faire sauf à être comme Naomi, et pour quelle raison ?"
+    rick "Pas du tout, non. Et ils la poussent à tout faire, sauf à être comme Naomi, et pourquoi ça ?"
 
 # game/v2/scene33.rpy:1107
 translate francais v2s33_6f7b4ead:
 
     # u "Ha... Yeah, I don't know. It's strange."
-    u "Ha... Ouais, je sais pas. C'est bizarre."
+    u "Ha... Hum, je sais pas. C'est bizarre."
 
 # game/v2/scene33.rpy:1112
 translate francais v2s33_6c4ba74d:
@@ -1378,7 +1378,7 @@ translate francais v2s33_e7c66676:
 translate francais v2s33_721fa75b:
 
     # na "*Giggles* Okay!"
-    na "*Ricane* Ok !"
+    na "*Ricane* D'accord !"
 
 # game/v2/scene33.rpy:1244
 translate francais v2s33_f899c6f7:
@@ -1396,7 +1396,7 @@ translate francais v2s33_52e149dc:
 translate francais v2s33_5482ff6d:
 
     # au "Okay..."
-    au "Okay..."
+    au "Bon..."
 
 # game/v2/scene33.rpy:1271
 translate francais v2s33_ed74f7da:
@@ -1612,7 +1612,7 @@ translate francais v2s35_naomisg_93d9d7a4:
 translate francais v2s35_naomisg_ecc2a5e4:
 
     # u "Sorry."
-    u "Désolé."
+    u "Désolé d'être le premier."
 
 # game/v2/scene33.rpy:1470
 translate francais v2s35_naomisg_44a4a31f:
@@ -2122,7 +2122,7 @@ translate francais v2s33_nsfwSkipLabel1_f3756da5:
 translate francais v2s33_nsfwSkipLabel1_fd88602f:
 
     # au "You think so?"
-    au "Tu le penses ?"
+    au "Tu le penses vraiment ?"
 
 # game/v2/scene33.rpy:2051
 translate francais v2s33_nsfwSkipLabel1_6655a0ee:
@@ -2320,13 +2320,13 @@ translate francais v2s33_nsfwSkipLabel1_ea0d4f5d:
 translate francais v2s33_nsfwSkipLabel1_0c9a7197:
 
     # u "(Are you serious right now? They're taking a family photo without her...)"
-    u "(Vous êtes sérieux là ? Ils prennent une photo de famille sans elle...)"
+    u "(Ils sont sérieux là ? Ils prennent une photo de famille sans elle...)"
 
 # game/v2/scene33.rpy:2314
 translate francais v2s33_nsfwSkipLabel1_c1c010b6:
 
     # u "(It's probably best if I don't get involved. *Sighs* That's so fucked.)"
-    u "(C'est sans doute mieux si je m'en mêle pas. *Soupirs* C'est vraiment tordu.)"
+    u "(C'est peut-être mieux si je m'en mêle pas. *Soupirs* C'est vraiment tordu.)"
 
 # game/v2/scene33.rpy:2337
 translate francais v2s33_nsfwSkipLabel1_b6832f2e:
@@ -2338,7 +2338,7 @@ translate francais v2s33_nsfwSkipLabel1_b6832f2e:
 translate francais v2s33_nsfwSkipLabel1_79296ddb:
 
     # u "Aubrey, get in there."
-    u "Aubrey, retourne à ta place."
+    u "Aubrey, va te mettre en place."
 
 # game/v2/scene33.rpy:2347
 translate francais v2s33_nsfwSkipLabel1_46c97328:
@@ -2356,7 +2356,7 @@ translate francais v2s33_nsfwSkipLabel1_92e8f52c:
 translate francais v2s33_nsfwSkipLabel1_dddcca60:
 
     # u "...\"family photo\". Isn't it?"
-    u "...\"photo de famille\". N'est-ce pas ?"
+    u "...\"PHOTO DE FAMILLE\". Non ?"
 
 # game/v2/scene33.rpy:2356
 translate francais v2s33_nsfwSkipLabel1_e8caec20:
@@ -2470,13 +2470,13 @@ translate francais v2s33_nsfwSkipLabel1_8480f1d7:
 translate francais v2s33_nsfwSkipLabel1_8e0e81e5:
 
     # au "Thanks for stepping in like that."
-    au "Merci d'être intervenu comme ça."
+    au "Merci de t'être impliqué comme ça"
 
 # game/v2/scene33.rpy:2515
 translate francais v2s33_nsfwSkipLabel1_0d09969b:
 
     # u "I wasn't just going to stand by and let it happen."
-    u "J'allais pas rester les bras croisés et laisser faire."
+    u "J'allais pas rester les bras croisés et laisser faire... ÇA."
 
 # game/v2/scene33.rpy:2520
 translate francais v2s33_nsfwSkipLabel1_6761f656:
@@ -2488,7 +2488,7 @@ translate francais v2s33_nsfwSkipLabel1_6761f656:
 translate francais v2s33_nsfwSkipLabel1_ae8fe9cb:
 
     # u "Remember what I said."
-    u "Rappelle-toi ce que j'ai dit."
+    u "Rappelle-toi de ce que je t'ai dit."
 
 # game/v2/scene33.rpy:2527
 translate francais v2s33_nsfwSkipLabel1_b97a74e5:
@@ -2500,7 +2500,7 @@ translate francais v2s33_nsfwSkipLabel1_b97a74e5:
 translate francais v2s33_nsfwSkipLabel1_e2d320f6:
 
     # au "Now would be a good time for one of those awful jokes..."
-    au "Ce serait le bon moment pour une de ces blagues nulles..."
+    au "Ce serait le bon moment pour me sortir une de tes blagues nulles..."
 
 # game/v2/scene33.rpy:2537
 translate francais v2s33_nsfwSkipLabel1_a0a0877b:
@@ -2658,7 +2658,7 @@ translate francais strings:
 
     # game/v2/scene33.rpy:282
     old "Take the shot"
-    new "Prendre la photo"
+    new "Prendre le shot"
 
     # game/v2/scene33.rpy:379
     old "Flirt"

@@ -166,7 +166,7 @@ translate francais v2s27_3c64d3b7:
 translate francais v2s27_ce884414:
 
     # jen "*Laughs* Good one."
-    jen "*Rire* Bien joué."
+    jen "*Rire* Et PAN ! Dans le dentier."
 
 # game/v2/scene27.rpy:200
 translate francais v2s27_23a470e6:

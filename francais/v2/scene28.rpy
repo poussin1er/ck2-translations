@@ -4,7 +4,7 @@
 translate francais v2s28_141b7f2d:
 
     # u "Evening, ladies."
-    u "Bonsoir, mesdames."
+    u "Bonsoir, mesdemoiselles."
 
 # game/v2/scene28.rpy:27
 translate francais v2s28_7b279da5:
@@ -364,7 +364,7 @@ translate francais v2s28_ee8ddffe:
 translate francais v2s28_44f2c6cd:
 
     # u "You ladies keep guessing because a gentleman never tells."
-    u "Vous pouvez continuer à chercher, mesdames, un gentleman ne se dévoile jamais."
+    u "Vous pouvez continuer à chercher, mesdemoiselles, un gentleman ne se dévoile jamais."
 
 # game/v2/scene28.rpy:341
 translate francais v2s28_719ac954:
@@ -394,7 +394,7 @@ translate francais v2s28_45205f07:
 translate francais v2s28_4d4592fc:
 
     # u "Wow, haha. Okay, seems like you two have had enough."
-    u "Wow, haha. Bon, on dirait que vous en avez suffisamment eu toutes les deux."
+    u "Wow, haha. Bon, on dirait que vous deux avez suffisamment bu."
 
 # game/v2/scene28.rpy:366
 translate francais v2s28_9404ac60:
@@ -508,7 +508,7 @@ translate francais v2s28_4cd39965:
 translate francais v2s28_604ef312:
 
     # sa "I wish I didn't, ha."
-    sa "J'aimerais pas avoir à le supporter, moi."
+    sa "Moi, j'aimerais ne pas avoir à le supporter."
 
 # game/v2/scene28.rpy:474
 translate francais v2s28_9d6a6802:
@@ -592,7 +592,7 @@ translate francais v2s28_176657dc:
 translate francais v2s28_84cb8ab1:
 
     # sa "Apes all the way, baby! Leave the stinky dogs and join the Apes, then we can talk. Okay?"
-    sa "Les Apes sont les meilleurs, bébé ! Laisse les chiens puants et rejoins les Apes, alors on pourra parler. Ok ?"
+    sa "Les Apes sont les meilleurs, bébé ! Laisse les chiens puants et rejoins les Apes, après on pourra parler. D'accord ?"
 
 # game/v2/scene28.rpy:553
 translate francais v2s28_8f1bb40f:

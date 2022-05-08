@@ -130,7 +130,7 @@ translate francais v2s32_right_window_2f87a843:
 translate francais v2s32_right_window_d180215f:
 
     # u "I'm Romeo! You know... Shakespeare stuff?"
-    u "Je suis Roméo ! Tu sais... Les trucs de Shakespeare ?"
+    u "Je suis Roméo ! Tu sais... Le truc de Shakespeare ?"
 
 # game/v2/scene32.rpy:207
 translate francais v2s32_right_window_83fb8cba:
@@ -244,7 +244,7 @@ translate francais v2s32_right_window_f7249ba9:
 translate francais v2s32_right_window_16b8f079:
 
     # u "Wow, she looks... Incredible."
-    u "Waouh, elle est... Incroyable."
+    u "Waouh, elle est... Magnifique."
 
 # game/v2/scene32.rpy:345
 translate francais v2s32_right_window_2da08b9a:
@@ -466,7 +466,7 @@ translate francais v2s32_right_window_470f8b0f:
 translate francais v2s32_right_window_91946fdc:
 
     # u "You look... incredible."
-    u "Tu es... incroyable."
+    u "Tu es... Magnifique."
 
 # game/v2/scene32.rpy:567
 translate francais v2s32_right_window_aa9abeb8:
@@ -490,7 +490,7 @@ translate francais v2s32_right_window_af5c1cd3:
 translate francais v2s32_right_window_5d88c4cc:
 
     # u "Like, holy hell... I'm one lucky guy."
-    u "Vraiment, bordel de merde... Je suis un mec chanceux."
+    u "Sans déconner, putain de merde... Je suis un mec chanceux."
 
 # game/v2/scene32.rpy:588
 translate francais v2s32_right_window_1b4eb939:

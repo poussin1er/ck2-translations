@@ -16,7 +16,7 @@ translate francais v2s24_365ec152:
 translate francais v2s24_91597fd0:
 
     # u "Lindsey, what are you doing back there?"
-    u "Lindsey, qu'est-ce que tu fais là-bas ?"
+    u "Lindsey, qu'est-ce que tu fais là ?"
 
 # game/v2/scene24.rpy:39
 translate francais v2s24_191a9887:
@@ -526,7 +526,7 @@ translate francais v2s24_a9e2babc:
 translate francais v2s24_b8d5260e:
 
     # u "This is borderline discrimination! Give me one good reason why I shouldn't have you fired?!"
-    u "C'est à la limite de la discrimination ! Donne-moi une bonne raison pour laquelle je ne devrais pas te faire virer !"
+    u "C'est à la limite de la discrimination ! Donne-moi une bonne raison pour laquelle je devrais pas te faire virer !"
 
 # game/v2/scene24.rpy:550
 translate francais v2s24_079df62b:
@@ -556,7 +556,7 @@ translate francais v2s24_3f43140f:
 translate francais v2s24_512c9980:
 
     # cashier "I'll ring you up right now."
-    cashier "Je vous fais passer tout de suite."
+    cashier "Je... J'encaisse tout de suite."
 
 # game/v2/scene24.rpy:569
 translate francais v2s24_8a0d9688:
@@ -592,7 +592,7 @@ translate francais v2s24_e5e01632:
 translate francais v2s24_723a7734:
 
     # u "Keep it."
-    u "Garde ça."
+    u "Souviens-toi bien de ça !"
 
 # game/v2/scene24.rpy:609
 translate francais v2s24_7fee616b:
@@ -652,7 +652,7 @@ translate francais v2s24_70ac3cf4:
 translate francais v2s24_73d8ca43:
 
     # u "I won't tell anyone, though! I promise."
-    u "Mais je ne le dirai à personne ! Je le promets."
+    u "Mais je le dirai à personne ! Je promets."
 
 # game/v2/scene24.rpy:664
 translate francais v2s24_3560d9c2:
@@ -1108,7 +1108,7 @@ translate francais v2s24_565d577a:
 translate francais v2s24_723a7734_1:
 
     # u "Keep it."
-    u "Gardez ça."
+    u "Souvenez-vous bien de ça !"
 
 # game/v2/scene24.rpy:1086
 translate francais v2s24_d5823568:
@@ -1342,7 +1342,7 @@ translate francais v2s24_03957522:
 translate francais v2s24_5e3052ea:
 
     # u "Yeah, that's what they are. Have you tried them?"
-    u "Ouais, c'est ça. Tu les as essayés ?"
+    u "Ouais, c'est ça. T'y as déjà goûté ?"
 
 # game/v2/scene24.rpy:1342
 translate francais v2s24_f5392ef9:
@@ -1360,7 +1360,7 @@ translate francais v2s24_761c503b:
 translate francais v2s24_dd1b368a:
 
     # u "That sounds amazing...?"
-    u "Ça a l'air génial... ?"
+    u "Ça a l'air super...!"
 
 # game/v2/scene24.rpy:1356
 translate francais v2s24_fd7f9df0:
@@ -1516,7 +1516,7 @@ translate francais v2s24_PhoneContinue_cbe5fa98:
 translate francais v2s24_PhoneContinue_971abb3f:
 
     # li "Okay, have fun. I'll see you soon, yeah? Thanks again."
-    li "Ok, amuse-toi bien. On se voit bientôt, tu veux bien ? Merci encore."
+    li "Ok, amuse-toi bien. On se voit bientôt, d'accord ? Merci encore."
 
 # game/v2/scene24.rpy:1512
 translate francais v2s24_PhoneContinue_d7e91d7e:
