@@ -22,7 +22,7 @@ translate francais v2s40_8805b664:
 translate francais v2s40_29e76924:
 
     # u "So... What you mentioned earlier, during the limo ride to the club..."
-    u "Sinon... À propos de ce que tu as dit tout à l'heure, pendant le trajet en limousine jusqu'au club..."
+    u "Sinon... À propos de ce que t'as dit tout à l'heure, pendant le trajet en limousine jusqu'au club..."
 
 # game/v2/scene40.rpy:38
 translate francais v2s40_77a81224:
@@ -40,13 +40,13 @@ translate francais v2s40_3171ebb4:
 translate francais v2s40_4ba4d872:
 
     # u "I mean, it's okay if you don't want to talk about it, but they're all asleep now and it's only me."
-    u "Après tout, c'est pas grave si tu veux pas en parler, mais ils dorment tous là, et y a que moi."
+    u "Après tout, c'est pas grave si tu veux pas en parler, mais ils dorment tous, là, et y a que moi."
 
 # game/v2/scene40.rpy:51
 translate francais v2s40_39c59a23:
 
     # aut "We can talk about it. It's been on my mind a lot, too."
-    aut "On peut en parler. Ça m'a également beaucoup préoccupé."
+    aut "On peut en parler, oui. Ça m'a également beaucoup préoccupé."
 
 # game/v2/scene40.rpy:53
 translate francais v2s40_90a9914e:

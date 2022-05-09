@@ -70,7 +70,7 @@ translate francais v2s44_continue_24fca4fb:
 translate francais v2s44_continue_5ae7ad2f:
 
     # am "We're trying to get to the bottom of Nora's sudden disappearance too. Can you help us?"
-    am "On essaie aussi de faire la lumière sur la disparition soudaine de Nora. Tu peux nous aider ?"
+    am "On essaie de faire la lumière sur la disparition soudaine de Nora. Tu peux nous aider ?"
 
 # game/v2/scene44.rpy:99
 translate francais v2s44_continue_4f3742cf:
@@ -388,13 +388,13 @@ translate francais v2s44_continue_ff6ca685:
 translate francais v2s44_continue_69052dd9:
 
     # pe "Well, there you go. *Giggles*"
-    pe "Eh bien, nous y voilà. *Ricane*"
+    pe "Voilà, c'est tout ce que j'ai. *Ricane*"
 
 # game/v2/scene44.rpy:398
 translate francais v2s44_continue_785fc0aa:
 
     # am "Okay, well thanks for all your help, Techie. We gotta run!"
-    am "Ok, merci pour toute ton aide, Techny. On doit foncer !"
+    am "Ok, merci beaucoup de ton aide, Techny. On doit agir !"
 
 # game/v2/scene44.rpy:403
 translate francais v2s44_continue_228ae46b:
@@ -508,7 +508,7 @@ translate francais v2s44_continue2_ccfa31a9:
 translate francais v2s44_continue2_b0d9f757:
 
     # am "All great mysteries have a jaw-dropping blonde that distracts the detectives but gives golden information."
-    am "Dans tous les grands mystères, il y a une blonde à couper le souffle qui distrait les détectives mais donne des informations cruciales."
+    am "Dans tous les grands mystères, il y a une blonde super sexy qui distrait les détectives mais donne des informations cruciales."
 
 # game/v2/scene44.rpy:508
 translate francais v2s44_continue2_098573c7:
@@ -520,7 +520,7 @@ translate francais v2s44_continue2_098573c7:
 translate francais v2s44_continue2_4cda0db7:
 
     # u "Ha. I wouldn't even consider talking to Chloe when looking for Nora. They're enemies, no?"
-    u "Ha. J'aurais jamais pensé parler à Chloé en cherchant Nora. Elles sont ennemies, non ?"
+    u "Ha. J'aurais jamais pensé aller voir Chloé pour chercher Nora. Elles sont ennemies, non ?"
 
 # game/v2/scene44.rpy:518
 translate francais v2s44_continue2_652309e2:

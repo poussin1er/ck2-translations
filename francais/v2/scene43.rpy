@@ -196,13 +196,13 @@ translate francais v2s43_c49434cc:
 translate francais v2s43_dd07f288:
 
     # am "Let's just try the door."
-    am "Essayons la porte."
+    am "Essayons d'ouvrir la porte."
 
 # game/v2/scene43.rpy:216
 translate francais v2s43_6c1de635:
 
     # am "Oh, that was too easy."
-    am "Oh, c'était trop simple."
+    am "Oh, c'est trop facile."
 
 # game/v2/scene43.rpy:221
 translate francais v2s43_fe994b7c:
@@ -670,7 +670,7 @@ translate francais v2s43_182c74de:
 translate francais v2s43_c669674d:
 
     # ch "Her aunt... Oh yeah! Sometimes her aunt will rent out her dad's cabin."
-    ch "Sa tante... Oh ouais ! Parfois, sa tante loue la chaumière de son père."
+    ch "Sa tante... Oh ouais ! Parfois, sa tante loue le chalet de son père."
 
 # game/v2/scene43.rpy:673
 translate francais v2s43_33d6c1ae:
@@ -880,7 +880,7 @@ translate francais v2s43_ed95fc69:
 translate francais v2s43_8c4494a6:
 
     # ch "What the hell are you on today? Is this a prank? Am I on camera right now?"
-    ch "À quoi tu joues aujourd'hui ? Est-ce une farce ? Je suis filmé, là ?"
+    ch "À quoi tu joues aujourd'hui ? c'est une farce ? Je suis filmé, là ?"
 
 # game/v2/scene43.rpy:857
 translate francais v2s43_43f21a69:

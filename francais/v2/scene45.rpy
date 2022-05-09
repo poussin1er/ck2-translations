@@ -34,7 +34,7 @@ translate francais v2s45_bfd68a8a:
 translate francais v2s45_28eec32b:
 
     # cl "Oh. Hey, you two. I was just heading to campus."
-    cl "Oh. Salut, vous deux. Je me dirigeais juste vers le campus."
+    cl "Oh. Salut, vous deux. J'allais aller vers le campus."
 
 # game/v2/scene45.rpy:68
 translate francais v2s45_0c9ae294:
@@ -130,7 +130,7 @@ translate francais v2s45_44999836:
 translate francais v2s45_bc0d2ecc:
 
     # am "Step back inside, please ma'am."
-    am "Retournez à l'intérieur, s'il vous plaît madame."
+    am "Retournez à l'intérieur, s'il vous plaît m'dame."
 
 # game/v2/scene45.rpy:197
 translate francais v2s45_48cd6c39:

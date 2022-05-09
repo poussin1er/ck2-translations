@@ -16,7 +16,7 @@ translate francais v2s41_b4b8b052:
 translate francais v2s41_44d9e763:
 
     # u "(I need to get over there now.)"
-    u "(Je dois y aller tout de suite.)"
+    u "(Il faut que j'y aille tout de suite.)"
 
 # game/v2/scene41.rpy:110
 translate francais v2s41_37e8cb43:
@@ -40,7 +40,7 @@ translate francais v2s41_b4b8b052_1:
 translate francais v2s41_44d9e763_1:
 
     # u "(I need to get over there now.)"
-    u "(Je dois y aller tout de suite.)"
+    u "(Il faut que j'y aille tout de suite.)"
 
 # game/v2/scene41.rpy:217
 translate francais v2s41_37e8cb43_1:

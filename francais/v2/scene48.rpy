@@ -10,7 +10,7 @@ translate francais v2s48_ac376b07:
 translate francais v2s48_ae5776c4:
 
     # u "(There she is!) We found her."
-    u "(La voilà !) On l'a trouvé."
+    u "(La voilà ! On l'a trouvé.)"
 
 # game/v2/scene48.rpy:61
 translate francais v2s48_b8e3f99c:
@@ -154,13 +154,13 @@ translate francais v2s48_600abf4b:
 translate francais v2s48_540ddc89:
 
     # u "Cool off."
-    u "Détends-toi."
+    u "Te détendre."
 
 # game/v2/scene48.rpy:193
 translate francais v2s48_1f7773f0:
 
     # no "Yeah... No, it's more about healing, you know?"
-    no "Ouais... Non, c'est plus une histoire de guérison, tu comprends ?"
+    no "En fait... Non, c'est plus une histoire de guérison, tu comprends ?"
 
 # game/v2/scene48.rpy:204
 translate francais v2s48_669a92bd:
@@ -172,7 +172,7 @@ translate francais v2s48_669a92bd:
 translate francais v2s48_e97a9c1a:
 
     # no "Yeah... exactly."
-    no "Ouais... exactement."
+    no "C'est ça... exactement."
 
 # game/v2/scene48.rpy:220
 translate francais v2s48_f67ac760:
@@ -1134,7 +1134,7 @@ translate francais strings:
 
     # game/v2/scene48.rpy:184
     old "Cool off"
-    new "Refroidir"
+    new "Te détendre"
 
     # game/v2/scene48.rpy:184
     old "Heal"

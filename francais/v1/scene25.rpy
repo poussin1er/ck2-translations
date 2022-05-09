@@ -1133,3 +1133,10 @@ translate francais strings:
     # game/v1/scene25.rpy:693
     old "Of course"
     new "Bien sûr"
+# TODO: Translation updated at 2022-05-09 22:46
+
+# game/v1/scene25.rpy:115
+translate francais v1s25_181edef8:
+
+    # u "(Damn, should've gotten the Twazzlers...) Well, I hope you like them."
+    u "(Merde, j'aurais dû prendre les Twazzlers...) Bon, j'espère que tu vas aimer."

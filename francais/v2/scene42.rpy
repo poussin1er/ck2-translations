@@ -454,7 +454,7 @@ translate francais v2s42_27bc2f45:
 translate francais v2s42_6b5e5dc5:
 
     # am "Well, I made this so we can gather all of our findings in one place..."
-    am "J'ai créé ce site pour que nous puissions rassembler toutes nos découvertes en un seul endroit..."
+    am "J'ai fait un tableau de preuves pour qu'on puisse rassembler toutes nos découvertes en un seul endroit..."
 
 # game/v2/scene42.rpy:423
 translate francais v2s42_b9dd6c89:
@@ -472,7 +472,7 @@ translate francais v2s42_d486dee5:
 translate francais v2s42_85246140:
 
     # u "Okay, nice. So, where do you think we'll find clues?"
-    u "Ok, sympa. Alors, as-tu une idée de l'endroit où on pourrait trouver des indices ?"
+    u "Ok, sympa. Alors, t'as une idée de l'endroit où on pourrait chercher ?"
 
 # game/v2/scene42.rpy:443
 translate francais v2s42_63214a3b:
@@ -508,13 +508,13 @@ translate francais v2s42_c2384ee9:
 translate francais v2s42_200b9c16:
 
     # am "Oh wait, did you want to bring a snack with you? You should eat."
-    am "Oh attends, t'as voulu apporter un casse-croûte avec toi ? Tu devrais le manger."
+    am "Oh attends, tu t'es pris un casse-croûte ? Tu devrais le manger."
 
 # game/v2/scene42.rpy:480
 translate francais v2s42_836552d7:
 
     # u "I guess you're right. Most important meal of the day, huh?"
-    u "Tu dois avoir raison. Le repas le plus important de la journée, hein ?"
+    u "T'as sûrement raison. Le petit déjeuner \"le repas le plus important de la journée\", hein ?"
 
 # game/v2/scene42.rpy:493
 translate francais v2s42_f52f843f:
@@ -562,7 +562,7 @@ translate francais v2s42_b9c63344:
 translate francais v2s42_66ab28e9:
 
     # u "Haha, no, of course not. But, maybe like a private investigator."
-    u "Haha, non, pas du tout. Mais pourquoi pas comme détective privée ?"
+    u "Haha, non, pas du tout. Mais pourquoi pas détective privée ?"
 
 # game/v2/scene42.rpy:533
 translate francais v2s42_8b53336b:

@@ -100,7 +100,7 @@ translate francais v2s35_60e73218:
 translate francais v2s35_c24edf85:
 
     # li "It's over here. I need to make one for [name] now."
-    li "Il est par là-bas. Je dois en faire une pour [name] maintenant."
+    li "Il est par là-bas. De toute façon, je dois en faire un pour [name], là."
 
 # game/v2/scene35.rpy:139
 translate francais v2s35_b6250d75:
@@ -1480,7 +1480,7 @@ translate francais v2s35_wml2_1c98fcf6:
 translate francais v2s35_wml2_1d650137:
 
     # li "Waking up in Alaska or something, wondering why it's so cold, haha."
-    li "Te réveiller en Alaska ou autre, en te demandant pourquoi il fait si froid, haha."
+    li "Et te réveiller en Alaska ou autre, en te demandant pourquoi il fait si froid, haha."
 
 # game/v2/scene35.rpy:1643
 translate francais v2s35_wml2_ada054c1:
@@ -2020,7 +2020,7 @@ translate francais v2s35_autumn_reveal_d19cf431:
 translate francais v2s35_autumn_reveal_54a3e2b2:
 
     # u "(That might be enough for right now...)"
-    u "(Ça devrait être assez pour l'instant...)"
+    u "(Vaut mieux clore ce sujet pour l'instant...)"
 
 # game/v2/scene35.rpy:2260
 translate francais v2s35_autumn_reveal_3e0f0f56:

@@ -4,13 +4,13 @@
 translate francais v2s47_06f3ae54:
 
     # u "(There's no doubt Nora's hiding in her dad's cabin.)"
-    u "(Nora se cache dans le chalet de son père, ça ne fait aucun doute.)"
+    u "(Nora se cache dans le chalet de son père, ça fait aucun doute.)"
 
 # game/v2/scene47.rpy:14
 translate francais v2s47_728f591a:
 
     # u "(I just want to make sure she's okay. I hope she's not angry when I show up unannounced.)"
-    u "(Je voudrais juste m'assurer que tout va bien pour elle. J'espère qu'elle ne sera pas en colère en me voyant débarquer à l'improviste.)"
+    u "(Je voudrais juste m'assurer que tout va bien pour elle. J'espère qu'elle sera pas en colère en me voyant débarquer à l'improviste.)"
 
 # game/v2/scene47.rpy:16
 translate francais v2s47_4c4a0846:

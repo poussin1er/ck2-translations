@@ -436,7 +436,7 @@ translate francais v2s46_afterchoice_49d1b1eb:
 translate francais v2s46_afterchoice_430638ed:
 
     # am "Time for one more..."
-    am "Il est temps d'en ajouter un autre..."
+    am "C'est le moment d'en reprendre un..."
 
 # game/v2/scene46.rpy:421
 translate francais v2s46_afterchoice_60d83998:
@@ -454,19 +454,19 @@ translate francais v2s46_afterchoice_94ab24a4:
 translate francais v2s46_afterchoice_d862d970:
 
     # am "Yeah, isn't that insane?"
-    am "Ouais, c'est dingue, non ?"
+    am "Ouais, c'est dingue, hein ?"
 
 # game/v2/scene46.rpy:456
 translate francais v2s46_afterchoice_4f1b11e6:
 
     # u "Yeah, kinda scary, but... *Laughs*"
-    u "Ouais, elle fait un peu flipper, mais... *Rire*"
+    u "C'est vrai, elle fait limite flipper, mais... *Rire*"
 
 # game/v2/scene46.rpy:461
 translate francais v2s46_afterchoice_087aed48:
 
     # am "A scary victory!"
-    am "Une victoire flippante !"
+    am "Une réussite flippante !"
 
 # game/v2/scene46.rpy:476
 translate francais v2s46_afterchoice_c16a13b5:
@@ -478,7 +478,7 @@ translate francais v2s46_afterchoice_c16a13b5:
 translate francais v2s46_afterchoice_7c55d75d:
 
     # u "You don't look so good."
-    u "T'as pas l'air très bien."
+    u "T'as pas l'air bien."
 
 # game/v2/scene46.rpy:486
 translate francais v2s46_afterchoice_2345bfc2:
@@ -496,19 +496,19 @@ translate francais v2s46_afterchoice_1c8acf17:
 translate francais v2s46_afterchoice_893bb9d6:
 
     # am "I think I need to go home."
-    am "Je crois que je vais devoir rentrer chez moi."
+    am "Je pense que je vais devoir rentrer chez moi."
 
 # game/v2/scene46.rpy:495
 translate francais v2s46_afterchoice_feae1290:
 
     # u "You should probably get some sleep, yeah? Haha."
-    u "Tu devrais dormir un peu, tu crois pas ? Haha."
+    u "Tu crois pas que tu devrais dormir un peu ? Haha."
 
 # game/v2/scene46.rpy:500
 translate francais v2s46_afterchoice_73bd46a9:
 
     # am "I'm probably close to like... forty-eight hours now without sleep, ha."
-    am "Ça doit faire pas loin de... quarante-huit heures que j'ai pas dormi, ha."
+    am "Ça doit faire pas loin de... quarante-huit heures que j'ai pas dormi."
 
 # game/v2/scene46.rpy:502
 translate francais v2s46_afterchoice_0a4a40a8:
@@ -538,7 +538,7 @@ translate francais v2s46_afterchoice_734d86ab:
 translate francais v2s46_afterchoice_7952ee49:
 
     # u "I've been trained by the best. I'm sure I can handle it from here."
-    u "J'ai été formée par la meilleure. Je suis certain de pouvoir m'en sortir, maintenant."
+    u "J'ai été formé par la meilleure. Je suis certain de pouvoir m'en sortir seul, maintenant."
 
 # game/v2/scene46.rpy:524
 translate francais v2s46_afterchoice_e06190fa:
