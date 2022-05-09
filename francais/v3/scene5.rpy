@@ -412,7 +412,7 @@ translate francais v3s5_164a16ae:
 translate francais v3s5_36957853:
 
     # u "(Well, that was an exciting, late-night, risky adventure. Seriously hope no one saw any of that.)"
-    u "(Eh bien, ça a été une aventure excitante, tard dans la nuit et risquée. J'espère vraiment que personne a vu tout ça.)"
+    u "(Eh bien, ça a été une aventure excitante, tard dans la nuit et risquée. J'espère vraiment que personne nous a vu.)"
 
 translate francais strings:
 
@@ -430,7 +430,7 @@ translate francais strings:
 
     # game/v3/scene5.rpy:297
     old "Sounds exciting"
-    new "Ça a l'air excitant"
+    new "Ça a l'air sympa"
 
     # game/v3/scene5.rpy:297
     old "Uhm... opera?"

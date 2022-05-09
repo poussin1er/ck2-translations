@@ -76,25 +76,25 @@ translate francais v2s48b_186f5132:
 translate francais v2s48b_66aaf154:
 
     # u "Oh, okay. Yeah, probably best I leave you to talk through some stuff."
-    u "Oh, d'accord. Ouais, c'est surement mieux que je te laisse seule, pour parler de certaines choses."
+    u "Oh, d'accord. T'as raison, c'est peut-être mieux que je vous laisse parler de certaines choses."
 
 # game/v2/scene48b.rpy:109
 translate francais v2s48b_a14b97dc:
 
     # no "Yeah. Thanks again, for everything. Tonight was... perfect."
-    no "Tu as raison. Merci encore, pour tout. Cette soirée était... parfaite."
+    no "Tout juste. Et encore une fois, merci pour tout. Cette soirée était... parfaite."
 
 # game/v2/scene48b.rpy:114
 translate francais v2s48b_9b9986cf:
 
     # u "You really don't have to thank me, Nora. I'd do it all over again a million times, you know that."
-    u "T'as vraiment pas besoin de me remercier, Nora. Je referai ça un million de fois, tu sais."
+    u "T'as vraiment pas besoin de me remercier, Nora. Tu sais que je le referais un million de fois."
 
 # game/v2/scene48b.rpy:125
 translate francais v2s48b_90c24dd1:
 
     # u "I'd better go find my clothes first."
-    u "Je devrais d'abord aller chercher mes vêtements."
+    u "Mais avant tout, il vaudrait mieux que j'aille retrouver mes vêtements."
 
 # game/v2/scene48b.rpy:130
 translate francais v2s48b_b3481496:
@@ -142,25 +142,25 @@ translate francais v2s48bnosex_88d2dbb1:
 translate francais v2s48bnosex_b046025b:
 
     # u "I'm glad I came out here. Maybe do it again sometime. You can show me around."
-    u "Je suis heureux d'être venu là. Peut-être qu'on reviendra un jour. Tu pourras me faire visiter."
+    u "Je suis heureux d'être venu là. Peut-être qu'on reviendra un jour. Tu me fera visiter."
 
 # game/v2/scene48b.rpy:202
 translate francais v2s48bnosex_487f8861:
 
     # no "I'd like that. Thanks for always being the guy who listens to all my shit."
-    no "Avec plaisir. Merci d'être toujours là pour écouter toutes mes conneries."
+    no "Avec plaisir. Merci d'être toujours là pour écouter mes conneries."
 
 # game/v2/scene48b.rpy:211
 translate francais v2s48bnosex_00c763f2:
 
     # u "Haha, it's not shit. It's important to talk through your feelings with someone. Helps you figure things out."
-    u "Haha, il n'y a rien de mal. C'est essentiel de pouvoir parler de tes sentiments avec quelqu'un. Ça permet de comprendre certaines choses."
+    u "Haha, y a rien de mal. C'est essentiel de pouvoir parler de tes sentiments avec quelqu'un. Ça permet de comprendre certaines choses."
 
 # game/v2/scene48b.rpy:216
 translate francais v2s48bnosex_bbeb3cc2:
 
     # u "Haha, you're welcome. Any time, Nora."
-    u "Haha, je t'en prie. Toujours là pour toi, Nora."
+    u "Haha, je t'en prie. Je serais toujours là pour toi, Nora."
 
 # game/v2/scene48b.rpy:221
 translate francais v2s48bnosex_e3a6a99a:

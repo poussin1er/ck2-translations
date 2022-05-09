@@ -340,7 +340,7 @@ translate francais v3s1_win_7aeee03b:
 translate francais v3s1_win_e1b7324b:
 
     # u "I'm just glad you aren't hurt. You aren't, right?"
-    u "Je suis juste soulagé que tu sois pas blessée. Tu l'es pas, hein ?"
+    u "Je suis simplement soulagé que tu sois pas blessée. Tu l'es pas, hein ?"
 
 # game/v3/scene1.rpy:764
 translate francais v3s1_win_3c812a19:
@@ -496,7 +496,7 @@ translate francais v3s1_win_b988ee43:
 translate francais v3s1_win_35160c80:
 
     # ri "Really?!"
-    ri "Vraiment ?!"
+    ri "C'est vrai ?!"
 
 # game/v3/scene1.rpy:908
 translate francais v3s1_win_7f2a7632:
@@ -508,7 +508,7 @@ translate francais v3s1_win_7f2a7632:
 translate francais v3s1_win_6f3c8c89:
 
     # ri "Thanks, [name]. You don't know how much this means to me. I'll make it up to you, I swear!"
-    ri "Merci, [name]. Tu ne sais pas à quel point ça représente pour moi. Je te revaudrai ça, je te le jure !"
+    ri "Merci, [name]. Tu ne sais pas ce que ça représente pour moi. Je te revaudrai ça, je te le jure !"
 
 # game/v3/scene1.rpy:918
 translate francais v3s1_win_5bbe4e42:

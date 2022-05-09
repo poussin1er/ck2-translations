@@ -1108,19 +1108,19 @@ translate francais v2s48_norawine_61278b24:
 translate francais v2s48_norawine_187fa0ab:
 
     # u "(My god have I missed this...) *Moans*"
-    u "(Merde, j'ai tout raté...) *Gémis*"
+    u "(Merde, ça m'a manqué...) *Gémis*"
 
 # game/v2/scene48.rpy:1052
 translate francais v2s48_norawine_8dedd124:
 
     # no "You have no idea how happy I am."
-    no "Tu n'as pas idée à quel point je suis heureuse."
+    no "Tu peux pas savoir à quel point je suis heureuse."
 
 # game/v2/scene48.rpy:1057
 translate francais v2s48_norawine_facbd972:
 
     # u "I think I can guess... *Chuckles*"
-    u "Je pense pouvoir le deviner... *Rire*"
+    u "J'ai tout de même une idée... *Rire*"
 
 translate francais strings:
 
@@ -1130,7 +1130,7 @@ translate francais strings:
 
     # game/v2/scene48.rpy:71
     old "Hug her"
-    new "L'embrasser"
+    new "Enlace-la"
 
     # game/v2/scene48.rpy:184
     old "Cool off"

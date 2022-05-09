@@ -112,7 +112,7 @@ translate francais v2s49_1ccd97b0:
 translate francais v2s49_b3162535:
 
     # ri "Get... off of me! *Grunts*"
-    ri "Laisse-moi... tranquille ! *Grognes*"
+    ri "Lâche... moi ! *Grognes*"
 
 # game/v2/scene49.rpy:111
 translate francais v2s49_97e7a9c4:
@@ -124,7 +124,7 @@ translate francais v2s49_97e7a9c4:
 translate francais v2s49_71ad221f:
 
     # ri "*Grunts* Let... Go!"
-    ri "*Grogne* laisse m... partir !"
+    ri "*Grogne* laisse moi... partir !"
 
 # game/v2/scene49.rpy:121
 translate francais v2s49_debf591e:
@@ -148,7 +148,7 @@ translate francais v2s49_8f05a873:
 translate francais v2s49_1e12aba2:
 
     # ri "[name]... *Sighs* Thank God you're here. *Sniffles*"
-    ri "[name]... *Soupirs* Tu es là. *Renifles*"
+    ri "[name]... *Soupir* Tu es là. *Renifle*"
 
 # game/v2/scene49.rpy:164
 translate francais v2s49_0a55ffe4:
@@ -172,13 +172,13 @@ translate francais v2s49_e455ac35:
 translate francais v2s49_1efad675:
 
     # tom "Oh, look! [name] shows up just when I'm looking to make someone bleed."
-    tom "Oh, regardez moi ça ! [name] se pointe juste quand je veux faire saigner quelqu'un."
+    tom "Oh, regardez moi ça ! [name] se pointe juste quand j'allais faire couler du sang !"
 
 # game/v2/scene49.rpy:192
 translate francais v2s49_94ff0c9a:
 
     # u "You know better than this, Tom. This is wrong."
-    u "Tu le sais très bien, Tom. C'est faux."
+    u "Tu sais bien que t'allais pas le faire, Tom. Tu mens."
 
 # game/v2/scene49.rpy:197
 translate francais v2s49_e3935d9f:
@@ -208,7 +208,7 @@ translate francais v2s49_2ebfede4:
 translate francais v2s49_eb84f9ff:
 
     # tom "*Scoffs* That was a long time ago, pal!"
-    tom "*Rires moqueurs* C'était il y a bien longtemps, mon pote !"
+    tom "*Rires moqueurs* C'était y a bien longtemps, mon pote !"
 
 # game/v2/scene49.rpy:220
 translate francais v2s49_45c1b76c:
@@ -250,7 +250,7 @@ translate francais v2s49_bdcdb082:
 translate francais v2s49_5fa544c9:
 
     # u "Dude, like Riley said, it was only a matter of time before he got caught. There's no one to blame but himself."
-    u "Mec, comme Riley l'a dit, c'était qu'une question de temps avant qu'il se fasse prendre. Il n'y a personne d'autre à qui en vouloir à part lui."
+    u "Yo ! Comme l'as dit Riley, c'était qu'une question de temps avant qu'il se fasse prendre. Y a personne d'autre à qui en vouloir à part lui."
 
 # game/v2/scene49.rpy:253
 translate francais v2s49_9a5264eb:
@@ -280,13 +280,13 @@ translate francais v2s49_99236a62:
 translate francais v2s49_5e96b2d4:
 
     # u "We don't have to do this, you know. We can just forget about it and go home."
-    u "On est pas obligés de faire ça, tu sais. On peut juste oublier tout ça et rentrer chez soi."
+    u "Tu sais qu'on est pas obligés de faire ça. On peut oublier tout ça et rentrer chez nous, tout simplement."
 
 # game/v2/scene49.rpy:290
 translate francais v2s49_c9f864d7:
 
     # tom "You won't be going home tonight, [name]. You'll be going to the nearest emergency room."
-    tom "Tu rentreras pas chez toi ce soir, [name]. Tu vas aller aux urgences."
+    tom "Tu vas pas rentrer chez toi ce soir, [name]. Tu vas direct aller aux urgences."
 
 # game/v2/scene49.rpy:295
 translate francais v2s49_e66430b7:
@@ -304,13 +304,13 @@ translate francais v2s49_5c7a47b0:
 translate francais v2s49_b1ac3210:
 
     # u "Nobody's walking away, Riley."
-    u "Personne ne va fuir, Riley."
+    u "Personne fuira, Riley."
 
 # game/v2/scene49.rpy:308
 translate francais v2s49_7f1dc81c:
 
     # u "He's going to learn today."
-    u "Il va apprendre quelque chose aujourd'hui."
+    u "Aujourd'hui, Je vais lui enseigner quelque chose"
 
 # game/v2/scene49.rpy:312
 translate francais v2s49_4a21f37c:
@@ -350,7 +350,7 @@ translate francais strings:
 
     # game/v2/scene49.rpy:299
     old "Nobody's walking away"
-    new "Personne ne va fuir"
+    new "Personne ne fuira"
 
     # game/v2/scene49.rpy:299
     old "I wish we could"

@@ -148,7 +148,7 @@ translate francais v3s3_86e39517:
 translate francais v3s3_e5079e25:
 
     # u "I was just doing what any good guy would've done."
-    u "J'ai seulement fait ce que tout bon mec aurait fait."
+    u "J'ai juste fait ce que tout homme bien aurait fait."
 
 # game/v3/scene3.rpy:191
 translate francais v3s3_19626b62:

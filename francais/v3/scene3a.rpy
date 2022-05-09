@@ -10,7 +10,7 @@ translate francais v3s3a_2f1f54a5:
 translate francais v3s3a_beff5662:
 
     # ri "This is going to be much better than that handjob I gave you at Lauren's party."
-    ri "Ça va être bien mieux que la branlette que je t'ai faite à la fête de Lauren."
+    ri "Ça va être bien meilleur que la branlette que je t'ai fait à la fête de Lauren."
 
 # game/v3/scene3a.rpy:28
 translate francais v3s3a_d7a9baf2:
@@ -34,7 +34,7 @@ translate francais v3s3a_24de2554:
 translate francais v3s3a_dcaaf3d3:
 
     # u "You're... so fucking hot."
-    u "T'es... tellement chaude."
+    u "T'es... si chaude."
 
 # game/v3/scene3a.rpy:76
 translate francais v3s3a_18218615:
