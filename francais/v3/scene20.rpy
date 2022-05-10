@@ -40,7 +40,7 @@ translate francais v3s20_amber_living_room_twazzlers_f32c945d:
 translate francais v3s20_amber_living_room_twazzlers_2914fe66:
 
     # u "(I'm just the most thoughtful guy, aren't I?)"
-    u "(Je suis juste le plus attentionné des mecs, non ?)"
+    u "(Je suis seulement le plus attentionné des mecs, non ?)"
 
 # game/v3/scene20.rpy:43
 translate francais v3s20_amber_living_room_twazzlers_4f32c3f6:

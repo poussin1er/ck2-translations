@@ -10,13 +10,13 @@ translate francais v3s17_50ff18f4:
 translate francais v3s17_bd449620:
 
     # imre "It never works out!"
-    imre "Ça marche jamais !"
+    imre "Putain, j'y arrive jamais !"
 
 # game/v3/scene17.rpy:30
 translate francais v3s17_fa498a6b:
 
     # imre "No matter what I do, it never works out! I'm sick of it."
-    imre "Peu importe c'que j'fais, ça marche jamais ! J'en ai ma claque."
+    imre "Peu importe c'que j'fais, j'y arrive jamais ! J'en ai ma claque."
 
 # game/v3/scene17.rpy:35
 translate francais v3s17_9393fc6d:
@@ -28,7 +28,7 @@ translate francais v3s17_9393fc6d:
 translate francais v3s17_aaa51ab5:
 
     # imre "So, what the fuck was she doing making out with some random dude like that!?"
-    imre "Alors, qu'est-ce qu'elle foutait en train d'embrasser un mec pris au hasard, comme ça ?"
+    imre "Alors, qu'est-ce qu'elle foutait en train d'embrasser un mec comme ça, pris au hasard ?"
 
 # game/v3/scene17.rpy:47
 translate francais v3s17_5ca72dbc:
@@ -202,7 +202,7 @@ translate francais v3s17_53a4f9e9:
 translate francais v3s17_dca990e6:
 
     # u "C'mon you know that was good."
-    u "Allez, tu sais qu'elle était bonne, ma blague."
+    u "Arrête, tu sais que ma blague était bonne."
 
 # game/v3/scene17.rpy:195
 translate francais v3s17_9f8d5c57_1:
@@ -238,13 +238,13 @@ translate francais v3s17_f80cc987:
 translate francais v3s17_b35d4cf8:
 
     # imre "I need to go to a party or something. Try out some new pick-up lines."
-    imre "J'ai besoin d'aller à une fête ou un truc comme ça. Tester de nouvelles techniques de drague."
+    imre "Il faut que j'aille à une fête ou un truc comme ça. Tester de nouvelles techniques de drague."
 
 # game/v3/scene17.rpy:222
 translate francais v3s17_cc4a986a:
 
     # u "That's the spirit. Now you sound like yourself again. *Laughs*"
-    u "Voilà ce que je veux entendre. T'es redevenu toi-même, maintenant. *Rire*"
+    u "C'est ça que je veux entendre. Là, t'es redevenu toi-même. *Rire*"
 
 # game/v3/scene17.rpy:232
 translate francais v3s17_ee89039b:

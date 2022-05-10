@@ -184,7 +184,7 @@ translate francais v3s16_2ee0357a:
 translate francais v3s16_bc310915:
 
     # imre "Thanks, [name]."
-    imre "Merci, [name]."
+    imre "Merci à vous."
 
 # game/v3/scene16.rpy:190
 translate francais v3s16_1026a74d:
@@ -292,13 +292,13 @@ translate francais v3s16_6ea029bf:
 translate francais v3s16_665e340e:
 
     # imre "I need to win her something, I think. Here at the shooting gallery, to get things back on track."
-    imre "J'dois lui gagner un truc, je crois. Là, au stand de tir, pour remettre les choses en ordre."
+    imre "J'crois qu'il faut que j'lui gagne un truc. Là, au stand de tir, pour que tout rentre dans l'ordre."
 
 # game/v3/scene16.rpy:284
 translate francais v3s16_bfcaa01c:
 
     # u "Get things back on track? So, you're wanting to make it work?"
-    u "Remettre les choses en ordre ? Alors, tu veux que ça marche entre vous ?"
+    u "Que tout rentre dans l'ordre ? Alors, tu veux que ça marche entre vous ?"
 
 # game/v3/scene16.rpy:289
 translate francais v3s16_555bdc66:
@@ -352,13 +352,13 @@ translate francais v3s16_7e71a228:
 translate francais v3s16_5668513a:
 
     # imre "Alright, give me a gun, bucko. I'm gonna win that huge teddy, fair and square!"
-    imre "Ok, donne-moi une arme, cow-boy. J'vais gagner cet énorme nounours, à la loyale !"
+    imre "Bon, passe-moi un flingue, cow-boy. J'vais gagner ce gros nounours et bien comme il faut !"
 
 # game/v3/scene16.rpy:328
 translate francais v3s16_62c155dd:
 
     # tb "Hit three targets with three shots and we might just make that happen, partner."
-    tb "Touchez trois cibles avec trois tirs et vous pourriez y arriver, mon gars."
+    tb "Touche trois cibles avec trois tirs et tu pourras y arriver, mon gars."
 
 # game/v3/scene16.rpy:330
 translate francais v3s16_204cd334:
@@ -382,7 +382,7 @@ translate francais v3s16_0523cf01:
 translate francais v3s16_9b06eae5:
 
     # tb "Easy on the cussin' there, sailor! And put down that rifle for me before you hurt yourself."
-    tb "On se calme sur les jurons, matelot ! Et posez moi ce fusil avant de vous blesser."
+    tb "On se calme avec les jurons, matelot ! Et pose moi ce fusil avant de te blesser."
 
 # game/v3/scene16.rpy:401
 translate francais v3s16_617e802c:
@@ -478,19 +478,19 @@ translate francais v3s16_89320799:
 translate francais v3s16_2d3cddb2:
 
     # imre "Woohoo! You got this, [name], easily!"
-    imre "Woohoo ! Tu l'as eu, [name], facilement !"
+    imre "Woohoo ! tu vas gérer, [name], facilement !"
 
 # game/v3/scene16.rpy:482
 translate francais v3s16_b6800080:
 
     # pe "Yeah, you got this."
-    pe "Ouais, tu l'as eu."
+    pe "Ouais, tu vas réussir."
 
 # game/v3/scene16.rpy:487
 translate francais v3s16_a0f662f0:
 
     # tb "Remember, just believe..."
-    tb "Souviens-toi, crois simplement..."
+    tb "Souviens-toi, crois en toi. Tout simplement..."
 
 # game/v3/scene16.rpy:543
 translate francais v3s16_8bb3ffb0:
@@ -730,7 +730,7 @@ translate francais v3s16_8c3d903a:
 translate francais v3s16_a6a57a5c:
 
     # imre "What the fuck?!"
-    imre "C'est quoi cette merde ?!"
+    imre "Putain, c'est quoi cette merde ?!"
 
 # game/v3/scene16.rpy:779
 translate francais v3s16_ca8ea15a:
@@ -742,7 +742,7 @@ translate francais v3s16_ca8ea15a:
 translate francais v3s16_9fa50981:
 
     # imre "No! Wait for what?!"
-    imre "Non ! Attendre quoi ?!"
+    imre "Nan ! Tu veux qu'j'attende quoi ?"
 
 # game/v3/scene16.rpy:791
 translate francais v3s16_a2d294a7:
@@ -754,19 +754,19 @@ translate francais v3s16_a2d294a7:
 translate francais v3s16_059436a1:
 
     # imre "Are you not seeing this?! Are you not-"
-    imre "Vous voyez pas ça ? ! Vous-"
+    imre "Vous avez pas vu l'truc ?! Vous avez pas-"
 
 # game/v3/scene16.rpy:801
 translate francais v3s16_b721c448:
 
     # imre "Are you not fucking seeing this?"
-    imre "Putain, vous voyez pas ça ?"
+    imre "PUTAIN, Vous avez pas vu ça ?"
 
 # game/v3/scene16.rpy:806
 translate francais v3s16_6e622e39:
 
     # u "I am, I see it, Imre."
-    u "Si, je vois, Imre..."
+    u "Si, j'ai vu, Imre..."
 
 # game/v3/scene16.rpy:811
 translate francais v3s16_c0d6ab62:
@@ -778,7 +778,7 @@ translate francais v3s16_c0d6ab62:
 translate francais v3s16_cb048677:
 
     # imre "I'm going to fucking kill that guy."
-    imre "Putain, je vais tuer ce mec."
+    imre "Putain, j'vais l'tuer c'mec."
 
 # game/v3/scene16.rpy:824
 translate francais v3s16_0e7b3d05:
@@ -790,7 +790,7 @@ translate francais v3s16_0e7b3d05:
 translate francais v3s16_9a173e5f:
 
     # imre "Ha! And let them continue?!"
-    imre "Ha ! Et qu'ils continuent à faire ça ?!"
+    imre "Ha ! Et tu veux qu'ils continuent à faire ça ?!"
 
 # game/v3/scene16.rpy:834
 translate francais v3s16_4fbef3b3:
@@ -802,7 +802,7 @@ translate francais v3s16_4fbef3b3:
 translate francais v3s16_3da0bcdc:
 
     # u "Well, I wouldn't blame the guy. I think he was just in the right place at the right time."
-    u "Ben, je rejetterais pas la faute sur le gars. Je crois qu'il était juste au bon endroit, au bon moment."
+    u "En fait, je rejetterais pas la faute sur le mec. Je crois qu'il était tout simplement au bon endroit, au bon moment."
 
 # game/v3/scene16.rpy:846
 translate francais v3s16_30135b2f:
@@ -820,7 +820,7 @@ translate francais v3s16_7a93c0c2:
 translate francais v3s16_6592e3c7:
 
     # u "I'm just saying, let's not get involved with this hot dog dude. Let's leave her here, and she can figure her own ride out."
-    u "Je disais seulement, inutile de s'impliquer avec le mec des hotdogs. On la laisse là, elle pourra se débrouiller toute seule."
+    u "Je disais seulement, inutile de te prendre la tête avec le mec des hotdogs. On se barre sans elle, elle se démerdera toute seule."
 
 # game/v3/scene16.rpy:861
 translate francais v3s16_e89c83c8:
@@ -844,7 +844,7 @@ translate francais v3s16_ea3acbd7:
 translate francais v3s16_b687118b:
 
     # pe "You better go after him. I'll talk to Karen."
-    pe "Tu devrais aller le chercher. Je vais parler à Karen."
+    pe "Tu devrais aller le rejoindre. Je vais parler à Karen."
 
 # game/v3/scene16.rpy:891
 translate francais v3s16_5bf46117:
@@ -856,7 +856,7 @@ translate francais v3s16_5bf46117:
 translate francais v3s16_797e18a7:
 
     # pe "Yeah, I just want to make sure she's being safe. Just do your best to calm him down."
-    pe "Oui, je veux juste m'assurer qu'elle soit en sécurité. Fais de ton mieux pour le calmer."
+    pe "Oui, je veux juste m'assurer qu'elle est en sécurité. Fais de ton mieux pour le calmer."
 
 # game/v3/scene16.rpy:901
 translate francais v3s16_8aab24ef:
@@ -892,7 +892,7 @@ translate francais v3s16_45530fc8:
 translate francais v3s16_ff407642:
 
     # u "Of course. I'm glad I did."
-    u "Je t'en prie. Je suis vraiment content d'avoir été là avec toi."
+    u "Je t'en prie. Je suis vraiment heureux d'avoir pu être là, avec toi."
 
 # game/v3/scene16.rpy:938
 translate francais v3s16_9eab3df3:
@@ -904,7 +904,7 @@ translate francais v3s16_9eab3df3:
 translate francais v3s16_ab6d0787:
 
     # pe "Okay, see you soon. Good luck."
-    pe "Ok, à bientôt. Bonne chance."
+    pe "Ok, à bientôt. Et bonne chance."
 
 # game/v3/scene16.rpy:945
 translate francais v3s16_9fb611a7:

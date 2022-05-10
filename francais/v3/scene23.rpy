@@ -88,7 +88,7 @@ translate francais v3s23_d43b8c0a:
 translate francais v3s23_1e284ca8:
 
     # u "I'm warming up to it, haha."
-    u "Je m'échauffe, haha."
+    u "Je chauffe, haha."
 
 # game/v3/scene23.rpy:118
 translate francais v3s23_e697f1e8:
@@ -514,19 +514,19 @@ translate francais v3s23_4e4e2fa7:
 translate francais v3s23_fb66224c:
 
     # u "Oooh, I can't wait to hear you play one day."
-    u "Oooh, je suis impatient de t'entendre jouer un jour."
+    u "Oooh, je suis impatient de t'entendre jouer, un jour."
 
 # game/v3/scene23.rpy:510
 translate francais v3s23_7a062996:
 
     # am "Oh, no. That violin is long gone."
-    am "Oh, non. Ce violon a disparu depuis longtemps."
+    am "Oh, c'est pas possible. Ce violon a disparu depuis longtemps."
 
 # game/v3/scene23.rpy:516
 translate francais v3s23_090506bb:
 
     # am "Besides, there's no way I would even remember how to play it."
-    am "En plus, y a pas moyen que j'me rappelle comment on en joue."
+    am "En plus, j'ai complètement oublié comment en jouer."
 
 # game/v3/scene23.rpy:521
 translate francais v3s23_ed11ad31:

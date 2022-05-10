@@ -28,13 +28,13 @@ translate francais v3s15_2266da09:
 translate francais v3s15_d7e383d5:
 
     # pe "*Laughs* It's not that bad. It's just so awkward being the third wheel."
-    pe "*Rire* C'est pas si grave. C'est juste si embarrassant de tenir la chandelle."
+    pe "*Rire* C'est pas si grave. C'est juste tellement embarrassant de tenir la chandelle."
 
 # game/v3/scene15.rpy:47
 translate francais v3s15_7e5cd234:
 
     # pe "And I thought it'd be fun having you here with me."
-    pe "Et je me disais que ça serait amusant de t'avoir là, avec moi."
+    pe "Et je me disais que ça serait amusant de t'avoir là, à mes côtés."
 
 # game/v3/scene15.rpy:52
 translate francais v3s15_64eb1e6d:
@@ -52,7 +52,7 @@ translate francais v3s15_423d2a05:
 translate francais v3s15_73af63a8:
 
     # u "I need to experience this up close. Come on."
-    u "Je dois voir ça de plus près. Viens."
+    u "Faut que je voie ça de plus près. Viens."
 
 # game/v3/scene15.rpy:72
 translate francais v3s15_a5ef7211:
@@ -70,13 +70,13 @@ translate francais v3s15_1b15a626:
 translate francais v3s15_d11490f1:
 
     # u "Hello, hello. So, how did this come about?"
-    u "Salut, salut. Alors, comment ça a commencé, cette histoire ?"
+    u "Salut, salut. Alors, comment ça a démarré, tout ça ?"
 
 # game/v3/scene15.rpy:87
 translate francais v3s15_3810e4b4:
 
     # imre "You remember that win-a-date stall that Karen was running at the Deer's event a while back? Well-"
-    imre "Tu t'souviens du stand \"gagner un rendez-vous\" que Karen tenait à l'événement des Deers y a un moment ? Eh ben-"
+    imre "Tu t'souviens du stand \"gagnez un rencard\" que Karen tenait à l'événement des Deers y a un moment ? Eh ben-"
 
 # game/v3/scene15.rpy:92
 translate francais v3s15_ced1623f:
@@ -112,31 +112,31 @@ translate francais v3s15_312bb0b4:
 translate francais v3s15_4b026760:
 
     # imre "Are we going back in and hitting some rides or hanging out here like losers?"
-    imre "On y retourne pour faire des tours, ou on reste là comme des losers ?"
+    imre "On y retourne et on s'tape quelques manèges ou on reste là comme des losers ?"
 
 # game/v3/scene15.rpy:123
 translate francais v3s15_f0bb4edf:
 
     # dg3 "We'll go in, you can hang out here, haha."
-    dg3 "On y va ! Toi, tu peux rester là, haha."
+    dg3 "Nous on y va, mais vous pouvez rester ici, haha."
 
 # game/v3/scene15.rpy:128
 translate francais v3s15_999e824d:
 
     # u "(Oh, shit.)"
-    u "(Oh, merde.)"
+    u "(Oh, putain.)"
 
 # game/v3/scene15.rpy:133
 translate francais v3s15_97949448:
 
     # pe "Haha! Yeah, Imre."
-    pe "Haha ! Ouais, Imre."
+    pe "Haha ! Elle te veut toi seul, Imre."
 
 # game/v3/scene15.rpy:138
 translate francais v3s15_85114437:
 
     # imre "Yeah, yeah... Very funny."
-    imre "Ouais, ouais... C'est vraiment marrant."
+    imre "Ouais, ouais... Très drôle."
 
 # game/v3/scene15.rpy:143
 translate francais v3s15_efe6cc99:
@@ -478,7 +478,7 @@ translate francais v3s15pier_carousel_f6fdc9f5:
 translate francais v3s15pier_carousel_17f79ede:
 
     # carni "Actually, no. Hang on! You two! On the horse!"
-    carni "Nan, en fait. Tenez vous bien ! Vous deux ! Sur l'cheval !"
+    carni "Nan, en fait. Attendez ! Vous deux ! Sur l'cheval !"
 
 # game/v3/scene15.rpy:499
 translate francais v3s15pier_carousel_d91407d9:
@@ -574,7 +574,7 @@ translate francais v3s15pier_carousel_e94bbf42:
 translate francais v3s15pier_carousel_5ea8a205:
 
     # pe "Karen invited me. I only realized there was more to it once I had already gotten here."
-    pe "Karen m'a invité. J'ai réalisé qu'il y avait plus que ça, qu'une fois arrivée sur place."
+    pe "Karen m'a invité. Et j'ai réalisé qu'une fois arrivée sur place, qu'il y avait plus que ça ."
 
 # game/v3/scene15.rpy:599
 translate francais v3s15pier_carousel_184e8b27:
@@ -586,7 +586,7 @@ translate francais v3s15pier_carousel_184e8b27:
 translate francais v3s15pier_carousel_fdf0b93d:
 
     # pe "Yeah, but I guess she's just shy and didn't want to meet Imre on her own?"
-    pe "Ouais, mais je crois qu'elle est très timide et qu'elle ne voulait pas voir Imre toute seule..."
+    pe "Oui, mais je crois qu'elle est très timide et qu'elle ne voulait pas être seule pour voir Imree..."
 
 # game/v3/scene15.rpy:609
 translate francais v3s15pier_carousel_69c5bed5:
@@ -598,7 +598,7 @@ translate francais v3s15pier_carousel_69c5bed5:
 translate francais v3s15pier_carousel_3c66e51a:
 
     # pe "*Laughs* True."
-    pe "*Rire* C'est vrai."
+    pe "*Rire* Exactement."
 
 # game/v3/scene15.rpy:633
 translate francais v3s15pier_carousel_0a3fb0f1:
@@ -634,7 +634,7 @@ translate francais v3s15pier_carousel_8f0d3c8d:
 translate francais v3s15pier_carousel_4f90b5a6:
 
     # pe "*Giggles* Thank you! I felt so safe..."
-    pe "*Ricane* Merci ! Je me suis sentie tellement en sécurité..."
+    pe "*Ricane* Merci ! Je me suis vraiment sentie en sécurité."
 
 # game/v3/scene15.rpy:698
 translate francais v3s15pier_wheel_0a82bd4b:
@@ -886,7 +886,7 @@ translate francais v3s15pier_wheel_1666480e:
 translate francais v3s15pier_wheel_2ce48939:
 
     # u "Now it's our turn to be disappointed. Penelope?"
-    u "À notre tour d'être déçus, maintenant. Pénélope ?"
+    u "Pénélope. À notre tour d'être déçus, maintenant ?"
 
 # game/v3/scene15.rpy:951
 translate francais v3s15pier_wheel_9cb9ec57:
@@ -952,13 +952,13 @@ translate francais v3s15pier_wheel_08221905:
 translate francais v3s15pier_wheel_7cf38e96:
 
     # dg3 "*Whispers* Does this lady even work here?"
-    dg3 "*Chuchote* Est-ce que cette dame travaille ici au moins ?"
+    dg3 "*Chuchote* Est-ce que cette dame travaille ici, au moins ?"
 
 # game/v3/scene15.rpy:1022
 translate francais v3s15pier_wheel_5647589e:
 
     # pe "*Whispers* I'm not sure, but she looks like she lives here..."
-    pe "*Chuchote* Je ne suis pas sûre, mais on dirait qu'elle vit ici..."
+    pe "*Chuchote* Je ne suis pas sûre, mais on dirait qu'elle vit là..."
 
 # game/v3/scene15.rpy:1032
 translate francais v3s15pier_wheel_4ef80381:
@@ -1204,7 +1204,7 @@ translate francais v3s15pier_hotdog_c0f0187a:
 translate francais v3s15pier_hotdog_e4964736:
 
     # dg3 "I wouldn't mind a snack, but I'm vegan and they don't have any vegan options."
-    dg3 "Je ne serais pas contre un encas, mais je suis végane et ils n'ont pas de choix végans."
+    dg3 "Je ne serais pas contre un encas, mais je suis végane et ils n'ont rien de végan."
 
 # game/v3/scene15.rpy:1283
 translate francais v3s15pier_hotdog_99205b3d:

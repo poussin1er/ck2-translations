@@ -154,7 +154,7 @@ translate francais v3s12_2a102846:
 translate francais v3s12_1638e864:
 
     # u "(I can't tell if this competitive side of Chloe is scary hot or just scary.)"
-    u "(J'arrive pas à dire si ce côté compétitif de Chloé est sexy ou juste effrayant.)"
+    u "(J'arrive pas à savoir si ce côté compétitif de Chloé est sexy ou tout simplement effrayant.)"
 
 # game/v3/scene12.rpy:153
 translate francais v3s12_a9067dc1:
@@ -214,7 +214,7 @@ translate francais v3s12_b172399b:
 translate francais v3s12_ae963a62:
 
     # cl "Yeah, I love it too. The girls are going to get completely pampered."
-    cl "Ouais, j'adore aussi. Les filles seront complètement chouchoutées."
+    cl "Ouais, j'adore aussi. Les filles seront vraiment chouchoutées."
 
 # game/v3/scene12.rpy:268
 translate francais v3s12_ce25e30c:

@@ -10,4 +10,4 @@ translate francais v3s13_352d141a:
 translate francais v3s13_60a587b9:
 
     # u "(This yoga session with Nora should do me good. I've been feeling very stiff, haha.)"
-    u "(Cette séance de yoga avec Nora devrait me faire du bien. Je me sens très tendu, haha.)"
+    u "(Cette séance de yoga avec Nora devrait me faire du bien. Je suis vraiment tendu, haha.)"

@@ -124,7 +124,7 @@ translate francais v3s11_1aa408a3:
 translate francais v3s11_c2fb7fa2:
 
     # u "Oooh... Risky."
-    u "Oooh... C'est risqué."
+    u "Oooh... C'est risqué de pas en mettre."
 
 # game/v3/scene11.rpy:165
 translate francais v3s11_59c7d9ea:
@@ -142,7 +142,7 @@ translate francais v3s11_3a731aa2:
 translate francais v3s11_dd254979:
 
     # u "*Clears throat* So, what are we looking at?"
-    u "*Raclement de gorge* Alors, qu'est-ce qu'on regarde ?"
+    u "*Raclement de gorge* Alors, qu'est-ce qu'il faut regarder ?"
 
 # game/v3/scene11.rpy:181
 translate francais v3s11_4d19e09a:
@@ -406,7 +406,7 @@ translate francais v3s11_845e1698:
 translate francais v3s11_317c2d00:
 
     # cl "Hmm, fine. The more of me that people see, the better, I guess."
-    cl "Hmm, très bien. On va dire que plus les gens me voient, mieux c'est."
+    cl "Hmm, d'accord. On va dire que plus les gens me voient, mieux c'est."
 
 # game/v3/scene11.rpy:452
 translate francais v3s11_04d66d3f:

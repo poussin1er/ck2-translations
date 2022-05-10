@@ -532,7 +532,7 @@ translate francais v3s14_5bec0747:
 translate francais v3s14_28513cea:
 
     # no "That's the one. *Grunts*"
-    no "C'est celle-là. *Grogne*"
+    no "Je suis sûre que c'est ça. *Grogne*"
 
 # game/v3/scene14.rpy:486
 translate francais v3s14_e16c8c32:
@@ -802,7 +802,7 @@ translate francais v3s14_b1ff25b7:
 translate francais v3s14_f370cf43:
 
     # no "What did you think, [name]?"
-    no "Qu'en avez-vous pensé, [name] ?"
+    no "T'as trouvé ça comment, [name] ?"
 
 # game/v3/scene14.rpy:702
 translate francais v3s14_14f6ea06:
@@ -898,13 +898,13 @@ translate francais v3s14_2a3e133e:
 translate francais v3s14_b8b2646e:
 
     # ro "Well, I still have a little bit of time left. Did you want to go talk about things, Nora? Coffee and cake?"
-    ro "Eh bien, il me reste encore un peu de temps. Tu veux aller bavarder un peu, Nora ? Café et gâteau ?"
+    ro "Eh bien, il me reste encore un peu de temps. Nora, tu veux aller bavarder un peu ? Café et gâteau ?"
 
 # game/v3/scene14.rpy:782
 translate francais v3s14_65c13290:
 
     # no "Uh, yeah. Sure. But honestly, not for long, okay? I'm ready to relax and just forget about Chris."
-    no "Euh, ouais. Bien sûr. Mais vraiment, pas longtemps, d'accord ? Je veux me détendre et oublier Chris."
+    no "Euh, d'accord. Avec plaisir. Mais vraiment, pas longtemps, ok ? J'ai besoin de me détendre et d'oublier Chris."
 
 # game/v3/scene14.rpy:787
 translate francais v3s14_df139634:
@@ -934,19 +934,19 @@ translate francais v3s14_8948b7cd:
 translate francais v3s14_ae433f5c:
 
     # pe "I don't know how it happened, but... I'm stuck being the third wheel on a date and I could use a partner."
-    pe "Je ne sais pas comment c'est arrivé, mais... Je suis bloquée en étant la troisième roue du carrosse lors d'un rencard et j'aurais vraiment besoin d'un partenaire."
+    pe "Je ne sais pas comment c'est arrivé, mais... Je suis bloquée en étant la troisième roue du carrosse d'un rencard et j'aurais vraiment besoin d'un partenaire."
 
 # game/v3/scene14.rpy:819
 translate francais v3s14_871ed57c:
 
     # u "Um, okay? Whose date?"
-    u "Euh, ok ? Un rencard entre qui et qui ?"
+    u "Euh, ouais... Un rencard entre qui et qui ?"
 
 # game/v3/scene14.rpy:824
 translate francais v3s14_a5d0ada7:
 
     # pe "Imre and Karen. He won that thing from the Deer's event where he got a free date."
-    pe "Imre et Karen. Il a gagné le truc de l'événement des Deers où il avait gagné un rendez-vous gratuit."
+    pe "Imre et Karen. Il a gagné le truc de l'événement des Deers et il a gagné un rencard gratuit."
 
 # game/v3/scene14.rpy:829
 translate francais v3s14_256c0627:
@@ -958,19 +958,19 @@ translate francais v3s14_256c0627:
 translate francais v3s14_471a08e3:
 
     # pe "Please just come save me? You can ask as many questions as you want once you're here. *Giggles*"
-    pe "S'il te plaît, tu peux venir me sauver ? Tu pourras poser autant de questions que tu voudras, une fois que tu seras là. *Ricane*"
+    pe "S'il te plaît, tu peux venir me sauver ? Une fois présent, tu pourras poser autant de questions que tu voudras. *Ricane*"
 
 # game/v3/scene14.rpy:844
 translate francais v3s14_b45bad0a:
 
     # u "Okay, I just need to go get changed, and I'll meet you there."
-    u "Ok, je vais juste me changer et je te retrouve là-bas."
+    u "Bon, je vais me changer et je te retrouve là-bas."
 
 # game/v3/scene14.rpy:850
 translate francais v3s14_38cc0399:
 
     # pe "Ugh, I seriously love you. Thank you! I'll meet you by the entrance."
-    pe "Hum, sérieusement, je t'aime. Merci ! Je te retrouve à l'entrée."
+    pe "Hum, je t'aime vraiment. Merci ! Je te retrouve à l'entrée."
 
 # game/v3/scene14.rpy:852
 translate francais v3s14_e62d5835:
@@ -994,7 +994,7 @@ translate francais v3s14_78166f45:
 translate francais v3s14_757536d1:
 
     # no "You're always saving someone, haha. We're going to grab coffee, so I'll catch up with you later?"
-    no "T'es toujours en train de sauver quelqu'un, haha. On va prendre un café, on se retrouve plus tard ?"
+    no "T'es toujours en train de voler au secours de quelqu'un, haha. Nous on va se prendre un café, on se voit plus tard ?"
 
 # game/v3/scene14.rpy:877
 translate francais v3s14_5b7694f2:
@@ -1018,7 +1018,7 @@ translate francais v3s14_70ca45ca:
 translate francais v3s14_74368ecf:
 
     # ro "Of course, thanks for joining us."
-    ro "Bien sûr, merci de vous être joint à nous."
+    ro "C'était avec plaisir, merci de vous être joint à nous."
 
 # game/v3/scene14.rpy:895
 translate francais v3s14_9e0539fa:
@@ -1089,7 +1089,7 @@ translate francais v3s14_5922cc54:
 translate francais v3s14_d2a0d92d:
 
     # no "I'm in a really weird headspace with relationships right now. Chris and I literally just broke up. If people found out you and I are dating..."
-    no "Je suis dans un état d'esprit vraiment bizarre avec les relations en ce moment. Chris et moi venons littéralement de rompre. Si les gens découvraient que toi et moi on sort ensemble..."
+    no "En ce moment, mon état d'esprit est vraiment bizarre en ce qui concerne les relations. Chris et moi venons littéralement de rompre. Si les gens découvraient que toi et moi sortons ensemble..."
 
 # game/v3/scene14.rpy:59
 translate francais v3s14_5c07e14d:
@@ -1101,7 +1101,7 @@ translate francais v3s14_5c07e14d:
 translate francais v3s14_653cc3ef:
 
     # u "Yeah, but he'll find out eventually."
-    u "Oui, mais il finira par le découvrir."
+    u "C'est pas faux, mais il finira bien par le découvrir."
 
 # game/v3/scene14.rpy:69
 translate francais v3s14_af165dfc:
@@ -1119,4 +1119,4 @@ translate francais v3s14_c97dcec5:
 translate francais v3s14_ff2f147f:
 
     # u "(Well that sucks, can't even kiss my own girlfriend, at least in the light of day.)"
-    u "(Eh ben, ça craint, je peux même pas embrasser ma propre petite amie, à la lumière du jour en tout cas.)"
+    u "(Eh ben ça craint, je peux même pas embrasser ma propre petite amie, du moins au grand jour.)"

@@ -286,7 +286,7 @@ translate francais v3s10_dontknow_47a36eb0:
 translate francais v3s10_dontknow_f812845d:
 
     # u "(*Moans* Fuck, Lauren.)"
-    u "(*Gémis* Putain, Lauren.)"
+    u "*Gémis* (Putain, Lauren.)"
 
 # game/v3/scene10.rpy:273
 translate francais v3s10_dontknow_598a65db:
@@ -310,7 +310,7 @@ translate francais v3s10_sg_d14c6caa:
 translate francais v3s10_sg_39b0a3ac:
 
     # u "(This is... *Moans* This is so wrong.)"
-    u "(C'est... *Gémis* C'est tellement mauvais.)"
+    u "(C'est... *Gémis* C'est pas très très bien, Lauren. *Rire*)"
 
 # game/v3/scene10.rpy:313
 translate francais v3s10_sg_10400ed7:

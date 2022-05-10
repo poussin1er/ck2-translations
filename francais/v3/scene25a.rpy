@@ -52,7 +52,7 @@ translate francais v3s25a_phoneContinue_5eeb547f:
 translate francais v3s25a_phoneContinue_ddc0c8b2:
 
     # u "Haha, fair enough."
-    u "Haha, normal."
+    u "Haha, j'imagine."
 
 # game/v3/scene25a.rpy:145
 translate francais v3s25a_phoneContinue_20f9ed5d:
@@ -154,10 +154,10 @@ translate francais v3s25a_phoneContinue_5886be9a:
 translate francais v3s25a_phoneContinue_3e28e4ad:
 
     # u "Great, see you later."
-    u "Parfait, à plus tard."
+    u "Super, alors à plus tard."
 
 # game/v3/scene25a.rpy:240
 translate francais v3s25a_phoneContinue_7620de10:
 
     # u "Let's get this day started, shall we?"
-    u "Allez, que cette journée commence !"
+    u "Allez ! Que cette journée commence !"

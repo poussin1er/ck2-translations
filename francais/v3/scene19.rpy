@@ -4,4 +4,4 @@
 translate francais v3s19_1e25c989:
 
     # u "(That was almost too easy. We might have to talk about that.)"
-    u "(C'était presque trop facile. On devrait peut-être en parler.)"
+    u "(C'était presque trop facile. Va falloir qu'on en parle.)"
