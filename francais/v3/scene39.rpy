@@ -202,7 +202,7 @@ translate francais v3s39_dba8ca4c:
 translate francais v3s39_fr_aubrey_date_aubrey_136a2cf6:
 
     # u "I know you're feeling overdressed, but seriously, I think you look stunning tonight."
-    u "Je sais que tu te sens trop habillée, mais vraiment, je trouve que t'es éblouissante ce soir."
+    u "Je sais que tu te sens trop déshabillée, mais sérieusement, je te trouve éblouissante ce soir."
 
 # game/v3/scene39.rpy:238
 translate francais v3s39_fr_aubrey_date_aubrey_5fe24573:
@@ -484,7 +484,7 @@ translate francais v3s39_fr_aubrey_date_mc_af49a13b:
 translate francais v3s39_fr_aubrey_date_mc_e33b46ce:
 
     # au "Haha, where's this going?"
-    au "Haha, où ça va nous mener ?"
+    au "Haha, qu'est-ce que tu veux dire ?"
 
 # game/v3/scene39.rpy:511
 translate francais v3s39_fr_aubrey_date_mc_9ae9afd6:
@@ -808,7 +808,7 @@ translate francais v3s39_fr_aubrey_date_aubrey2_1922ad3e:
 translate francais v3s39_fr_aubrey_date_aubrey2_9c935d34:
 
     # au "Yes! I'd love that. That would be a vacation to remember for sure, haha."
-    au "Oui ! J'adorerais. Ça serait des vacances à se rappeler, pour sûr. Haha."
+    au "Oui ! J'adorerais. Ça serait des vacances mémorables, pour sûr. Haha."
 
 # game/v3/scene39.rpy:855
 translate francais v3s39_fr_aubrey_date_aubrey2_bb23525a:

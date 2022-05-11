@@ -34,7 +34,7 @@ translate francais v3s52_531c030e:
 translate francais v3s52_ecfada5a:
 
     # aut "It's the best part of working here, seriously. Hopefully we can get even more pups sent to good homes today."
-    aut "C'est vraiment la plus belle partie du travail. J'espère qu'on pourra faire en sorte qu'aujoud'hui, encore plus de chiots soient envoyés dans de bons foyers."
+    aut "C'est vraiment la plus belle partie du travail. J'espère qu'on pourra faire en sorte qu'aujourd'hui, encore plus de chiots soient envoyés dans de bons foyers."
 
 # game/v3/scene52.rpy:79
 translate francais v3s52_54e32117:

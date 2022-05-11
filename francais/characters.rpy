@@ -87,7 +87,7 @@ define character.xav = Character("Xavier", who_color="#147efb", who_outlines=[ (
 # define character.class1 = Character("La classe", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 
 # # 8.0
-define character.de = Character("Dean", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.de = Character("Doyenne", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 # define character.je = Character("Joe", who_color="#53d769", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 # define character.ann = Character("Annonce vocale", who_color="#fd9426", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 # define character.empl = Character("Guichetier", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])

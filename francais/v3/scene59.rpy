@@ -418,7 +418,7 @@ translate francais v3s59_66f757b0:
 translate francais v3s59_2a0706dd:
 
     # u "A fan. They wanted us to deliver it specifically to you."
-    u "Des fans. Ils voulaient qu'on te vous le livre directement."
+    u "Des fans. Ils voulaient qu'on vous le livre directement."
 
 # game/v3/scene59.rpy:442
 translate francais v3s59_45816a13:

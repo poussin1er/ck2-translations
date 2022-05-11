@@ -28,7 +28,7 @@ translate francais v3s30_81537f1c:
 translate francais v3s30_241a1bda:
 
     # u "Oh yeah. Aubrey mentioned something about power outages lately. How long's it been out for?"
-    u "Oh ouais. Aubrey a mentionné un truc sur les coupures de courant qui ont lieu en ce moment. Depuis combien de temps ça dure ?"
+    u "Oh ouais. Aubrey a mentionné un truc sur les coupures de courant qui ont lieu en ce moment. Ça dure depuis combien de temps ?"
 
 # game/v3/scene30.rpy:42
 translate francais v3s30_3d90e300:
@@ -76,7 +76,7 @@ translate francais v3s30_a18ed27a:
 translate francais v3s30_945c7932:
 
     # se "We were kind of talking with Chris about the Nora situation."
-    se "On était en train de parler avec Chris à propos de la situation de Nora."
+    se "On était en train de parler avec Chris à propos de la situation avec Nora."
 
 # game/v3/scene30.rpy:83
 translate francais v3s30_6c4ff6b7:
@@ -274,7 +274,7 @@ translate francais v3s30_e2c51fed:
 translate francais v3s30_fe93843f:
 
     # se "Imre, breathe for a second."
-    se "Imre, respire un peu."
+    se "Imre, s'il te plait, calme toi un peu."
 
 # game/v3/scene30.rpy:248
 translate francais v3s30_7003b5ed:

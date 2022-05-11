@@ -10,7 +10,7 @@ translate francais v3s32_e607c9ec:
 translate francais v3s32_6ed96b1e:
 
     # u "(Maybe he's still getting over the whole Karen thing.)"
-    u "(Peut-être qu'il est encore en train de se remettre de cette histoire avec Karen.)"
+    u "(Il a peut-être du mal à se remettre de cette histoire avec Karen.)"
 
 # game/v3/scene32.rpy:20
 translate francais v3s32_3ae98d13:

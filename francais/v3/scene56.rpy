@@ -40,7 +40,7 @@ translate francais v3s56_051a377e:
 translate francais v3s56_709570a0:
 
     # imre "Like I give a fuck about what you have to say."
-    imre "Comme si j'en avais quelque chose à foutre de ce que t'as à dire."
+    imre "Comme si j'en avais quelque chose à foutre de c'que t'as à dire."
 
 # game/v3/scene56.rpy:59
 translate francais v3s56_7a0f47cf:

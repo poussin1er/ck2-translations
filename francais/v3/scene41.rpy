@@ -35,4 +35,4 @@ translate francais v3s41_94d9704b:
 translate francais v3s41_e4e95bb9:
 
     # u "(Is multiple girlfriends a thing? Now I'm just asking for trouble, haha! *Sighs*)"
-    u "(Est-ce qu'avoir de multiples petites amies multiples est une chose courante ? On dirait que je cherche les ennuis, haha ! *Soupirs*)"
+    u "(Est-ce qu'avoir de multiples petites amies est une chose courante ? On dirait que je cherche les ennuis, haha ! *Soupirs*)"
