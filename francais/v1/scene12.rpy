@@ -10,7 +10,7 @@ translate francais v1s12_fcfea652:
 translate francais v1s12_d879fa89:
 
     # ju "Hey honey! Just calling to check in. Today was the day you got back in town, right?"
-    ju "Hey chéri ! J'appelle pour prendre de tes nouvelles. Tu es rentrée au pays aujourd'hui, n'est-ce pas ?"
+    ju "Hey chéri ! J'appelle pour prendre de tes nouvelles. Tu es rentré au pays aujourd'hui, n'est-ce pas ?"
 
 # game/v1/scene12.rpy:62
 translate francais v1s12_c9490bb4:
