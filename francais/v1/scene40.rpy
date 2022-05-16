@@ -183,3 +183,82 @@ translate francais strings:
     # game/v1/scene40.rpy:79
     old "Yeah I'm tired"
     new "Ouais, je suis fatigué"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene40.rpy:30
+translate francais v1s40_10197f9c:
+
+    # la "Sorry, babe... I'm sure I woke you but, I just had the most amazing experience!"
+    la "Désolée, bébé... Je pense que je t'ai réveillé mais, je viens de vivre l'expérience la plus incroyable de ma vie !"
+
+# game/v1/scene40.rpy:40
+translate francais v1s40_804d26fd:
+
+    # la "Don't laugh, but..."
+    la "Ne ris pas mais..."
+
+# game/v1/scene40.rpy:53
+translate francais v1s40_67f14363:
+
+    # la "Honestly, I... I just want to keep going."
+    la "Sincèrement, je... J'ai vraiment envie de recommencer."
+
+# game/v1/scene40.rpy:58
+translate francais v1s40_5d61fd8f:
+
+    # u "Wow. Well, I'm happy for you. You survived all that porn without going for it even sooner?"
+    u "Wow. Je suis heureux pour toi. T'as survécu à tout ce porno sans chercher à le faire plus tôt ?"
+
+# game/v1/scene40.rpy:63
+translate francais v1s40_c354dace:
+
+    # la "Believe it or not, yes. This was my first time."
+    la "Crois-le ou pas, non. C'était ma première fois."
+
+# game/v1/scene40.rpy:70
+translate francais v1s40_d8cd7bed:
+
+    # u "(\"There's a first time for everything?\" The fuck am I on about? I need sleep...)"
+    u "(\"Il y a une première fois pour tout\", C'est quoi ces conneries ? J'ai vraiment besoin de dormir...)"
+
+# game/v1/scene40.rpy:75
+translate francais v1s40_29d47e08:
+
+    # la "Yeah, I guess there is..."
+    la "Ouais, je crois que oui..."
+
+# game/v1/scene40.rpy:94
+translate francais v1s40_139d1c63:
+
+    # la "Ha, go to sleep. I'll talk to you tomorrow, handsome."
+    la "Haha, rendors-toi mon beau. On se parle demain."
+
+# game/v1/scene40.rpy:104
+translate francais v1s40_57623e41:
+
+    # la "Yup! Goodnight. I'll keep my late night adventures to myself for now."
+    la "Ouaip ! Bonne nuit. Je vais garder mes aventures nocturnes pour moi, pour l'instant."
+
+# game/v1/scene40.rpy:134
+translate francais v1s40_c21263a4:
+
+    # u "Good to hear. Most importantly, what did you wanna call and tell me?"
+    u "C'est bon à savoir. Le plus important, c'est que tu voulais m'appeler et me raconter, c'est ça ?"
+
+# game/v1/scene40.rpy:144
+translate francais v1s40_6f9b0f23:
+
+    # u "I'm always thinking about you."
+    u "Je pense toujours à toi."
+
+# game/v1/scene40.rpy:154
+translate francais v1s40_d610591b:
+
+    # u "You will. Goodnight, babe."
+    u "Oui bien sûr, bonne nuit bébé."
+
+translate francais strings:
+
+    # game/v1/scene40.rpy:82
+    old "Yeah, I'm tired"
+    new "Ouais, je suis fatigué"

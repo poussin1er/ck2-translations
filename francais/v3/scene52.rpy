@@ -1019,3 +1019,316 @@ translate francais strings:
     # game/v3/scene52.rpy:647
     old "Fuck off"
     new "Va te faire foutre"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene52.rpy:53
+translate francais v3s52_25987b5b:
+
+    # u "(Aww! Blue doesn't look so blue anymore. Looks like he went to a happy home.)"
+    u "(Oooh ! Blue n'a plus l'air d'avoir le blues... Haha. On dirait qu'il est allé dans un foyer chaleureux.)"
+
+# game/v3/scene52.rpy:95
+translate francais v3s52_41fe4cf5:
+
+    # la "Well, surprise!"
+    la "Eh bien, c'est une surprise !"
+
+# game/v3/scene52.rpy:143
+translate francais v3s52_999f98d5:
+
+    # aut "Oh, I see. Well, she's learning from the best."
+    aut "Ah, je vois. Eh bien, elle va apprendre auprès de la meilleure."
+
+# game/v3/scene52.rpy:154
+translate francais v3s52_39a4611b:
+
+    # la "Thank you."
+    la "Merci."
+
+# game/v3/scene52.rpy:176
+translate francais v3s52_3e4491c4:
+
+    # aut "Ha, okay. Thank you."
+    aut "D'accord. Merci."
+
+# game/v3/scene52.rpy:195
+translate francais v3s52_ed9fbf10:
+
+    # aut "Small?! Fifty dollars isn't exactly small. That's great!"
+    aut "Petit ?! Cinquante dollars, c'est pas vraiment \"petit\". C'est génial !"
+
+# game/v3/scene52.rpy:234
+translate francais v3s52_d46a660b:
+
+    # aut "Thank you! I'll let you know how it goes. Call me later?"
+    aut "Merci ! Je te raconterai comment ça s'est passé, tu m'appelles plus tard ?"
+
+# game/v3/scene52.rpy:255
+translate francais v3s52_4d5f8817:
+
+    # aut "Laters, baby? What?"
+    aut "À plus tard, bébé ? Quoi ?"
+
+# game/v3/scene52.rpy:265
+translate francais v3s52_ffd5b2ea:
+
+    # aut "Ha, yes... let's pretend you didn't just say that."
+    aut "Haha, oui... Faisons comme si tu ne venais pas de dire ça."
+
+# game/v3/scene52.rpy:297
+translate francais v3s52_b582f5ba:
+
+    # aut "A promise is a promise, [name]."
+    aut "Une promesse est une promesse, [name]."
+
+# game/v3/scene52.rpy:299
+translate francais v3s52_48297ba6:
+
+    # aut "But I didn't bring it because I didn't want you to have to carry it around with you all day."
+    aut "Mais je ne l'ai pas apporté car je ne voulais pas que tu aies à le garder sur toi toute la journée."
+
+# game/v3/scene52.rpy:309
+translate francais v3s52_29c76df4:
+
+    # aut "I set it aside back at the Deer's house. You can just come by whenever to pick it up."
+    aut "Je l'ai mis de côté chez les Deers, alors tu pourras passer le chercher quand tu voudras."
+
+# game/v3/scene52.rpy:339
+translate francais v3s52_af195cc3:
+
+    # aut "Well, you've been such a huge help already, but I was just wondering if you might be able to assist me with one more thing today?"
+    aut "Eh bien, tu as déjà été d'une grande aide, mais je me demandais si tu pouvais m'aider pour une dernière chose, aujourd'hui ?"
+
+# game/v3/scene52.rpy:361
+translate francais v3s52_7beccbdb:
+
+    # aut "Do you know anyone with a big number of followers who could do a Kiwii post about us?"
+    aut "Est-ce que tu connais quelqu'un avec un grand nombre de followers, qui pourrait faire un post Kiwii sur nous ?"
+
+# game/v3/scene52.rpy:371
+translate francais v3s52_aaf8253e:
+
+    # aut "Or maybe you can spin a sign out front? That's the other option."
+    aut "Ou peut-être peux-tu agiter un panneau devant l'établissement ? C'est la deuxième option."
+
+# game/v3/scene52.rpy:391
+translate francais v3s52_1f85cf3c:
+
+    # aut "I know it doesn't sound very fun, but what do you think?"
+    aut "Je sais que ça n'a pas l'air très amusant mais, qu'en penses-tu ?"
+
+# game/v3/scene52.rpy:417
+translate francais v3s52_9eab5619:
+
+    # aut "Ha, I'm just saying!"
+    aut "Oh, je disais ça comme ça !"
+
+# game/v3/scene52.rpy:422
+translate francais v3s52_85f19522:
+
+    # u "The most ideal person for a post would probably be Aubrey. She's modeling for Lew's these days."
+    u "La personne idéale pour un post serait sûrement Aubrey. Elle est mannequin pour Lew's ces derniers temps."
+
+# game/v3/scene52.rpy:475
+translate francais v3s52_PhoneContinueAub2_5709a6f3:
+
+    # u "She's too busy right now. I'll do one instead, though."
+    u "Elle est trop occupée en ce moment. Je vais en faire un à sa place. Mais..."
+
+# game/v3/scene52.rpy:480
+translate francais v3s52_PhoneContinueAub2_017d9788:
+
+    # aut "Oh, alright. Hopefully it'll still bring a few people around."
+    aut "Bon, d'accord, j'espère que ça attirera tout de même quelques personnes."
+
+# game/v3/scene52.rpy:490
+translate francais v3s52_PhoneContinueAub2_db88f123:
+
+    # aut "Very professional."
+    aut "Pro-fes-sion-nel."
+
+# game/v3/scene52.rpy:537
+translate francais v3s52_PhoneContinueAub_9cd70147:
+
+    # u "She's pretty great."
+    u "Elle est vraiment géniale."
+
+# game/v3/scene52.rpy:560
+translate francais v3s52_PhoneContinueAub_f097f23a:
+
+    # u "Now we just sit back and watch the cash roll in."
+    u "Maintenant on a plus qu'à s'asseoir et à regarder l'argent rentrer."
+
+# game/v3/scene52.rpy:565
+translate francais v3s52_PhoneContinueAub_ba91582c:
+
+    # aut "I wish... we need every dollar we can get."
+    aut "J'aimerais beaucoup... On a besoin de chaque dollar qu'on peut avoir."
+
+# game/v3/scene52.rpy:587
+translate francais v3s52_PhoneContinueAub_be051e49:
+
+    # aut "Oh, sh-"
+    aut "Oh, mer-"
+
+# game/v3/scene52.rpy:589
+translate francais v3s52_PhoneContinueAub_3830c927:
+
+    # aut "*Whispers* [name], look who it is!"
+    aut "*chuchote* [name], regarde qui c'est !"
+
+# game/v3/scene52.rpy:612
+translate francais v3s52_PhoneContinueAub_07f0a695:
+
+    # aut "Err, I mean... grab it for you. Sorry. Dog brain."
+    aut "Euh, je voulais dire... le récupérer pour toi. Désolée. c'est mon cerveau de chien."
+
+# game/v3/scene52.rpy:644
+translate francais v3s52_PhoneContinueAub_5fb02dda:
+
+    # mped "Don't quit your day job, kid."
+    mped "Ne laisse pas tomber ta carrière, gamin."
+
+# game/v3/scene52.rpy:654
+translate francais v3s52_PhoneContinueAub_9f9e90d2:
+
+    # u "Joke's on you. I'm unemployed!"
+    u "Remballe ta blague. Je travaille pas !"
+
+# game/v3/scene52.rpy:659
+translate francais v3s52_PhoneContinueAub_3c11f7d2:
+
+    # mped "Say it louder, loser."
+    mped "Parle plus fort, loser."
+
+# game/v3/scene52.rpy:705
+translate francais v3s52_PhoneContinueAub_5f0441fd:
+
+    # u "Oh... hello, Dean Harrison."
+    u "Oh... Bonjour, Doyenne Harrison."
+
+# game/v3/scene52.rpy:710
+translate francais v3s52_PhoneContinueAub_595715a2:
+
+    # de "Hi, [name]. It's nice to see you helping out the community. Keep persevering. You'll get the hang of it eventually."
+    de "Bonjour, [name]. C'est agréable de vous voir aider la communauté. Continuez à persévérer, vous finirez par avoir du succès."
+
+# game/v3/scene52.rpy:717
+translate francais v3s52_PhoneContinueAub_ee01f9b9:
+
+    # u "Thanks."
+    u "Merci."
+
+# game/v3/scene52.rpy:738
+translate francais v3s52_PhoneContinueAub_78967311:
+
+    # trucker "I've never seen such a gross-looking creature!"
+    trucker "J'ai jamais vu une créature aussi répugnante."
+
+# game/v3/scene52.rpy:765
+translate francais v3s52_PhoneContinueAub_8bad5493:
+
+    # trucker "Why not? Don't start acting like he can understand anything I'm sayin', lady."
+    trucker "Et pourquoi pas ? Commencez pas à faire comme s'il pouvait comprendre c'que j'dis, m'dame."
+
+# game/v3/scene52.rpy:780
+translate francais v3s52_PhoneContinueAub_a7c8f0bc:
+
+    # de "This is a wonderful dog, and you've been disrespectful."
+    de "Ce chien est magnifique, et vous avez été irrespectueux."
+
+# game/v3/scene52.rpy:790
+translate francais v3s52_PhoneContinueAub_b9e89b35:
+
+    # de "Right, then, why are you here?"
+    de "Bien, alors, pourquoi êtes-vous venu ?"
+
+# game/v3/scene52.rpy:800
+translate francais v3s52_PhoneContinueAub_e643609f:
+
+    # trucker "I wanted to see what kind of dogs were locked up in here. Now I see they're just a range of dirty mutts."
+    trucker "J'voulais voir quels espèces de clébards ils avaient enfermé là-d'dans, mais maintenant j'vois bien qu'c'est qu'une bande de sales bâtards."
+
+# game/v3/scene52.rpy:815
+translate francais v3s52_PhoneContinueAub_e3cc6510:
+
+    # de "Of course, students. This gentleman must feel so sad, so... impotent."
+    de "Bien sûr, chers étudiants. Ce gentleman doit se sentir si triste, si... Impuissant."
+
+# game/v3/scene52.rpy:820
+translate francais v3s52_PhoneContinueAub_cace7d34:
+
+    # aut "Uh..."
+    aut "Heu..."
+
+# game/v3/scene52.rpy:837
+translate francais v3s52_PhoneContinueAub_35e78b37:
+
+    # de "Pathetic, no?"
+    de "Pathétique, non ?"
+
+# game/v3/scene52.rpy:852
+translate francais v3s52_PhoneContinueAub_e8604483:
+
+    # trucker "Whatever. Forget this place!"
+    trucker "Bat les couilles. Laissez tomber ce magasin !"
+
+# game/v3/scene52.rpy:899
+translate francais v3s52_PhoneContinueAub_e81c4667:
+
+    # de "Don't mention it, Autumn. Men like that are barely worth wasting our breath on. I was just a little bored."
+    de "Ne revenons pas là-dessus, Autumn. Les hommes comme ça ne valent pas la peine qu'on perde notre temps avec eux. Je commençais à m'ennuyer."
+
+# game/v3/scene52.rpy:908
+translate francais v3s52_PhoneContinueAub_4ce55b01:
+
+    # de "Oscar, hm? Seems to fit. You're happy with it?"
+    de "Oscar, hein ? Ce nom a l'air de te plaire, tu l'aimes bien ?"
+
+# game/v3/scene52.rpy:913
+translate francais v3s52_PhoneContinueAub_86568147:
+
+    # oscar_dog "Arf!"
+    oscar_dog "Wouarf !"
+
+# game/v3/scene52.rpy:933
+translate francais v3s52_PhoneContinueAub_b6d8096c:
+
+    # aut "Oh, sorry! You want to adopt him? Just like that? I mean-"
+    aut "Oh, désolée ! Vous voulez l'adopter ? Comme ça ? Enfin, je voulais..."
+
+# game/v3/scene52.rpy:968
+translate francais v3s52_PhoneContinueAub_a7b3095d:
+
+    # aut "And just one final thing before you take him home... a photo for our adoption wall. Say cheese!"
+    aut "Et une dernière chose avant de le ramener chez vous... Une photo pour notre mur d'adoption, dites \"cheese\" !"
+
+# game/v3/scene52.rpy:985
+translate francais v3s52_PhoneContinueAub_41cfc420:
+
+    # aut "Aw, I'm so happy for him! And I don't think she'll have any weed lying around for him to eat."
+    aut "Ooh, je suis si heureuse pour lui ! Elle au moins, je ne crois pas qu'elle aura de l'herbe qui traîne chez elle qu'il pourra manger."
+
+# game/v3/scene52.rpy:990
+translate francais v3s52_PhoneContinueAub_c50971cf:
+
+    # u "Ha, yeah. Me neither. I think Oscar has finally found his forever home."
+    u "Ça c'est sûr. Je pense pas. Par contre, je pense qu'Oscar a enfin trouvé sa maison définitive."
+
+# game/v3/scene52.rpy:995
+translate francais v3s52_PhoneContinueAub_bbec6c37:
+
+    # aut "Me too. I've never seen her smile that much before!"
+    aut "Moi aussi, je ne l'ai jamais vue sourire autant !"
+
+# game/v3/scene52.rpy:997
+translate francais v3s52_PhoneContinueAub_a3aa8ad6:
+
+    # aut "Anyways, I appreciate you coming. You don't have to hang around any longer. I know you've got an entire day ahead of you."
+    aut "Quoi qu'il en soit, j'apprécie que tu sois venu. Tu n'as pas besoin de rester plus longtemps, je sais que tu as une grosse journée devant toi."
+
+# game/v3/scene52.rpy:1002
+translate francais v3s52_PhoneContinueAub_9eb18de7:
+
+    # u "That I do. Thanks for the invite, though. I had fun."
+    u "C'est ce que je vais faire. Merci quand même pour l'invitation, c'était sympa."

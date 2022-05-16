@@ -175,3 +175,10 @@ translate francais strings:
     # game/v1/scene49.rpy:79
     old "Yeah, sounds great"
     new "Ouais, maintenant."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene49.rpy:116
+translate francais v1s49Chloe_PhoneContinue_56078fcc:
+
+    # u "Okay, boss lady."
+    u "Ok, cheffe."

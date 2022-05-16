@@ -557,3 +557,160 @@ translate francais strings:
     # game/v1/scene50.rpy:219
     old "Keep listening"
     new "Continuer à écouter"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene50.rpy:57
+translate francais v1s50_fa0c5734:
+
+    # u "Heh, okay, okay."
+    u "Heu, ok, ok."
+
+# game/v1/scene50.rpy:74
+translate francais v1s50_afd6ccd1:
+
+    # li "*Whispers* Umm... anal."
+    li "*Chuchote* Euuh... Sodomie."
+
+# game/v1/scene50.rpy:84
+translate francais v1s50_2ebe8790:
+
+    # li "*Giggles* Shhh! *Whispers* Yes... anal."
+    li "*Ricane* Chuuut ! *Chuchote* Oui... Sodomie."
+
+# game/v1/scene50.rpy:99
+translate francais v1s50_32a69dae:
+
+    # u "*Whispers* Good to know."
+    u "*Chuchote* Bon à savoir."
+
+# game/v1/scene50.rpy:114
+translate francais v1s50_8fea9195:
+
+    # li "Wait here."
+    li "Attends ici."
+
+# game/v1/scene50.rpy:133
+translate francais v1s50_33139eb1:
+
+    # li "No, no! No, I am not pregnant. I promise. That's not it. No. No way."
+    li "Non, non, non ! Je ne suis pas enceinte. Je te jure. C'est pas ça. Pas du tout."
+
+# game/v1/scene50.rpy:140
+translate francais v1s50_04239b1f:
+
+    # li "Can we go up to your room?"
+    li "On peut monter dans ta chambre ?"
+
+# game/v1/scene50.rpy:167
+translate francais v1s50_ee6e7b1b:
+
+    # u "(I feel like a ninja.)"
+    u "(J'ai l'impression d'être un ninja.)"
+
+# game/v1/scene50.rpy:182
+translate francais v1s50_89db3ebe:
+
+    # au "So... what can I help you with today?"
+    au "Alors... Qu'est-ce que je peux faire pour t'aider aujourd'hui ?"
+
+# game/v1/scene50.rpy:184
+translate francais v1s50_5d8dd013:
+
+    # li "Thanks, Aubrey. I feel a little weird about asking, but..."
+    li "Merci, Aubrey. Je me sens un peu bizarre de te demander ça, mais..."
+
+# game/v1/scene50.rpy:191
+translate francais v1s50_a4d4f64b:
+
+    # li "I... I was thinking maybe I'd like to try it."
+    li "Je... Je me disais que j'aimerais peut-être essayer."
+
+# game/v1/scene50.rpy:203
+translate francais v1s50_5447e605:
+
+    # au "You have nothing to be embarrassed about. You actually came to the perfect person."
+    au "T'as pas à être gênée. En fait, t'es venue vers la meilleure personne pour en parler !"
+
+# game/v1/scene50.rpy:266
+translate francais v1s50_9db8440f:
+
+    # au "I'd hope not!"
+    au "J'espère bien que non !"
+
+# game/v1/scene50.rpy:271
+translate francais v1s50_be44e44b:
+
+    # li "Yeah, no. Just a few stitches to make it tight again, I guess."
+    li "Ouais, non. Juste quelques points de suture pour que ça soit à nouveau serré, j'imagine."
+
+# game/v1/scene50.rpy:281
+translate francais v1s50_a6b77811:
+
+    # au "Well, fuck, Linds! That sounds awful! I think that's a very rare occurrence, though."
+    au "Oh putain, Linds ! Ça a l'air horrible ! Mais je crois que ça, ça arrive très rarement."
+
+# game/v1/scene50.rpy:283
+translate francais v1s50_791efb21:
+
+    # li "Yeah... maybe."
+    li "Ouais... possible."
+
+# game/v1/scene50.rpy:288
+translate francais v1s50_48fd3def:
+
+    # au "Like I said, just make sure you're with someone you trust, and make sure you use lots of lube as well."
+    au "Comme je l'ai dit, assure-toi simplement d'être avec quelqu'un en qui t'as confiance, et veille également à utiliser beaucoup de lubrifiant."
+
+# game/v1/scene50.rpy:334
+translate francais v1s50_47acc908:
+
+    # au "That's a part of the pleasure, I think. It's going to hurt a little. Or a lot!"
+    au "Je crois que ça fait partie du plaisir. Ça va faire un peu mal. Ou beaucoup !"
+
+# game/v1/scene50.rpy:341
+translate francais v1s50_a8f68bdc:
+
+    # li "Okay gotcha. So that's it, then? Like, it's a rebellious thing?"
+    li "D'accord, j'ai compris. Alors c'est ça ? C'est genre, un truc de rebelle ?"
+
+# game/v1/scene50.rpy:348
+translate francais v1s50_fc3b08dc:
+
+    # au "But in the end, it just feels good to get fucked in the ass sometimes."
+    au "Mais au final, parfois, ça fait tellement de bien de se faire baiser dans l'cul."
+
+# game/v1/scene50.rpy:350
+translate francais v1s50_28fc8082:
+
+    # li "Aubrey!"
+    li "Aubrey !"
+
+# game/v1/scene50.rpy:372
+translate francais v1s50_82f29d6a:
+
+    # au "Come take a look at my collection."
+    au "Viens jeter un coup d'œil à ma collection."
+
+# game/v1/scene50.rpy:386
+translate francais v1s50_5069bda1:
+
+    # li "This is amazing... thank you."
+    li "C'est super... Merci."
+
+# game/v1/scene50.rpy:412
+translate francais v1s50_1911853e:
+
+    # au "Definitely not this one, then."
+    au "Alors, ça sera certainement pas celui-là."
+
+# game/v1/scene50.rpy:419
+translate francais v1s50_b2f3a891:
+
+    # au "My favorite."
+    au "Mon préféré."
+
+# game/v1/scene50.rpy:429
+translate francais v1s50_bdae7eaa:
+
+    # au "Inches? Pfft. This is well past inches, Linds."
+    au "Des millimètres ? C'est bien au-delà des millimètres, Linds."

@@ -481,3 +481,76 @@ translate francais strings:
     # game/v1/scene28.rpy:73
     old "I love you too"
     new "Moi aussi, je t'aime"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene28.rpy:32
+translate francais v1s28_2fa52ac7:
+
+    # em "I've made mistakes. Not just the cheating, either."
+    em "Oui, j'ai fait des erreurs et pas seulement en te trompant."
+
+# game/v1/scene28.rpy:42
+translate francais v1s28_a9d199fa:
+
+    # em "I've made dozens more mistakes since we've been in college. Regardless of all that, I know how I feel and have always felt about you."
+    em "J'ai également fait des dizaines d'autres erreurs depuis qu'on est à l'université, mais malgré tout ça, je sais ce que je ressens et ai toujours ressenti pour toi."
+
+# game/v1/scene28.rpy:66
+translate francais v1s28_485d2c6f:
+
+    # em "But deep down, of course... I hope that you still love me, too."
+    em "Au fond de moi, bien sûr... J'espère que tu m'aimes toujours également."
+
+# game/v1/scene28.rpy:82
+translate francais v1s28_ae8e04ff:
+
+    # u "We've had our bumps in the road, but someway, somehow, we always get drawn right back to each other."
+    u "On a eu des obstacles sur la route, mais d'une manière ou d'une autre, on est toujours attirés l'un vers l'autre."
+
+# game/v1/scene28.rpy:84
+translate francais v1s28_79715413:
+
+    # u "That's what tells me there's something between us and it's meant to be."
+    u "C'est ça qui me dit qu'il y a quelque chose entre nous et qu'il doit en être ainsi."
+
+# game/v1/scene28.rpy:134
+translate francais v1s28_56ee9636:
+
+    # u "Considering you cheated on me, my friend is interested in you, and the fact that I've met other people..."
+    u "Vu que tu m'as trompé, que mon ami s'intéresse à toi et que j'ai rencontré d'autres personnes..."
+
+# game/v1/scene28.rpy:212
+translate francais v1s28_d688395a:
+
+    # em "You're telling me that? Really?"
+    em "C'est toi qui me dis ça ? Sérieux ?"
+
+# game/v1/scene28.rpy:256
+translate francais v1s28_f3e83462:
+
+    # em "I'm happy to hear you say that."
+    em "Je suis heureuse de t'entendre dire ça."
+
+# game/v1/scene28.rpy:276
+translate francais v1s28_21b8e10c:
+
+    # em "Yeah, honestly... I wasn't even going to tell you. I was just going to leave."
+    em "Ouais, vraiment... Je ne comptais même pas te le dire. J'allais juste partir."
+
+# game/v1/scene28.rpy:305
+translate francais v1s28_46d22ed9:
+
+    # em "If you want this relationship as much as you say you do, we'll be able to make this long-distance thing work."
+    em "Si tu souhaites vraiment que ça continue entre nous, on pourrait faire en sorte que notre relation longue distance fonctionne."
+
+# game/v1/scene28.rpy:377
+translate francais v1s28_5ec635d8:
+
+    # u "(After all our history, our ups and downs on campus... she's actually gone.)"
+    u "(Après toute notre histoire, les hauts et les bas qu'on a vécu sur le campus... Elle est vraiment partie.)"
+
+# game/v1/scene28.rpy:382
+translate francais v1s28_b4445743:
+
+    # u "(I see why she wanted to talk in private now. I wonder who else she's told.)"
+    u "(Je comprends maintenant pourquoi elle voulait en parler en privé, je me demande à qui d'autre elle l'a dit.)"

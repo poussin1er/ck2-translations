@@ -447,3 +447,112 @@ translate francais v3_wrong_key_69_4543bdc5:
 
     # pe "Okay, back in position, Mister."
     pe "Ok, remets-toi en position, Monsieur."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene69.rpy:69
+translate francais v3s69_8061bd8a:
+
+    # pe "Quite? Yeah, she's not bad for an international superstar."
+    pe "\"un sacré talent\" ? Ouais, elle est plutôt pas mal pour une superstar internationale."
+
+# game/v3/scene69.rpy:101
+translate francais v3s69_00534d81:
+
+    # pe "I wasn't expecting that. I was a little embarrassed, but it was also kind of amazing."
+    pe "Je ne m'attendais pas à ça. J'étais un peu gênée, mais aussi plutôt incroyable."
+
+# game/v3/scene69.rpy:113
+translate francais v3s69_f4c6d59a:
+
+    # pe "I guess so. Kind of hope not, though."
+    pe "Oui, peut-être. Mais je l'espère, pas."
+
+# game/v3/scene69.rpy:143
+translate francais v3s69_a194d1fb:
+
+    # pe "*Giggles* That tickles... I like it."
+    pe "*Ricane* Ça chatouille, haha... J'aime bien."
+
+# game/v3/scene69.rpy:169
+translate francais v3s69_7f446822:
+
+    # pe "That tickles!"
+    pe "Ça chatouille !"
+
+# game/v3/scene69.rpy:218
+translate francais v3s69_81b32e1a:
+
+    # u "Just making sure you know it's a doll."
+    u "Je voudrais juste être sûr que... tu sais que c'est une poupée, hein ?"
+
+# game/v3/scene69.rpy:240
+translate francais v3s69_23dd8511:
+
+    # pe "Yes. A doll. Thankfully you aren't taking care of a real child."
+    pe "Oui. Une poupée. Heureusement que tu ne t'occupes pas d'un vrai bébé."
+
+# game/v3/scene69.rpy:245
+translate francais v3s69_fd87eb48:
+
+    # u "That would be child endangerment."
+    u "Ça serait une mise en danger d'enfant."
+
+# game/v3/scene69.rpy:256
+translate francais v3s69_f1488d70:
+
+    # u "Sadly, I did. I wasn't exactly surprised."
+    u "C'est malheureusement le cas. J'ai pas vraiment été surpris."
+
+# game/v3/scene69.rpy:283
+translate francais v3s69_10700d1d:
+
+    # pe "As long as you stop there and don't start wearing a diaper, too."
+    pe "Tant que tu t'arrêtes là et que tu ne commences pas à mettre une couche..."
+
+# game/v3/scene69.rpy:288
+translate francais v3s69_5cc6a488:
+
+    # u "Some people are into that, you know."
+    u "Tu sais, ça plaît à certaines personnes."
+
+# game/v3/scene69.rpy:293
+translate francais v3s69_bb89535b:
+
+    # pe "Stop it, stop it. Don't even tell me about it, I don't want to know."
+    pe "Arrête, arrête. Ne m'en parle même pas, je veux rien savoir."
+
+# game/v3/scene69.rpy:308
+translate francais v3s69_a01649cb:
+
+    # pe "Ha, still cute. Especially if I had earplugs."
+    pe "Oh, il est quand même mignon. Surtout si j'avais des boules Quiès"
+
+# game/v3/scene69.rpy:318
+translate francais v3s69_50487869:
+
+    # pe "Aw, poor little baby... what do you think is wrong with it?"
+    pe "Oh, pauvre petit bébé... À ton avis, qu'est-ce qui ne va pas ?"
+
+# game/v3/scene69.rpy:338
+translate francais v3s69_55469a6a:
+
+    # u "Okay, please don't say that ever again."
+    u "Bon, s'il te plaît, dis plus jamais ça."
+
+# game/v3/scene69.rpy:343
+translate francais v3s69_06be1175:
+
+    # pe "Ha, sorry. Where are the keys?"
+    pe "Oh, désolée. Où sont les clés ?"
+
+# game/v3/scene69.rpy:420
+translate francais v3_wrong_key_69_3322c715:
+
+    # u "I don't even want to imagine what that's like."
+    u "Je veux même pas imaginer comment c'est."
+
+# game/v3/scene69.rpy:430
+translate francais v3_wrong_key_69_dfffce69:
+
+    # pe "Okay, back in position, mister."
+    pe "Bien, remets-toi en position, Monsieur."

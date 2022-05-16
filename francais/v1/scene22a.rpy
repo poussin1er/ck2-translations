@@ -143,3 +143,46 @@ translate francais v1s22a_901e6178:
 
     # u "(Let's see who this is...)"
     u "(Voyons voir qui c'est...)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene22a.rpy:12
+translate francais v1s22a_de5328bd:
+
+    # li "So... People invested in this vote have been treating me like the Vice President of the United States."
+    li "Alors... Les personnes investies dans cette élection me traitent comme la vice-présidente des États-Unis."
+
+# game/v1/scene22a.rpy:17
+translate francais v1s22a_bb6d45fb:
+
+    # u "I mean, that's a small subset of the college. Just our friends. But what makes you say that?"
+    u "C'est un petit échantillon de l'université. Rien que nos amis. Qu'est-ce qui te fait dire ça ?"
+
+# game/v1/scene22a.rpy:22
+translate francais v1s22a_c68910c4:
+
+    # li "They either respect me, love and pray that I succeed, or completely despise me and won't even look in my direction."
+    li "Soit ils me respectent, m'aiment et prient pour que je réussisse, soit ils me méprisent totalement et ne regardent même pas dans ma direction."
+
+# game/v1/scene22a.rpy:27
+translate francais v1s22a_5302cf24:
+
+    # u "Welcome to the world of fame, baby!"
+    u "Bienvenue dans le monde de la célébrité, bébé !"
+
+# game/v1/scene22a.rpy:49
+translate francais v1s22a_f439558b:
+
+    # u "Let's hope so, yeah. And remember, it's just a small subset who care about this stuff. Regardless, these next few weeks are gonna be rough for you."
+    u "Oui, espérons-le. Et souviens-toi qu'il n'y a qu'un petit groupe d'étudiants qui se préoccupent de ça. Quoi qu'il en soit, ces prochaines semaines risquent d'être difficiles pour toi."
+
+# game/v1/scene22a.rpy:59
+translate francais v1s22a_af9b579c:
+
+    # u "You know I'm here for you, though."
+    u "Mais, tu sais que je suis là pour toi."
+
+# game/v1/scene22a.rpy:73
+translate francais v1s22a_782bc16b:
+
+    # li "Your phone is buzzing, I think."
+    li "Je crois que ton téléphone vibre."

@@ -340,3 +340,100 @@ translate francais v3s61_kiwii_reply_d35202bf:
 
     # u "(Oh, shit. I better hurry to help out Chloe with the cover design!)"
     u "(Oh, merde. Je ferais mieux de me dépêcher d'aider Chloé pour la mise en page de la couverture !)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene61.rpy:50
+translate francais v3s61_78fa26d3:
+
+    # u "(I can't believe we managed to get Polly on board with our crazy idea! Lindsey loves her more than ever now.)"
+    u "(J'arrive pas à croire qu'on ait réussi à convaincre Polly d'adhérer à notre projet fou ! Lindsey l'aime encore plus que jamais, maintenant.)"
+
+# game/v3/scene61.rpy:198
+translate francais v3s61_kiwii_reply_3035f4e2:
+
+    # u "Hello, my dear Chloe. How are you?"
+    u "Bonjour, ma Chloé. Ça va ?"
+
+# game/v3/scene61.rpy:206
+translate francais v3s61_kiwii_reply_74e7ac09:
+
+    # cl "Hey, you! I need some help."
+    cl "Salut toi ! J'ai besoin de ton aide."
+
+# game/v3/scene61.rpy:217
+translate francais v3s61_kiwii_reply_8fc3e55a:
+
+    # u "Don't we all?"
+    u "N'en avons-nous pas tous besoin ?"
+
+# game/v3/scene61.rpy:222
+translate francais v3s61_kiwii_reply_56585946:
+
+    # cl "Ha. To be honest I don't know why I'm even asking; I think I already know what your answer is going to be."
+    cl "Ha. Pour être honnête, je ne sais même pas pourquoi je demande, je crois que je sais déjà quelle sera ta réponse."
+
+# game/v3/scene61.rpy:227
+translate francais v3s61_kiwii_reply_0376499c:
+
+    # u "Oh yeah? Test me. What's up?"
+    u "Ah oui ? Dis-moi. Qu'est-ce qui se passe ?"
+
+# game/v3/scene61.rpy:232
+translate francais v3s61_kiwii_reply_3bf039aa:
+
+    # cl "I'm doing a spa night at the house for a few of the girls. Trying to raise morale, I guess you could say."
+    cl "Je fais une soirée spa à la maison pour quelques filles. J'essaie de leur remonter le moral, si on peut dire ça comme ça."
+
+# game/v3/scene61.rpy:237
+translate francais v3s61_kiwii_reply_5e8c8765:
+
+    # u "Mmmkay... continue..."
+    u "Mmmouiiii... Continue..."
+
+# game/v3/scene61.rpy:242
+translate francais v3s61_kiwii_reply_d0796f44:
+
+    # cl "I've still got time to book a masseuse, but I thought I'd check to see if you would volunteer first. I'd be saving a lot of money."
+    cl "J'aurais encore le temps de réserver une masseuse, mais j'ai d'abord pensé à voir si tu te porterais volontaire. Ça me ferait aussi économiser beaucoup d'argent."
+
+# game/v3/scene61.rpy:259
+translate francais v3s61_kiwii_reply_805ff98b:
+
+    # u "Hm... well, I have no plans, so I can come."
+    u "Hum... Ben, j'ai rien de prévu donc je pourrais venir, oui."
+
+# game/v3/scene61.rpy:290
+translate francais v3s61_kiwii_reply_d92e5a92:
+
+    # cl "Ha, thank you!"
+    cl "Oh, merci !"
+
+# game/v3/scene61.rpy:300
+translate francais v3s61_kiwii_reply_ad3b49d3:
+
+    # cl "Just come to the Chicks house now, if you can."
+    cl "Tu peux venir chez les Chicks maintenant, si tu peux."
+
+# game/v3/scene61.rpy:305
+translate francais v3s61_kiwii_reply_e730a570:
+
+    # u "Okay. I'm warming my hands up as we speak!"
+    u "D'accord. Je suis d'ailleurs en train de me chauffer les mains, en ce moment même !"
+
+# game/v3/scene61.rpy:310
+translate francais v3s61_kiwii_reply_4cec2c6a:
+
+    # cl "Terrific."
+    cl "Excellent."
+
+# game/v3/scene61.rpy:318
+translate francais v3s61_kiwii_reply_b9908fa9:
+
+    # u "I don't really have much experience in massaging, so maybe you should hire a professional."
+    u "J'ai pas vraiment d'expérience en matière de massages, alors tu devrais peut-être faire appel à un pro, tu crois pas ?"
+
+# game/v3/scene61.rpy:416
+translate francais v3s61_kiwii_reply_96d31798:
+
+    # u "(Oh, fuck. That's a big-ass baby!)"
+    u "(Oh, putain merde. Oh bébé, j'ai un de ces cul !)"

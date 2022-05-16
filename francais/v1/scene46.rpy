@@ -89,3 +89,52 @@ translate francais v1s46_604e5884:
 
     # u "Bye."
     u "Ciao."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene46.rpy:40
+translate francais v1s46_88eb0b93:
+
+    # la "I learned the theory of hypnosis, and now I want to try to hypnotize someone. Aka, you."
+    la "J'ai appris la théorie de l'hypnose, et maintenant j'ai vraiment envie d'essayer d'hypnotiser quelqu'un... alias toi."
+
+# game/v1/scene46.rpy:45
+translate francais v1s46_6ef34c26:
+
+    # u "That's interesting! If, um, pretty out of the blue. When did you want to give it a go?"
+    u "C'est intéressant ! Même si, euh, c'est plutôt inattendu. T'as voulu essayer ça depuis longtemps ?"
+
+# game/v1/scene46.rpy:50
+translate francais v1s46_4a133760:
+
+    # la "You know I like psych stuff; this isn't too random. And as for time... how about now?"
+    la "Tu sais que j'aime les trucs psychologiques ; ça n'est pas vraiment une question de hasard. Et pour ce qui est du moment... pourquoi pas maintenant ?"
+
+# game/v1/scene46.rpy:56
+translate francais v1s46_47aa9f48:
+
+    # u "Oh wow, yeah, I guess I can volunteer. Where are you?"
+    u "Oh waouh, ouais je pourrais être volontaire. T'es où ?"
+
+# game/v1/scene46.rpy:61
+translate francais v1s46_1141db8a:
+
+    # la "My place. Do you remember where it is?"
+    la "Dans ma chambre, tu te souviens où elle est ?"
+
+# game/v1/scene46.rpy:66
+translate francais v1s46_63525a18:
+
+    # u "Yeah, of course. I'll be there soon."
+    u "Ouais, bien sûr. J'arrive."
+
+# game/v1/scene46.rpy:82
+translate francais v1s46_ae184500:
+
+    # u "Oh, shoot. I can't right now. Already have something set."
+    u "Oh, merde. Je peux pas là, maintenant. J'ai déjà un truc de prévu."
+
+# game/v1/scene46.rpy:87
+translate francais v1s46_46082c25:
+
+    # la "Ah, okay, maybe another time?"
+    la "Ahh okay, une autre fois peut-être ?"

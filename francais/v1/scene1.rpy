@@ -978,3 +978,196 @@ translate francais v1_start_77d655f9:
 
     # u "(Guess I need to get home myself. I can barely think with all this jetlag.)"
     u "(Bon... Faut vraiment que je rentre à la maison. J'arrive à peine à réfléchir avec ce décalage horaire.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene1.rpy:105
+translate francais v1_start_a178f90b:
+
+    # lee "Right, well, I need to be on my way! It's essential that I attend Charli's meeting with the dean."
+    lee "Bon, il est temps pour moi d'y aller ! Il est indispensable que j'assiste à la rencontre entre Charli et la doyenne."
+
+# game/v1/scene1.rpy:115
+translate francais v1_start_37c3abfd:
+
+    # lee "Whether it is the right time or not, that student will not be on this campus another night. Not if I have anything to say about it."
+    lee "Que le moment soit opportun ou non, cet élève ne passera pas une nuit supplémentaire dans ce campus. Pas si j'ai mon mot à dire à ce sujet."
+
+# game/v1/scene1.rpy:140
+translate francais v1_start_eed50046:
+
+    # ro "I'm serious, Bruce."
+    ro "Je suis sérieuse, Bruce."
+
+# game/v1/scene1.rpy:145
+translate francais v1_start_fc090ce4:
+
+    # lee "I am too."
+    lee "Je le suis également."
+
+# game/v1/scene1.rpy:169
+translate francais v1_start_db80f013:
+
+    # ri "Are you thinking about him, too?"
+    ri "Toi aussi, tu penses à lui ?"
+
+# game/v1/scene1.rpy:209
+translate francais v1_start_fc73e0a4:
+
+    # u "Pfft. What could he have possibly taught us?"
+    u "Pfft. Qu'est-ce qu'il aurait pu nous apprendre ?"
+
+# game/v1/scene1.rpy:214
+translate francais v1_start_f583eb58:
+
+    # ri "You're telling me Charli never said anything that made you think about your choices or who you are as a person?"
+    ri "Tu me dis que Charli n'a jamais rien dit qui te fasse réfléchir aux choix que tu fais ou à qui tu es en tant que personne ?"
+
+# game/v1/scene1.rpy:223
+translate francais v1_start_4453ee5f:
+
+    # u "I admit, he helped me do some self reflecting, but... I'm not giving him any more credit than that."
+    u "J'avoue qu'il m'a permis de réfléchir un peu sur moi, mais... Je lui accorde pas plus de crédit que ça."
+
+# game/v1/scene1.rpy:241
+translate francais v1_start_904ea43a:
+
+    # ri "Ha! Well, maybe it was just me."
+    ri "Ah...! Alors, ça devait être moi..."
+
+# game/v1/scene1.rpy:251
+translate francais v1_start_d649dd99:
+
+    # ri "Uh... yeah. Just got dizzy for a second there."
+    ri "Euh... c'est vrai. J'ai eu la tête qui tourne pendant un instant."
+
+# game/v1/scene1.rpy:266
+translate francais v1_start_61c3fc35:
+
+    # ri "Aubrey invited me to stay over at the Chicks' house, but I don't know if I wanna be involved in any of the drama."
+    ri "Aubrey m'a invité à rester chez les Chicks, mais je ne sais pas si j'ai vraiment envie d'être impliquée dans toutes ces histoires."
+
+# game/v1/scene1.rpy:271
+translate francais v1_start_f601acb0:
+
+    # u "Then don't be a part of the drama. Just enjoy Aubrey's company. Sounds like that's what she's inviting you over for."
+    u "Alors n'y participe pas. Profite simplement de la compagnie d'Aubrey. On dirait que c'est justement pour ça qu'elle t'invite."
+
+# game/v1/scene1.rpy:276
+translate francais v1_start_417b2104:
+
+    # ri "You're right."
+    ri "Tu dois avoir raison."
+
+# game/v1/scene1.rpy:281
+translate francais v1_start_4c3bae74:
+
+    # ri "Knowing Aubrey, she probably doesn't wanna talk about that stuff right now either."
+    ri "Connaissant Aubrey, elle n'a certainement pas non plus envie de parler de ce genre de trucs pour l'instant."
+
+# game/v1/scene1.rpy:282
+translate francais v1_start_695350f9:
+
+    # ri "Being around her is probably the safest way to stay out of any Chicks drama."
+    ri "Rester à ses côtés est sûrement le moyen le plus sûr de rester en dehors de toutes les histoires des Chicks."
+
+# game/v1/scene1.rpy:288
+translate francais v1_start_19c4a649:
+
+    # ri "I admit, though, there's more than one reason why I'm unsure about hanging with Aubrey."
+    ri "J'admets tout de même qu'il y a plus d'une raison pour laquelle je suis hésitante sur le fait de traîner avec Aubrey."
+
+# game/v1/scene1.rpy:313
+translate francais v1_start_fa892e18:
+
+    # ri "Ugh... I'm just gonna come right out and say it. I..."
+    ri "Argh... Je vais me lancer et le dire franchement. Je..."
+
+# game/v1/scene1.rpy:328
+translate francais v1_start_c33791f2:
+
+    # ri "I'm not exactly sure what those feelings are just yet, but I know they exist. And they're the same feelings that I have for Aubrey, too."
+    ri "Je ne sais pas encore exactement quels sont ces sentiments, mais je sais qu'ils sont là. Et ce sont les mêmes que ceux que j'éprouve pour Aubrey."
+
+# game/v1/scene1.rpy:338
+translate francais v1_start_03a2c3fc:
+
+    # ri "I think it might help."
+    ri "Je pense que ça pourrait t'aider."
+
+# game/v1/scene1.rpy:355
+translate francais v1_start_07825d96:
+
+    # ri "Mm, right..."
+    ri "Hum, bon..."
+
+# game/v1/scene1.rpy:360
+translate francais v1_start_e313b9d0:
+
+    # u "Plus, I'm sure Aubrey would be more than happy to hear that you have feelings for her, too."
+    u "De plus, je suis certain qu'Aubrey sera plus qu'heureuse de découvrir que t'as également des sentiments pour elle."
+
+# game/v1/scene1.rpy:375
+translate francais v1_start_ea276998:
+
+    # ri "Wait, you're okay with that?!"
+    ri "Attends, tu es d'accord avec ça ?!"
+
+# game/v1/scene1.rpy:380
+translate francais v1_start_92b46800:
+
+    # u "Why wouldn't I be? That's what life is all about, right? Spending time with the people you like most?"
+    u "Pourquoi pas ? C'est le but de la vie, non ? Passer du temps avec les personnes que tu aimes vraiment !"
+
+# game/v1/scene1.rpy:385
+translate francais v1_start_e1a1ace7:
+
+    # u "And if that means the three of us get to spend more time together, I'm not complaining. You're my two favorite ladies."
+    u "Et si ça veut dire que nous trois allons passer plus de temps ensemble, alors je me plains pas. Vous êtes mes deux favorites."
+
+# game/v1/scene1.rpy:395
+translate francais v1_start_e671a497:
+
+    # u "Is that a good wow?"
+    u "C'est un bon \"wow\" ?"
+
+# game/v1/scene1.rpy:400
+translate francais v1_start_de31bac6:
+
+    # ri "I, uh, I mean, yes! That was definitely a good wow."
+    ri "Je... heu, oui ! C'était vraiment un bon wow."
+
+# game/v1/scene1.rpy:407
+translate francais v1_start_d5be8c46:
+
+    # u "Looks like your wet dreams are finally coming true!"
+    u "On dirait que tes rêves les plus mouillés se réalisent enfin !"
+
+# game/v1/scene1.rpy:422
+translate francais v1_start_1bc3e7f5:
+
+    # ri "Ha, thanks. I'm going to go meet with Aubrey now."
+    ri "Ha, merci. Je vais rejoindre Aubrey, maintenant."
+
+# game/v1/scene1.rpy:437
+translate francais v1_start_5ea95121:
+
+    # u "Bet on it. Catch you later."
+    u "Compte là-dessus. Je te vois plus tard."
+
+# game/v1/scene1.rpy:449
+translate francais v1_start_6681969c:
+
+    # u "I'll be honest, I like you a lot, Riley. The feelings are definitely mutual and I'm really happy you told me, but relationship-wise..."
+    u "Pour être honnête, je t'aime beaucoup, Riley. Mes sentiments sont vraiment réciproques et je suis très heureux que tu m'aies dit ça, mais sur le plan relationnel..."
+
+# game/v1/scene1.rpy:471
+translate francais v1_start_4ce06083:
+
+    # ri "Yeah, well... I'm gonna go and track down Aubrey, then."
+    ri "Bon, ben... Alors je vais y aller et retrouver Aubrey."
+
+# game/v1/scene1.rpy:497
+translate francais v1_start_bacbb66e:
+
+    # u "Exactly. So go enjoy yourself while you figure out what you wanna do."
+    u "C'est ça. Va donc t'amuser, le temps de savoir ce que tu veux réellement faire."

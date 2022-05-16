@@ -379,3 +379,94 @@ translate francais strings:
     # game/v3/scene38.rpy:162
     old "Save your money"
     new "Économiser l'argent"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene38.rpy:80
+translate francais v3s38_997b7f5e:
+
+    # au "You sure?"
+    au "T'es sûr ?"
+
+# game/v3/scene38.rpy:155
+translate francais v3s38_6c7b0d56:
+
+    # u "(This was supposed to be Lindsey's donation...)"
+    u "(C'est censé être le don de Lindsey...)"
+
+# game/v3/scene38.rpy:181
+translate francais v3s38_6776b1ac:
+
+    # driver "Oh, wow! Ten dollars?! I can put my kids through college with this."
+    driver "Oh, wow ! Dix dollars ?! Je pourrais mettre mes enfants à l'université avec ça."
+
+# game/v3/scene38.rpy:201
+translate francais v3s38_7c83bf1f:
+
+    # driver "It's okay, boss. I'm just joking with you."
+    driver "C'est bon, chef. Je ne faisais que plaisanter avec vous."
+
+# game/v3/scene38.rpy:206
+translate francais v3s38_cfe79936:
+
+    # u "Oh... yeah. So was I."
+    u "Oh... Ouais. Moi aussi."
+
+# game/v3/scene38.rpy:211
+translate francais v3s38_283443e5:
+
+    # driver "Have a good night."
+    driver "Passez une bonne soirée."
+
+# game/v3/scene38.rpy:239
+translate francais v3s38_0bc7828f:
+
+    # u "Well... great work."
+    u "Eh bien... Excellent travail."
+
+# game/v3/scene38.rpy:291
+translate francais v3s38_bc9c2249:
+
+    # au "Oh, and thanks for the flowers. That was a fun surprise."
+    au "Oh, et merci pour les fleurs. C'était une agréable surprise."
+
+# game/v3/scene38.rpy:296
+translate francais v3s38_9c375d93:
+
+    # u "Of course! I want to make tonight special for you."
+    u "Mais je t'en prie, je veux rendre cette soirée spéciale pour toi."
+
+# game/v3/scene38.rpy:311
+translate francais v3s38_6543033c:
+
+    # au "Eh, I'm kind of allergic to bee stings, so it was pretty horrific. I'm so anxious already."
+    au "Eh, je suis un peu allergique aux piqûres d'abeilles, alors c'était assez terrifiant. Je suis déjà si anxieuse."
+
+# game/v3/scene38.rpy:321
+translate francais v3s38_439c5743:
+
+    # au "Oh, it's not your fault. You didn't order a bee."
+    au "Oh, c'est pas ta faute. T'as pas commandé d'abeille."
+
+# game/v3/scene38.rpy:326
+translate francais v3s38_01313ec8:
+
+    # u "But why are you feeling anxious? It's just me."
+    u "Mais pourquoi t'es anxieuse ? C'est que moi."
+
+# game/v3/scene38.rpy:331
+translate francais v3s38_68ebc12f:
+
+    # au "Yeah, I know, I know. It's a different atmosphere, I guess?"
+    au "Ouais, je sais, je sais. C'est juste que l'atmosphère est différente, j'ai l'impression..."
+
+# game/v3/scene38.rpy:341
+translate francais v3s38_745d28a6:
+
+    # au "Exactly."
+    au "Exactement."
+
+# game/v3/scene38.rpy:351
+translate francais v3s38_d6f1f34f:
+
+    # au "Yeah. Let's do it."
+    au "Bon. Allons-y."

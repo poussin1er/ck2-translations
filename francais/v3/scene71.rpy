@@ -657,3 +657,214 @@ translate francais strings:
     # game/v3/scene71.rpy:635
     old "Fuck no"
     new "Putain non"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene71.rpy:50
+translate francais v3s71_f611800f:
+
+    # de "I need to leave for my meeting now."
+    de "Je dois maintenant me rendre à une réunion."
+
+# game/v3/scene71.rpy:77
+translate francais v3s71_52a87c14:
+
+    # pe "Okay. No worries."
+    pe "Bien. Ne vous inquiétez pas."
+
+# game/v3/scene71.rpy:84
+translate francais v3s71_109185f2:
+
+    # de "All right, Oscar. Be a good boy for Penelope and I'll give you an extra sausage for dinner."
+    de "Bien, Oscar. Sois un bon toutou avec Pénélope et tu auras droit à une saucisse supplémentaire pour le dîner."
+
+# game/v3/scene71.rpy:86
+translate francais v3s71_b9afe469:
+
+    # u "(Ha, it's so weird seeing the dean like this.)"
+    u "(Ça fait bizarre de voir la Doyenne comme ça.)"
+
+# game/v3/scene71.rpy:116
+translate francais v3s71_aa8ad21f:
+
+    # u "Comfortable?"
+    u "T'es à l'aise ?"
+
+# game/v3/scene71.rpy:131
+translate francais v3s71_aa0b7eaf:
+
+    # pe "Maybe one day I'll be running this place."
+    pe "Un jour, c'est peut-être moi qui dirigerai cet endroit."
+
+# game/v3/scene71.rpy:146
+translate francais v3s71_0f1c306f:
+
+    # u "Wow, you're worse than Harrison!"
+    u "Wow, t'es pire que Harrison !"
+
+# game/v3/scene71.rpy:151
+translate francais v3s71_04314913:
+
+    # pe "Ha, really?"
+    pe "Ah, vraiment ?"
+
+# game/v3/scene71.rpy:158
+translate francais v3s71_de526c3b:
+
+    # u "So, how did you get roped into this, anyway?"
+    u "Alors, comment tu t'es retrouvée dans cette histoire ?"
+
+# game/v3/scene71.rpy:180
+translate francais v3s71_ff4dd12c:
+
+    # u "Yeah, you're right. Happy dean, happy life."
+    u "Ouais, t'as raison. Doyenne heureuse, vie heureuse."
+
+# game/v3/scene71.rpy:188
+translate francais v3s71_8e9f64ef:
+
+    # pe "Exactly. Although... what she doesn't know, won't hurt her."
+    pe "Tout à fait. Bien que... Ce qu'elle ne sait pas ne lui fera pas de mal."
+
+# game/v3/scene71.rpy:213
+translate francais v3s71_ec22b5a0:
+
+    # u "In the dean's office?"
+    u "Dans le bureau de la Doyenne ?"
+
+# game/v3/scene71.rpy:296
+translate francais v3s71_a74961ed:
+
+    # pe "I think you should kiss me again. I want to take care of Oscar and my reputation with the dean, but first things first..."
+    pe "Je crois que tu devrais m'embrasser encore. Il faut que je m'occupe d'Oscar et de ma réputation auprès de la doyenne, mais... chaque chose en son temps..."
+
+# game/v3/scene71.rpy:331
+translate francais v3s71_sg_b8da6d78:
+
+    # u "This seems risky. (Not to mention, way out of line, especially by Penelope's standards...)"
+    u "C'est risqué. (Sans parler du fait qu'elle dépasse les bornes, surtout en ce qui concerne Pénélope...)"
+
+# game/v3/scene71.rpy:346
+translate francais v3s71_sg_8ceeed92:
+
+    # pe "*Sighs* You're right. I don't know what came over me. Usually I hold myself to a higher bar than that."
+    pe "*Soupirs* Tu as raison. Je ne sais pas ce qui m'a pris. D'habitude, je me tiens mieux que ça."
+
+# game/v3/scene71.rpy:356
+translate francais v3s71_sg_e83e9116:
+
+    # pe "Okay, yeah. And, uh, thanks, [name]. For keeping me in check. I needed that."
+    pe "C'est bon, ouais. Et, euh, merci, [name]. De m'avoir gardé sous contrôle. J'en avais besoin."
+
+# game/v3/scene71.rpy:361
+translate francais v3s71_sg_16b9f277:
+
+    # u "Not a problem. Could you imagine if the dean were to walk in on us in her office, on her desk?"
+    u "En plus, tu imagines si la doyenne nous surprenait dans son bureau ? Sur son bureau ?"
+
+# game/v3/scene71.rpy:366
+translate francais v3s71_sg_4743aeda:
+
+    # pe "Ha, yeah. I know. That'd be a disaster I don't need."
+    pe "Ah, oui. Je sais. Ça serait un problème supplémentaire dont je n'ai pas besoin."
+
+# game/v3/scene71.rpy:377
+translate francais v3s71_sg_8c6d3200:
+
+    # pe "I mean-"
+    pe "Je pense-"
+
+# game/v3/scene71.rpy:382
+translate francais v3s71_sg_3b5efcd9:
+
+    # pe "*Sighs* You're right. I wasn't thinking straight. I don't know what came over me."
+    pe "*Soupirs* Tu as raison. Je n'avais pas toute ma tête. Je ne sais pas ce qui m'a pris."
+
+# game/v3/scene71.rpy:394
+translate francais v3s71_sg_da37d10f:
+
+    # pe "Let's play with some toys instead."
+    pe "On va plutôt jouer avec des jouets."
+
+# game/v3/scene71.rpy:422
+translate francais v3s71_sg_a0028ee5:
+
+    # pe "I think that's a yes."
+    pe "Je crois que ça veut dire oui."
+
+# game/v3/scene71.rpy:468
+translate francais v3s71_sg_cfef4f0a:
+
+    # u "Depends on your perspective. Maybe he enjoyed it a little too much."
+    u "Tout dépend du point de vue. Il a peut-être un peu trop aimé ça."
+
+# game/v3/scene71.rpy:473
+translate francais v3s71_sg_6fa7fad7:
+
+    # pe "That's true!"
+    pe "c'est vrai !"
+
+# game/v3/scene71.rpy:553
+translate francais v3s71_sg_e2291482:
+
+    # pe "Yeah. I guess that's enough exercise for now."
+    pe "Ouais, je pense qu'il a fait assez d'exercices pour l'instant."
+
+# game/v3/scene71.rpy:613
+translate francais v3s71_sg_64d6340a:
+
+    # pe "No, but if I was starving and I had to eat dog food, I'd go with this brand."
+    pe "Non, mais si j'étais affamée et que je devais manger de la nourriture pour chiens, j'opterais pour cette marque."
+
+# game/v3/scene71.rpy:618
+translate francais v3s71_sg_832c5f2c:
+
+    # u "Wow, they should put that on the can."
+    u "Wow, ils devraient mettre ça sur la boîte."
+
+# game/v3/scene71.rpy:656
+translate francais v3s71_sg_3cde0d65:
+
+    # pe "Oh, ew! I can't believe you just did that!"
+    pe "Oh, beurk ! Je n'arrive pas à croire que tu viens de faire ça !"
+
+# game/v3/scene71.rpy:676
+translate francais v3s71_sg_75f71436:
+
+    # pe "Ha! Stop it."
+    pe "Oh ! Arrête."
+
+# game/v3/scene71.rpy:683
+translate francais v3s71_sg_f8b8072d:
+
+    # u "What else is in the basket? I'll have any leftovers."
+    u "Qu'est-ce qu'il y a d'autre dans le panier ? Je vais manger ce qu'il reste."
+
+# game/v3/scene71.rpy:714
+translate francais v3s71_sg_57f52648:
+
+    # pe "Aw, come on! Just a tiny bite."
+    pe "Ooh, allez ! Juste une toute petite bouchée."
+
+# game/v3/scene71.rpy:724
+translate francais v3s71_sg_0566bcf7:
+
+    # pe "Fine. It's probably for the best."
+    pe "Bon, c'est peut-être mieux comme ça."
+
+# game/v3/scene71.rpy:739
+translate francais v3s71_sg_5105ac4e:
+
+    # u "It was worth a try."
+    u "Ça valait le coup d'essayer."
+
+# game/v3/scene71.rpy:773
+translate francais v3s71_sg_4d5d8c7c:
+
+    # u "And now it's time for a nap. I wish I could just play, eat, and sleep all day."
+    u "Et maintenant, c'est l'heure de la sieste. Moi aussi, j'aimerais pouvoir jouer, manger et dormir toute la journée."
+
+# game/v3/scene71.rpy:778
+translate francais v3s71_sg_e716121b:
+
+    # pe "Ha, yep. He's got it easy now that he's found a good owner."
+    pe "Il a la belle vie, maintenant qu'il a trouvé une bonne propriétaire."

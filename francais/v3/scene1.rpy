@@ -547,3 +547,34 @@ translate francais strings:
     # game/v3/scene1.rpy:779
     old "Always count on me"
     new "Tu peux toujours compter sur moi"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene1.rpy:697
+translate francais v3s1_lose_403e810f:
+
+    # ri "Ha... Yeah, you can have ice cream."
+    ri "Ouais, tu pourras avoir de la glace."
+
+# game/v3/scene1.rpy:717
+translate francais v3s1_lose_8dc33d6f:
+
+    # ri "Okay, come on. Let's get out of here."
+    ri "Ok, viens. On s'en va."
+
+# game/v3/scene1.rpy:727
+translate francais v3s1_lose_b7c95fe3:
+
+    # ri "Shh... there, there..."
+    ri "Chh... Là, là..."
+
+# game/v3/scene1.rpy:872
+translate francais v3s1_win_bc3000eb:
+
+    # ri "Okay, well... thanks again."
+    ri "Bon, d'accord... Merci encore."
+
+# game/v3/scene1.rpy:932
+translate francais v3s1_win_59586a53:
+
+    # ri "Oh, we will."
+    ri "Oh oui, on va s'amuser."

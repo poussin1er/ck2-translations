@@ -224,3 +224,112 @@ translate francais v1s12_cf147d3d:
 
     # ju "I will honey. Be safe, and please don't hesitate to call if you need me. I love you."
     ju "Je ferai ce que je peux, chéri. Sois prudent et n'hésite pas à m'appeler si tu as besoin de moi... Je t'aime."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene12.rpy:57
+translate francais v1s12_cebee3cf:
+
+    # ju "Hey, honey! Just calling to check in. Today was the day you got back in town, right?"
+    ju "Salut mon chéri ! Je t'appelle simplement pour prendre des nouvelles. Tu es rentré au pays aujourd'hui, c'est bien ça ?"
+
+# game/v1/scene12.rpy:62
+translate francais v1s12_297dc72c:
+
+    # u "Sure was. I'm headed to my room now."
+    u "Oui, c'est ça. Et là, je retourne dans ma chambre."
+
+# game/v1/scene12.rpy:72
+translate francais v1s12_a6e0d628:
+
+    # u "Safe or otherwise, I'm happy to be back."
+    u "En sûreté ou non, je suis bien content d'être de retour."
+
+# game/v1/scene12.rpy:77
+translate francais v1s12_34d57209:
+
+    # ju "Oh, hush."
+    ju "Oh, tais-toi."
+
+# game/v1/scene12.rpy:82
+translate francais v1s12_626d4215:
+
+    # u "Joking aside, what's up?"
+    u "Blague à part, comment ça va ?"
+
+# game/v1/scene12.rpy:87
+translate francais v1s12_8d1cbec6:
+
+    # ju "Well, honey, I have some unfortunate news to share with you."
+    ju "Eh bien, mon chéri, j'ai de bien mauvaises nouvelles à te communiquer."
+
+# game/v1/scene12.rpy:122
+translate francais v1s12_4764d850:
+
+    # u "I'm so curious, what is it that you actually do? Are you going to keep hiding this secret job from me?"
+    u "Je suis vraiment curieux, en fait, c'est quoi ton travail ? Tu vas continuer à me dissimuler ce travail secret ?"
+
+# game/v1/scene12.rpy:127
+translate francais v1s12_f73e5ccb:
+
+    # ju "For as long as they make me keep it a secret, yes, I am going to keep it from you."
+    ju "Tant qu'ils me demandent de garder le secret, oui, je ne te le révélerai pas."
+
+# game/v1/scene12.rpy:137
+translate francais v1s12_178e1895:
+
+    # ju "I'm the \"or something.\""
+    ju "Je suis le \"quelque chose comme ça.\""
+
+# game/v1/scene12.rpy:142
+translate francais v1s12_99539dd3:
+
+    # u "Ha! Okay. I couldn't picture you in the FBI anyway."
+    u "Ha ! Ok. De toute façon, j'arrivais pas à t'imaginer au FBI."
+
+# game/v1/scene12.rpy:147
+translate francais v1s12_3ed97ce2:
+
+    # ju "Bah, why not? I'm smart and in good shape."
+    ju "Bah, pourquoi pas ? Je suis intelligente et en pleine forme."
+
+# game/v1/scene12.rpy:157
+translate francais v1s12_5f1bb225:
+
+    # ju "You can keep those thoughts to yourself, young man."
+    ju "Vous pouvez garder ces pensées pour vous, jeune homme."
+
+# game/v1/scene12.rpy:162
+translate francais v1s12_5d02055e:
+
+    # u "Will do."
+    u "Je vais essayer."
+
+# game/v1/scene12.rpy:164
+translate francais v1s12_76e7f675:
+
+    # u "How long do you think you'll be away?"
+    u "Et tu penses être absente combien de temps ?"
+
+# game/v1/scene12.rpy:169
+translate francais v1s12_9ceca6d7:
+
+    # ju "I have no idea; that's why I wanted to call."
+    ju "Je n'en ai aucune idée ; c'est pourquoi je tenais à t'appeler."
+
+# game/v1/scene12.rpy:174
+translate francais v1s12_e74b15a4:
+
+    # u "Got it. Keep me posted and we'll go from there. Okay?"
+    u "D'accord. Tiens-moi au courant et on partira de ça. Ça te va ?"
+
+# game/v1/scene12.rpy:179
+translate francais v1s12_fb245e08:
+
+    # ju "I will, honey. Be safe, and please don't hesitate to call if you need me. I love you."
+    ju "Promis, mon chéri. Sois prudent et n'hésite pas à m'appeler si tu as besoin de quoi que ce soit. Je t'aime."
+
+# game/v1/scene12.rpy:201
+translate francais v1s12_0704aca5:
+
+    # u "(Keeping this job a secret is really suspicious... And having to go to New York of all places is pretty... odd. Oh, well.)"
+    u "(Garder ce travail secret est vraiment suspect.... Et devoir aller à New York précisément, c'est plutôt... étrange. Oh, et puis merde.)"

@@ -429,3 +429,154 @@ translate francais strings:
     # game/v1/scene26.rpy:124
     old "I'm not hungry"
     new "Je n'ai pas faim"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene26.rpy:36
+translate francais v1s26_0c97772b:
+
+    # u "Wait, what?!"
+    u "Attends, sérieux ?!"
+
+# game/v1/scene26.rpy:41
+translate francais v1s26_0e21de2f:
+
+    # li "That's the same reaction I had when I saw it in real time."
+    li "C'est la même réaction que j'ai eue quand j'ai vu ça en temps réel."
+
+# game/v1/scene26.rpy:61
+translate francais v1s26_0068bf9c:
+
+    # li "Exactly. That's why this was such a good idea."
+    li "Tout à fait. C'est pourquoi c'était une excellente idée."
+
+# game/v1/scene26.rpy:76
+translate francais v1s26_0dd01e91:
+
+    # li "You can buy some cake!"
+    li "Tu peux acheter du gâteau !"
+
+# game/v1/scene26.rpy:86
+translate francais v1s26_96dbf561:
+
+    # li "Ha, just kidding. Everything is running smoothly thanks to Lauren and her amazing baking skills."
+    li "Haha, je plaisante. Tout se passe à merveille grâce à Lauren et à ses incroyables talents de pâtissière."
+
+# game/v1/scene26.rpy:116
+translate francais v1s26_eaee6d5e:
+
+    # u "Scared the shit out of me!"
+    u "Tu m'as fait peur !"
+
+# game/v1/scene26.rpy:121
+translate francais v1s26_d889db04:
+
+    # la "My bad. Let me make it up to you by giving you some cake."
+    la "C'est ma faute. Laisse-moi me faire pardonner en t'offrant du gâteau."
+
+# game/v1/scene26.rpy:131
+translate francais v1s26_3c700eb9:
+
+    # u "Wow, that's... Thanks."
+    u "Wow, c'est... Merci."
+
+# game/v1/scene26.rpy:147
+translate francais v1s26_820f8001:
+
+    # u "Oh, no thanks. I'm not hungry."
+    u "Oh, non merci, J'ai pas faim."
+
+# game/v1/scene26.rpy:162
+translate francais v1s26_0a881e3b:
+
+    # li "Ha!"
+    li "Oh !"
+
+# game/v1/scene26.rpy:167
+translate francais v1s26_5abff57b:
+
+    # la "Oh, [name]."
+    la "Oh, [name]."
+
+# game/v1/scene26.rpy:197
+translate francais v1s26_c1d5adb5:
+
+    # li "I was waiting for you to notice."
+    li "J'attendais que tu le remarques."
+
+# game/v1/scene26.rpy:202
+translate francais v1s26_e8379e8c:
+
+    # u "I didn't think you took what I said all that seriously or even remembered."
+    u "Je pensais pas que tu prenais ce que je disais si sérieusement, ni même que tu t'en souviendrais."
+
+# game/v1/scene26.rpy:212
+translate francais v1s26_3ce8e266:
+
+    # li "Of course I did! You're the reason I decided to run in the first place."
+    li "Bien sûr que si ! Tu es en premier lieu à l'origine de la décision que j'ai prise de me présenter."
+
+# game/v1/scene26.rpy:217
+translate francais v1s26_040d1121:
+
+    # la "Now all we need to know is, if you win, do [name] and I get a special position?"
+    la "Maintenant, tout ce que nous devons savoir, c'est que si tu gagnes, est-ce que [name] et moi aurons une fonction spéciale ?"
+
+# game/v1/scene26.rpy:222
+translate francais v1s26_8eaefe3c:
+
+    # li "Ha, I don't know about [name], but if you join the Chicks I can help you, Lauren."
+    li "Haha, je ne sais pas pour [name], mais si tu rejoins les Chicks, je peux t'aider, Lauren."
+
+# game/v1/scene26.rpy:244
+translate francais v1s26_5c0e2f82:
+
+    # li "Well, here you go, [name]. Thanks again for everything so far."
+    li "Tiens, voilà [name]. Merci encore pour tout ce que tu as fait jusqu'à présent."
+
+# game/v1/scene26.rpy:254
+translate francais v1s26_4ad12afa:
+
+    # u "I will. I'm gonna sit back and relax for a minute while I enjoy this."
+    u "C'est ce que je vais faire. Je vais m'asseoir et me détendre une minute pendant que je déguste ça."
+
+# game/v1/scene26.rpy:259
+translate francais v1s26_7c6d6d8b:
+
+    # li "Sounds good. See you in a bit."
+    li "Ok. On se voit tout à l'heure."
+
+# game/v1/scene26.rpy:331
+translate francais v1s26_c93d398b:
+
+    # am "You're not hurt or anything, are you?"
+    am "T'es pas blessé ou quoi que ce soit, hein ?"
+
+# game/v1/scene26.rpy:336
+translate francais v1s26_47426978:
+
+    # u "What? No."
+    u "Quoi ? Non."
+
+# game/v1/scene26.rpy:355
+translate francais v1s26_22644918:
+
+    # am "I don't remember much from last night. Did we have fun?"
+    am "Je me souviens pas de grand-chose de la nuit dernière. On s'est amusés ?"
+
+# game/v1/scene26.rpy:365
+translate francais v1s26_f2c1a72c:
+
+    # am "Well, I'm glad. Sorry for panicking, talk to you later?"
+    am "Je suis contente. Désolée d'avoir paniqué, on se parle plus tard ?"
+
+# game/v1/scene26.rpy:401
+translate francais v1s26_89e69a95:
+
+    # li "I made $450..."
+    li "J'ai gagné 450 $..."
+
+# game/v1/scene26.rpy:421
+translate francais v1s26_8c2c0a2d:
+
+    # li "And I'm so thankful. You and Lauren are the best."
+    li "Et je vous en suis vraiment reconnaissante. Toi et Lauren êtes les meilleurs."

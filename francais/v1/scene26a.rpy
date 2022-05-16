@@ -360,3 +360,82 @@ translate francais v1s26a_97cec1a8:
 
     # li "So far most of what I could sell was to my family. *Sighs*"
     li "Jusqu'à présent, la plupart de ce que j'ai pu vendre était à ma famille. *Soupir*"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene26a.rpy:24
+translate francais v1s26a_4ca571e8:
+
+    # li "It'd be going a hell of a lot better if I had any help..."
+    li "Ça irait beaucoup mieux si j'avais de l'aide..."
+
+# game/v1/scene26a.rpy:55
+translate francais v1s26a_6ee3ec9b:
+
+    # u "Well, what's going on? Everyone loves baked goods..."
+    u "Alors, qu'est-ce qui se passe ? Tout le monde aime les pâtisseries..."
+
+# game/v1/scene26a.rpy:62
+translate francais v1s26a_7582bb15:
+
+    # li "So far, most of what I could sell was to my family. *Sighs*"
+    li "Jusqu'à présent, la plupart de ce que j'ai pu vendre était à ma famille. *Soupir*"
+
+# game/v1/scene26a.rpy:79
+translate francais v1s26a_34699b8d:
+
+    # li "If I get naked, stand on this table, and start shaking my ass for sales."
+    li "Que je me mette à poil, debout sur cette table et commence à secouer mon cul pour attirer les clients."
+
+# game/v1/scene26a.rpy:110
+translate francais v1s26a_3ecc5e18:
+
+    # li "I'm not trying to put this on you, [name], because it's not like the whole campaign depended on you, but..."
+    li "Je n'essaie pas de te mettre ça sur le dos, [name], car ce n'est pas comme si toute la campagne dépendait de toi, mais..."
+
+# game/v1/scene26a.rpy:162
+translate francais v1s26a_bdcf7333:
+
+    # li "Lauren helped make them and they tasted great last night, but I guess something went wrong because they aren't exactly the best now."
+    li "Lauren a aidé à les faire et ils avaient bon goût hier soir, mais je pense que quelque chose a mal tourné parce qu'ils ne sont plus vraiment bons, là."
+
+# game/v1/scene26a.rpy:238
+translate francais v1s26a_a0f9c87a:
+
+    # u "Uh, I'm at Lindsey's bake sale."
+    u "Euhh, je suis à la vente de pâtisseries de Lindsey."
+
+# game/v1/scene26a.rpy:262
+translate francais v1s26a_79a1274d:
+
+    # u "I didn't wanna wake you."
+    u "Je voulais pas te réveiller."
+
+# game/v1/scene26a.rpy:267
+translate francais v1s26a_9aa0b509:
+
+    # am "Oh! Ok. Sorry for panicking, talk to you later?"
+    am "Oh ok. Désolée d'avoir paniqué, on se parle plus tard ?"
+
+# game/v1/scene26a.rpy:294
+translate francais v1s26a_7a0a00d1:
+
+    # li "*Sighs* It was a mini success, I banked $150, so I'm not too mad."
+    li "*Soupirs* C'était un mini succès, j'ai mis 150 $ dans la caisse, je ne suis donc pas trop fâchée."
+
+# game/v1/scene26a.rpy:313
+translate francais v1s26a_2c6b6039:
+
+    # u "Plus, promoting your campaign and being out here doing this is the entire point of having a bake sale, remember?"
+    u "En plus, promouvoir ta campagne et être là à faire ça, c'est tout l'intérêt de faire une vente de gâteaux, tu te souviens ?"
+
+# game/v1/scene26a.rpy:318
+translate francais v1s26a_23d836c0:
+
+    # li "Yeah, I guess."
+    li "Ouais, j'imagine."
+
+# game/v1/scene26a.rpy:328
+translate francais v1s26a_62979974:
+
+    # li "I am. I'm ready for a nap."
+    li "Ouais... Je vais aller faire une sieste."

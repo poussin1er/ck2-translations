@@ -381,3 +381,100 @@ translate francais strings:
     # game/v1/scene44.rpy:217
     old "Introduce yourself"
     new "Se présenter"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene44.rpy:57
+translate francais v1s44_316d0daf:
+
+    # el "She's already president, so she's experienced. Again, logical choice."
+    el "Elle est déjà Présidente, donc elle a de l'expérience. Encore une fois, elle est donc le choix le plus logique."
+
+# game/v1/scene44.rpy:62
+translate francais v1s44_860579d7:
+
+    # u "Is logic the only reason why you vote for things?"
+    u "La logique est-elle la seule raison pour laquelle tu exprimes tes choix dans les votes ?"
+
+# game/v1/scene44.rpy:72
+translate francais v1s44_3662f636:
+
+    # u "New opportunities... personal feelings... other stuff, you know?"
+    u "Nouvelles opportunités... Sentiments personnels... d'autres trucs, tu vois ?"
+
+# game/v1/scene44.rpy:82
+translate francais v1s44_437382fd:
+
+    # u "Ha, okay, sure."
+    u "Ha, d'accord, bien sûr."
+
+# game/v1/scene44.rpy:147
+translate francais v1s44_f66e7457:
+
+    # el "I'm used to Chloe being president, you know?"
+    el "J'ai l'habitude de voir Chloé présidente, tu comprends ?"
+
+# game/v1/scene44.rpy:152
+translate francais v1s44_933d66dd:
+
+    # u "Yeah, I think everyone is. That's why most people are voting for Lindsey."
+    u "Ouais, comme tout le monde. C'est pourquoi la plupart des gens votent pour Lindsey."
+
+# game/v1/scene44.rpy:350
+translate francais v1s44_15ef5a49:
+
+    # imre "Sorry, bro! My bad, my bad..."
+    imre "Désolé, mon frère ! C'est ma faute, c'est ma faute..."
+
+# game/v1/scene44.rpy:357
+translate francais v1s44_a4e326b7:
+
+    # u "Nah, dude. Try his mom."
+    u "Nan, mec. Sa mère."
+
+# game/v1/scene44.rpy:362
+translate francais v1s44_ffc6c189:
+
+    # imre "His mom?! You're fucking kidding-"
+    imre "Sa mère ?! Tu t'fous d'ma gueule ?"
+
+# game/v1/scene44.rpy:369
+translate francais v1s44_7b41eee7:
+
+    # u "Ohhhh yeah. Her."
+    u "Ohhhh oui. C'est elle."
+
+# game/v1/scene44.rpy:383
+translate francais v1s44_9fa86d66:
+
+    # u "She was pretty fucking hot."
+    u "Elle était vraiment canon, ouais."
+
+# game/v1/scene44.rpy:406
+translate francais v1s44_48c99239:
+
+    # u "Why?"
+    u "Pourquoi ?"
+
+# game/v1/scene44.rpy:411
+translate francais v1s44_f497ac11:
+
+    # imre "'Cause I'm gonna have a new mommy here soon."
+    imre "Parce que j'vais bientôt avoir une nouvelle maman."
+
+# game/v1/scene44.rpy:416
+translate francais v1s44_7abf0c12:
+
+    # u "Ha! Oh my God, no. Imre. You're killing me."
+    u "Ha ! Oh putain, non. Imre. Tu vas me tuer."
+
+# game/v1/scene44.rpy:423
+translate francais v1s44_74fb4edb:
+
+    # imre "Mommy milkers or bust, bro. In fact, make that \"AND bust.\" I'm not ashamed; it's the truth."
+    imre "Lait maternel ou explosion, mon frère. En fait, c'est plutôt \"ET explosion\". J'ai pas honte, c'est comme ça."
+
+# game/v1/scene44.rpy:428
+translate francais v1s44_b62243d0:
+
+    # u "Okay, bud. Then tell me another truth, what did you send-"
+    u "C'est ça, mon pote. Sinon, sérieux, dis-moi, t'as envoyé quoi à-"

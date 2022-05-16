@@ -101,3 +101,34 @@ translate francais v1s43_PhoneContinueEmily_fb5c9743:
 
     # pe "Thank you."
     pe "Merci."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene43.rpy:54
+translate francais v1s43_PhoneContinueEmily_dc078773:
+
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Heureux de voir qu'Emily est toujours en train de faire des bêtises.)"
+
+# game/v1/scene43.rpy:95
+translate francais v1s43_PhoneContinueEmily_dc2c1e9f:
+
+    # pe "Sit down already, weirdo."
+    pe "Assieds-toi, ça fait bizarre."
+
+# game/v1/scene43.rpy:113
+translate francais v1s43_PhoneContinueEmily_711d81c8:
+
+    # u "What? What do you-"
+    u "Quoi ? Qu'est-ce que tu..."
+
+# game/v1/scene43.rpy:128
+translate francais v1s43_PhoneContinueEmily_dd1302a2:
+
+    # pe "Sit down already, would you? People are starting to stare..."
+    pe "Déjà, assieds-toi, d'accord ? Les autres commencent à te fixer..."
+
+# game/v1/scene43.rpy:138
+translate francais v1s43_PhoneContinueEmily_cbb87f53:
+
+    # u "Good one."
+    u "Bien joué."

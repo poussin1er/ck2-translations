@@ -100,7 +100,7 @@ translate francais v1s21_342d5425:
 translate francais v1s21_97b6b99b:
 
     # u "I do now, I suppose. Although, I'm not completely agreeing with you on that one..."
-    u "Je le suis maintenant, peut-être. Bien que je sois pas tout à fait d'accord avec toi sur ce point..."
+    u "Je le sais maintenant, peut-être. Bien que je sois pas tout à fait d'accord avec toi sur ce point..."
 
 # game/v1/scene21.rpy:122
 translate francais v1s21_108b353e_1:
@@ -337,3 +337,76 @@ translate francais strings:
     # game/v1/scene21.rpy:244
     old "Pull back"
     new "Reculer"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene21.rpy:63
+translate francais v1s21_b3a27465:
+
+    # cl "A lot of people tend to avoid hanging out with me because of rumors or preconceived notions that float around. But..."
+    cl "Beaucoup de gens ont tendance à éviter de traîner avec moi à cause des rumeurs ou des idées reçues qui circulent. Mais..."
+
+# game/v1/scene21.rpy:97
+translate francais v1s21_b79289b9:
+
+    # u "I adore seeing you happy, and excited..."
+    u "J'adore te voir heureuse et excitée..."
+
+# game/v1/scene21.rpy:102
+translate francais v1s21_5128434c:
+
+    # cl "Aw."
+    cl "Ooh."
+
+# game/v1/scene21.rpy:112
+translate francais v1s21_a34ad692:
+
+    # cl "You're the most amazing person I've ever met. You know that?"
+    cl "Tu es la personne la plus incroyable que j'aie jamais rencontré, tu sais ça ?"
+
+# game/v1/scene21.rpy:117
+translate francais v1s21_d954b4cb:
+
+    # u "I do now, I suppose..."
+    u "Je le sais maintenant..."
+
+# game/v1/scene21.rpy:132
+translate francais v1s21_747c0564:
+
+    # cl "With the campaign being so competitive, I'm gonna have a lot less time than what we're used to."
+    cl "Je pense qu'avec une campagne aussi concrète et compétitive, je vais avoir beaucoup moins de temps à te consacrer que ce à quoi nous nous sommes habitués."
+
+# game/v1/scene21.rpy:134
+translate francais v1s21_c11cb2f7:
+
+    # cl "We'll have less time together, you know?"
+    cl "On aura moins de temps ensemble, tu comprends ?"
+
+# game/v1/scene21.rpy:142
+translate francais v1s21_b0741626:
+
+    # u "That does kinda suck. I guess we'll have to make the most of the time we have."
+    u "Ça craint un peu. Je crois qu'on devrait profiter au maximum du temps qu'on a."
+
+# game/v1/scene21.rpy:161
+translate francais v1s21_0302c1b5:
+
+    # cl "For what it's worth, I have some time right now..."
+    cl "Bon, pour ce que ça vaut, j'ai un peu de temps là..."
+
+# game/v1/scene21.rpy:171
+translate francais v1s21_c80dda08:
+
+    # cl "Yeah... I think I may have a nice idea to kick off our campaign with as well."
+    cl "Ouais... Je crois que j'ai également une bonne idée en tête pour lancer notre campagne."
+
+# game/v1/scene21.rpy:225
+translate francais v1s21_6ec7e8ae:
+
+    # cl "Ha."
+    cl "Ha."
+
+# game/v1/scene21.rpy:230
+translate francais v1s21_26e7ae07:
+
+    # cl "We can call it that, if you want."
+    cl "On peut appeler ça comme ça, si tu veux."

@@ -722,3 +722,238 @@ translate francais v3s48a_nsfwSkipLabel1_51ba1ea4:
 
     # u "(She's still asleep. I think this'll be a good time for me to head home.)"
     u "(Elle dort encore. Je crois que c'est le bon moment pour rentrer à la maison.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene48a.rpy:65
+translate francais v3s48a_181b94cc:
+
+    # cl "A little waiting won't hurt you. Show me a thing or two first?"
+    cl "Un peu de patience ne te fera pas de mal, héhé. Tu peux d'abord me montrer un truc ou deux ?"
+
+# game/v3/scene48a.rpy:92
+translate francais v3s48a_boobs_cca2a007:
+
+    # cl "Mmm... squeeze them as hard as you want."
+    cl "Mmm... Presse-les aussi fort que tu veux."
+
+# game/v3/scene48a.rpy:102
+translate francais v3s48a_boobs_d5054553:
+
+    # cl "Ooh, just like that... yes..."
+    cl "Ooh, voilà, comme ça... Oui..."
+
+# game/v3/scene48a.rpy:109
+translate francais v3s48a_boobs_f1bbec27:
+
+    # u "Your body is perfection."
+    u "Ton corps est parfait."
+
+# game/v3/scene48a.rpy:131
+translate francais v3s48a_boobs_bfd6a086:
+
+    # cl "*Moans* Yes... my nipples are ssssssooo sensitive."
+    cl "*Gémis* Oui... Mes tétons sont troooooop sensibles."
+
+# game/v3/scene48a.rpy:136
+translate francais v3s48a_boobs_b96da5b9:
+
+    # cl "You love my big tits, don't you?"
+    cl "Tu aimes mes gros seins, hein ?"
+
+# game/v3/scene48a.rpy:146
+translate francais v3s48a_boobs_964887a5:
+
+    # cl "You're so good with your tongue."
+    cl "Tu es vraiment doué avec ta langue."
+
+# game/v3/scene48a.rpy:151
+translate francais v3s48a_boobs_7c8bdbba:
+
+    # cl "Fuck... I'm so hungry for your cock, [name]."
+    cl "Putain... J'ai tellement faim de ta queue, [name]."
+
+# game/v3/scene48a.rpy:161
+translate francais v3s48a_boobs_41f87de4:
+
+    # cl "Whaaaa? Hey! That's my line!"
+    cl "Quoiiiii ? Hé ! C'est ce que j'avais dit !"
+
+# game/v3/scene48a.rpy:166
+translate francais v3s48a_boobs_b592843e:
+
+    # u "And?"
+    u "Et ?"
+
+# game/v3/scene48a.rpy:171
+translate francais v3s48a_boobs_8de62da5:
+
+    # cl "You tease."
+    cl "Tu es taquin."
+
+# game/v3/scene48a.rpy:189
+translate francais v3s48a_feet_a8ee3e1d:
+
+    # cl "Oh, wow. I didn't know how much I needed this."
+    cl "Oh, wow. Je ne me rendais pas compte à quel point j'avais besoin de ça."
+
+# game/v3/scene48a.rpy:199
+translate francais v3s48a_feet_a07ddd0c:
+
+    # cl "Am I? I'm feeling pretty relaxed, here with you."
+    cl "C'est vrai ? Je me sens plutôt détendue, là, avec toi."
+
+# game/v3/scene48a.rpy:204
+translate francais v3s48a_feet_3e14b979:
+
+    # u "Yeah? Maybe need a little more force?"
+    u "C'est vrai ? T'as peut-être besoin que j'y mette un peu plus de vigueur ?"
+
+# game/v3/scene48a.rpy:231
+translate francais v3s48a_feet_024495f1:
+
+    # cl "Ah, [name]! Such a kinky boy! You surprised me for a second there."
+    cl "Oh, [name] ! Quel petit pervers ! Tu m'as surpris un instant."
+
+# game/v3/scene48a.rpy:251
+translate francais v3s48a_feet_e9641cc4:
+
+    # cl "Your tongue is driving me crazy..."
+    cl "Ta langue me rend folle..."
+
+# game/v3/scene48a.rpy:261
+translate francais v3s48a_feet_19dc17e5:
+
+    # cl "Mmm... what's next?"
+    cl "Mmm... quelle est la suite ?"
+
+# game/v3/scene48a.rpy:322
+translate francais v3s48a_vagina_e1f7fc5a:
+
+    # cl "*Gasps* Oh my God, yes, fill me..."
+    cl "*Soupire* Oh vas-y, oui, remplis-moi..."
+
+# game/v3/scene48a.rpy:342
+translate francais v3s48a_vagina_ec22a2d6:
+
+    # cl "I'm on the brink... I can't take it anymore... fuck me, [name]."
+    cl "Je suis à la limite... J'en peux plus... Baise-moi, [name]."
+
+# game/v3/scene48a.rpy:361
+translate francais v3s48a_continue_075819f2:
+
+    # u "You got it."
+    u "C'est bon."
+
+# game/v3/scene48a.rpy:379
+translate francais v3s48a_continue_6057ca40:
+
+    # u "Your mouth looks incredible, wrapped around my cock."
+    u "Ta bouche est incroyable, enveloppée autour de ma queue."
+
+# game/v3/scene48a.rpy:390
+translate francais v3s48a_continue_4a2f3e65:
+
+    # u "C'mon, you can take more of me..."
+    u "Allez, tu peux en faire plus avec moi..."
+
+# game/v3/scene48a.rpy:397
+translate francais v3s48a_continue_4db568ed:
+
+    # u "(Oh, fuck... she's... I can feel the back of her-)"
+    u "(Oh, putain... elle est... Je peux sentir le dos de sa...)"
+
+# game/v3/scene48a.rpy:399
+translate francais v3s48a_continue_0efd478f:
+
+    # u "*Moans* God, you're such a good throat slut."
+    u "*Gémis* Merde, t'es une vraie garce à la gorge profonde."
+
+# game/v3/scene48a.rpy:407
+translate francais v3s48a_continue_1753866e:
+
+    # cl "It's my turn now."
+    cl "À mon tour maintenant."
+
+# game/v3/scene48a.rpy:429
+translate francais v3s48a_continue_75cfe4ce:
+
+    # cl "You like this view?"
+    cl "Tu aimes cette vue ?"
+
+# game/v3/scene48a.rpy:435
+translate francais v3s48a_continue_e7fd67ff:
+
+    # cl "Yes, yes! When you speak, I can feel the vibrations..."
+    cl "Oui, oui ! Quand tu parles, je peux ressentir les vibrations..."
+
+# game/v3/scene48a.rpy:489
+translate francais v3s48a_continue_116b5b36:
+
+    # u "I've never been so hard. I feel huge..."
+    u "J'ai jamais été aussi dur. Je me sens énorme..."
+
+# game/v3/scene48a.rpy:496
+translate francais v3s48a_continue_457b6770:
+
+    # u "*Grunts* You're squeezing my shaft so tightly..."
+    u "*Grogne* Mon manche, tu le serres si fort..."
+
+# game/v3/scene48a.rpy:498
+translate francais v3s48a_continue_f174d166:
+
+    # cl "I'm close to cumming again."
+    cl "Je suis sur le point de jouir, une nouvelle fois."
+
+# game/v3/scene48a.rpy:507
+translate francais v3s48a_continue_4a61ced4:
+
+    # cl "Yes, [name]... *Heavy breathing* I want us to cum at the same time..."
+    cl "Oui, [name]... *Respiration lourde* Je veux qu'on jouisse en même temps..."
+
+# game/v3/scene48a.rpy:518
+translate francais v3s48a_continue_56e94a0c:
+
+    # cl "Perfect..."
+    cl "Parfait..."
+
+# game/v3/scene48a.rpy:545
+translate francais v3s48a_continue_aac14a5a:
+
+    # u "This is the hottest sex I've ever had."
+    u "C'est la baise la plus chaude que j'ai jamais eu."
+
+# game/v3/scene48a.rpy:565
+translate francais v3s48a_continue_d1c7d776:
+
+    # cl "Mmm..."
+    cl "Mmm..."
+
+# game/v3/scene48a.rpy:605
+translate francais v3s48a_continue_950652c9:
+
+    # cl "Ha, well, you know..."
+    cl "Ha, ben, tu sais..."
+
+# game/v3/scene48a.rpy:617
+translate francais v3s48a_continue_f6e5a33e:
+
+    # cl "*Sighs* I'm feeling so much better."
+    cl "*Soupirs* Je me sens tellement mieux."
+
+# game/v3/scene48a.rpy:624
+translate francais v3s48a_continue_60cf5489:
+
+    # u "Couldn't agree more. I'm ready to sleep."
+    u "Je pourrais pas être plus d'accord, je suis fin prêt à dormir."
+
+# game/v3/scene48a.rpy:634
+translate francais v3s48a_continue_972fa555:
+
+    # cl "Not yet, at least! We should get dressed."
+    cl "Ah, Pas encore ! On devrait se rhabiller."
+
+# game/v3/scene48a.rpy:677
+translate francais v3s48a_nsfwSkipLabel1_5b7e0f64:
+
+    # u "(Ah, fuck. My neck hurts, sleeping like that.)"
+    u "(Ah, merde. J'ai mal au cou à force de dormir comme ça.)"

@@ -435,3 +435,118 @@ translate francais strings:
     # game/v3/scene5.rpy:297
     old "Uhm... opera?"
     new "Euhm... l'opéra ?"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene5.rpy:67
+translate francais v3s5_a78b9c82:
+
+    # ro "I'm so glad you said that. Because, to celebrate that, I want to plan a little treat for us."
+    ro "Je suis très contente que tu dises ça. Pour fêter ça, j'ai envie de nous préparer une petite surprise."
+
+# game/v3/scene5.rpy:83
+translate francais v3s5_f1b20094:
+
+    # u "So, what is it?"
+    u "Alors, c'est quoi ?"
+
+# game/v3/scene5.rpy:103
+translate francais v3s5_21a3b5ab:
+
+    # u "No. I know absolutely nothing about the opera."
+    u "Non. Je connais strictement rien de l'opéra."
+
+# game/v3/scene5.rpy:108
+translate francais v3s5_cadab87d:
+
+    # ro "It'll be fun. I promise."
+    ro "Ça sera amusant. Je te le promets."
+
+# game/v3/scene5.rpy:118
+translate francais v3s5_c72c7328:
+
+    # ro "Don't worry about that. I'll even get us a private balcony."
+    ro "Ne t'inquiète pas pour ça, je nous réserverai même un balcon privé."
+
+# game/v3/scene5.rpy:130
+translate francais v3s5_c6473368:
+
+    # ro "It will be extremely \"nice.\" I can't wait. As for tonight, though, I should go."
+    ro "Ça sera vraiment \"agréable\". J'ai hâte ! Mais maintenant, je vais devoir y aller."
+
+# game/v3/scene5.rpy:145
+translate francais v3s5_d783c4aa:
+
+    # u "(Another day of dressing up and impressing ladies... sign me up!)"
+    u "(Une autre journée à me mettre sur mon trente-et-un et à impressionner les dames... Je signe !)"
+
+# game/v3/scene5.rpy:205
+translate francais v3s5_0b931759:
+
+    # u "(Breakups suck...)"
+    u "(Les ruptures, ça craint...)"
+
+# game/v3/scene5.rpy:290
+translate francais v3s5_a9dc54ad:
+
+    # u "Okay, I'm intrigued... what is it?"
+    u "Ah, je suis curieux... C'est quoi ?"
+
+# game/v3/scene5.rpy:295
+translate francais v3s5_f689475a:
+
+    # ro "There's a performance Friday evening at the opera house. It's the one just out of town."
+    ro "Il y a une représentation vendredi soir à l'Opéra. Celui qui se trouve à la sortie de la ville."
+
+# game/v3/scene5.rpy:308
+translate francais v3s5_be9c69a0:
+
+    # ro "I think it'll be a lot of fun, I love going. I'm going to book a private balcony for us, too."
+    ro "Je suis sûre que ça sera très amusant, j'adore aller là-bas. Je nous réserverai également un balcon privé."
+
+# game/v3/scene5.rpy:318
+translate francais v3s5_58766fa8:
+
+    # ro "Only the best for my baby."
+    ro "Rien que le meilleur pour mon bébé."
+
+# game/v3/scene5.rpy:325
+translate francais v3s5_c4e2eb83:
+
+    # u "Oh... Um, opera..."
+    u "Oh... Euh, l'opéra..."
+
+# game/v3/scene5.rpy:327
+translate francais v3s5_8d5617d9:
+
+    # u "Yeah, I love opera! My favorite part is the... uh..."
+    u "Ouais, j'adore l'opéra ! Les moments que je préfère sont les... Euh..."
+
+# game/v3/scene5.rpy:354
+translate francais v3s5_6c40c71a:
+
+    # ro "Don't worry, I promise it will be fun. I'll dress up nice for you and book us a private area."
+    ro "Ne t'inquiète pas, je te promets que ça sera sympa. Je m'habillerai bien pour toi et nous réserverai un espace privé."
+
+# game/v3/scene5.rpy:364
+translate francais v3s5_14d64cb1:
+
+    # u "It's sounding much more interesting now."
+    u "Ça a l'air bien plus intéressant maintenant."
+
+# game/v3/scene5.rpy:374
+translate francais v3s5_3c48a8a6:
+
+    # u "What can I say, you find a way to make everything interesting."
+    u "Que dire, tu trouves le moyen de faire en sorte que tout soit intéressant."
+
+# game/v3/scene5.rpy:379
+translate francais v3s5_437185f9:
+
+    # ro "Well, thank you."
+    ro "Eh bien merci."
+
+translate francais strings:
+
+    # game/v3/scene5.rpy:297
+    old "Um... opera?"
+    new "Euh, l'opéra..."

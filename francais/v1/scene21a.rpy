@@ -263,3 +263,118 @@ translate francais v1s21a_nsfwSkipLabel1_c8caac78:
 
     # u "(The girl who everyone says is the hottest on campus, and she's fawning over me... Wow, [name]. Just, wow...)"
     u "(La fille que tous disent être la plus sexy du campus, qui me fait de l'œil... Wow, [name]. Tout simplement, wow...)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene21a.rpy:79
+translate francais v1s21a_26717693:
+
+    # u "That's true, but we have right now to enjoy it, yeah?"
+    u "C'est vrai, mais on a le droit d'en profiter maintenant, non ?"
+
+# game/v1/scene21a.rpy:124
+translate francais v1s21a_a56c7a2a:
+
+    # cl "Mmm... *Moans* It's been way too long..."
+    cl "Mmm... *Gémis* Ça faisait bien trop longtemps..."
+
+# game/v1/scene21a.rpy:143
+translate francais v1s21a_a6c33809:
+
+    # cl "So much has been going on, but... *Moans* everything melts away... when I'm with you."
+    cl "Il s'est passé tellement de choses, mais... *Gémis* Tout disparaît... Quand je suis avec toi."
+
+# game/v1/scene21a.rpy:157
+translate francais v1s21a_0e27b6bf:
+
+    # cl "Yes, give it to me..."
+    cl "Oui, donne-le moi..."
+
+# game/v1/scene21a.rpy:167
+translate francais v1s21a_f8a10545:
+
+    # cl "So good... But, can we lay down?"
+    cl "C'est tellement bon... Mais, on peut s'allonger ?"
+
+# game/v1/scene21a.rpy:195
+translate francais v1s21a_ae82dbc7:
+
+    # cl "Is this too much?"
+    cl "C'est trop ?"
+
+# game/v1/scene21a.rpy:216
+translate francais v1s21a_261d7d6e:
+
+    # cl "*Moans* O-Okay, oh... fuck, [name]."
+    cl "*Gémis* O-Okay, oh... Putain, [name]."
+
+# game/v1/scene21a.rpy:222
+translate francais v1s21a_3359b7df:
+
+    # cl "Yes... Yesss! *Moans* I... love... your cock..."
+    cl "Oui... Ouiiiii ! *Gémis* Je... j'aime... ta bite..."
+
+# game/v1/scene21a.rpy:232
+translate francais v1s21a_9f2a87b5:
+
+    # u "You're incredible, Chloe..."
+    u "T'es incroyable, Chloé..."
+
+# game/v1/scene21a.rpy:252
+translate francais v1s21a_3523e9cb:
+
+    # u "Oh, shit... This feels amazing."
+    u "Oh, merde... Cette sensation est exceptionnelle."
+
+# game/v1/scene21a.rpy:254
+translate francais v1s21a_8552c721:
+
+    # cl "Mmmm..."
+    cl "Mmmm..."
+
+# game/v1/scene21a.rpy:262
+translate francais v1s21a_ca437b23:
+
+    # u "Chloe- *Moans*"
+    u "Chloé- *Gémis*"
+
+# game/v1/scene21a.rpy:264
+translate francais v1s21a_2c3fb467:
+
+    # cl "Mmhmmmmm?"
+    cl "Mmhmmmmm ?"
+
+# game/v1/scene21a.rpy:275
+translate francais v1s21a_c693237b:
+
+    # u "Chloe! You... You're... I'm..."
+    u "Chloé ! Tu... Tu es... Je suis..."
+
+# game/v1/scene21a.rpy:320
+translate francais v1s21a_nsfwSkipLabel1_29557d54:
+
+    # u "I've missed you more. Hopefully we get to do that again soon."
+    u "Tu m'as manqué plus encore. J'espère qu'on pourra recommencer bientôt."
+
+# game/v1/scene21a.rpy:327
+translate francais v1s21a_nsfwSkipLabel1_a23e93eb:
+
+    # cl "I'll make time for some self-rejuvenation between presidency events."
+    cl "Je prendrai le temps de me ressourcer entre les événements de la présidence."
+
+# game/v1/scene21a.rpy:342
+translate francais v1s21a_nsfwSkipLabel1_10b130cd:
+
+    # cl "About time we go and meet Chris, you think?"
+    cl "Il est temps d'aller voir Chris, non ?"
+
+# game/v1/scene21a.rpy:352
+translate francais v1s21a_nsfwSkipLabel1_0f76f742:
+
+    # cl "Same. Let me just swing by the Chicks house real quickly and I'll meet you there."
+    cl "Pareil. Laisse-moi passer rapidement chez les Chicks et je te retrouve là-bas."
+
+# game/v1/scene21a.rpy:362
+translate francais v1s21a_nsfwSkipLabel1_df6cc7f7:
+
+    # cl "Great."
+    cl "Super."

@@ -310,3 +310,82 @@ translate francais strings:
     # game/v1/scene30b.rpy:323
     old "   A vote for me is a vote for The Chicks AND a vote for The Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
     new "Un vote pour moi est un vote pour les Chicks ET un vote pour les Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene30b.rpy:41
+translate francais v1s30b_8ef7def7:
+
+    # cl "My posing definitely isn't as good as Aubrey's, though."
+    cl "Mais mes poses ne sont vraiment pas aussi bonnes que celles d'Aubrey."
+
+# game/v1/scene30b.rpy:51
+translate francais v1s30b_a32a3272:
+
+    # cl "I know more about Aubrey than most."
+    cl "Je connais mieux Aubrey que quiconque."
+
+# game/v1/scene30b.rpy:71
+translate francais v1s30b_0bebfb0a:
+
+    # cl "Glad you think so. Now..."
+    cl "Je suis heureuse que tu sois du même avis. Bon..."
+
+# game/v1/scene30b.rpy:74
+translate francais v1s30b_427f28f7:
+
+    # cl "I'm not sure how these will be perceived, you know? What with us having a fake wolf. But I still think the pictures are really good."
+    cl "Je ne suis pas sûre de la façon dont elles seront perçues et tout, tu vois ? Avec le fait qu'on ait un faux loup, mais je trouve quand même que les photos sont vraiment bonnes."
+
+# game/v1/scene30b.rpy:104
+translate francais v1s30b_8bcdb4cd:
+
+    # cl "Good call. I'm gonna post that one on Kiwii, then."
+    cl "Bon choix. Alors je vais poster celle-là sur Kiwii."
+
+# game/v1/scene30b.rpy:107
+translate francais v1s30b_4854a4a3:
+
+    # cl "I know the entire school is gonna be off the wall about these photos."
+    cl "Je sais que toute l'école va être folle de ces photos."
+
+# game/v1/scene30b.rpy:137
+translate francais v1s30b_8bcdb4cd_1:
+
+    # cl "Good call. I'm gonna post that one on Kiwii, then."
+    cl "Bon choix. Alors je vais poster celle-là sur Kiwii."
+
+# game/v1/scene30b.rpy:157
+translate francais v1s30b_3b4dcadc:
+
+    # u "Yeah, that's perfect. Standing tall and proud with a short and sweet caption. The main feature is you."
+    u "Ouais, c'est parfait. Se tenant droit et fière avec une légende courte et mignonne, l'élément principal, c'est toi."
+
+# game/v1/scene30b.rpy:162
+translate francais v1s30b_c9f71855:
+
+    # cl "Exactly."
+    cl "Exactement."
+
+# game/v1/scene30b.rpy:179
+translate francais v1s30b_aacd3584:
+
+    # u "Well, yeah. Like, something about the Chicks and the Wolves, so it feels like a team effort?"
+    u "Eh bien, ouais. Comme quelque chose à propos des Chicks et des Wolves, pour que ça ait l'air d'un effort d'équipe !?"
+
+# game/v1/scene30b.rpy:184
+translate francais v1s30b_36b4367a:
+
+    # cl "I guess that makes sense, considering it's an alliance announcement as well as a good pic for my feed."
+    cl "Ça doit être logique vu que c'est une annonce d'alliance, ainsi qu'une bonne photo pour mon profil."
+
+# game/v1/scene30b.rpy:199
+translate francais v1s30b_ad7b006b:
+
+    # u "You're welcome."
+    u "De rien."
+
+# game/v1/scene30b.rpy:216
+translate francais v1s30b_2f758ea1:
+
+    # cl "Okay!"
+    cl "Bon !"

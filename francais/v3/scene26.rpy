@@ -569,3 +569,190 @@ translate francais strings:
     # game/v3/scene26.rpy:203
     old "No idea, who?"
     new "Je sais pas, qui ?"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene26.rpy:27
+translate francais v3s26_845f406f:
+
+    # u "Oh shi-"
+    u "Oh mer-"
+
+# game/v3/scene26.rpy:29
+translate francais v3s26_e5a8c51d:
+
+    # u "Oh, uh, hey, Linds."
+    u "Oh, euh, salut, Linds."
+
+# game/v3/scene26.rpy:34
+translate francais v3s26_cd5bd2d6:
+
+    # li "Did I make you jump?"
+    li "Je t'ai fait sursauter ?"
+
+# game/v3/scene26.rpy:44
+translate francais v3s26_d2ad7c15:
+
+    # li "Hmm... looked like you jumped a bit."
+    li "Hmm... on dirait tout de même que tu as un peu sursauté."
+
+# game/v3/scene26.rpy:99
+translate francais v3s26_d8febef9:
+
+    # u "Sounds kinda nice. Heh."
+    u "C'est plutôt sympa. Hein."
+
+# game/v3/scene26.rpy:109
+translate francais v3s26_07797e0c:
+
+    # u "Classic Mr. Lee. What a character."
+    u "Un classique de Mr Lee, un vrai personnage."
+
+# game/v3/scene26.rpy:116
+translate francais v3s26_a93552d8:
+
+    # li "Autumn was telling me about the dog shelter re-opening and how you've been helping her."
+    li "Autumn m'a parlé de la réouverture du refuge pour chiens et de la façon dont tu l'as aidée."
+
+# game/v3/scene26.rpy:133
+translate francais v3s26_3849e7a4:
+
+    # u "Oh, yeah! Autumn's great. She really cares about the animals and is a lot cooler than I first thought she was."
+    u "Ah, oui ! Autumn est géniale. Elle prend vraiment soin des animaux et franchement, elle est bien plus cool que je le pensais."
+
+# game/v3/scene26.rpy:143
+translate francais v3s26_775c8544:
+
+    # u "Yeah, for sure. Helping her out at the shelter has been a blast. The dogs are amazing."
+    u "Ouais, c'est vrai. L'aider au refuge a été un plaisir, les chiens sont super."
+
+# game/v3/scene26.rpy:148
+translate francais v3s26_e1a60c5e:
+
+    # li "That's sweet."
+    li "C'est adorable."
+
+# game/v3/scene26.rpy:168
+translate francais v3s26_0861072c:
+
+    # u "I'm sure they'll appreciate it. I'll give it to Autumn as soon as I see her."
+    u "Je suis sûr qu'ils vont aimer ça. Je le donnerai à Autumn dès que je la verrai."
+
+# game/v3/scene26.rpy:183
+translate francais v3s26_28241bea:
+
+    # u "Penelope, it's too early to be that happy."
+    u "Pénélope, il est encore bien tôt pour être aussi heureuse."
+
+# game/v3/scene26.rpy:203
+translate francais v3s26_8143c472:
+
+    # pe "Guess who's coming to perform a little concert for us tomorrow night, all because of me?"
+    pe "Devinez qui va venir, grâce à moi, donner un petit concert pour nous demain soir ?"
+
+# game/v3/scene26.rpy:225
+translate francais v3s26_0cb845ab:
+
+    # pe "No, you idiot!"
+    pe "Non, t'es bête !"
+
+# game/v3/scene26.rpy:230
+translate francais v3s26_d360ef0b:
+
+    # li "Ha, wow."
+    li "Oh, wow."
+
+# game/v3/scene26.rpy:235
+translate francais v3s26_6f870509:
+
+    # pe "Why would I... nevermind, who cares. Anyway!"
+    pe "Pourquoi j'aurais voulu... Laissez tomber, on s'en fiche. Par contre !"
+
+# game/v3/scene26.rpy:266
+translate francais v3s26_622940ea:
+
+    # li "Ahh! That's amazing, Penelope!"
+    li "Ahh ! C'est incroyable, Pénélope !"
+
+# game/v3/scene26.rpy:298
+translate francais v3s26_3ea4c757:
+
+    # pe "She really liked us and we became best friends somehow... just, y'know, the craziest night of my life."
+    pe "Elle nous a vraiment aimé pour une raison inconnue, et on est devenus ses meilleurs amis, en gros... Vous savez, c'est tout simplement la soirée la plus folle de ma vie."
+
+# game/v3/scene26.rpy:327
+translate francais v3s26_958c7fdf:
+
+    # pe "We just hit it off. I don't even know how to explain it. She said we were like long lost sisters or something!"
+    pe "On s'est tout de suite bien entendues, je ne sais même pas comment l'expliquer. Elle a dit qu'on était comme des sœurs perdues depuis longtemps ou un truc comme ça."
+
+# game/v3/scene26.rpy:342
+translate francais v3s26_aebcc940:
+
+    # pe "I connected with her on Kiwii and we've been talking about SVC."
+    pe "Je me suis mise en relation avec elle sur Kiwii et on a parlé de la SVC."
+
+# game/v3/scene26.rpy:357
+translate francais v3s26_f5f094e0:
+
+    # li "I can't believe it. Polly is coming here... to SVC!"
+    li "J'arrive pas à y croire. Polly vient ici... À la SVC !"
+
+# game/v3/scene26.rpy:399
+translate francais v3s26_e6a8c372:
+
+    # li "Yeah, I need to hear all about that."
+    li "Ouais, j'ai vraiment envie de tout savoir là-dessus."
+
+# game/v3/scene26.rpy:419
+translate francais v3s26_e389a5cb:
+
+    # pe "Evidently. I guess it works on some people. They're going on a date next week."
+    pe "Apparemment. Ça fonctionne sur certaines personnes. Ils auront un rencard la semaine prochaine."
+
+# game/v3/scene26.rpy:424
+translate francais v3s26_b07fc1cb:
+
+    # u "Sucks for Imre."
+    u "Ça craint pour Imre."
+
+# game/v3/scene26.rpy:444
+translate francais v3s26_c8fb126e:
+
+    # pe "But he's right. That was a smart sentence. I'm proud of you, [name]."
+    pe "Mais il a raison. C'était une phrase bien pensée, je suis fière de toi."
+
+# game/v3/scene26.rpy:449
+translate francais v3s26_864bcef2:
+
+    # li "Oh God, it's the therapy sessions!"
+    li "Oh merde, c'est à cause de ces séances de thérapie !"
+
+# game/v3/scene26.rpy:451
+translate francais v3s26_f684a5ec:
+
+    # u "Ha! Hardly."
+    u "Oh ! À peine."
+
+# game/v3/scene26.rpy:461
+translate francais v3s26_e6b93c42:
+
+    # li "Oh, yeah! That's what I was going to tell you in the first place!"
+    li "Ah, oui ! C'est ça que j'étais censé vous dire."
+
+# game/v3/scene26.rpy:463
+translate francais v3s26_79274144:
+
+    # li "Classes are cancelled today, but we're all supposed to attend a lecture about parenting, or sex, or something."
+    li "Les cours sont annulés aujourd'hui, par contre, on est tous censés assister à une conférence sur l'éducation des enfants, le sexe, ou un truc comme ça."
+
+# game/v3/scene26.rpy:468
+translate francais v3s26_b7b5a08b:
+
+    # u "Hmm. Parenting, or sex, or something..."
+    u "Hmm. L'éducation des enfants, le sexe ou un truc comme ça..."
+
+# game/v3/scene26.rpy:473
+translate francais v3s26_f8b2d276:
+
+    # pe "Wow. Well, let's find out, shall we?"
+    pe "Wouah. Eh bien, allons découvrir ça, ok ?"

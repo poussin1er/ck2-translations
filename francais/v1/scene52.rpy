@@ -438,3 +438,74 @@ translate francais v1s52_ef21f737:
 
     # u "Oh. (Nora? Fight King? What could possibly be happening now?)"
     u "Oh. (Nora ? Fight king ? Qu'est-ce qu'il se passe encore ?)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene52.rpy:98
+translate francais v1s52_ca0c96ec:
+
+    # se "Y-you broke up?"
+    se "V-Vous avez rompu ?"
+
+# game/v1/scene52.rpy:143
+translate francais v1s52_b5863bbb:
+
+    # ch "I don't think I have to change for her. I shouldn't have to, you know. I'm still the same guy she fell in love with... but, whatever."
+    ch "Je ne pense pas que je doive changer pour elle. En fait, je ne devrais pas avoir à le faire. Je suis toujours le même mec dont elle est tombée amoureuse... Mais peu importe."
+
+# game/v1/scene52.rpy:148
+translate francais v1s52_07ec0073:
+
+    # ch "Her fucking loss. Right, boys?"
+    ch "Elle y perd. Hein les gars ?"
+
+# game/v1/scene52.rpy:163
+translate francais v1s52_8480f0a2:
+
+    # se "Bros before those hoes!"
+    se "Les frères avant les salopes !"
+
+# game/v1/scene52.rpy:173
+translate francais v1s52_3a164bca:
+
+    # u "People just grow apart sometimes, man. It sucks, but I've seen it happen with my parents."
+    u "Les gens s'éloignent parfois, mec. Ça craint mais j'ai vu ça se passer avec mes parents."
+
+# game/v1/scene52.rpy:183
+translate francais v1s52_1c8158a7:
+
+    # aa "You grow up seeing them so happy together and then one day your dad is packing up all his clothes and your mom is screaming at him to get the hell out."
+    aa "Tu grandis en les voyant si heureux ensemble et puis un jour, ton père emballe tous ses vêtements et ta mère lui crie de foutre le camp."
+
+# game/v1/scene52.rpy:188
+translate francais v1s52_9ba702e6:
+
+    # ch "Thankfully there was no screaming or punching involved. We were both really calm about it. Upset, obviously, but calm."
+    ch "Heureusement, il n'y a pas eu de cris ni de coups de poing. On était tous les deux très calmes à ce sujet. Fâchés évidemment, mais calmes."
+
+# game/v1/scene52.rpy:193
+translate francais v1s52_ad6f497c:
+
+    # imre "Where is she, even? I haven't seen her since the airport when we landed home."
+    imre "Et où est ce qu'elle est ? J'l'ai pas vue depuis l'aéroport, quand on a atterri chez nous."
+
+# game/v1/scene52.rpy:269
+translate francais v1s52_3c28b025:
+
+    # u "By the way, I know you said you didn't want to talk about it but... is there any way you could tell me where Nora is?"
+    u "Au fait, je sais que tu as dit que tu ne voulais pas en parler mais... Tu pourrais me dire où se trouve Nora ?"
+
+# game/v1/scene52.rpy:480
+translate francais v1s52_PhoneContinueNora_dedc4ce0:
+
+    # u "Imre! Imre, wait!"
+    u "Imre ! Imre, attends !"
+
+translate francais strings:
+
+    # game/v1/scene52.rpy:384
+    old "Hey, Nora. Just checking in since I haven't heard from you in a while... where are you?"
+    new "Salut, Nora. Je prends des nouvelles de toi car j'en ai pas eu depuis un moment... T'es où ?"
+
+    # game/v1/scene52.rpy:385
+    old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... please text me back, ASAP"
+    new "Salut, toi. Je commence à m'inquiéter de pas t'avoir vu dans le coin. Fais-moi au moins savoir qu'il t'a pas fait de mal... S'il te plaît, réponds-moi par texto, dès que possible"

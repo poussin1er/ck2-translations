@@ -735,3 +735,238 @@ translate francais strings:
     # game/v3/scene27.rpy:505
     old "Henry"
     new "Henry"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene27.rpy:27
+translate francais v3s27_b90c9780:
+
+    # lee "Okay, students. Settle down, please."
+    lee "Bien, chers élèves. Installez-vous s'il vous plaît."
+
+# game/v3/scene27.rpy:29
+translate francais v3s27_19adbe3a:
+
+    # lee "I've brought all history students from different years together for a special class today. I'm expecting you all to perform to the highest standard."
+    lee "Aujourd'hui, j'ai décidé de réunir tous les élèves d'histoire de différentes années pour un cours très spécial et j'attends de vous tous une performance de haut niveau."
+
+# game/v3/scene27.rpy:87
+translate francais v3s27_26c7cfce:
+
+    # no "Yes. I'll be your wife for the class."
+    no "Oui. Je serais ta femme pour ce cours."
+
+# game/v3/scene27.rpy:92
+translate francais v3s27_2ca9fab5:
+
+    # u "Perfect."
+    u "Parfait."
+
+# game/v3/scene27.rpy:181
+translate francais v3s27_continue_after_parent_choice_9a6d6bd1:
+
+    # lee "Now that we have that out of the way, I'll leave you in the capable hands of your sex-ed teacher."
+    lee "Maintenant que nous en avons terminé avec ça, je vous laisse entre les mains compétentes de votre professeure d'éducation sexuelle."
+
+# game/v3/scene27.rpy:213
+translate francais v3s27_continue_after_parent_choice_fb4cf1f6:
+
+    # sexed "No need to be jealous. You're all going to be getting one of these to look after."
+    sexed "Ne soyez pas jaloux. *Rire* Vous en aurez tous un dont vous devrez vous occuper."
+
+# game/v3/scene27.rpy:225
+translate francais v3s27_continue_after_parent_choice_4a5e4969:
+
+    # sexed "What do these babies need? They need feeding, they need burping, and they need their diapers changed."
+    sexed "De quoi les bébés ont-ils besoin ? Ils ont besoin d'être nourris, ils ont besoin de roter, ils ont besoin que leurs couches soient changées."
+
+# game/v3/scene27.rpy:255
+translate francais v3s27_continue_after_parent_choice_a37f54ca:
+
+    # sexed "The sensor inside will detect whether you've used the correct one."
+    sexed "Le capteur à l'intérieur détectera si vous avez utilisé la bonne."
+
+# game/v3/scene27.rpy:275
+translate francais v3s27_continue_after_parent_choice_799ced0a:
+
+    # cl "Yeah, yeah. Tap the key on it to stop the crying. It's not rocket science, [name]."
+    cl "Ouais, ouais. Taper dessus avec la clé pour que ça s'arrête de pleurer. Pas besoin d'être un génie, [name]."
+
+# game/v3/scene27.rpy:280
+translate francais v3s27_continue_after_parent_choice_b05472de:
+
+    # u "You should probably take some notes though, right?"
+    u "Tu devrais peut-être prendre des notes, non ?"
+
+# game/v3/scene27.rpy:285
+translate francais v3s27_continue_after_parent_choice_8bf7926e:
+
+    # cl "Don't be so serious. There's nothing to worry about. It's easy!"
+    cl "Ne sois pas si sérieux. Il n'y a pas de quoi s'inquiéter. Rien de plus simple !"
+
+# game/v3/scene27.rpy:342
+translate francais v3s27_continue_after_parent_choice_abf908e5:
+
+    # u "(Seriously? Fuck.)"
+    u "(Sérieux ? Merde.)"
+
+# game/v3/scene27.rpy:347
+translate francais v3s27_continue_after_parent_choice_2cd142ef:
+
+    # sexed "You and your partner will care for the baby for three nights in total and return your baby on Saturday, at which point I'll evaluate your performance."
+    sexed "Vous et votre partenaire vous occuperez du bébé pendant trois nuits au total et rendrez votre bébé le samedi et là, j'évaluerai vos performances."
+
+# game/v3/scene27.rpy:386
+translate francais v3s27_continue_after_parent_choice_0861b3ba:
+
+    # cl "Plastic?"
+    cl "Plastique ?"
+
+# game/v3/scene27.rpy:396
+translate francais v3s27_continue_after_parent_choice_1d259eed:
+
+    # cl "I'm not too worried about it, [name]. Pick something you're fine with."
+    cl "Je ne suis pas trop inquiète pour ça, [name]. Prends ce qui te convient."
+
+# game/v3/scene27.rpy:431
+translate francais v3s27_continue_after_parent_choice_f415e4dd:
+
+    # u "It's perfect."
+    u "C'est parfait."
+
+# game/v3/scene27.rpy:436
+translate francais v3s27_continue_after_parent_choice_034214b6:
+
+    # cl "If you say so!..."
+    cl "Si tu le dis...!"
+
+# game/v3/scene27.rpy:442
+translate francais v3s27_continue_after_parent_choice_74f2952b:
+
+    # u "What are you thinking? Nora junior?"
+    u "À quoi tu penses ? Nora junior ?"
+
+# game/v3/scene27.rpy:447
+translate francais v3s27_continue_after_parent_choice_85f538bb:
+
+    # no "Ha, no! Come on, let's do something cute, like Henry or..."
+    no "Oh, non ! Allez, on va trouver quelque chose de mignon, comme Henry ou..."
+
+# game/v3/scene27.rpy:459
+translate francais v3s27_continue_after_parent_choice_4286e6d1:
+
+    # no "Umm, that doesn't really matter, I don't think."
+    no "Hmm, je crois que ça n'a pas vraiment d'importance."
+
+# game/v3/scene27.rpy:484
+translate francais v3s27_continue_after_parent_choice_9d110fae:
+
+    # u "No, I mean... I do care, I just like both of them. You can pick."
+    u "Non, je voulais dire... je m'en soucie. C'est juste que j'aime les deux. Tu pourrais choisir."
+
+# game/v3/scene27.rpy:517
+translate francais v3s27_continue_after_parent_choice_4f1af6d1:
+
+    # no "Sure! [v3_baby_name] it is."
+    no "Bien sûr ! Ça sera [v3_baby_name]."
+
+# game/v3/scene27.rpy:526
+translate francais v3s27_continue_after_parent_choice_a78900ea:
+
+    # sexed "Congratulations, and welcome to parenthood! Your babies will be available for collection this evening, so please stop by later to pick them up."
+    sexed "Félicitations, et bienvenue dans la parentalité ! Vos bébés seront disponibles ce soir, alors veuillez passer plus tard pour les récupérer."
+
+# game/v3/scene27.rpy:528
+translate francais v3s27_continue_after_parent_choice_534e7df5:
+
+    # sexed "I'll see you all in three days at the nurse's office for your reviews. Have a good day, parents!"
+    sexed "Je vous verrai tous dans trois jours au bureau de l'infirmière pour vos évaluations. Chers nouveaux parents, passez une bonne journée !"
+
+# game/v3/scene27.rpy:534
+translate francais v3s27_continue_after_parent_choice_12100c66:
+
+    # cl "At least that's over with. Now we can get on with real life."
+    cl "C'est enfin terminé. Maintenant, on peut reprendre une vie normale."
+
+# game/v3/scene27.rpy:544
+translate francais v3s27_continue_after_parent_choice_0ad5812c:
+
+    # cl "Yeah, I know. We will. There are just more important things for me to focus on right now."
+    cl "Ouais, je sais. C'est juste que j'ai des choses bien plus importantes à faire pour l'instant."
+
+# game/v3/scene27.rpy:549
+translate francais v3s27_continue_after_parent_choice_8cf54af8:
+
+    # u "Chloe, this is a project for a class. We're at college for education. Can we prioritize that for a second?"
+    u "Chloé, c'est un projet de groupe. On est là pour avoir une éducation. On peut prioriser ça pendant une seconde ?"
+
+# game/v3/scene27.rpy:554
+translate francais v3s27_continue_after_parent_choice_62888a84:
+
+    # cl "Like I said, it's not for a grade, [name]. It's just a doll they want us to get sleep deprived over. Don't get so worked up."
+    cl "Comme je l'ai dit, ça sera pas noté, [name]. C'est juste une poupée qui va nous priver de sommeil. Ne te mets pas dans tous tes états."
+
+# game/v3/scene27.rpy:564
+translate francais v3s27_continue_after_parent_choice_e43c94af:
+
+    # cl "Okay, okay. I'll try. But I'm not going to pretend that I actually gave birth to this thing."
+    cl "Ouais, ouais, par contre, je ne vais pas faire comme si j'avais réellement accouché de cette chose."
+
+# game/v3/scene27.rpy:569
+translate francais v3s27_continue_after_parent_choice_37fdeeaf:
+
+    # cl "If you wanted someone who was going to go full-on \"mommy mode,\" you should've partnered with Nora."
+    cl "Si tu voulais quelqu'un qui allait passer à fond en mode \"maman\", tu aurais dû faire équipe avec Nora."
+
+# game/v3/scene27.rpy:574
+translate francais v3s27_continue_after_parent_choice_98bfcf67:
+
+    # cl "I bet she'd happily wake up at 3am to burp the thing."
+    cl "Je suis sûre qu'elle se réveillerait volontiers à 3 heures du mat' pour faire roter ce truc."
+
+# game/v3/scene27.rpy:579
+translate francais v3s27_continue_after_parent_choice_a439f936:
+
+    # u "I'm not asking you to play house with me, Chloe. Let's just try to get through it."
+    u "Je te demande pas de jouer au papa et à la maman avec moi, Chloé. Essayons juste d'y arriver."
+
+# game/v3/scene27.rpy:584
+translate francais v3s27_continue_after_parent_choice_bd141ff9:
+
+    # cl "Okay, fine. I can tell this is important to you."
+    cl "Bon, d'accord. Apparemment c'est important pour toi."
+
+# game/v3/scene27.rpy:595
+translate francais v3s27_continue_after_parent_choice_9d86e523:
+
+    # no "Yay! I actually can't wait to get started on this."
+    no "Youpi ! En fait, j'ai hâte de m'y mettre."
+
+# game/v3/scene27.rpy:600
+translate francais v3s27_continue_after_parent_choice_88ae5591:
+
+    # u "It's gonna be a real test to confirm if you'd want kids in the future."
+    u "Ça sera un vrai test pour savoir si plus tard, tu voudras des enfants."
+
+# game/v3/scene27.rpy:612
+translate francais v3s27_continue_after_parent_choice_af5eb169:
+
+    # u "You're one of those people who has everything in life mentally planned out, huh?"
+    u "Tu fais partie de ces gens qui ont déjà tout planifié dans leur vie, hein ?"
+
+# game/v3/scene27.rpy:624
+translate francais v3s27_continue_after_parent_choice_63964418:
+
+    # u "That sounds great, and I'm happy for you, but let's see how you do at 3am when [v3_baby_name] needs a diaper change."
+    u "Ça a l'air super, et je suis heureux pour toi, mais on va voir comment tu te débrouilleras à 3 heures du matin quand [v3_baby_name] aura besoin d'être changé."
+
+# game/v3/scene27.rpy:629
+translate francais v3s27_continue_after_parent_choice_222b9c71:
+
+    # no "I'll do it with a smile! I guarantee Chloe will be ripping her hair out across the hall, but I'm excited."
+    no "Je ferai ça avec le sourire ! Je parie que Chloé va s'arracher les cheveux à l'autre bout du couloir, mais moi, je suis excitée."
+
+# game/v3/scene27.rpy:657
+translate francais v3s27_continue_after_parent_choice_992f07b4:
+
+    # li "Hey, don't think you're escaping just yet! We need to go plan for phase three of my campaign!"
+    li "Hé, ne crois pas que tu vas t'échapper maintenant ! Il faut qu'on aille planifier la phase trois de ma campagne !"

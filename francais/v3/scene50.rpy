@@ -537,3 +537,82 @@ translate francais strings:
     # game/v3/scene50.rpy:100
     old "Stop yelling, Chloe!"
     new "Arrête de crier, Chloé !"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene50.rpy:78
+translate francais v3s50_9c731902:
+
+    # cl "I think this one's defective. I'm not kidding. We've got a broken baby!"
+    cl "Je crois que celui-ci est détraqué, je ne rigole pas. On nous a refilé un bébé cassé !"
+
+# game/v3/scene50.rpy:213
+translate francais v3s50_20b24675:
+
+    # cl "I swear I'd tried that already."
+    cl "Je te jure que je l'avais déjà essayée."
+
+# game/v3/scene50.rpy:229
+translate francais v3s50_2b942c1b:
+
+    # u "Probably because you're yelling curse words! I'd guess it needs burping. Use the-"
+    u "C'est peut-être parce que tu cries des gros mots ! Il a sûrement besoin de faire son rot. Utilise le-"
+
+# game/v3/scene50.rpy:234
+translate francais v3s50_ddc06cf1:
+
+    # cl "Screw the keys! I'll show it how to burp-"
+    cl "Font chier ces clés ! Je vais lui montrer comment roter-"
+
+# game/v3/scene50.rpy:289
+translate francais v3s50_5ffe5a6e:
+
+    # no "I'm just too tired right now to remember what key we use for feeding it. I'm so sorry to have woken you up, but... can you remember?"
+    no "Je suis trop fatiguée en ce moment pour me souvenir de la clé qu'on utilisait pour le nourrir. Je suis vraiment désolée de t'avoir réveillé, mais... Tu t'en souviens ?"
+
+# game/v3/scene50.rpy:321
+translate francais v3s50_bf9f2e3a:
+
+    # u "Yeah, I think that's right."
+    u "Ouais, je crois que c'est ça."
+
+# game/v3/scene50.rpy:326
+translate francais v3s50_9fddbd1c:
+
+    # no "I've got it now. Thank you!"
+    no "C'est bon je l'ai. Merci !"
+
+# game/v3/scene50.rpy:380
+translate francais v3s50_eb9ee2a0:
+
+    # no "I hope using the wrong key this one time doesn't affect our evaluation too much."
+    no "J'espère que le fait d'avoir utilisé la mauvaise clé cette fois-ci, n'affectera pas trop notre évaluation."
+
+# game/v3/scene50.rpy:431
+translate francais v3s50_b5f05e0a:
+
+    # no "Nope! I knew that wasn't it. Ugh."
+    no "Non ! Argh ! Je savais que c'était pas celle-là."
+
+# game/v3/scene50.rpy:452
+translate francais v3s50_f638f7eb:
+
+    # no "It worked! Okay, so... yeah, I think orange is for diaper change, and green is for burping."
+    no "Ça a marché ! Ok, alors... Bon, je crois que la orange est pour le changement de couche, et la verte pour le rot."
+
+# game/v3/scene50.rpy:475
+translate francais v3s50_b19097ae:
+
+    # no "Ha! Right. Goodnight, dad!"
+    no "Exactement, bonne nuit papa !"
+
+# game/v3/scene50.rpy:498
+translate francais v3s50_6c09bb17:
+
+    # u "(I really hope there are no more calls tonight.)"
+    u "(J'espère vraiment qu'il y aura pas d'autres appels cette nuit.)"
+
+# game/v3/scene50.rpy:506
+translate francais v3s50_24b2fd54:
+
+    # u "(I'd mute my phone, but this is part of the project, I guess... ugh. Let's see how the rest of the night goes.)"
+    u "(Je mettrais bien mon téléphone en mode silencieux, mais il faut croire que ça fait partie du projet.... Voyons comment se passe le reste de la nuit.)"

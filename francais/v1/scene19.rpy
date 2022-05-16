@@ -131,3 +131,46 @@ translate francais v1s19_continue_51aa3d22:
 
     # cl "Okay, okay, fine."
     cl "Ok, ok, bien."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene19.rpy:53
+translate francais v1s19_76622052:
+
+    # u "Ha... No \"hi?\" No \"how was class?\" Blah? Blah? Blah? Nothing?"
+    u "Ha... Même pas un \"bonjour\" ? Aucun, comment s'est passé le cours ? Blablabla ? Blablabla ? Blablabla ? Rien ?"
+
+# game/v1/scene19.rpy:58
+translate francais v1s19_4be3ae55:
+
+    # cl "I'm sorry [name], I'm just really focused and anxious to get started considering the Lindsey parade that's been taking place all day."
+    cl "Je suis désolée [name], je suis très concentrée et j'ai hâte de commencer vu la parade de Lindsey qui s'est déroulée toute la journée."
+
+# game/v1/scene19.rpy:63
+translate francais v1s19_521e4635:
+
+    # u "I can understand that... I guess I'll let you off the hook for being a little curt."
+    u "Je comprends cela... Je crois que je vais te laisser tranquille pour avoir été un peu brusque."
+
+# game/v1/scene19.rpy:68
+translate francais v1s19_fd6636a8:
+
+    # cl "Ha, thanks. Should we get started, then?"
+    cl "Haha, merci. Alors, on commence ?"
+
+# game/v1/scene19.rpy:83
+translate francais v1s19_3ca0e6d1:
+
+    # cl "The first phase of my campaign is to re-establish old loyalties. The first time I was elected, people loved me, and I need to remind them why."
+    cl "La première phase de ma campagne consiste à rétablir les anciennes relations. La première fois que j'ai été élue, les personnes m'ont aimée et je dois leur rappeler pourquoi."
+
+# game/v1/scene19.rpy:137
+translate francais v1s19_continue_21ceaa9e:
+
+    # cl "Getting the Apes to side with us could take a lot of convincing, but..."
+    cl "Il faudra peut-être convaincre les Apes de se mettre de notre côté, mais..."
+
+# game/v1/scene19.rpy:158
+translate francais v1s19_continue_9dff9282:
+
+    # cl "Ewww, that sounds so weird coming from you."
+    cl "Oulala, ça fait bizarre venant de toi."

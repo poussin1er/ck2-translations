@@ -243,3 +243,58 @@ translate francais strings:
     # game/v3/scene32.rpy:156
     old "Cancel the booking"
     new "Annuler la réservation"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene32.rpy:13
+translate francais v3s32_b42af1b9:
+
+    # u "(Damn, Imre. What's gotten into him lately, talking himself into a punch like that?)"
+    u "(Putain, Imre. Qu'est-ce qui lui arrive en ce moment, à se mettre dans des états pareils ?)"
+
+# game/v3/scene32.rpy:47
+translate francais v3s32_63a95c66:
+
+    # u "(Hmm... live grill... too risky.)"
+    u "(Hmm... Live grill... trop risqué.)"
+
+# game/v3/scene32.rpy:64
+translate francais v3s32_ddb4f12c:
+
+    # u "(I know it's not Aubrey's birthday, or our anniversary... but we'll get a free dessert if we pretend...)"
+    u "(Je sais que c'est pas l'anniversaire d'Aubrey, ni notre anniversaire.... Mais, on aurait droit à un dessert gratuit si on jouait le jeu...)"
+
+# game/v3/scene32.rpy:84
+translate francais v3s32_3cbc0170:
+
+    # u "(Who doesn't love free dessert? The birthday girl is not going to see this coming!)"
+    u "(Qui ne raffole pas d'un dessert gratuit ? La fille qui fête son anniversaire le verra pas venir !)"
+
+# game/v3/scene32.rpy:94
+translate francais v3s32_a2d39a7e:
+
+    # u "(I'm sure she can get there on her own, though...)"
+    u "(Mais bon, je suis sûr qu'elle pourra venir toute seule...)"
+
+# game/v3/scene32.rpy:134
+translate francais v3s32_160fc278:
+
+    # u "(Now that I've seen the option, I can't stop thinking about how happy it'd make her. Flowers? Yes.)"
+    u "(Maintenant que j'ai vu l'option proposée, je peux pas m'empêcher de réfléchir à quel point ça la rendrait heureuse. Les fleurs ? Oui.)"
+
+# game/v3/scene32.rpy:174
+translate francais v3s32_95021485:
+
+    # u "(I can't use someone else's money for my date. I think Aubrey would understand.)"
+    u "(Je peux pas utiliser l'argent de quelqu'un d'autre pour mon rencard. Je suis sûr qu'Aubrey le comprendrait.)"
+
+# game/v3/scene32.rpy:238
+translate francais v3s32_phoneContinue1_82ca6676:
+
+    # u "(Hope this goes according to plan. A happy Chloe is much easier to be around!)"
+    u "(J'espère que tout se passera comme prévu. Une Chloé heureuse est bien plus facile à vivre !)"
+
+# game/v3/scene32.rpy:250
+translate francais v3s32_phoneContinue1_b6868e7f:
+
+    # u "(Oh shit, I need to get started on shopping... Chloe would kick my ass if she knew what I was doing right now.)"
+    u "(Oh merde, je dois aller faire du shopping.... Chloé me botterait le cul, si elle savait ce que je suis en train de faire maintenant.)"

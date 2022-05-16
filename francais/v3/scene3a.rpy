@@ -358,3 +358,94 @@ translate francais v3s3a_nsfwSkipLabel1_848edceb:
 
     # ri "Goodnight, my hero! *Chortles*"
     ri "Bonne nuit, mon héros ! *Glousse*"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene3a.rpy:75
+translate francais v3s3a_d655043c:
+
+    # u "Oh, hell, Riley..."
+    u "Oh, putain, Riley..."
+
+# game/v3/scene3a.rpy:77
+translate francais v3s3a_25a74cca:
+
+    # u "You're... so good with your mouth."
+    u "Tu es... si douée avec ta bouche."
+
+# game/v3/scene3a.rpy:88
+translate francais v3s3a_fc13d591:
+
+    # u "God damn, Riley."
+    u "Merde, Riley."
+
+# game/v3/scene3a.rpy:113
+translate francais v3s3a_ba0b7596:
+
+    # u "*Moans* I'm gonna explode... you-"
+    u "*Gémis* Je vais exploser... tu-"
+
+# game/v3/scene3a.rpy:120
+translate francais v3s3a_4a6a9e12:
+
+    # u "Oh... you're incredible."
+    u "Oh... t'es incroyable."
+
+# game/v3/scene3a.rpy:135
+translate francais v3s3a_d84830a7:
+
+    # ri "Mmm, delicious."
+    ri "Mmm, délicieux."
+
+# game/v3/scene3a.rpy:152
+translate francais v3s3a_nsfwSkipLabel1_b317947f:
+
+    # u "Oh my GOD. I can't even explain how relaxing that was."
+    u "Oh, merde. Je peux même pas dire à quel point c'était relaxant."
+
+# game/v3/scene3a.rpy:167
+translate francais v3s3a_nsfwSkipLabel1_a40ece9c:
+
+    # u "Well, thank you. But don't forget I also like pleasing you."
+    u "Eh ben merci. Mais moi aussi, j'aime te faire plaisir."
+
+# game/v3/scene3a.rpy:182
+translate francais v3s3a_nsfwSkipLabel1_9a9744a1:
+
+    # ri "Hmm... we can always take turns."
+    ri "Hmm... On pourrait envisager de se relayer."
+
+# game/v3/scene3a.rpy:187
+translate francais v3s3a_nsfwSkipLabel1_e9a8d5a0:
+
+    # u "Eh, or we could fight about it."
+    u "Ou alors on pourrait se chamailler pour ça."
+
+# game/v3/scene3a.rpy:192
+translate francais v3s3a_nsfwSkipLabel1_1a20c725:
+
+    # ri "That sounds fun too."
+    ri "Ça aussi ça a l'air sympa."
+
+# game/v3/scene3a.rpy:208
+translate francais v3s3a_nsfwSkipLabel1_ff95418b:
+
+    # ri "No way! What are the odds?"
+    ri "No way! What are the odds?"
+
+# game/v3/scene3a.rpy:249
+translate francais v3s3a_nsfwSkipLabel1_9c31c058:
+
+    # ri "Yeah, no problem. Nurse Riley has done her job."
+    ri "Ouais, pas de problème. L'infirmière Riley a rempli sa mission."
+
+# game/v3/scene3a.rpy:259
+translate francais v3s3a_nsfwSkipLabel1_84dd8441:
+
+    # ri "Guess I'll have to step up my game next time?"
+    ri "Tu crois que je devrai améliorer mon travail, la prochaine fois ?"
+
+# game/v3/scene3a.rpy:279
+translate francais v3s3a_nsfwSkipLabel1_accf436e:
+
+    # ri "Goodnight, my hero!"
+    ri "Bonne nuit, mon héros !"

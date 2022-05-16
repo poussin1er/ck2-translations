@@ -161,3 +161,46 @@ translate francais v3s25a_phoneContinue_7620de10:
 
     # u "Let's get this day started, shall we?"
     u "Allez ! Que cette journée commence !"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene25a.rpy:135
+translate francais v3s25a_phoneContinue_af3db20d:
+
+    # au "I think it's mainly full of ice cream, so... the Chicks will definitely have that covered."
+    au "Je crois qu'il est surtout plein de crème glacée, alors... les Chicks vont s'en occuper sans problème."
+
+# game/v3/scene25a.rpy:140
+translate francais v3s25a_phoneContinue_c027cabe:
+
+    # u "Ha, fair enough."
+    u "J'imagine."
+
+# game/v3/scene25a.rpy:155
+translate francais v3s25a_phoneContinue_3a8e89fb:
+
+    # au "Yeah, exactly."
+    au "Ouais, on dirait."
+
+# game/v3/scene25a.rpy:185
+translate francais v3s25a_phoneContinue_af0ab57f:
+
+    # au "Yes. I thought that might be useful information for a certain gentleman."
+    au "Oui. Je m'suis dit que cette information pourrait intéresser un certain gentleman."
+
+# game/v3/scene25a.rpy:197
+translate francais v3s25a_phoneContinue_00536740:
+
+    # au "Let's do something. Something real."
+    au "Viens on va faire un truc. Un truc sérieux."
+
+# game/v3/scene25a.rpy:207
+translate francais v3s25a_phoneContinue_a280e2bd:
+
+    # au "Quit asking before I change my mind!"
+    au "Arrête de me poser cette question avant que je change d'avis."
+
+# game/v3/scene25a.rpy:212
+translate francais v3s25a_phoneContinue_708b293d:
+
+    # u "Okay, deal. Dinner tonight. I'll sort the details. Stay by the phone."
+    u "Ok, ça marche. Un dîner ce soir. Je m'occupe de tout et toi, tu restes à côté de ton téléphone."

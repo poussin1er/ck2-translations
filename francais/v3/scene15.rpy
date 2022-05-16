@@ -1036,7 +1036,7 @@ translate francais v3s15pier_wheel_2962d542:
 translate francais v3s15pier_wheel_b94a8997:
 
     # imre "Haha! I love that guy!"
-    imre "Haha ! Je kiffe ce mec !"
+    imre "Yo ! Je kiffe ce mec !"
 
 # game/v3/scene15.rpy:1108
 translate francais v3s15pier_wheel_95cecdd4:
@@ -1642,7 +1642,7 @@ translate francais v3s15pier_hotdog_007ca9a0:
 translate francais v3s15pier_hotdog_babe3d94:
 
     # imre "I wasn't going to... Pfft."
-    imre "J'allais pas... Pfft."
+    imre "J'allais pas le... Pfft."
 
 # game/v3/scene15.rpy:1701
 translate francais v3s15pier_hotdog_afcbf2cc:
@@ -1765,3 +1765,424 @@ translate francais strings:
     # game/v3/scene15.rpy:1530
     old "Defend meat-eaters"
     new "Défendre les mangeurs de viande"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene15.rpy:29
+translate francais v3s15_67f33a70:
+
+    # pe "Why, thank you, handsome stranger. Someone's finally here to rescue me!"
+    pe "Et bien merci, bel étranger. Quelqu'un est enfin venu me sauver !"
+
+# game/v3/scene15.rpy:45
+translate francais v3s15_e4a6bd68:
+
+    # pe "Ha. It's not that bad. It's just so awkward being the third wheel."
+    pe "C'est pas si grave. C'est juste tellement embarrassant de tenir la chandelle."
+
+# game/v3/scene15.rpy:72
+translate francais v3s15_7bfe6ca3:
+
+    # imre "Hey, man! You're finally here."
+    imre "Oh, salut mec ! T'es enfin là."
+
+# game/v3/scene15.rpy:87
+translate francais v3s15_301f22db:
+
+    # imre "You remember that win-a-date stall that Karen was running at the Deer event a while back? Well-"
+    imre "Tu t'souviens du stand \"gagnez un rencard\" que Karen tenait à l'événement des Deers y a un moment ? Eh ben-"
+
+# game/v3/scene15.rpy:123
+translate francais v3s15_e28d6f79:
+
+    # dg3 "We'll go in. You can hang out here, ha."
+    dg3 "Nous on y va, mais vous pouvez rester ici."
+
+# game/v3/scene15.rpy:133
+translate francais v3s15_3a1b2cba:
+
+    # pe "Yeah, Imre."
+    pe "Elle te veut toi seul, Imre."
+
+# game/v3/scene15.rpy:138
+translate francais v3s15_7d9a18a1:
+
+    # imre "Very funny."
+    imre "Très drôle."
+
+# game/v3/scene15.rpy:191
+translate francais v3s15pier_carousel_16cdf24e:
+
+    # pe "I want one of the horses! The bench seats are for babies."
+    pe "Je veux avoir l'un des chevaux ! Les banquettes, c'est pour les bébés."
+
+# game/v3/scene15.rpy:196
+translate francais v3s15pier_carousel_646aad0c:
+
+    # u "It's a carousel, Penelope. The whole thing is kind of for babies."
+    u "C'est un carrousel, Pénélope. Tout le truc est plus ou moins pour les bébés."
+
+# game/v3/scene15.rpy:216
+translate francais v3s15pier_carousel_ebd678e5:
+
+    # u "Agreed. The horses are classic."
+    u "D'accord. Les chevaux sont classiques."
+
+# game/v3/scene15.rpy:256
+translate francais v3s15pier_carousel_3b26b926:
+
+    # pe "Wooooo!"
+    pe "Wooooo !"
+
+# game/v3/scene15.rpy:276
+translate francais v3s15pier_carousel_2adaf444:
+
+    # carni "Listen, buddy, you think you know more about being a carousel operator than me? I'm protecting you."
+    carni "Écoute mon pote, tu crois qu't'en sais plus que moi sur l'métier d'opérateur de carrousel ? J'te protège."
+
+# game/v3/scene15.rpy:290
+translate francais v3s15pier_carousel_1a6449c3:
+
+    # u "Ha!"
+    u "Ah !"
+
+# game/v3/scene15.rpy:297
+translate francais v3s15pier_carousel_7e09612c:
+
+    # carni "If shitheads like you were in charge, it'd be cranked up to maximum speed and you, along with everyone else on this ride, would be decapitated!"
+    carni "Si des connards comme toi étaient aux commandes, l'moteur s'rait réglé à la vitesse maxi et toi et tous les autres participants, vous s'riez décapités !"
+
+# game/v3/scene15.rpy:312
+translate francais v3s15pier_carousel_b7fddabe:
+
+    # u "(Holy shit, dude... there are kids here. Take it easy.)"
+    u "(Ferme ta gueule, mec... Y a des enfants ici. Reste tranquille !)"
+
+# game/v3/scene15.rpy:335
+translate francais v3s15pier_carousel_78ab9aa2:
+
+    # carni "I won't let anyone get hurt... not again."
+    carni "J'laisserai personne être blessé... Plus jamais."
+
+# game/v3/scene15.rpy:337
+translate francais v3s15pier_carousel_f4ef8357:
+
+    # u "(Wow, this guy is serious about his carousel. Respect.)"
+    u "(Wow, ce gars est sérieux à propos de son carrousel. Respect.)"
+
+# game/v3/scene15.rpy:383
+translate francais v3s15pier_carousel_45c24644:
+
+    # u "Ha, sorry, it's just my... phone."
+    u "Oh, désolé, c'est juste mon... téléphone."
+
+# game/v3/scene15.rpy:398
+translate francais v3s15pier_carousel_c64e1084:
+
+    # pe "[name], behave."
+    pe "[name], sois sage."
+
+# game/v3/scene15.rpy:409
+translate francais v3s15pier_carousel_cceb76fe:
+
+    # pe "Oh my God, [name]... don't bring that up here, I'm gonna turn red!"
+    pe "Oh, là là, [name]... Ne parle pas de ça ici, je vais être toute rouge !"
+
+# game/v3/scene15.rpy:414
+translate francais v3s15pier_carousel_48c99239:
+
+    # u "Why?"
+    u "Pourquoi ?"
+
+# game/v3/scene15.rpy:419
+translate francais v3s15pier_carousel_09077096:
+
+    # pe "*Sighs* I admit, that night was amazing. I still think about it a lot."
+    pe "*Soupirs* J'avoue, cette nuit-là était incroyable. J'y pense encore très souvent..."
+
+# game/v3/scene15.rpy:444
+translate francais v3s15pier_carousel_89df540c:
+
+    # u "*Gasps* Are you talking dirty to me Penelope?"
+    u "*Soupirs* Tu me racontes des cochonneries, Pénélope ?"
+
+# game/v3/scene15.rpy:449
+translate francais v3s15pier_carousel_c8466332:
+
+    # pe "Not anymore! I think I better stop before your \"phone\" bursts through your jeans."
+    pe "Non, j'ai fini. Je devrais m'arrêter tout de suite avant que ton \"téléphone\" n'éclate dans ton jean."
+
+# game/v3/scene15.rpy:461
+translate francais v3s15pier_carousel_528f8516:
+
+    # pe "Silly."
+    pe "C'est bête."
+
+# game/v3/scene15.rpy:466
+translate francais v3s15pier_carousel_c8881caf:
+
+    # u "Sorry, I couldn't figure out where to take the innuendo from there."
+    u "Désolé, j'arrive plus à trouver de sous-entendus, là."
+
+# game/v3/scene15.rpy:471
+translate francais v3s15pier_carousel_1b89a6fd:
+
+    # pe "It's okay. You get an A for effort."
+    pe "T'inquiète pas, je vais te donner un A pour l'effort."
+
+# game/v3/scene15.rpy:482
+translate francais v3s15pier_carousel_e12139ca:
+
+    # u "Ha, yeah. Be sure to check on me. I might fall off at any moment."
+    u "Ah, ouais. Oublie pas de vérifier si je vais bien. Je risque de tomber n'importe quand."
+
+# game/v3/scene15.rpy:574
+translate francais v3s15pier_carousel_7fba9384:
+
+    # carni "Okay, let's try this again. Everybody hold on tight... and awaaay we go!"
+    carni "Ok, on r'commence. Accrochez-vous bien... Et c'est partiiii !"
+
+# game/v3/scene15.rpy:579
+translate francais v3s15pier_carousel_b6f185c4:
+
+    # u "Slowest ride ever."
+    u "Le tour le plus lent de tous les temps."
+
+# game/v3/scene15.rpy:584
+translate francais v3s15pier_carousel_d40236ff:
+
+    # pe "It really is..."
+    pe "C'est clair..."
+
+# game/v3/scene15.rpy:604
+translate francais v3s15pier_carousel_3bf90db7:
+
+    # pe "Yeah. I guess she's just shy and didn't want to meet Imre on her own?"
+    pe "Oui, mais je crois qu'elle est très timide et qu'elle ne voulait pas être seule pour voir Imree..."
+
+# game/v3/scene15.rpy:609
+translate francais v3s15pier_carousel_a0eec97f:
+
+    # u "Fair enough. One can only take so much of Imre single-handedly."
+    u "C'est vrai. Imre est loin d'être compréhensible en une seule fois."
+
+# game/v3/scene15.rpy:614
+translate francais v3s15pier_carousel_d5d554b3:
+
+    # pe "Very true."
+    pe "Très juste."
+
+# game/v3/scene15.rpy:638
+translate francais v3s15pier_carousel_173acf58:
+
+    # dg3 "Not on a first date, Imre... you have to work harder for it."
+    dg3 "Pas au premier rencard, Imre... Tu dois faire plus d'efforts pour y parvenir."
+
+# game/v3/scene15.rpy:665
+translate francais v3s15pier_carousel_52dd017e:
+
+    # pe "Thank you! I felt so safe..."
+    pe "Merci ! Je me suis vraiment sentie en sécurité."
+
+# game/v3/scene15.rpy:824
+translate francais v3s15pier_wheel_f9ab3783:
+
+    # imre "See. Plus, there's the five-second rule."
+    imre "Tu vois. En plus, y a la règle des cinq secondes."
+
+# game/v3/scene15.rpy:831
+translate francais v3s15pier_wheel_778e2503:
+
+    # imre "Well, what about the five-second rule?"
+    imre "Et la règle des cinq secondes ?"
+
+# game/v3/scene15.rpy:846
+translate francais v3s15pier_wheel_b1ae81ee:
+
+    # imre "Uh, whatever... it's fine. Look-"
+    imre "Euh, si vous voulez... C'est pas grave. Regardez-"
+
+# game/v3/scene15.rpy:866
+translate francais v3s15pier_wheel_3395802e:
+
+    # imre "Well, I couldn't chew it up! I'd break my teeth, dummy."
+    imre "Ben, j'aurais pas pu le mâcher ! J'me serais pété les dents, idiote."
+
+# game/v3/scene15.rpy:936
+translate francais v3s15pier_wheel_0341f34b:
+
+    # u "A dollar's worth of wisdom!"
+    u "Un dollar pour un message de biscuit !"
+
+# game/v3/scene15.rpy:1042
+translate francais v3s15pier_wheel_bfb2c63f:
+
+    # wa "Congratulations, young man! This is the best prize on the board, if you ask me."
+    wa "Félicitations, jeune homme ! Si tu veux mon avis, c'est le meilleur prix du tableau."
+
+# game/v3/scene15.rpy:1052
+translate francais v3s15pier_wheel_395e3b72:
+
+    # pe "Ha, ew..."
+    pe "Ha, beurk..."
+
+# game/v3/scene15.rpy:1103
+translate francais v3s15pier_wheel_4413a456:
+
+    # imre "Ha! I love that guy!"
+    imre "Yo ! Je kiffe ce mec !"
+
+# game/v3/scene15.rpy:1173
+translate francais v3s15pier_wheel_16f93693:
+
+    # u "Ha, alright. Everyone ready?"
+    u "D'accord. Tout le monde est prêt ?"
+
+# game/v3/scene15.rpy:1288
+translate francais v3s15pier_hotdog_05942566:
+
+    # dg3 "I asked. It's all real butter, though. The one thing this place doesn't cheap out on is the food. Can you believe it?"
+    dg3 "J'ai posé la question, mais ils utilisent du vrai beurre. La seule chose sur laquelle cet endroit ne lésine pas, c'est la nourriture. Tu y crois ?"
+
+# game/v3/scene15.rpy:1303
+translate francais v3s15pier_hotdog_e8fe13d6:
+
+    # imre "*Quietly* She might be vegan, but she'll be eating my meat later, know what I mean?"
+    imre "*Silencieusement* Elle est peut-être végane, mais plus tard elle va manger ma viande, tu vois c'que j'veux dire ?"
+
+# game/v3/scene15.rpy:1344
+translate francais v3s15pier_hotdog_a2f13e95:
+
+    # pe "You guessed it. Yes, please."
+    pe "Wouah ! Vous l'avez deviné, haha. Oui, s'il vous plaît."
+
+# game/v3/scene15.rpy:1361
+translate francais v3s15pier_hotdog_33a9b645:
+
+    # pe "Aw, you weren't kidding... you're so sweet."
+    pe "Oh, tu ne plaisantais pas... Tu es tellement gentil."
+
+# game/v3/scene15.rpy:1372
+translate francais v3s15pier_hotdog_51bf1a0b:
+
+    # u "(Penelope wants a hotdog. Should I give her my coupon?)"
+    u "(Pénélope veut un hotdog, je lui donne mon coupon ?)"
+
+# game/v3/scene15.rpy:1426
+translate francais v3s15pier_hotdog_3a504d5b:
+
+    # u "Is there anything else on the menu?"
+    u "Est-ce qu'il y a autre chose au menu ?"
+
+# game/v3/scene15.rpy:1436
+translate francais v3s15pier_hotdog_42f48854:
+
+    # u "One free hot dog, then, please."
+    u "Alors, un hot-dog gratuit, s'il vous plaît."
+
+# game/v3/scene15.rpy:1465
+translate francais v3s15pier_hotdog_3a504d5b_1:
+
+    # u "Is there anything else on the menu?"
+    u "Est-ce qu'il y a autre chose au menu ?"
+
+# game/v3/scene15.rpy:1515
+translate francais v3s15pier_hotdog_e3aefa0c:
+
+    # imre "It was a joke, by the way. I know what you meant."
+    imre "Au fait, j'déconnais, je savais très bien c'que tu voulais dire."
+
+# game/v3/scene15.rpy:1525
+translate francais v3s15pier_hotdog_17c1c131:
+
+    # dg3 "Oh, God... not at all. I can't even think past the fact it's a cooked animal."
+    dg3 "Oh, mon Dieu... Non ! Je ne peux même pas penser à autre chose qu'au fait que c'est un animal cuit."
+
+# game/v3/scene15.rpy:1538
+translate francais v3s15pier_hotdog_dbadc42b:
+
+    # u "I can understand why people choose not to eat meat. Ethically and morally, I mean. There are good health benefits as well."
+    u "Je peux comprendre pourquoi les gens choisissent de pas manger de viande. Sur un plan éthique et moral, bien sûr. Il y a également de bons avantages pour la santé."
+
+# game/v3/scene15.rpy:1545
+translate francais v3s15pier_hotdog_d4d5cb29:
+
+    # dg3 "Ha, right... Good luck!"
+    dg3 "Tu as raison... Bonne chance !"
+
+# game/v3/scene15.rpy:1555
+translate francais v3s15pier_hotdog_6ae8498e:
+
+    # u "I'll let you know the next time I'm hungry for hotdogs. We'll see how I do!"
+    u "Je te le dirai la prochaine fois que j'aurai envie de hot-dogs, on verra si je m'en sors."
+
+# game/v3/scene15.rpy:1560
+translate francais v3s15pier_hotdog_3236e34a:
+
+    # pe "I've also heard that it's a lot healthier being vegan."
+    pe "J'ai également entendu dire que c'est beaucoup plus sain d'être végan..."
+
+# game/v3/scene15.rpy:1569
+translate francais v3s15pier_hotdog_2bc59467:
+
+    # u "Animals eat each other all the time, though. Sure, maybe us industrializing it has messed with the balance, but it's still instinctual."
+    u "Mais les animaux se mangent entre eux tous les jours. Bien sûr, peut-être que notre industrialisation a perturbé l'équilibre, mais c'est toujours naturel."
+
+# game/v3/scene15.rpy:1574
+translate francais v3s15pier_hotdog_1bb73122:
+
+    # pe "Your argument is the circle of life, then, right? Uh, if we don't count the industrialization bit."
+    pe "Ton argument est donc le cercle de la vie, c'est ça ? Euh, si on ne compte pas la partie industrialisation."
+
+# game/v3/scene15.rpy:1579
+translate francais v3s15pier_hotdog_c2c60363:
+
+    # u "Yeah, basically."
+    u "Ouais, en gros."
+
+# game/v3/scene15.rpy:1584
+translate francais v3s15pier_hotdog_d0d795b6:
+
+    # dg3 "You're still trying to defend it even though you clearly have some understanding of the meat industry and how the animals are treated? Jeez, [name]."
+    dg3 "Tu essaies toujours de le défendre, alors que tu as clairement une certaine connaissance du fonctionnement de l'industrie de la viande et de la façon dont les animaux sont traités ? Bon sang, [name]."
+
+# game/v3/scene15.rpy:1589
+translate francais v3s15pier_hotdog_358bd8f7:
+
+    # u "I'm just saying, cruel to animals or otherwise, eating beans and dip your whole life must be miserable."
+    u "Je dis juste que, que ce soit cruel envers les animaux ou non, manger des haricots et de la sauce toute ta vie doit être chiant."
+
+# game/v3/scene15.rpy:1594
+translate francais v3s15pier_hotdog_d730e2e9:
+
+    # dg3 "Clever joke."
+    dg3 "La bonne blague."
+
+# game/v3/scene15.rpy:1604
+translate francais v3s15pier_hotdog_ae593b68:
+
+    # pe "There are millions of vegan recipes. It's a dietary style that's existed for centuries, if not longer..."
+    pe "Il existe des millions de recettes véganes. C'est un style de régime alimentaire qui existe depuis des siècles, si ce n'est plus..."
+
+# game/v3/scene15.rpy:1624
+translate francais v3s15pier_hotdog_93de80e2:
+
+    # dg3 "You're right, I don't. It would probably make me sick..."
+    dg3 "Tu as raison, je n'en sais rien. Ça me rendrait probablement malade..."
+
+# game/v3/scene15.rpy:1669
+translate francais v3s15pier_hotdog_ed51a253:
+
+    # pe "Quick, Imre! Five-second rule!"
+    pe "Vite, Imre ! La règle des cinq secondes !"
+
+# game/v3/scene15.rpy:1696
+translate francais v3s15pier_hotdog_651cc77c:
+
+    # imre "I wasn't going to... pfft."
+    imre "J'allais pas le... Pfft."
+
+# game/v3/scene15.rpy:1726
+translate francais v3s15pier_hotdog_63ec8817:
+
+    # u "Are you being serious right now?"
+    u "T'es sérieuse là ?"

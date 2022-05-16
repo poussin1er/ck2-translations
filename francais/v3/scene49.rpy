@@ -589,3 +589,118 @@ translate francais strings:
     # game/v3/scene49.rpy:503
     old "Keep it PG"
     new "Garde-le pour toi"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene49.rpy:27
+translate francais v3s49_524b2f84:
+
+    # no "Yeah, I'm totally in mom mode right now."
+    no "Ouais, je suis carrément en mode maman."
+
+# game/v3/scene49.rpy:52
+translate francais v3s49_fc115ef3:
+
+    # no "I'm expecting we'll need to use a key soon anyway."
+    no "De toute façon, je crois qu'on va bientôt avoir besoin d'une clé."
+
+# game/v3/scene49.rpy:99
+translate francais v3s49_ba92f152:
+
+    # wim "David...? I thought you had perished in that bar mitzvah explosion all those years ago..."
+    wim "David... ? Je pensais que tu avais péri dans l'explosion du Bar Mitzvah, il y a tant d'années..."
+
+# game/v3/scene49.rpy:136
+translate francais v3s49_f6e5680f:
+
+    # no "Parental duties come first."
+    no "Les devoirs parentaux passent avant tout."
+
+# game/v3/scene49.rpy:178
+translate francais v3s49_77860383:
+
+    # no "What's the matter? Too afraid to get your hands dirty?"
+    no "Qu'est-ce qui ne va pas ? T'as trop peur de te salir les mains ?"
+
+# game/v3/scene49.rpy:275
+translate francais v3_wrong_key_5_4ea88604:
+
+    # no "You deal with the dirty diapers, I'll deal with the feeding, and we can share the burping."
+    no "Tu t'occupes des couches sales, je m'occupe de le nourrir, et nous nous partageons les rots."
+
+# game/v3/scene49.rpy:292
+translate francais v3_wrong_key_5_73bab563:
+
+    # u "I can tell. You've got a natural motherly instinct. I guarantee most people would just throw it to the side."
+    u "Je vois bien. T'as un instinct maternel inné. Je suis sûr que la plupart des autres l'ont déjà balancé au loin."
+
+# game/v3/scene49.rpy:297
+translate francais v3_wrong_key_5_ce6f6a31:
+
+    # no "Yeah, or out the window."
+    no "Ouais, ou par la fenêtre."
+
+# game/v3/scene49.rpy:309
+translate francais v3_wrong_key_5_01583762:
+
+    # no "You sure did!"
+    no "C'est sûr !"
+
+# game/v3/scene49.rpy:352
+translate francais v3_wrong_key_5_9a06ec27:
+
+    # no "Oh, shit. That made me jump."
+    no "Oh, merde. Il m'a fait sursauter."
+
+# game/v3/scene49.rpy:369
+translate francais v3_wrong_key_5_f9ad7180:
+
+    # u "Yeah. His name was Florian."
+    u "Ouais, elle s'appelait Florian."
+
+# game/v3/scene49.rpy:447
+translate francais v3_wrong_key_5_e01336c5:
+
+    # u "We honestly do."
+    u "On est vraiment sérieux."
+
+# game/v3/scene49.rpy:491
+translate francais v3_wrong_key_5_ed4bcbe6:
+
+    # no "Of course! You're very attentive and caring. Plus, you don't seem to mind the crying."
+    no "Bien sûr ! Tu es très attentif et attentionné. En plus, les pleurs n'ont pas l'air de te déranger."
+
+# game/v3/scene49.rpy:501
+translate francais v3_wrong_key_5_c786ab02:
+
+    # no "And it's exactly that type of reply that makes you such a good partner."
+    no "Et c'est exactement ce type de réponse, qui fait de toi un si bon partenaire."
+
+# game/v3/scene49.rpy:568
+translate francais v3_wrong_key_5_00e478e0:
+
+    # u "Um, sorry, it's just... it feels kind of weird to make out when there's a baby right there."
+    u "Hum, désolé, c'est juste que... Ça fait un peu bizarre de s'embrasser, quand il y a un bébé juste à côté."
+
+# game/v3/scene49.rpy:573
+translate francais v3_wrong_key_5_51eb4093:
+
+    # no "Oh! I guess you're right, sorry."
+    no "Oh ! Je crois que tu as raison, désolée."
+
+# game/v3/scene49.rpy:600
+translate francais v3_wrong_key_5_4acbe164:
+
+    # u "(Nora and [v3_baby_name] are still fast asleep. I think this is a good time for me to head home.)"
+    u "(Nora et [v3_baby_name] sont encore profondément endormis. Je pense que c'est le bon moment pour rentrer à la maison.)"
+
+# game/v3/scene49.rpy:679
+translate francais v3_wrong_key_5_3f25e477:
+
+    # no "Phew... all better now?"
+    no "Pfiou... Ça va mieux maintenant ?"
+
+# game/v3/scene49.rpy:714
+translate francais v3_wrong_key_5_4acbe164_1:
+
+    # u "(Nora and [v3_baby_name] are still fast asleep. I think this is a good time for me to head home.)"
+    u "(Nora et [v3_baby_name] sont encore profondément endormis. Je pense que c'est le bon moment pour rentrer à la maison.)"

@@ -264,3 +264,64 @@ translate francais v1s18_d7012555:
 
     # u "Ha, alright. Just don't work yourself too hard."
     u "Ha, d'accord. Mais ne travaille pas trop dur."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene18.rpy:52
+translate francais v1s18_a4e2fad2:
+
+    # u "Seems like you have all the help you need. I don't see much of Chloe anywhere."
+    u "On dirait que t'as toute l'aide dont t'as besoin. Je vois pas beaucoup de Chloé nulle part."
+
+# game/v1/scene18.rpy:82
+translate francais v1s18_c14dae42:
+
+    # li "I still have a shit-ton of campaign planning to do and I can't exactly let just anyone in on that..."
+    li "J'ai encore une tonne de projets pour la campagne à réaliser et je ne peux vraiment pas en parler à n'importe qui..."
+
+# game/v1/scene18.rpy:112
+translate francais v1s18_78d6928e:
+
+    # li "Honestly, [name]... I need you. I need your help."
+    li "Sérieusement, [name]... J'ai besoin de toi. J'ai besoin de ton aide."
+
+# game/v1/scene18.rpy:117
+translate francais v1s18_20584b63:
+
+    # li "I'm worried that without your help, I'll have little to no chance of winning."
+    li "J'ai peur que sans ton aide, je n'aie que peu ou pas de chances de gagner."
+
+# game/v1/scene18.rpy:147
+translate francais v1s18_20bb20e1:
+
+    # li "I know you're like... Dating her, or whatever you're calling it..."
+    li "Je sais que tu es comme... Tu sors avec elle, ou peu importe comment tu appelles ça..."
+
+# game/v1/scene18.rpy:163
+translate francais v1s18_3b5eb28f:
+
+    # u "Ooh. That's an enticing proposal."
+    u "Oooh. C'est une proposition alléchante."
+
+# game/v1/scene18.rpy:168
+translate francais v1s18_1d3e2686:
+
+    # li "I had a dream the other night, actually..."
+    li "En fait, j'ai fait un rêve l'autre nuit..."
+
+# game/v1/scene18.rpy:228
+translate francais v1s18_772a22a0:
+
+    # li "Well then, partner... Meet me at dawn in the janitor's closet, aka my presidential headquarters."
+    li "Eh bien, partenaire... Retrouve-moi à l'aube dans le placard du concierge, alias mon quartier général présidentiel."
+
+# game/v1/scene18.rpy:233
+translate francais v1s18_22a5c99c:
+
+    # u "Ha! Okay. Will do, boss lady."
+    u "Haha, ok ! Je serai là, cheffe."
+
+# game/v1/scene18.rpy:258
+translate francais v1s18_e7e0c7d3:
+
+    # li "I really don't need you to run through the list of reasons why you can't help me."
+    li "Je n'ai vraiment pas besoin que tu passes en revue la liste des raisons pour lesquelles tu ne peux pas m'aider."

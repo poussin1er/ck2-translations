@@ -29,3 +29,10 @@ translate francais v3s50a_phone_continue_4f6b4336:
 
     # u "(That was the last baby night, nice. No more crying I'm free!)"
     u "(Enfin, c'était la dernière nuit avec bébé. Fini les pleurs, je suis libre !)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene50a.rpy:227
+translate francais v3s50a_phone_continue_249c7907:
+
+    # u "(That was the last baby night, nice. No more crying. I'm free!)"
+    u "(Enfin, c'était la dernière nuit avec bébé. Fini les pleurs, je suis libre !)"

@@ -473,3 +473,196 @@ translate francais v1s48_end_5c22df4c:
 
     # u "Later, Linds."
     u "À plus, Linds."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene48.rpy:80
+translate francais v1s48_cc2b507c:
+
+    # li "Thanks for the coffee by the way. I should be the one treating you, though, don't you think?"
+    li "Au fait, merci pour le café. Mais tu ne crois pas que c'est moi qui devrais te soigner ?"
+
+# game/v1/scene48.rpy:90
+translate francais v1s48_f5b53c64:
+
+    # li "Oooh, next time?"
+    li "Oooh, la prochaine fois ?"
+
+# game/v1/scene48.rpy:95
+translate francais v1s48_3d0756c3:
+
+    # u "Mmhmm."
+    u "Mmhmm."
+
+# game/v1/scene48.rpy:106
+translate francais v1s48_bcd5abfa:
+
+    # li "Oh, don't worry about it. After today, I owe you at least a cup."
+    li "Oh, ne t'inquiète pas pour ça. Après cette journée, je te dois au moins une tasse de café."
+
+# game/v1/scene48.rpy:111
+translate francais v1s48_c6e9a2c1:
+
+    # u "You bet."
+    u "Tu parles."
+
+# game/v1/scene48.rpy:116
+translate francais v1s48_44a159de:
+
+    # u "Okay, so... I've created a draft listing for your highly collectible, highly desirable vintage vehicle."
+    u "Bon, alors... J'ai créé un brouillon d'annonce pour ta voiture vintage extrêmement collector et très convoitée."
+
+# game/v1/scene48.rpy:121
+translate francais v1s48_89c9cea9:
+
+    # li "I see you're honing your salesman skills."
+    li "Je vois que tu affines tes compétences de vendeur."
+
+# game/v1/scene48.rpy:126
+translate francais v1s48_68b10e02:
+
+    # u "You could say I'm \"getting them into gear\"."
+    u "On pourrait dire que je suis en train de \"les faire passer à la vitesse supérieure\"."
+
+# game/v1/scene48.rpy:133
+translate francais v1s48_5174fb12:
+
+    # u "Into gear... like a car? Get it?"
+    u "Passer la vitesse supérieure... Comme une voiture ! Tu comprends ?"
+
+# game/v1/scene48.rpy:138
+translate francais v1s48_af85f6e7:
+
+    # li "I think grandpa's car might've rubbed some of his humor off on you."
+    li "Je crains que la voiture de grand-père ne t'ait transmis un peu de son humour."
+
+# game/v1/scene48.rpy:143
+translate francais v1s48_b84dab56:
+
+    # u "I have more where that came from."
+    u "J'en ai encore d'autres d'où elles viennent."
+
+# game/v1/scene48.rpy:153
+translate francais v1s48_9fbfd364:
+
+    # u "Your loss!"
+    u "C'est toi qui vois !"
+
+# game/v1/scene48.rpy:193
+translate francais v1s48_continue_22d64296:
+
+    # li "Let's hope they want that too."
+    li "Espérons qu'ils souhaitent ça aussi."
+
+# game/v1/scene48.rpy:199
+translate francais v1s48_continue_0df7428e:
+
+    # li "You can see all the fine details without a beautiful blonde distraction."
+    li "On peut voir tous les moindres détails sans être distrait par une belle blonde."
+
+# game/v1/scene48.rpy:204
+translate francais v1s48_continue_99cead62:
+
+    # u "True. Let's hope there's someone out there who can see its potential."
+    u "C'est vrai, espérons que quelqu'un pourra voir son potentiel."
+
+# game/v1/scene48.rpy:219
+translate francais v1s48_continue_e2125b72:
+
+    # li "[name], this is serious!"
+    li "[name], c'est sérieux !"
+
+# game/v1/scene48.rpy:271
+translate francais v1s48_continue2_6ed8fa17:
+
+    # li "Yeah, I guess you're right. Let's go for it, then. I just don't want them to be angry at us when they see the car in person."
+    li "Ouais, je pense que tu as raison. Alors, on y va. Je ne veux tout simplement pas qu'ils soient en colère contre nous, lorsqu'ils verront la voiture en vrai."
+
+# game/v1/scene48.rpy:281
+translate francais v1s48_continue2_39c5fff5:
+
+    # li "[name]... so devious."
+    li "[name]... si sournois."
+
+# game/v1/scene48.rpy:286
+translate francais v1s48_continue2_7b26e907:
+
+    # u "Let them be mad. I'll deal with it."
+    u "Laisse-les se mettre en colère, je m'en occuperai."
+
+# game/v1/scene48.rpy:307
+translate francais v1s48_continue2_47765a33:
+
+    # u "Exactly. Honesty is the best policy. Now we just need to decide the price."
+    u "Tout à fait. L'honnêteté est la meilleure stratégie. Maintenant, il nous reste plus qu'à décider de son prix."
+
+# game/v1/scene48.rpy:312
+translate francais v1s48_continue2_9217956b:
+
+    # li "Okay. Now remember, this is a free advert, but only for 24 hours. I can't afford their fees beyond that, so we need to sell it fast..."
+    li "Ok. Maintenant, rappelle-toi que cette annonce est gratuite mais seulement pour 24 heures. Je ne peux pas me permettre de payer leurs commissions après cette période, alors on doit la vendre rapidement..."
+
+# game/v1/scene48.rpy:324
+translate francais v1s48_continue2_b2685dc3:
+
+    # li "No! It's worth more than that!"
+    li "Non ! Elle vaut plus que ça !"
+
+# game/v1/scene48.rpy:329
+translate francais v1s48_continue2_8d403cb6:
+
+    # u "It would sell fast, though... I would think."
+    u "Mais là, elle serait rapidement vendue..."
+
+# game/v1/scene48.rpy:340
+translate francais v1s48_continue2_5e38b720:
+
+    # u "Seriously, I don't think we'll get any more than like six-hundred bucks. And that's being generous."
+    u "Sérieusement, je pense pas qu'on obtiendra plus de 600 dollars. Et encore, ça serait généreux."
+
+# game/v1/scene48.rpy:355
+translate francais v1s48_continue2_ef4536c0:
+
+    # u "I guess so, yeah. Maybe we can ask for a bit extra based on how well we think our photoshoot went. We can get six-hundred dollars for sure though, I know it."
+    u "Je pense que oui. On peut peut-être demander un peu plus en fonction de la qualité de notre photoshoot. On pourra même obtenir six cents dollars, j'en suis sûr."
+
+# game/v1/scene48.rpy:361
+translate francais v1s48_continue2_09a1e368:
+
+    # u "I really think we can get a solid four-hundred bucks for it."
+    u "Je suis vraiment persuadé qu'on peut en tirer un bon quatre cents dollars."
+
+# game/v1/scene48.rpy:362
+translate francais v1s48_continue2_b7d66b4e:
+
+    # u "It's turning to rust, but they know that from the pictures and our description. At least it still runs."
+    u "Elle est en train de rouiller, et ça, ils le voie bien grâce aux photos et à notre description. Mais au moins, elle fonctionne encore."
+
+# game/v1/scene48.rpy:382
+translate francais v1s48_continue2_604c84dc:
+
+    # u "Nope. No idea."
+    u "Nan. J'y connais rien."
+
+# game/v1/scene48.rpy:387
+translate francais v1s48_continue2_93d702b5:
+
+    # li "Come on, loser. Let's make a decision."
+    li "Arrête, loser. On prend une décision."
+
+# game/v1/scene48.rpy:411
+translate francais v1s48_end_a346fb0d:
+
+    # u "It's certainly a process."
+    u "C'est un vrais processus."
+
+# game/v1/scene48.rpy:422
+translate francais v1s48_end_967e2f6c:
+
+    # u "Mmmm... caramel."
+    u "Mmmm... Caramel."
+
+# game/v1/scene48.rpy:457
+translate francais v1s48_end_11f06b52:
+
+    # u "Of course you do."
+    u "Oui, bien sûr."

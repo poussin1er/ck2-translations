@@ -304,3 +304,124 @@ translate francais v1s53a_c99c30f7:
 
     # u "(Haha, guess I don't have to. Let's get to bed.)"
     u "(Haha, je crois que je suis inutile. Allons nous coucher.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene53a.rpy:48
+translate francais v1s53a_3f4744ba:
+
+    # u "*Moans* Don't stop sucking..."
+    u "*Gémis* Continue à me sucer..."
+
+# game/v1/scene53a.rpy:66
+translate francais v1s53a_11b89567:
+
+    # u "I love that wet, warm mouth of yours."
+    u "J'aime ta bouche chaude et humide."
+
+# game/v1/scene53a.rpy:96
+translate francais v1s53a_a12da560:
+
+    # sa "Ohhh my God, you're so big..."
+    sa "Ohhh merde, elle est si grosse..."
+
+# game/v1/scene53a.rpy:98
+translate francais v1s53a_e1fdf5f4:
+
+    # sa "Nnnngh, yes, stretch me..."
+    sa "Mmmh, oui, étire moi..."
+
+# game/v1/scene53a.rpy:107
+translate francais v1s53a_657444eb:
+
+    # u "Up and down, baby, just like that..."
+    u "En haut et en bas, bébé, comme ça..."
+
+# game/v1/scene53a.rpy:109
+translate francais v1s53a_1e623d1b:
+
+    # sa "You fill me so good..."
+    sa "Tu es tout entier en moi..."
+
+# game/v1/scene53a.rpy:130
+translate francais v1s53a_ddea16f8:
+
+    # u "*Panting* (She really does like to have a good time.)"
+    u "*Halète* (Elle aime vraiment s'amuser.)"
+
+# game/v1/scene53a.rpy:136
+translate francais v1s53a_05d323d7:
+
+    # sa "Give me more..."
+    sa "Donne-moi encore plus..."
+
+# game/v1/scene53a.rpy:141
+translate francais v1s53a_9b809535:
+
+    # u "(Barely holding on here...)"
+    u "(J'ai du mal à tenir la cadence, là...)"
+
+# game/v1/scene53a.rpy:149
+translate francais v1s53a_f7b634cb:
+
+    # sa "Cum inside of me."
+    sa "Jouis en moi."
+
+# game/v1/scene53a.rpy:162
+translate francais v1s53a_11641c24:
+
+    # sa "Fuck me, already! *Moans* I'm so close, daddy. Please..."
+    sa "Baise-moi, maintenant ! *Gémis* Je suis si près, papa. S'il te plaît..."
+
+# game/v1/scene53a.rpy:197
+translate francais v1s53a_185d8291:
+
+    # sa "*Panting* I'm... I... fuck me... harder!"
+    sa "*Halète* Je suis... Je... baise-moi... plus fort !"
+
+# game/v1/scene53a.rpy:199
+translate francais v1s53a_cd6689e2:
+
+    # u "I'm gonna cum, baby!"
+    u "Je vais jouir, bébé !"
+
+# game/v1/scene53a.rpy:208
+translate francais v1s53a_5d13c915:
+
+    # sa "Yeah? Do it, c'mon, fill my pussy, [name]..."
+    sa "C'est vrai ? Alors, vas-y, remplis ma chatte, [name]..."
+
+# game/v1/scene53a.rpy:237
+translate francais v1s53a_c0b27306:
+
+    # u "*Moans* Fuuuuuuck!"
+    u "*Gémis* Puuuutaiiiin !"
+
+# game/v1/scene53a.rpy:242
+translate francais v1s53a_d3bd6828:
+
+    # sa "*Gasps* It's so warm... yes, baby... I love it..."
+    sa "*Soupire* C'est tellement chaud... oui, bébé... J'adore ça..."
+
+# game/v1/scene53a.rpy:247
+translate francais v1s53a_e9307ecf:
+
+    # u "(Oh, shit... I actually came inside of her? What was I thinking?!)"
+    u "(Oh, merde... J'ai vraiment joui en elle ? À quoi je pensais ? !)"
+
+# game/v1/scene53a.rpy:274
+translate francais v1s53a_8b4aabeb:
+
+    # u "You okay?"
+    u "Tu vas bien ?"
+
+# game/v1/scene53a.rpy:304
+translate francais v1s53a_da2bd4f9:
+
+    # u "(Holy... I don't even know how to reply to that.)"
+    u "(Putain de merde... je sais même pas quoi répondre à ça.)"
+
+# game/v1/scene53a.rpy:311
+translate francais v1s53a_9e5ca9ba:
+
+    # u "(Guess I don't have to. Let's get to bed.)"
+    u "(Je crois que je suis inutile. Allons nous coucher.)"

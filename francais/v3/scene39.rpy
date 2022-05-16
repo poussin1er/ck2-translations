@@ -1691,3 +1691,556 @@ translate francais strings:
     # game/v3/scene39.rpy:1439
     old "Blame restaurant"
     new "Blâmer le restaurant"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene39.rpy:32
+translate francais v3s39_f80cbf7d:
+
+    # waiter "Good evening. My name is Sergio."
+    waiter "Bonsoir, je me présente : Sergio."
+
+# game/v3/scene39.rpy:34
+translate francais v3s39_d64acc4d:
+
+    # waiter "Can I start you off with something to drink?"
+    waiter "Puis-je débuter en vous proposant quelque chose à boire ?"
+
+# game/v3/scene39.rpy:75
+translate francais v3s39_32763a69:
+
+    # u "Um... a beer?"
+    u "Hum... Une bière ?"
+
+# game/v3/scene39.rpy:100
+translate francais v3s39_fe7c8eae:
+
+    # waiter "Nice try."
+    waiter "Bien essayé."
+
+# game/v3/scene39.rpy:146
+translate francais v3s39_cb76b3fa:
+
+    # au "If the journey was any longer, I would've jumped out."
+    au "Si le trajet avait été plus long, j'aurais sauté."
+
+# game/v3/scene39.rpy:151
+translate francais v3s39_0117354b:
+
+    # u "Ah! Sorry you had to suffer through that."
+    u "Ah ! Désolé que t'aies dû supporter ça."
+
+# game/v3/scene39.rpy:203
+translate francais v3s39_464addef:
+
+    # waiter "I'll give you some time to peruse the menu."
+    waiter "À présent, je vous laisse le temps d'examiner notre menu."
+
+# game/v3/scene39.rpy:243
+translate francais v3s39_fr_aubrey_date_aubrey_fadd6ff1:
+
+    # au "Oh! Thank you... this was a gift from my grandma."
+    au "Oh ! Merci... C'est un cadeau de ma grand-mère."
+
+# game/v3/scene39.rpy:258
+translate francais v3s39_fr_aubrey_date_aubrey_2e5799df:
+
+    # u "Sounds like Naomi..."
+    u "Du Naomi tout craché..."
+
+# game/v3/scene39.rpy:263
+translate francais v3s39_fr_aubrey_date_aubrey_6b1ec749:
+
+    # au "Yeah, but I love them. I thought for a minute I looked like a supermodel, but now I'm thinking I overdid it slightly..."
+    au "Ouais, mais je les adore. Pendant un instant, je me suis dit que je ressemblais à un top model, mais là, je me dis que j'ai légèrement exagéré...."
+
+# game/v3/scene39.rpy:268
+translate francais v3s39_fr_aubrey_date_aubrey_6eb7e5c2:
+
+    # u "Hey, I didn't realize this place was fancy enough to have its own master soda artist. If anything, I'm underdressed."
+    u "Hé, j'avais pas réalisé que cet endroit était assez luxueux pour avoir son propre artiste des sodas. En fait, c'est moi qui suis très mal habillé."
+
+# game/v3/scene39.rpy:283
+translate francais v3s39_fr_aubrey_date_aubrey_ad84a4c0:
+
+    # au "Ha, yeah. You're lucky, huh?"
+    au "Haha, c'est vrai. Tu as de la chance, hein."
+
+# game/v3/scene39.rpy:295
+translate francais v3s39_fr_aubrey_date_aubrey_05c6f109:
+
+    # au "Oh my God. So smooth!"
+    au "Oh, là là là. Tellement délicat !"
+
+# game/v3/scene39.rpy:300
+translate francais v3s39_fr_aubrey_date_aubrey_418ef3ef:
+
+    # u "You know it!"
+    u "Tu sais bien !"
+
+# game/v3/scene39.rpy:324
+translate francais v3s39_fr_aubrey_date_aubrey_7b87a6d2:
+
+    # au "If I were a restaurant critic, I wouldn't be undercover. I'd want them to roll out the red carpet for me, I think."
+    au "Si j'étais critique de restaurant, je serais pas secrète. Je pense que je voudrais qu'ils me déroulent le tapis rouge."
+
+# game/v3/scene39.rpy:341
+translate francais v3s39_fr_aubrey_date_aubrey_2e1adde4:
+
+    # u "News to me! (Well, shit. Next time is seafood, I suppose.)"
+    u "C'est une première pour moi ! ( Ben, merde. La prochaine fois, je crois que ça sera les fruits de mer.)"
+
+# game/v3/scene39.rpy:351
+translate francais v3s39_fr_aubrey_date_aubrey_ab43c105:
+
+    # u "That does sound amazing... wanna ditch this place and go there?"
+    u "Ça a l'air génial... On laisse tomber cet endroit et on y va ?"
+
+# game/v3/scene39.rpy:356
+translate francais v3s39_fr_aubrey_date_aubrey_112bed60:
+
+    # au "Ha, stop it, of course not. Italian food is great. I've just really wanted to check out that other place, you know?"
+    au "Arrête, bien sûr que non. La cuisine italienne est géniale. J'avais juste vraiment envie d'aller découvrir ce nouveau resto, tu comprends ?"
+
+# game/v3/scene39.rpy:381
+translate francais v3s39_fr_aubrey_date_clock_b87361e7:
+
+    # au "What are you talking about? I think he's doing fine. Besides, I doubt you have what it takes to be a master soda artist."
+    au "De quoi tu parles ? Je trouve qu'il se débrouille bien. De toute façon, ça m'étonnerait que t'aies ce qu'il faut pour être un \"maître des sodas\"."
+
+# game/v3/scene39.rpy:391
+translate francais v3s39_fr_aubrey_date_clock_53aaee8d:
+
+    # au "Are you sure you're not a secret restaurant critic?"
+    au "T'es sûr que t'es pas un critique de restaurant infiltré ?"
+
+# game/v3/scene39.rpy:396
+translate francais v3s39_fr_aubrey_date_clock_40002a46:
+
+    # u "If I was, this place would be in trouble."
+    u "Et bien si j'en était un, ce lieu aurait des problèmes."
+
+# game/v3/scene39.rpy:433
+translate francais v3s39_fr_aubrey_date_clock_06ef62ab:
+
+    # u "Ha, well, okay... I was also thinking about all the time we'd have for sex later, too."
+    u "Bon, d'accord... Je pensais aussi à tout le temps qu'on aurait pour coucher ensemble, plus tard."
+
+# game/v3/scene39.rpy:438
+translate francais v3s39_fr_aubrey_date_clock_0e558760:
+
+    # au "That's more like it."
+    au "C'est mieux comme ça."
+
+# game/v3/scene39.rpy:461
+translate francais v3s39_fr_aubrey_date_mc_3f75073f:
+
+    # au "Someone's full of himself..."
+    au "Quelqu'un est imbu de sa personne..."
+
+# game/v3/scene39.rpy:471
+translate francais v3s39_fr_aubrey_date_mc_eae73a73:
+
+    # au "Well, duh... you always look sexy in a suit, [name]."
+    au "Eh ben, évidemment... T'es toujours sexy en costume, [name]."
+
+# game/v3/scene39.rpy:486
+translate francais v3s39_fr_aubrey_date_mc_ce4e4ef8:
+
+    # au "Hm... I didn't realize I was going out with a narcissist."
+    au "Hum... J'avais pas réalisé que je sortais avec un narcissique."
+
+# game/v3/scene39.rpy:491
+translate francais v3s39_fr_aubrey_date_mc_ff600484:
+
+    # u "What can I say? I'm sexy and I know it."
+    u "Que dire de mieux ? Je suis sexy et je le sais."
+
+# game/v3/scene39.rpy:516
+translate francais v3s39_fr_aubrey_date_mc_588167e2:
+
+    # au "You feel like a monkey?"
+    au "Tu te sens comme un singe ?"
+
+# game/v3/scene39.rpy:521
+translate francais v3s39_fr_aubrey_date_mc_dd96cb52:
+
+    # u "Ha, no... I mean I feel like a fish out of water, you know?"
+    u "Oh non... Ce que je veux dire, c'est que je me sens comme un poisson hors de l'eau, tu vois ?"
+
+# game/v3/scene39.rpy:526
+translate francais v3s39_fr_aubrey_date_mc_05625ffa:
+
+    # au "Are you kidding? I know exactly how you feel. Just not sure about the monkey part..."
+    au "Tu rigoles ? Je vois exactement ce que tu ressens, mais je suis pas sûre pour la partie sur les singes..."
+
+# game/v3/scene39.rpy:536
+translate francais v3s39_fr_aubrey_date_mc_a5f5f187:
+
+    # au "It's okay. You're lucky you're cute."
+    au "Ça ira. T'as de la chance d'être mignon."
+
+# game/v3/scene39.rpy:541
+translate francais v3s39_fr_aubrey_date_mc_83360074:
+
+    # au "My little monkey boy."
+    au "Mon petit homme-singe."
+
+# game/v3/scene39.rpy:551
+translate francais v3s39_fr_aubrey_date_mc_ab00e692:
+
+    # au "Hehe... we'll see."
+    au "Héhé... On verra bien."
+
+# game/v3/scene39.rpy:598
+translate francais v3s39_fr_aubrey_date_menu_2735b625:
+
+    # waiter "Wonderful choices. Two of our most popular dishes. You're in for a treat!"
+    waiter "De très bons choix. Deux de nos plats les plus populaires. Vous allez vous régaler !"
+
+# game/v3/scene39.rpy:630
+translate francais v3s39_fr_aubrey_date_menu_32c1fa1b:
+
+    # au "Hmph. If I don't like it, I get your pasta."
+    au "Hmph... Si j'aime pas, je prends tes pâtes."
+
+# game/v3/scene39.rpy:650
+translate francais v3s39_fr_aubrey_date_menu_c8b4d539:
+
+    # au "Naughty boys get punished. I don't make the rules. That's what you get for ordering for me."
+    au "Les vilains garçons sont punis, c'est pas moi qui fais les règles. C'est ce que tu récoltes en commandant pour moi."
+
+# game/v3/scene39.rpy:664
+translate francais v3s39_fr_aubrey_date_menu_4e23dec4:
+
+    # u "Hey, I was going to order that. Cheater."
+    u "Hé, j'allais commander ça... Tricheuse."
+
+# game/v3/scene39.rpy:669
+translate francais v3s39_fr_aubrey_date_menu_716fae3a:
+
+    # au "Cheater? Hmm... okay, tell you what..."
+    au "Tricheuse ? Hmm... Ok, je vais te dire..."
+
+# game/v3/scene39.rpy:676
+translate francais v3s39_fr_aubrey_date_menu_ec1c7557:
+
+    # u "Ha, assuming that I'll share?"
+    u "Oh, tu crois que je vais partager ?"
+
+# game/v3/scene39.rpy:723
+translate francais v3s39_fr_aubrey_date_menu_91875685:
+
+    # u "I'm actually starving now. I can't wait to eat."
+    u "En fait, maintenant, je suis affamé. J'ai hâte de manger."
+
+# game/v3/scene39.rpy:743
+translate francais v3s39_fr_aubrey_date_menu_3ed76bcd:
+
+    # u "Ha, wow..."
+    u "Oh, wow..."
+
+# game/v3/scene39.rpy:753
+translate francais v3s39_fr_aubrey_date_menu_cd6dd95c:
+
+    # waiter "And here we go... two beautifully delicious, and deliciously beautiful plates of food."
+    waiter "Et voilà pour vous... Deux assiettes magnifiquement délicieuses, et délicieusement belles."
+
+# game/v3/scene39.rpy:755
+translate francais v3s39_fr_aubrey_date_menu_1ff43e09:
+
+    # waiter "One authentic, stone-baked Italian pizza... and one spaghetti and meatballs with our signature tomato sauce."
+    waiter "Une pizza italienne authentique cuite sur pierre... Et les spaghettis aux boulettes de viande avec notre sauce tomate."
+
+# game/v3/scene39.rpy:760
+translate francais v3s39_fr_aubrey_date_menu_d1a97551:
+
+    # au "*Sniffs* Mmmm... this smells so fucking g-"
+    au "*Snif* Mmmm... Ça sent si putain de b-"
+
+# game/v3/scene39.rpy:762
+translate francais v3s39_fr_aubrey_date_menu_c6f0be61:
+
+    # au "Oh, excuse my language! Sorry. It smells great."
+    au "Oh, excusez mon langage ! Désolée. Ça sent très bon."
+
+# game/v3/scene39.rpy:777
+translate francais v3s39_fr_aubrey_date_menu_1187bcd7:
+
+    # au "Ha! I like you."
+    au "Je t'aime beaucoup."
+
+# game/v3/scene39.rpy:826
+translate francais v3s39_fr_aubrey_date_aubrey2_9badf70e:
+
+    # au "Ha, yes. As crazy as it is, they flew out yesterday."
+    au "Oui. Aussi fou que ça puisse paraître... Ils ont pris l'avion hier."
+
+# game/v3/scene39.rpy:848
+translate francais v3s39_fr_aubrey_date_aubrey2_6ddc2f54:
+
+    # au "Yes! I'd love that. That would be a vacation to remember, for sure."
+    au "Oui ! J'adorerais. Ça serait des vacances mémorables, pour sûr."
+
+# game/v3/scene39.rpy:862
+translate francais v3s39_fr_aubrey_date_aubrey2_f56b4020:
+
+    # au "*Sighs* I don't care about Chicks drama anymore. Not right now, at least."
+    au "*Soupirs* Je me fous des histoires des Chicks ! En tout cas, pour l'instant."
+
+# game/v3/scene39.rpy:869
+translate francais v3s39_fr_aubrey_date_aubrey2_a616d1bd:
+
+    # u "Aww, you don't want to... what's the saying? \"Spill all the hot goss\"?"
+    u "Ooh, tu veux pas... Quel est le dicton ? \"Remuer la merde\" ?"
+
+# game/v3/scene39.rpy:879
+translate francais v3s39_fr_aubrey_date_aubrey2_d334eeac:
+
+    # u "Yeah, I can see how it might make everything stressful. It'll be nice once it's all settled and the campaigning ends."
+    u "Ouais, je peux voir à quel point ça peut être stressant. Ça ira mieux quand tout sera réglé et que la période de campagne sera terminée."
+
+# game/v3/scene39.rpy:907
+translate francais v3s39_fr_aubrey_date_aubrey_food_215e11ce:
+
+    # au "Um, I think that's what he said... why?"
+    au "Hum, je crois que c'est ce qu'il a dit... Pourquoi ?"
+
+# game/v3/scene39.rpy:912
+translate francais v3s39_fr_aubrey_date_aubrey_food_7cd72d27:
+
+    # u "It looks like it's been microwaved."
+    u "On dirait qu'elle a été réchauffée au micro-ondes."
+
+# game/v3/scene39.rpy:917
+translate francais v3s39_fr_aubrey_date_aubrey_food_d3d22eac:
+
+    # au "Are you serious? It tastes amazing."
+    au "T'es sérieux ? Elle est incroyablement bonne pour moi."
+
+# game/v3/scene39.rpy:922
+translate francais v3s39_fr_aubrey_date_aubrey_food_9ef99810:
+
+    # u "Are you sure? It looks kinda soggy..."
+    u "T'es sûre ? Elle a l'air un peu molle..."
+
+# game/v3/scene39.rpy:924
+translate francais v3s39_fr_aubrey_date_aubrey_food_66328a44:
+
+    # u "We can always send it back if you'd like something else."
+    u "On peut toujours la renvoyer si tu veux autre chose."
+
+# game/v3/scene39.rpy:954
+translate francais v3s39_fr_aubrey_date_aubrey_food_6e1b1568:
+
+    # u "The waiter wasn't lying... your pizza looks delicious."
+    u "Le serveur a pas menti... Ta pizza a l'air délicieuse."
+
+# game/v3/scene39.rpy:959
+translate francais v3s39_fr_aubrey_date_aubrey_food_24137fbb:
+
+    # au "Ha, it's so strange... It tastes so fresh and organic? If that's even a thing?"
+    au "Haha, c'est trop bizarre... Elle a vraiment une saveur fraîche et naturelle ? Si c'est possible..."
+
+# game/v3/scene39.rpy:969
+translate francais v3s39_fr_aubrey_date_aubrey_food_200f8886:
+
+    # au "Not quite... but it does make me wonder if the pizza there is better than this masterpiece here."
+    au "Pas vraiment... Mais ça me fait me demander si les pizzas de là-bas sont meilleures que ce chef-d'œuvre."
+
+# game/v3/scene39.rpy:979
+translate francais v3s39_fr_aubrey_date_aubrey_food_19e107fe:
+
+    # au "Deal! Once my bank account has recovered from our first trip to Europe."
+    au "Marché conclu ! Mais une fois que mon compte bancaire se sera remis de notre premier voyage en Europe."
+
+# game/v3/scene39.rpy:984
+translate francais v3s39_fr_aubrey_date_aubrey_food_2e11e504:
+
+    # u "Same."
+    u "Pareil."
+
+# game/v3/scene39.rpy:1033
+translate francais v3s39_fr_aubrey_date_mc_food_cbcf6fc0:
+
+    # u "Yeah, like... chewy, but not in a good way."
+    u "Ouais, genre- Des chewing-gum, mais pas dans le bon sens."
+
+# game/v3/scene39.rpy:1093
+translate francais v3s39_fr_aubrey_date_mc_food_ef2f1671:
+
+    # u "What?"
+    u "Quoi ?"
+
+# game/v3/scene39.rpy:1103
+translate francais v3s39_fr_aubrey_date_mc_food_cf1fc67c:
+
+    # u "Love these meatballs, eh?"
+    u "Je kiffe ces boulettes de viande."
+
+# game/v3/scene39.rpy:1108
+translate francais v3s39_fr_aubrey_date_mc_food_22e1ed17:
+
+    # au "You're happy with your choice, then?"
+    au "T'es donc content de ton choix ?"
+
+# game/v3/scene39.rpy:1113
+translate francais v3s39_fr_aubrey_date_mc_food_b099b224:
+
+    # u "Very happy. It's the shit."
+    u "Très content, c'est une bonne merde."
+
+# game/v3/scene39.rpy:1118
+translate francais v3s39_fr_aubrey_date_mc_food_3b7651a9:
+
+    # au "Give me a taste?"
+    au "Tu me fais goûter ?"
+
+# game/v3/scene39.rpy:1128
+translate francais v3s39_fr_aubrey_date_mc_food_3a72e978:
+
+    # au "Oh, you weren't lying. Your meatballs are incredible!"
+    au "Oh, t'avais raison. Tes boulettes sont vraiment incroyables !"
+
+# game/v3/scene39.rpy:1133
+translate francais v3s39_fr_aubrey_date_mc_food_89fc1aac:
+
+    # u "Thank you. You can feast on my meatballs anytime."
+    u "merci. Tu pourras te régaler de mes boulettes de viande quand tu voudras."
+
+# game/v3/scene39.rpy:1138
+translate francais v3s39_fr_aubrey_date_mc_food_a877232b:
+
+    # au "You're ridiculous."
+    au "T'es ridicule."
+
+# game/v3/scene39.rpy:1178
+translate francais v3s39_fr_aubrey_date_dessert_menu_2cda550e:
+
+    # au "Yes! It was great. Thank you."
+    au "Oui ! C'était super, merci."
+
+# game/v3/scene39.rpy:1228
+translate francais v3s39_fr_aubrey_date_dessert_menu_6053410c:
+
+    # waiter "Another excellent choice! I take a piece home every night... *whispers* but don't tell anyone I said that."
+    waiter "Un autre choix excellent ! Je m'en ramène une part à la maison tous les soirs... *Chuchote* Ne dites à personne que j'ai dit ça."
+
+# game/v3/scene39.rpy:1231
+translate francais v3s39_fr_aubrey_date_dessert_menu_9582fd99:
+
+    # waiter "Especially our white chocolate cake; it's to die for. I take a piece home every night... *whispers* but don't tell anyone I said that."
+    waiter "Particulièrement notre gâteau au chocolat blanc qui est à couper le souffle. J'en ramène tous les soirs, une part à la maison... *Chuchote* Ne dites à personne que j'ai dit ça."
+
+# game/v3/scene39.rpy:1236
+translate francais v3s39_fr_aubrey_date_dessert_menu_4b1f99ac:
+
+    # u "Your secret is safe with us."
+    u "Votre secret sera bien gardé avec nous."
+
+# game/v3/scene39.rpy:1249
+translate francais v3s39_fr_aubrey_date_dessert_menu_a29877a2:
+
+    # u "Ha, oops."
+    u "Haha, oups."
+
+# game/v3/scene39.rpy:1286
+translate francais v3s39_fr_aubrey_date_dessert_menu_0dbb7fc6:
+
+    # au "You just had to go and mention chocolate, didn't you. *Sighs*"
+    au "Il fallait que tu parles de chocolat, hein ? *Soupirs*"
+
+# game/v3/scene39.rpy:1291
+translate francais v3s39_fr_aubrey_date_dessert_menu_052d58ce:
+
+    # u "Ha, sorry. You don't have to get any if you don't want to."
+    u "Désolé. T'es pas obligé d'en prendre si tu veux pas."
+
+# game/v3/scene39.rpy:1299
+translate francais v3s39_fr_aubrey_date_dessert_menu_0547012c:
+
+    # au "Actually, the trifle sounds tempting. I'll go for that one."
+    au "En fait, les truffes ont l'air tentantes, je vais prendre ça."
+
+# game/v3/scene39.rpy:1307
+translate francais v3s39_fr_aubrey_date_dessert_menu_6442a218:
+
+    # waiter "And if you don't mind, I'll clear these plates for you. It's so nice to see them empty! I'll be right back with dessert."
+    waiter "Et sans vouloir vous déranger, je vais immédiatement débarrasser ces assiettes. Ça fait plaisir de voir qu'apparemment vous avez aimé notre cuisine ! Je vous apporte le dessert tout de suite."
+
+# game/v3/scene39.rpy:1332
+translate francais v3s39_fr_aubrey_date_dessert_menu_f3685425:
+
+    # au "Ha. Maybe he's just a very happy man."
+    au "Peut-être que c'est juste un homme très joyeux."
+
+# game/v3/scene39.rpy:1358
+translate francais v3s39_fr_aubrey_date_dessert_menu_92a70ef6:
+
+    # au "Oh God... [name]?"
+    au "Oh, nonnn... [name] ?"
+
+# game/v3/scene39.rpy:1482
+translate francais v3s39_fr_aubrey_date_dessert_menu_a4239cec:
+
+    # u "I didn't mean to upset you with it. The intention was the complete opposite. Is there anything I can do to make it up to you?"
+    u "Je voulais pas te contrarier à cause de ça, mon intention était totalement inverse. Comment faire pour me faire pardonner ?"
+
+# game/v3/scene39.rpy:1492
+translate francais v3s39_fr_aubrey_date_dessert_menu_52256411:
+
+    # u "I promise. No more surprises."
+    u "Je te promets ! Plus de surprises."
+
+# game/v3/scene39.rpy:1509
+translate francais v3s39_fr_aubrey_date_dessert_menu_47b00c23:
+
+    # au "Eventually... probably."
+    au "Je sais pas... Peut-être."
+
+# game/v3/scene39.rpy:1528
+translate francais v3s39_fr_aubrey_date_dessert_menu_c1143970:
+
+    # u "I'm sorry. And I'm sure whoever made that mistake is also really, really sorry..."
+    u "Je suis désolé pour toi. Et je suis sûr que la personne qui a fait cette erreur est également vraiment, vraiment désolée..."
+
+# game/v3/scene39.rpy:1571
+translate francais v3s39_fr_aubrey_date_dessert_menu_526eb392:
+
+    # au "Thank you so much."
+    au "Merci beaucoup."
+
+# game/v3/scene39.rpy:1591
+translate francais v3s39_fr_aubrey_date_dessert_menu_5952f14c:
+
+    # au "Wow, yeah... good call."
+    au "Oh, oui... Bien vu."
+
+# game/v3/scene39.rpy:1606
+translate francais v3s39_fr_aubrey_date_dessert_menu_ea4417a3:
+
+    # au "Fuck, I'm glad that's not me. I'd be dying of embarrassment right now."
+    au "Putain, je suis vraiment heureuse que ça soit pas moi. Je mourrais d'embarras sur le coup."
+
+# game/v3/scene39.rpy:1616
+translate francais v3s39_fr_aubrey_date_dessert_menu_8b0b544e:
+
+    # u "Really? Not a fan of getting special treatment?"
+    u "C'est vrai ? T'aimes pas être au centre de l'attention ?"
+
+# game/v3/scene39.rpy:1621
+translate francais v3s39_fr_aubrey_date_dessert_menu_f0605334:
+
+    # au "Absolutely not. The brighter the spotlight, the weaker I feel. It's strange but, yeah."
+    au "Pas du tout... Plus les projecteurs sont puissants, plus je suis affaiblie. C'est bizarre mais, c'est comme ça."
+
+# game/v3/scene39.rpy:1636
+translate francais v3s39_fr_aubrey_date_dessert_menu_f53a5442:
+
+    # au "He has an amazing voice though!"
+    au "En tout cas, il a une voix incroyable !"
+
+# game/v3/scene39.rpy:1646
+translate francais v3s39_fr_aubrey_date_dessert_menu_01097cf9:
+
+    # au "For real."
+    au "Vraiment."

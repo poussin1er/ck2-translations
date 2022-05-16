@@ -377,3 +377,70 @@ translate francais strings:
     # game/v1/scene30a.rpy:206
     old "Run"
     new "Cours"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene30a.rpy:73
+translate francais v1s30a_4f49904b:
+
+    # cl "It'll be fine."
+    cl "Tout ira bien."
+
+# game/v1/scene30a.rpy:135
+translate francais v1s30a_ab58201b:
+
+    # wtrain "So... bet you're wondering what an Australian is doing with a wolf, huh?"
+    wtrain "Alors... Je parie que tu t'demandes c'qu'un Australien fait avec un loup, hein ?"
+
+# game/v1/scene30a.rpy:145
+translate francais v1s30a_1db56a8b:
+
+    # cl "Okay, let's get this party started, shall we?"
+    cl "Ok, que la fête commence, d'accord ?"
+
+# game/v1/scene30a.rpy:186
+translate francais v1s30a_f5649fcb:
+
+    # u "Woah, woah, woah... umm, excuse me?"
+    u "Woah, woah, woa- Oh... Hum, excuse-moi ?"
+
+# game/v1/scene30a.rpy:191
+translate francais v1s30a_57c237c0:
+
+    # wtrain "Oh, uh, don't worry! Just stay calm, and so will he. Probably."
+    wtrain "Oh, euh, t'inquiète pas ! Reste tranquille, et lui aussi l'sera. Peut-être..."
+
+# game/v1/scene30a.rpy:201
+translate francais v1s30a_0371c643:
+
+    # u "(This is it... this is how I die...)"
+    u "(Et voilà... C'est comme ça que je vais mourir...)"
+
+# game/v1/scene30a.rpy:282
+translate francais v1s30a_1075981f:
+
+    # cl "Ha!"
+    cl "Ah !"
+
+# game/v1/scene30a.rpy:307
+translate francais v1s30a_bffd4239:
+
+    # cl "Just c'mon already, meat man."
+    cl "Allez, viens, Steackman."
+
+# game/v1/scene30a.rpy:354
+translate francais v1s30a_a019032d:
+
+    # u "I've already seen them all, Chloe. Pick your favorites and maybe I can help you choose."
+    u "Je les ai déjà toutes vues, Chloé. Choisis tes préférées et je pourrai peut-être t'aider à choisir."
+
+# game/v1/scene30a.rpy:359
+translate francais v1s30a_4fffe3bf:
+
+    # cl "Yeah, okay. Thank you again."
+    cl "Ouais, ok, haha. Merci encore."
+
+# game/v1/scene30a.rpy:384
+translate francais v1s30a_d5ff93b3:
+
+    # u "Thanks for coming out here. Bye, Niko!"
+    u "Merci d'être venu, ciao Niko !"

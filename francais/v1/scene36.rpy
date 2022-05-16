@@ -514,7 +514,7 @@ translate francais v1s36_dc88bbaf:
 translate francais v1s36_4a1f6912:
 
     # jen "Penelope of course."
-    jen "Pénélope bien sûr."
+    jen "Pénélope, bien sûr."
 
 # game/v1/scene36.rpy:454
 translate francais v1s36_b78acdd6:
@@ -1411,3 +1411,598 @@ translate francais strings:
     # game/v1/scene36.rpy:246
     old "Not really"
     new "Pas vraiment"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene36.rpy:33
+translate francais v1s36_316024c0:
+
+    # u "Well, I feel honored to be one of the first people to use it."
+    u "Eh bien, je suis très honoré d'être l'une des premières personnes à l'utiliser."
+
+# game/v1/scene36.rpy:40
+translate francais v1s36_e8b530ad:
+
+    # jen "Maybe. I thought I would but the water is a little colder than I expected. I will put my feet in, though."
+    jen "Peut-être. J'y ai pensé, mais l'eau est un peu plus froide que ce à quoi je m'attendais. Mais je vais quand même mettre mes pieds dedans."
+
+# game/v1/scene36.rpy:45
+translate francais v1s36_40f16dc7:
+
+    # u "That's a good idea. Let's start slow."
+    u "En voilà une bonne idée. On va commencer tranquillement."
+
+# game/v1/scene36.rpy:60
+translate francais v1s36_f2e342d1:
+
+    # jen "Not too bad, I guess."
+    jen "Je trouve qu'elle est plutôt bonne."
+
+# game/v1/scene36.rpy:65
+translate francais v1s36_c7c09245:
+
+    # u "So, tell me, what made you wanna hang out tonight?"
+    u "Alors dis-moi, qu'est-ce qui t'a donné envie de sortir ce soir ?"
+
+# game/v1/scene36.rpy:78
+translate francais v1s36_f01d9c5d:
+
+    # u "Oh, happy to help... is Penelope busy today?"
+    u "Oh, ravi de pouvoir aider... Pénélope est occupée aujourd'hui ?"
+
+# game/v1/scene36.rpy:88
+translate francais v1s36_752ab45f:
+
+    # jen "Ha, you're not. Well... just a bit, maybe."
+    jen "Haha, t'en es pas un. Enfin, un peu peut-être."
+
+# game/v1/scene36.rpy:93
+translate francais v1s36_5ca9657d:
+
+    # u "So, I assume Penelope's busy today?"
+    u "J'imagine donc que Pénélope est occupée aujourd'hui ?"
+
+# game/v1/scene36.rpy:116
+translate francais v1s36_70643bc9:
+
+    # u "Yeah. Chloe, who is the current president, and Lindsey are running against each other."
+    u "Ouais. Chloé, qui en est la présidente actuelle, et Lindsey se présentent l'une contre l'autre à ce poste."
+
+# game/v1/scene36.rpy:118
+translate francais v1s36_dad7adb9:
+
+    # u "It's not as big of a deal to the college as it seems, but in our pocket of friends, everyone's involved."
+    u "Pour la plupart des étudiants, c'est pas aussi important qu'il n'y paraît, mais dans notre groupe d'amis, tout le monde est impliqué."
+
+# game/v1/scene36.rpy:133
+translate francais v1s36_b9bbbe07:
+
+    # jen "Tall, blonde, and a true badass. We did pageants together when we were kids."
+    jen "Grande, blonde et une vraie badass. On a fait des concours de beauté ensemble quand on était petites."
+
+# game/v1/scene36.rpy:138
+translate francais v1s36_78080b84:
+
+    # u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask."
+    u "Eh bien, la Chloé que je connais est définitivement une badass, ou une badbitch, selon la personne à qui tu demandes."
+
+# game/v1/scene36.rpy:143
+translate francais v1s36_1d4fb0aa:
+
+    # jen "Ha! Wait, no way... what's her last name?"
+    jen "Haha ! Attends, c'est pas possible... C'est quoi son nom de famille ?"
+
+# game/v1/scene36.rpy:163
+translate francais v1s36_22a70a03:
+
+    # u "Nope. President of the Chicks, Homecoming Queen, and one of my close friends."
+    u "Non. Présidente des Chicks, Reine du Homecoming, et une de mes amies proches."
+
+# game/v1/scene36.rpy:173
+translate francais v1s36_e97ad0a2:
+
+    # u "Small world."
+    u "Le monde est petit."
+
+# game/v1/scene36.rpy:178
+translate francais v1s36_81d3c7ff:
+
+    # jen "I haven't seen her in years... what has she been up to?"
+    jen "Je l'ai pas vue depuis des années... Qu'est-ce qu'elle devient ?"
+
+# game/v1/scene36.rpy:188
+translate francais v1s36_eb57450a:
+
+    # jen "Oh, pfft... there's no way she'll lose to someone named Lindsey."
+    jen "Oh, pfft... Y a aucune chance qu'elle perde contre quelqu'un qui s'appelle Lindsey."
+
+# game/v1/scene36.rpy:208
+translate francais v1s36_f2e10ab8:
+
+    # u "You and everyone else in our circles."
+    u "Toi et tous les autres membres de notre groupe."
+
+# game/v1/scene36.rpy:261
+translate francais v1s36_ecb4fe0c:
+
+    # jen "Well, I'm not some \"Chick\"."
+    jen "Eh bien, je ne suis pas une \"Chick\"."
+
+# game/v1/scene36.rpy:271
+translate francais v1s36_711c110a:
+
+    # u "Not really. I'm more of the reserved type, I guess, because I like to focus on the serious stuff."
+    u "Pas vraiment. Je suis plutôt du genre réservé, je crois, car j'aime me concentrer sur les affaires sérieuses."
+
+# game/v1/scene36.rpy:300
+translate francais v1s36_588f51b4:
+
+    # jen "Huh..."
+    jen "Euh..."
+
+# game/v1/scene36.rpy:307
+translate francais v1s36_438c0da4:
+
+    # u "Which is interesting, because I didn't get that vibe from my first impression of you."
+    u "Et c'est assez intéressant, car j'ai pas eu cette impression de toi lors de notre première rencontre."
+
+# game/v1/scene36.rpy:312
+translate francais v1s36_6ef687c2:
+
+    # jen "It's not something I show all that readily..."
+    jen "C'est pas quelque chose que je montre tout de suite..."
+
+# game/v1/scene36.rpy:317
+translate francais v1s36_b663e4a9:
+
+    # u "I see."
+    u "Je vois..."
+
+# game/v1/scene36.rpy:319
+translate francais v1s36_6dabe756:
+
+    # u "I guess there's a lot you can get to know about a person if you see them more than a few times. Weird, huh?"
+    u "Je crois qu'on peut apprendre beaucoup de choses sur une personne si on la voit plus souvent... Bizarre. Hein ?"
+
+# game/v1/scene36.rpy:324
+translate francais v1s36_2e51fd01:
+
+    # jen "How many times have we seen each other now?"
+    jen "Combien de fois on s'est vus jusqu'à présent ?"
+
+# game/v1/scene36.rpy:374
+translate francais v1s36_dd3fc6c5:
+
+    # u "Oh... oh! That's what you're talking about. Well, that was an accident, though, right?"
+    u "Oh... O-Oh ! C'est de ça que tu parles, haha. Mais c'était un accident, non ?"
+
+# game/v1/scene36.rpy:379
+translate francais v1s36_1d4052ee:
+
+    # jen "True, yeah... but it wasn't a mistake."
+    jen "C'est vrai, ouais... Mais ce n'était pas un \"accident\"."
+
+# game/v1/scene36.rpy:391
+translate francais v1s36_316bcb4a:
+
+    # jen "I'm not mad that it happened, and I don't regret it or anything."
+    jen "Je suis pas en colère que ça soit arrivé, et je le regrette pas ou quoi que ce soit."
+
+# game/v1/scene36.rpy:401
+translate francais v1s36_06756847:
+
+    # jen "'Cause it's better that it was you rather than some creep. At least it wasn't Imre or... what's his face..."
+    jen "Parce que c'est mieux que ça soit toi plutôt qu'un sale type. Au moins, c'était pas Imre ou... c'est quoi son nom ?"
+
+# game/v1/scene36.rpy:426
+translate francais v1s36_db881e03:
+
+    # u "I mean, I don't blame you, but... why don't you like them?"
+    u "Je te blâme pas, mais... Pourquoi tu les aimes pas ?"
+
+# game/v1/scene36.rpy:451
+translate francais v1s36_4c60a5a7:
+
+    # jen "Penelope, of course."
+    jen "Pénélope, bien sûr."
+
+# game/v1/scene36.rpy:456
+translate francais v1s36_a415d2c5:
+
+    # u "Penelope isn't in a sorority and chooses to miss out on a lot of those things. So I guess I don't see how she could know everyone so well."
+    u "Pénélope n'est pas dans une sororité et choisit également de pas participer à beaucoup de ces trucs. Alors je vois pas comment elle peut connaître tout le monde aussi bien."
+
+# game/v1/scene36.rpy:461
+translate francais v1s36_3116ccc8:
+
+    # jen "Penelope may be quiet, but she has her ears to all the walls. She's very aware of the things around her."
+    jen "Pénélope est peut-être silencieuse mais elle a les oreilles partout. Elle est très consciente des choses qui l'entourent."
+
+# game/v1/scene36.rpy:471
+translate francais v1s36_ac8ae235:
+
+    # u "Ha, okay. Well, in that case..."
+    u "Haha, ok. Dans ce cas..."
+
+# game/v1/scene36.rpy:481
+translate francais v1s36_3a36a945:
+
+    # jen "I have. That's how I know that I can trust you and... you know, be myself."
+    jen "C'est le cas. C'est grâce à ça que je sais que je peux te faire confiance et... Tu sais, être moi-même."
+
+# game/v1/scene36.rpy:534
+translate francais v1s36_ca342e2a:
+
+    # jen "Whatever."
+    jen "Si tu le dis."
+
+# game/v1/scene36.rpy:560
+translate francais v1s36_ee79bba6:
+
+    # u "I'm just trying to be a good friend."
+    u "J'essaie juste d'être un bon ami."
+
+# game/v1/scene36.rpy:601
+translate francais v1s36_eaade579:
+
+    # jen "I didn't know you guys were going to be in Europe for that long. I thought it was gonna be like a weekend thing, so..."
+    jen "Je savais pas que vous alliez rester en Europe aussi longtemps, je pensais que ça allait être juste un week-end, alors..."
+
+# game/v1/scene36.rpy:606
+translate francais v1s36_d5ca789c:
+
+    # jen "I was excited to hang out with you after the Penelope stuff was settled and, well, obviously it didn't happen 'til now."
+    jen "J'étais impatiente de passer du temps avec toi après que l'affaire Pénélope ait été réglée et, de toute évidence, ça n'a pas été possible jusqu'à maintenant."
+
+# game/v1/scene36.rpy:626
+translate francais v1s36_6e414efc:
+
+    # jen "I didn't really want to. After meeting you and... you being so close with Penelope already... that's all I really need."
+    jen "J'en avais pas vraiment envie, haha. Après t'avoir rencontré et... Le fait que tu sois déjà si proche de Pénélope... C'est tout ce dont j'ai vraiment besoin."
+
+# game/v1/scene36.rpy:636
+translate francais v1s36_fdd8e626:
+
+    # u "(Debatable...) Thank you, Jenny, but-"
+    u "(Discutable...) Merci Jenny mais-"
+
+# game/v1/scene36.rpy:716
+translate francais v1s36_sg_36d5f62d:
+
+    # jen "*Whispers* But I'm really glad you are."
+    jen "*Chuchote* Je suis vraiment contente que tu sois là, avec moi."
+
+# game/v1/scene36.rpy:731
+translate francais v1s36_sg_fdd45e84:
+
+    # u "I feel like we've built a real connection tonight. And along with everything we've already been through..."
+    u "J'ai l'impression qu'on a créé une vraie connexion ce soir et avec tout ce qu'on a déjà vécu..."
+
+# game/v1/scene36.rpy:738
+translate francais v1s36_sg_14a7fdfd:
+
+    # jen "I'm usually the date first, dessert second, type of girl... but right now I'm feeling... some type of way."
+    jen "Je suis habituellement le type de fille qui commence par un rendez-vous et qui prend le dessert après... mais là maintenant, je me sens... C'est une autre façon de faire."
+
+# game/v1/scene36.rpy:743
+translate francais v1s36_sg_2e11e504:
+
+    # u "Same."
+    u "Pareil."
+
+# game/v1/scene36.rpy:797
+translate francais v1s36_sg_41440147:
+
+    # jen "What are you-"
+    jen "Qu'est-ce que tu-"
+
+# game/v1/scene36.rpy:842
+translate francais v1s36_sg_ede9c654:
+
+    # jen "Hey! That tickles! S-stop! What-"
+    jen "Hé ! Ça chatouille ! S-stop ! Que-"
+
+# game/v1/scene36.rpy:859
+translate francais v1s36_sg_08a24ea9:
+
+    # jen "Well, well... that was a fancy little trick."
+    jen "Eh bien, eh bien... C'était un petit tour de passe-passe."
+
+# game/v1/scene36.rpy:865
+translate francais v1s36_sg_083c1246:
+
+    # u "Ha... want 'em back?"
+    u "Haha... Tu veux les récupérer ?"
+
+# game/v1/scene36.rpy:899
+translate francais v1s36_sg_70764ac3:
+
+    # u "Jenny... oh, God, Jenny..."
+    u "Jenny... oh, putain, Jenny..."
+
+# game/v1/scene36.rpy:908
+translate francais v1s36_sg_dc966d0f:
+
+    # u "Don't stop, don't stop..."
+    u "N'arrête pas, n'arrête pas..."
+
+# game/v1/scene36.rpy:926
+translate francais v1s36_sg_5a89985f:
+
+    # u "Holy hell."
+    u "Bordel de..."
+
+# game/v1/scene36.rpy:928
+translate francais v1s36_sg_6585fad8:
+
+    # u "You're so good at this, Jenny..."
+    u "T'es vraiment douée pour ça, Jenny..."
+
+# game/v1/scene36.rpy:957
+translate francais v1s36_sg_3321f2f5:
+
+    # jen "You're so damn big..."
+    jen "T'es si grosse..."
+
+# game/v1/scene36.rpy:966
+translate francais v1s36_sg_0433e828:
+
+    # u "You like that?"
+    u "Tu aimes ça ?"
+
+# game/v1/scene36.rpy:975
+translate francais v1s36_sg_35601738:
+
+    # jen "So deep inside me... yes, [name]..."
+    jen "Au fond de moi... oui, [name]..."
+
+# game/v1/scene36.rpy:984
+translate francais v1s36_sg_48ed82f7:
+
+    # u "(These plump, beautiful tits...)"
+    u "(Ces seins rebondis et magnifiques...)"
+
+# game/v1/scene36.rpy:986
+translate francais v1s36_sg_3cf4c253:
+
+    # jen "*Gasps* I'm- I'm cumming..."
+    jen "*Soupire* Je- je jouis..."
+
+# game/v1/scene36.rpy:988
+translate francais v1s36_sg_f798eb94:
+
+    # u "Yes, baby..."
+    u "Oui, bébé..."
+
+# game/v1/scene36.rpy:990
+translate francais v1s36_sg_ee9e73f0:
+
+    # jen "Ohhh, [name]! *Panting* I needed this..."
+    jen "Ohhh, [name] ! *Halète* J'avais envie de ça..."
+
+# game/v1/scene36.rpy:1016
+translate francais v1s36_sg_94056529:
+
+    # u "Oh, Jenny... you're... you're gonna make me cum... *Moans*"
+    u "Ahh, jenny... tu vas... Tu vas me faire jouir... *Gémis*"
+
+# game/v1/scene36.rpy:1034
+translate francais v1s36_sg_50fa039d:
+
+    # u "Yes! Yes, y-you are..."
+    u "Oui ! Oui, t-tu es..."
+
+# game/v1/scene36.rpy:1036
+translate francais v1s36_sg_acfaf6c7:
+
+    # u "*Moans* Oh, I'm so close-"
+    u "*Gémis* Oh, je viens-"
+
+# game/v1/scene36.rpy:1047
+translate francais v1s36_sg_6cbdea76:
+
+    # u "Jenny... *Moans* I'm cumming..."
+    u "Jenny... *Gémis* Je jouis..."
+
+# game/v1/scene36.rpy:1070
+translate francais v1s36_sg_f5882d2f:
+
+    # u "Damn, Jenny."
+    u "Merde, Jenny."
+
+# game/v1/scene36.rpy:1076
+translate francais v1s36_sg_a29ed773:
+
+    # u "That was incredible... *Panting*"
+    u "C'était incroyable... *Halète*"
+
+# game/v1/scene36.rpy:1101
+translate francais v1s36_sg_ba43c2d2:
+
+    # jen "Good. Just stay loyal to your friends and stay loyal to me, and you'll be kept satisfied at all times."
+    jen "Bien. Reste fidèle à tes amis, reste fidèle à moi et tu seras toujours satisfait."
+
+# game/v1/scene36.rpy:1116
+translate francais v1s36_sg_300e4243:
+
+    # u "Heh, yeah, same."
+    u "Hein... Ouais, pareil."
+
+# game/v1/scene36.rpy:1136
+translate francais v1s36_nsfwSkipLabel1_10230af8:
+
+    # jen "Thank you again for coming out with me tonight. After all of that, I have a lot on my mind that I need to process."
+    jen "Merci encore d'être venu avec moi ce soir. Après tout ça, j'ai beaucoup de choses en tête que... je dois digérer."
+
+# game/v1/scene36.rpy:1141
+translate francais v1s36_nsfwSkipLabel1_8369ad5e:
+
+    # jen "I wasn't really expecting us to, you know... do it."
+    jen "Je m'attendais pas vraiment à ce qu'on, tu sais... Le fasse."
+
+# game/v1/scene36.rpy:1146
+translate francais v1s36_nsfwSkipLabel1_42eb6292:
+
+    # u "Ha, yeah... me either."
+    u "Ha, ouais... Moi non plus."
+
+# game/v1/scene36.rpy:1156
+translate francais v1s36_nsfwSkipLabel1_5c0fe912:
+
+    # u "You too, Jenny. I'll see you soon?"
+    u "Toi aussi Jenny, je te verrai bientôt ?"
+
+# game/v1/scene36.rpy:1166
+translate francais v1s36_nsfwSkipLabel1_528fb71c:
+
+    # u "(My life is never dull!)"
+    u "(Ma vie n'est jamais chiante !)"
+
+# game/v1/scene36.rpy:1191
+translate francais v1s36_nsfwSkipLabel1_9ec083f4:
+
+    # jen "Um, yeah. I, uh... I guess it is kind of cold."
+    jen "Hum, ouais. Je, euh... J'imagine que c'est un peu froid."
+
+# game/v1/scene36.rpy:1196
+translate francais v1s36_nsfwSkipLabel1_1306e024:
+
+    # jen "Maybe I should've brought more clothes."
+    jen "J'aurais peut-être dû apporter plus de vêtements"
+
+# game/v1/scene36.rpy:1216
+translate francais v1s36_nsfwSkipLabel1_ec42ec19:
+
+    # jen "Right, yeah... for sure. Thanks again for coming."
+    jen "Ben, ouais... Bien sûr. Merci encore d'être venu."
+
+# game/v1/scene36.rpy:1250
+translate francais v1s36_nsfwSkipLabel1_6416507f:
+
+    # jen "I'm so glad you came, [name]. This is a lot better than having to chill by myself."
+    jen "Je suis ravie que tu sois venu, [name]. Ça sera bien mieux que d'avoir à se détendre toute seule."
+
+# game/v1/scene36.rpy:1255
+translate francais v1s36_nsfwSkipLabel1_527485f2:
+
+    # u "I wouldn't want that. I appreciate the invite."
+    u "c'est pas ce que j'aurais voulu. J'apprécie l'invitation."
+
+# game/v1/scene36.rpy:1265
+translate francais v1s36_nsfwSkipLabel1_bd7a5145:
+
+    # jen "It's starting to get a little cold... maybe I should've brought more clothes."
+    jen "Il commence à faire un peu froid... J'aurais peut-être dû apporter plus de vêtements."
+
+# game/v1/scene36.rpy:1275
+translate francais v1s36_nsfwSkipLabel1_d7e58f15:
+
+    # jen "Ha, thanks. I should probably head on back anyway."
+    jen "Haha, merci. Je devrais rentrer de toute façon."
+
+# game/v1/scene36.rpy:1285
+translate francais v1s36_nsfwSkipLabel1_a71286d4:
+
+    # jen "A little. Thanks for coming, though."
+    jen "Un peu. Merci d'être venu quand même."
+
+# game/v1/scene36.rpy:1341
+translate francais v1s36_nsfwSkipLabel1_1e76285f:
+
+    # la "Well, I've, uh, been watching porn for a bit and I've seen some very... interesting things."
+    la "J'ai regardé, heu, du porno toute la nuit et j'ai vu des choses très... intéressantes."
+
+# game/v1/scene36.rpy:1350
+translate francais v1s36_nsfwSkipLabel1_8d8a1912:
+
+    # u "What kind of things?"
+    u "Quel genre de choses ?"
+
+# game/v1/scene36.rpy:1355
+translate francais v1s36_nsfwSkipLabel1_d25aceb3:
+
+    # la "Like, did you know there's, like, hundreds of different sex positions and depending on the position, you can feel different things?"
+    la "Par exemple, savais-tu qu'il y a des centaines de positions sexuelles différentes et que selon la position, tu peux ressentir différentes choses ?"
+
+# game/v1/scene36.rpy:1363
+translate francais v1s36_nsfwSkipLabel1_cedbf112:
+
+    # u "You watching porn sounds really hot."
+    u "Tu regardes du porno, c'est très chaud"
+
+# game/v1/scene36.rpy:1368
+translate francais v1s36_nsfwSkipLabel1_afd1dbfc:
+
+    # la "I know. It... it kind of was. You should've been there."
+    la "Je sais. Ça... ça l'était plutôt. Tu aurais dû être là."
+
+# game/v1/scene36.rpy:1370
+translate francais v1s36_nsfwSkipLabel1_2f539a00:
+
+    # la "Did you know there are, like, hundreds of different sex positions and depending on the position, you can feel different things?"
+    la "Savais-tu qu'il y a des centaines de positions sexuelles différentes et que selon la position, tu peux ressentir différentes choses ?"
+
+# game/v1/scene36.rpy:1381
+translate francais v1s36_nsfwSkipLabel1_defa03a5:
+
+    # la "Some positions make it easier to get pregnant, others make it almost impossible; there's a whole art to it."
+    la "Certaines positions facilitent la grossesse, d'autres la rendent presque impossible ; c'est tout un art."
+
+# game/v1/scene36.rpy:1386
+translate francais v1s36_nsfwSkipLabel1_ae1c2691:
+
+    # la "All these videos... they've, um, awoken something in me... thoughts and feelings..."
+    la "Toutes ces vidéos... ont, hum, réveillé quelque chose en moi... des pensées et des sentiments..."
+
+# game/v1/scene36.rpy:1396
+translate francais v1s36_nsfwSkipLabel1_bfdd12de:
+
+    # la "Really. Maybe, um, you could watch some of these too and, you know..."
+    la "Sérieux ! Alors, il va falloir que tu regardes quelques trucs aussi et, tu sais..."
+
+# game/v1/scene36.rpy:1398
+translate francais v1s36_nsfwSkipLabel1_ac818205:
+
+    # la "Get some ideas of what you're comfortable with. What we might be comfortable with. If that'd be okay?"
+    la "Que tu te fasses une idée de ce qui te met à l'aise. Ce avec quoi on pourrait être à l'aise. Si ça te convient ?"
+
+# game/v1/scene36.rpy:1403
+translate francais v1s36_nsfwSkipLabel1_c30cfe95:
+
+    # u "Yeah! Okay. Alright."
+    u "Ouais ! D'accord. Super."
+
+# game/v1/scene36.rpy:1408
+translate francais v1s36_nsfwSkipLabel1_6a4e5647:
+
+    # u "I haven't seen you this curious before, but I can't say I'm not enjoying it."
+    u "Je t'ai jamais vu aussi curieuse, mais je peux pas dire que j'aime pas."
+
+# game/v1/scene36.rpy:1413
+translate francais v1s36_nsfwSkipLabel1_7226be1e:
+
+    # la "Thank Amber for showing me this new world, but I think the want itself was hidden inside of me, deep down. It's kind of hard to admit..."
+    la "Merci à Amber de m'avoir montré ce nouveau monde, mais j'ai l'impression que c'est quelque chose qui était caché en moi. C'est un peu dur à admettre..."
+
+# game/v1/scene36.rpy:1423
+translate francais v1s36_nsfwSkipLabel1_1fef4a64:
+
+    # la "I'm sure you do... but, I should've gone to bed a long time ago and here I am."
+    la "Je m'en doute... Mais, j'aurais dû aller me coucher il y a longtemps et pourtant je suis là."
+
+# game/v1/scene36.rpy:1442
+translate francais v1s36_nsfwSkipLabel1_84d0b53b:
+
+    # la "Very soon. Goodnight, handsome."
+    la "Bonne nuit mon beau, à très bientôt."
+
+# game/v1/scene36.rpy:1447
+translate francais v1s36_nsfwSkipLabel1_bb9d3038:
+
+    # u "Goodnight, angel."
+    u "Bonne nuit, mon ange."
+
+# game/v1/scene36.rpy:1452
+translate francais v1s36_nsfwSkipLabel1_e9edbbe5:
+
+    # u "Wow. What a fuckin' night."
+    u "Wow. Quelle putain de nuit."

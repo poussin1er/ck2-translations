@@ -83,3 +83,22 @@ translate francais v1s29_b22d51e6:
 
     # u "(This dude's weird.)"
     u "(Ce mec est chelou.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene29.rpy:48
+translate francais v1s29_568b2a0a:
+
+    # u "Ha, no worries."
+    u "Haha, t'inquiètes."
+
+# game/v1/scene29.rpy:98
+translate francais v1s29_94ef93ac:
+
+    # imre "Ah shit... sorry, I just remembered something I gotta do."
+    imre "Ahh merde... Désolé, j'viens de m'souvenir d'un truc que j'devais faire."
+
+# game/v1/scene29.rpy:103
+translate francais v1s29_2b89fb70:
+
+    # u "Uhh... O-okay..."
+    u "Euhh... O-okay..."

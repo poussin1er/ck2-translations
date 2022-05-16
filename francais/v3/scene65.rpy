@@ -317,3 +317,118 @@ translate francais strings:
     # game/v3/scene65.rpy:180
     old "Mention their kiss"
     new "Mentionner leur baiser"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene65.rpy:24
+translate francais v3s65_edf79f7c:
+
+    # u "It's my amazing intuition at work. I just know exactly when you need me."
+    u "C'est mon incroyable intuition qui est à l'œuvre. Je sais exactement à quel moment t'as besoin de moi."
+
+# game/v3/scene65.rpy:29
+translate francais v3s65_0781bed4:
+
+    # cl "Ha, right. Come on, silly. Sit!"
+    cl "C'est vrai. Allez viens, idiot. Assieds-toi !"
+
+# game/v3/scene65.rpy:43
+translate francais v3s65_95abe982:
+
+    # cl "Or we could go for a more glamourous option."
+    cl "Ou on pourrait aller vers une version plus glamour."
+
+# game/v3/scene65.rpy:46
+translate francais v3s65_6c325363:
+
+    # cl "One is from a Chicks party we had a while back... looks like she still hasn't learned to handle a drink."
+    cl "L'une d'elles vient d'une fête des Chicks qu'on a organisé il y a quelque temps, on dirait qu'elle n'a toujours pas appris à maîtriser la boisson."
+
+# game/v3/scene65.rpy:47
+translate francais v3s65_c0153d32:
+
+    # cl "The other one is her driver's license photo. Can you believe how she looks in that one?"
+    cl "L'autre est la photo de son permis de conduire, tu peux le croire, ça ? T'as vu à quoi elle ressemble sur cette photo ?"
+
+# game/v3/scene65.rpy:59
+translate francais v3s65_0928ad3e:
+
+    # cl "We haven't got that long."
+    cl "On n'a pas autant de temps."
+
+# game/v3/scene65.rpy:78
+translate francais v3s65_ee993896:
+
+    # cl "Aw, yay! I was hoping you'd choose that photo; it's my favorite."
+    cl "Oh, youpi ! J'espérais que tu choisirais cette photo, c'est ma préférée."
+
+# game/v3/scene65.rpy:83
+translate francais v3s65_2f52efba:
+
+    # u "Why didn't you just choose it, then?"
+    u "Alors, pourquoi tu l'as pas choisie toi-même ?"
+
+# game/v3/scene65.rpy:88
+translate francais v3s65_cc4824a7:
+
+    # cl "Because I wanted to see what you chose."
+    cl "Parce que je voulais voir ce que toi tu choisirais."
+
+# game/v3/scene65.rpy:108
+translate francais v3s65_06a41707:
+
+    # cl "It's the SVC Times that should be honored."
+    cl "C'est le SVC Times qui devrait être honoré."
+
+# game/v3/scene65.rpy:118
+translate francais v3s65_b188b92e:
+
+    # cl "Ha, I'm just joking. Still though, who wouldn't want to pick up a newspaper with me on the cover?"
+    cl "Je rigole. Mais quand même, qui ne voudrait pas prendre un journal avec moi en couverture ?"
+
+# game/v3/scene65.rpy:134
+translate francais v3s65_fe420e60:
+
+    # cl "Nice choice!"
+    cl "Bon choix !"
+
+# game/v3/scene65.rpy:139
+translate francais v3s65_7e0b0622:
+
+    # u "Thanks. That photo really speaks to me."
+    u "Merci, cette photo me parle vraiment."
+
+# game/v3/scene65.rpy:154
+translate francais v3s65_db745966:
+
+    # cl "Yikes is right! Hopefully everyone reacts the same way."
+    cl "Argh c'est trop ça ! J'espère que tout le monde réagira de la même façon."
+
+# game/v3/scene65.rpy:187
+translate francais v3s65_8e79d286:
+
+    # u "Are you still recovering from your magical kiss with him?"
+    u "Tu t'est remise de ton baiser féerique avec lui ?"
+
+# game/v3/scene65.rpy:284
+translate francais v3s65_da56b6a1:
+
+    # cl "Obviously."
+    cl "Normal."
+
+# game/v3/scene65.rpy:289
+translate francais v3s65_911c8579:
+
+    # u "Ha, see you later ego-"
+    u "Allez, on se voit plus tard ego-"
+
+# game/v3/scene65.rpy:291
+translate francais v3s65_97942fc1:
+
+    # u "I mean, uh, Chloe."
+    u "Heu... je veux dire Chloé."
+
+# game/v3/scene65.rpy:296
+translate francais v3s65_4b07fe54:
+
+    # cl "Bye!"
+    cl "À plus !"

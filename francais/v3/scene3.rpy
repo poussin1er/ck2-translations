@@ -515,3 +515,100 @@ translate francais strings:
     # game/v3/scene3.rpy:467
     old "Don't bring it up"
     new "N'en parle pas"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene3.rpy:82
+translate francais v3s3_1123b12b:
+
+    # u "Thanks, but I'm sure Tom needs it more than me."
+    u "Merci, mais je suis sûr que Tom en a plus besoin que moi."
+
+# game/v3/scene3.rpy:93
+translate francais v3s3_2874d4a3:
+
+    # ri "Yeah, [name]. Frozen things tend to have that effect."
+    ri "Je sais, [name]. Les trucs gelés ont tendance à avoir cet effet."
+
+# game/v3/scene3.rpy:125
+translate francais v3s3_1bc03566:
+
+    # ri "Ha, no! I'm sorry! I'll make it up to you some other time, I promise."
+    ri "Haha, non ! Je suis désolée ! Je me rattraperai une autre fois, je te le promets."
+
+# game/v3/scene3.rpy:161
+translate francais v3s3_9e53290f:
+
+    # ri "Turned on. By like, fighting..."
+    ri "Excitée. Par... un combat..."
+
+# game/v3/scene3.rpy:212
+translate francais v3s3_8c07520d:
+
+    # u "Sorry, Riley... after the day I've had, and the fight with Tom, I just want to get some rest."
+    u "Désolé, Riley... Après la journée que j'ai eu et la baston avec Tom, j'ai juste besoin de me reposer."
+
+# game/v3/scene3.rpy:233
+translate francais v3s3_14876a45:
+
+    # ri "It's not like that! I just..."
+    ri "C'est pas vrai ! J'ai juste..."
+
+# game/v3/scene3.rpy:339
+translate francais v3s3_f9323acd:
+
+    # u "As crazy as ever. She's started performing at a strip club."
+    u "Toujours aussi folle. Elle a commencé à faire des représentations dans un club de strip-tease."
+
+# game/v3/scene3.rpy:364
+translate francais v3s3_4b54b979:
+
+    # ri "And the attitude. I'm sure she's making good money."
+    ri "Et l'attitude. Je suis sûre qu'elle gagne bien sa vie."
+
+# game/v3/scene3.rpy:380
+translate francais v3s3_21a1db7b:
+
+    # u "Yeah, she's doing great. Things are different with her, but a good sort of different."
+    u "Ouais, elle va très bien. Tout est différent avec elle, mais une bonne différence."
+
+# game/v3/scene3.rpy:397
+translate francais v3s3_0de53e8e:
+
+    # u "I'm sure she'd love to, but she might try to talk you into getting a job, ha."
+    u "Je suis sûr qu'elle adorerait, mais elle risque d'essayer de te pousser à trouver un emploi."
+
+# game/v3/scene3.rpy:402
+translate francais v3s3_01cf341e:
+
+    # ri "That's fine. I've actually been thinking about getting one."
+    ri "Ça tombe bien, parce qu'en fait, j'ai déjà songé à en chercher un."
+
+# game/v3/scene3.rpy:428
+translate francais v3s3_125e05f9:
+
+    # u "Well, it's getting late, so I think I'll head home, get into bed, and pass the fuck out."
+    u "Bon, il se fait tard, je crois que je vais rentrer chez moi, me mettre au lit et me pieuter."
+
+# game/v3/scene3.rpy:439
+translate francais v3s3_a85c5bad:
+
+    # u "It doesn't take long for me to bounce back from a beating."
+    u "Il me faut pas longtemps pour me ressaisir après avoir reçu des coups."
+
+# game/v3/scene3.rpy:455
+translate francais v3s3_84bce597:
+
+    # u "Ha, yup! I've got two fists and a couple of brain cells left. I'll be fine."
+    u "Ouaip ! Il me reste deux poings et quelques neurones. Je m'en sortirai."
+
+# game/v3/scene3.rpy:460
+translate francais v3s3_8bd3d6d8:
+
+    # ri "I like your spirit."
+    ri "J'aime ton état d'esprit."
+
+# game/v3/scene3.rpy:485
+translate francais v3s3_4b362160:
+
+    # ri "Hope you sleep well. Goodnight!"
+    ri "J'espère que tu dormiras bien, bonne nuit !"

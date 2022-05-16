@@ -710,3 +710,184 @@ translate francais v1s33_nsfwSkipLabelA_5fea22a6:
 
     # u "(Lauren is watching porn for the first time...)"
     u "(Lauren regarde du porno pour la première fois...)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene33.rpy:73
+translate francais v1s33_a7af09fa:
+
+    # la "Ha, I wish."
+    la "Haha, j'aimerais bien."
+
+# game/v1/scene33.rpy:93
+translate francais v1s33_59ca6a00:
+
+    # u "Oh."
+    u "Oh."
+
+# game/v1/scene33.rpy:98
+translate francais v1s33_07206f43:
+
+    # la "I wanted to let you know I was thinking about trying something."
+    la "Je voulais que tu saches que je voulais essayer quelque chose."
+
+# game/v1/scene33.rpy:110
+translate francais v1s33_ca9b99e3:
+
+    # la "I'm in bed, naked... and I'm thinking I should try watching porn. And..."
+    la "Je suis dans mon lit, nue... et je me suis dit que je devrais essayer de regarder du porno. Et..."
+
+# game/v1/scene33.rpy:112
+translate francais v1s33_5afb99e8:
+
+    # la "I don't know... see what it does for me?"
+    la "Je ne sais pas... Si tu vois ce que ça me fait ?"
+
+# game/v1/scene33.rpy:120
+translate francais v1s33_4ee711a0:
+
+    # u "Ha, what? You've never watched porn before?"
+    u "Oh, quoi ? T'as jamais regardé de porno avant ?"
+
+# game/v1/scene33.rpy:127
+translate francais v1s33_5fe162dd:
+
+    # la "And no, I haven't ever felt super comfortable with the idea, but... I've been really curious."
+    la "Et non, je ne me suis jamais sentie très à l'aise avec cette idée, mais... J'ai été très curieuse."
+
+# game/v1/scene33.rpy:139
+translate francais v1s33_3c9e95b5:
+
+    # la "Kind of embarrassed, honestly."
+    la "Honnêtement, je suis un peu gênée."
+
+# game/v1/scene33.rpy:144
+translate francais v1s33_d2ce622c:
+
+    # u "No need to be embarrassed! Enjoy yourself."
+    u "Pas besoin d'être gênée. Profite."
+
+# game/v1/scene33.rpy:165
+translate francais v1s33_nsfwSkipLabelW_19d3f14d:
+
+    # u "(Lauren watching porn for the first time? Wow! I hope she didn't take that the wrong way... but, damn...)"
+    u "(Lauren regardant du porno pour la première fois ? Haha ! J'espère qu'elle l'a pas mal pris... Mais, merde...)"
+
+# game/v1/scene33.rpy:188
+translate francais v1s33_nsfwSkipLabelW_41c470a9:
+
+    # la "I bet you do."
+    la "Je parie que tu le fais."
+
+# game/v1/scene33.rpy:190
+translate francais v1s33_nsfwSkipLabelW_226a23dc:
+
+    # la "Wow, I... I can't believe how naughty I feel right now."
+    la "Wow, je... Je n'arrive pas à croire à quel point je me sens coquine en ce moment."
+
+# game/v1/scene33.rpy:200
+translate francais v1s33_nsfwSkipLabelW_21bd5513:
+
+    # la "I... I have some ideas."
+    la "Je... J'ai quelques idées."
+
+# game/v1/scene33.rpy:205
+translate francais v1s33_nsfwSkipLabelW_bf6ce967:
+
+    # u "O-Oh! Well, shit, I guess I'll let you get to it."
+    u "O-Oh ! Ben, merde, je crois que je vais te laisser faire."
+
+# game/v1/scene33.rpy:220
+translate francais v1s33_nsfwSkipLabelW_5099f5d8:
+
+    # la "Goodnight!"
+    la "Bonne nuit !"
+
+# game/v1/scene33.rpy:312
+translate francais v1s33_nsfwSkipLabelW_a7af09fa:
+
+    # la "Ha, I wish."
+    la "Haha, j'aimerais bien."
+
+# game/v1/scene33.rpy:331
+translate francais v1s33_nsfwSkipLabelW_59ca6a00:
+
+    # u "Oh."
+    u "Oh."
+
+# game/v1/scene33.rpy:336
+translate francais v1s33_nsfwSkipLabelW_07206f43:
+
+    # la "I wanted to let you know I was thinking about trying something."
+    la "Je voulais que tu saches que je voulais essayer quelque chose."
+
+# game/v1/scene33.rpy:348
+translate francais v1s33_nsfwSkipLabelW_ca9b99e3:
+
+    # la "I'm in bed, naked... and I'm thinking I should try watching porn. And..."
+    la "Je suis dans mon lit, nue... et je me suis dit que je devrais essayer de regarder du porno. Et..."
+
+# game/v1/scene33.rpy:350
+translate francais v1s33_nsfwSkipLabelW_5afb99e8:
+
+    # la "I don't know... see what it does for me?"
+    la "Je ne sais pas... Si tu vois ce que ça me fait ?"
+
+# game/v1/scene33.rpy:358
+translate francais v1s33_nsfwSkipLabelW_4ee711a0:
+
+    # u "Ha, what? You've never watched porn before?"
+    u "Oh, quoi ? T'as jamais regardé de porno avant ?"
+
+# game/v1/scene33.rpy:365
+translate francais v1s33_nsfwSkipLabelW_5fe162dd:
+
+    # la "And no, I haven't ever felt super comfortable with the idea, but... I've been really curious."
+    la "Et non, je ne me suis jamais sentie très à l'aise avec cette idée, mais... J'ai été très curieuse."
+
+# game/v1/scene33.rpy:377
+translate francais v1s33_nsfwSkipLabelW_3c9e95b5:
+
+    # la "Kind of embarrassed, honestly."
+    la "Honnêtement, je suis un peu gênée."
+
+# game/v1/scene33.rpy:382
+translate francais v1s33_nsfwSkipLabelW_d2ce622c:
+
+    # u "No need to be embarrassed! Enjoy yourself."
+    u "Pas besoin d'être gênée. Profite."
+
+# game/v1/scene33.rpy:401
+translate francais v1s33_nsfwSkipLabelW_19d3f14d_1:
+
+    # u "(Lauren watching porn for the first time? Wow! I hope she didn't take that the wrong way... but, damn...)"
+    u "(Lauren regardant du porno pour la première fois ? Haha ! J'espère qu'elle l'a pas mal pris... Mais, merde...)"
+
+# game/v1/scene33.rpy:423
+translate francais v1s33_nsfwSkipLabelW_41c470a9_1:
+
+    # la "I bet you do."
+    la "Je parie que tu le fais."
+
+# game/v1/scene33.rpy:425
+translate francais v1s33_nsfwSkipLabelW_226a23dc_1:
+
+    # la "Wow, I... I can't believe how naughty I feel right now."
+    la "Wow, je... Je n'arrive pas à croire à quel point je me sens coquine en ce moment."
+
+# game/v1/scene33.rpy:435
+translate francais v1s33_nsfwSkipLabelW_21bd5513_1:
+
+    # la "I... I have some ideas."
+    la "Je... J'ai quelques idées."
+
+# game/v1/scene33.rpy:440
+translate francais v1s33_nsfwSkipLabelW_bf6ce967_1:
+
+    # u "O-Oh! Well, shit, I guess I'll let you get to it."
+    u "O-Oh ! Ben, merde, je crois que je vais te laisser faire."
+
+# game/v1/scene33.rpy:455
+translate francais v1s33_nsfwSkipLabelW_5099f5d8_1:
+
+    # la "Goodnight!"
+    la "Bonne nuit !"

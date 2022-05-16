@@ -184,7 +184,7 @@ translate francais v1s19a_0716f529:
 translate francais v1s19a_dabf04ab:
 
     # u "*Laughs* That's amazing."
-    u "*Rire* tu m'étonnes..."
+    u "*Rire* Tu m'étonnes..."
 
 # game/v1/scene19a.rpy:153
 translate francais v1s19a_d90c42f3:
@@ -309,3 +309,88 @@ translate francais strings:
     # game/v1/scene19a.rpy:175
     old "Make an excuse"
     new "Trouve une excuse"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene19a.rpy:49
+translate francais v1s19a_c247dcec:
+
+    # cl "You can't blame all of the issues on the leader, give up on them, throw them away, and think that'll change things."
+    cl "Tu ne peux pas mettre tous les problèmes sur le dos du leader et les ignorer, les abandonner, en pensant que ça va changer les choses."
+
+# game/v1/scene19a.rpy:74
+translate francais v1s19a_b6ae06a4:
+
+    # cl "I already know what you're gonna say."
+    cl "Je sais déjà ce que tu vas dire."
+
+# game/v1/scene19a.rpy:80
+translate francais v1s19a_e93046dd:
+
+    # cl "And I think because I don't get involved as much as others, we have this unspoken, respectful relationship, you know?"
+    cl "Et je crois que parce que je ne m'implique pas autant que les autres, nous avons cette relation mutuelle inavouée, tu vois ?"
+
+# game/v1/scene19a.rpy:85
+translate francais v1s19a_799ce2d1:
+
+    # u "Yeah, makes sense; the Wolves are very much about loyalty."
+    u "Ouais, c'est logique, les Wolves sont très axés sur la \"loyauté\"."
+
+# game/v1/scene19a.rpy:106
+translate francais v1s19a_7eb85fb2:
+
+    # u "Ha, no... I'm just teasing."
+    u "Haha, non... Je te taquine un peu, c'est tout."
+
+# game/v1/scene19a.rpy:111
+translate francais v1s19a_f529f3a6:
+
+    # cl "Okay good. I was nervous for a second..."
+    cl "Ok bien. J'ai été nerveuse pendant un instant..."
+
+# game/v1/scene19a.rpy:116
+translate francais v1s19a_30dc0154:
+
+    # u "No, go ahead. What's the favor?"
+    u "Non, vas-y. En quoi puis-je t'aider ?"
+
+# game/v1/scene19a.rpy:126
+translate francais v1s19a_1b703228:
+
+    # u "Is he not already? I told you, Imre said he was rooting for you. He was screaming it to the world, in fact."
+    u "C'est pas déjà le cas ? Je te l'ai dit, Imre a dit qu'il t'encourageait. En fait, il le clamait au monde entier."
+
+# game/v1/scene19a.rpy:131
+translate francais v1s19a_a35de9f4:
+
+    # cl "Rooting for and actively supporting are two very different things."
+    cl "Supporter et soutenir activement sont deux choses très différentes."
+
+# game/v1/scene19a.rpy:136
+translate francais v1s19a_7d364c65:
+
+    # cl "I need the Wolves' help on a grand scale if I want to beat Lindsey."
+    cl "J'ai besoin de l'aide massive des Wolves, si je veux battre Lindsey."
+
+# game/v1/scene19a.rpy:141
+translate francais v1s19a_cfb2cd80:
+
+    # cl "And honestly, when it comes to Imre, he's had a crush on me for as long as I can remember."
+    cl "Et en toute honnêteté, en ce qui concerne Imre, il a le béguin pour moi depuis aussi longtemps que je me souvienne."
+
+# game/v1/scene19a.rpy:147
+translate francais v1s19a_dd59b8ee:
+
+    # u "That's amazing."
+    u "Tu m'étonnes..."
+
+# game/v1/scene19a.rpy:206
+translate francais v1s19a_79cc894a:
+
+    # cl "So, yeah, I'll set everything up and will let you know when it's ready."
+    cl "Alors ouais, je vais tout mettre en place et je te ferai savoir quand tout sera prêt."
+
+# game/v1/scene19a.rpy:252
+translate francais v1s19a_8dedfa2c:
+
+    # u "Ha, just like in the movies."
+    u "Haha. Comme dans les films."

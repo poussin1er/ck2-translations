@@ -94,3 +94,10 @@ translate francais strings:
     # game/v1/scene24a.rpy:42
     old "Twazzlers"
     new "Twazzlers"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene24a.rpy:140
+translate francais v1s24a_dbce86d5:
+
+    # u "Ha. Later, man."
+    u "Haha, à plus tard mec."

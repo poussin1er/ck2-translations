@@ -125,3 +125,40 @@ translate francais v1s43a_PhoneContinueEmily_f2fb9662:
 
     # pe "Let's go then."
     pe "Allez, c'est partit."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene43a.rpy:29
+translate francais v1s43a_4c2618d5:
+
+    # u "Oh, and just so you know... you snore super loudly. I'm sure you already knew that, though."
+    u "Oh, et juste pour que tu saches... Tu ronfles super fort. Mais je pense que tu le savais déjà."
+
+# game/v1/scene43a.rpy:46
+translate francais v1s43a_3200e1bf:
+
+    # pe "Oh my-"
+    pe "Oh mon-"
+
+# game/v1/scene43a.rpy:48
+translate francais v1s43a_09eb34a2:
+
+    # pe "Stop! So embarrassing."
+    pe "Arrête ! C'est trop gênant."
+
+# game/v1/scene43a.rpy:68
+translate francais v1s43a_abc4dfab:
+
+    # u "You weren't actually snoring... just kidding."
+    u "En fait, tu ronflais pas... Je rigole."
+
+# game/v1/scene43a.rpy:128
+translate francais v1s43a_PhoneContinueEmily_dc078773:
+
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Heureux de voir qu'Emily est toujours en train de faire des bêtises.)"
+
+# game/v1/scene43a.rpy:148
+translate francais v1s43a_PhoneContinueEmily_e365ba85:
+
+    # pe "Let's go, then."
+    pe "Allez, c'est partit."

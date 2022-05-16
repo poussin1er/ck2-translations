@@ -101,3 +101,10 @@ translate francais strings:
     # game/v1/scene27.rpy:69
     old "Can't we speak here?"
     new "On peut pas parler ici ?"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene27.rpy:54
+translate francais v1s27_ba7af72f:
+
+    # em "I have some pretty major news to share."
+    em "J'ai des nouvelles assez importantes à te communiquer."

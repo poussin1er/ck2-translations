@@ -687,3 +687,58 @@ translate francais strings:
     # game/v1/scene31a.rpy:576
     old "She says what she needs to"
     new "Elle dit ce qu'elle doit dire"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene31a.rpy:37
+translate francais v1s31a_4b0c8e1f:
+
+    # ca "You need to work out, too. You look like a fucking fifth grader."
+    ca "Toi aussi tu dois faire d'la muscu, tu r'ssembles à un putain d'élève de CM2."
+
+# game/v1/scene31a.rpy:105
+translate francais v1s31a_40d23252:
+
+    # ca "Okay, good form. I'll give you that. How are your sit-ups?"
+    ca "Ok, t'es en forme. J'avoue. Et tes redressements assis, ça donne quoi ?"
+
+# game/v1/scene31a.rpy:326
+translate francais v1s31a_990bd9b8:
+
+    # ca "And I know her, too. You're basically one in the same."
+    ca "Et j'la connais aussi. Vous êtes quasiment pareil."
+
+# game/v1/scene31a.rpy:400
+translate francais v1s31a_cab0f53f:
+
+    # ca "You already got a shit ton of beef with Grayson. How would an alliance work if the president doesn't even fuck with you like that?"
+    ca "T'as déjà une tonne de merdes avec Grayson. Comment tu crois qu'une alliance pourrait fonctionner, si l'Président peut pas t'saquer ?"
+
+# game/v1/scene31a.rpy:423
+translate francais v1s31a_ce183539:
+
+    # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' president."
+    u "Dis à tout le monde que Chloé est la nana la plus sexy et que la nana la plus sexy devrait être la Présidente des Chicks."
+
+# game/v1/scene31a.rpy:481
+translate francais v1s31a_78e20e6f:
+
+    # ca "How did you know I wanted to run for president?"
+    ca "Comment t'as su que j'voulais devenir président ?"
+
+# game/v1/scene31a.rpy:592
+translate francais v1s31a_d3548909:
+
+    # u "She knows what she needs to say. She's damn good at it, too."
+    u "Elle sait ce qu'elle doit dire. Et elle le fait très bien."
+
+# game/v1/scene31a.rpy:607
+translate francais v1s31a_69f098ef:
+
+    # u "Do I? Funny, that."
+    u "Tu trouves ? C'est marrant, ça."
+
+# game/v1/scene31a.rpy:654
+translate francais v1s31a_63314d47:
+
+    # u "You do that."
+    u "Vas-y."

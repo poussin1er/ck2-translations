@@ -695,3 +695,172 @@ translate francais strings:
     # game/v3/scene48.rpy:618
     old "Hell yes"
     new "Putain ouais"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene48.rpy:17
+translate francais v3s48_b3a73c19:
+
+    # u "(Poor [v3_baby_name]... Is this child neglect?)"
+    u "(Pauvre [v3_baby_name]... Est ce que c'est de la négligence envers les enfants ?)"
+
+# game/v3/scene48.rpy:27
+translate francais v3s48_4177f1f2:
+
+    # u "Sounds like a plan."
+    u "Ça me paraît pas mal."
+
+# game/v3/scene48.rpy:66
+translate francais v3s48_37e00268:
+
+    # cl "Fucking great! Just when it's getting good, the thing starts crying."
+    cl "Putain, super ! Juste quand ça commençait à être bien, le truc se met à pleurer."
+
+# game/v3/scene48.rpy:93
+translate francais v3s48_47501c6e:
+
+    # cl "Yes, they're somewhere! I'm watching this, though. Can you find them?"
+    cl "Oui, elles sont quelque part par là ! Mais moi je continue à regarder ça. Tu peux les chercher ?"
+
+# game/v3/scene48.rpy:123
+translate francais v3s48_95f7d27b:
+
+    # cl "No idea! Just try them all! And quickly, please."
+    cl "J'en sais rien ! Essaie-les toutes ! Et dépêche-toi, s'il te plaît."
+
+# game/v3/scene48.rpy:203
+translate francais v3_wrong_key_2_47766a92:
+
+    # cl "Oh... my... God..."
+    cl "Oh... merde..."
+
+# game/v3/scene48.rpy:210
+translate francais v3_wrong_key_2_91519645:
+
+    # cl "Make it stop! Anything to make it stop!"
+    cl "Fais que ça s'arrête ! Tout ce qui faut pour que ça s'arrête !"
+
+# game/v3/scene48.rpy:242
+translate francais v3_wrong_key_2_0ca728f0:
+
+    # cl "Maybe you should take it home. After all, you seem like you've got this under control."
+    cl "Tu devrais peut-être le ramener chez toi. Apparemment, tu as l'air d'avoir la situation en main."
+
+# game/v3/scene48.rpy:247
+translate francais v3_wrong_key_2_e70e521d:
+
+    # cl "Then I can finally get some beauty sleep."
+    cl "Je pourrai enfin avoir un sommeil de rêve."
+
+# game/v3/scene48.rpy:252
+translate francais v3_wrong_key_2_8abb45e3:
+
+    # u "Ha, no way. This is what the project is about. We've got to share the burden."
+    u "Pas moyen. C'est le but du projet. On doit se partager le fardeau."
+
+# game/v3/scene48.rpy:267
+translate francais v3_wrong_key_2_edca16fc:
+
+    # cl "*Scoffs* That's what he is, [name]. Just a piece of plastic!"
+    cl "*Rires moqueurs* Arrête avec ça, [name]. C'est juste un morceau de plastique !"
+
+# game/v3/scene48.rpy:274
+translate francais v3_wrong_key_2_55bf9c5a:
+
+    # u "Hey, now. That's no way to talk about your child."
+    u "Hé, là ! C'est pas comme ça qu'on parle de son propre enfant."
+
+# game/v3/scene48.rpy:338
+translate francais v3_wrong_key_3_3becc51d:
+
+    # cl "Phew. Good. I can hear my own thoughts now."
+    cl "Pfiou. Enfin. Je peux enfin m'entendre penser."
+
+# game/v3/scene48.rpy:348
+translate francais v3_wrong_key_3_53cd5975:
+
+    # cl "You're ridiculous. If it was a real kid I'd say somethign else, but seriously, [name]. It's plastic."
+    cl "Tu es ridicule. Si ça avait été un véritable enfant, j'aurais dit autre chose, mais là, franchement, [name]. C'est du plastique."
+
+# game/v3/scene48.rpy:369
+translate francais v3_wrong_key_3_7da78a06:
+
+    # cl "See if you can rip out its battery?"
+    cl "Regarde si tu peux pas arracher sa batterie."
+
+# game/v3/scene48.rpy:386
+translate francais v3_wrong_key_3_ef394b8d:
+
+    # cl "It probably needs to burp considering it ate earlier, before you came."
+    cl "Il a peut-être besoin de faire son rot vu qu'il a mangé avant que t'arrives."
+
+# game/v3/scene48.rpy:396
+translate francais v3_wrong_key_3_574e2a69:
+
+    # cl "No. Just, please, hurry up and make it stop."
+    cl "Non. Pitié, dépêche-toi et arrange-toi pour que ça s'arrête."
+
+# game/v3/scene48.rpy:456
+translate francais v3_wrong_key_4_3632d28e:
+
+    # cl "What are they even trying to teach us with this? This doll is nothing like a real child!"
+    cl "Qu'est-ce qu'ils essaient de nous apprendre avec ça ? Cette poupée n'a rien à voir avec un véritable enfant !"
+
+# game/v3/scene48.rpy:466
+translate francais v3_wrong_key_4_05561410:
+
+    # cl "Well, if that was the goal, they have me convinced."
+    cl "Si c'était le but, ils m'ont convaincu."
+
+# game/v3/scene48.rpy:471
+translate francais v3_wrong_key_4_9e172bd4:
+
+    # u "Really? A plastic baby doll has ruined the idea of becoming a parent?"
+    u "Sérieux ? Une poupée en plastique t'a ruiné l'envie de devenir parent ?"
+
+# game/v3/scene48.rpy:476
+translate francais v3_wrong_key_4_ffc84425:
+
+    # cl "That crying is just... so. Annoying."
+    cl "Ces pleurs sont tellement... tellement... Chiants."
+
+# game/v3/scene48.rpy:520
+translate francais v3_wrong_key_4_edb255f8:
+
+    # cl "Oh my fucking-"
+    cl "Oh, putain de-"
+
+# game/v3/scene48.rpy:596
+translate francais v3_wrong_key_4_61a9ceb6:
+
+    # u "(I'm sure it can wait 'til morning... since we've probably already failed.)"
+    u "(Je pense que ça peut attendre jusqu'au matin... De toute façon, on a déjà dû échouer.)"
+
+# game/v3/scene48.rpy:604
+translate francais v3_wrong_key_4_15cd71b2:
+
+    # u "Wow! Worst mom of the year award goes to..."
+    u "Wouah ! Le prix de la pire maman de l'année revient à..."
+
+# game/v3/scene48.rpy:614
+translate francais v3_wrong_key_4_16e23087:
+
+    # u "Oh, I'm extremely relieved. I just didn't realize you were a psychopath."
+    u "Oh si, je suis vraiment soulagé. J'avais pas réalisé que tu étais une vraie psychopathe."
+
+# game/v3/scene48.rpy:639
+translate francais v3_wrong_key_4_5a4ca760:
+
+    # cl "Good, because I've got a lot of anger to work off."
+    cl "Tant mieux, j'ai beaucoup de colère à évacuer."
+
+# game/v3/scene48.rpy:649
+translate francais v3_wrong_key_4_e53ed6cd:
+
+    # u "I don't know, Chloe. I can barely keep my eyes open right now."
+    u "Je sais pas, Chloé. J'arrive à peine à garder les yeux ouverts."
+
+# game/v3/scene48.rpy:654
+translate francais v3_wrong_key_4_ca803473:
+
+    # cl "You see?! This fake-baby bullshit ruins everything."
+    cl "Tu vois ? Ces conneries de faux bébé foutent tout en l'air."

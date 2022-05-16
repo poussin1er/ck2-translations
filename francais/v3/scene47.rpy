@@ -35,3 +35,22 @@ translate francais v3s47_3dfcf446:
 
     # no "*Chuckles* Screw you! It's fun to pretend for one night."
     no "*Rire* Va te faire voir ! C'est amusant de faire semblant pour une nuit."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene47.rpy:23
+translate francais v3s47_5da1ade5:
+
+    # u "Ha, it's not that bad."
+    u "Oh, c'est pas si terrible."
+
+# game/v3/scene47.rpy:60
+translate francais v3s47_d643c680:
+
+    # u "Oh dear, your mother has already gone insane and forgotten that you're made of plastic."
+    u "Oh là là, ta mère est déjà devenue folle et a oublié que tu étais en plastique."
+
+# game/v3/scene47.rpy:65
+translate francais v3s47_1ce79d62:
+
+    # no "Screw you. It's fun to pretend for one night."
+    no "Va te faire voir ! C'est marrant de faire semblant pour une nuit."

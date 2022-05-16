@@ -125,3 +125,70 @@ translate francais v1s38_ca208754:
 
     # u "You better."
     u "Y a intérêt."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene38.rpy:22
+translate francais v1s38_e62a6da2:
+
+    # jen "Oh, hey again."
+    jen "Oh, salut encore."
+
+# game/v1/scene38.rpy:27
+translate francais v1s38_f31623bb:
+
+    # u "I hung back for a quick phone call. I thought you'd be gone by now."
+    u "Je suis sorti pour passer un coup de fil rapide, je croyais que tu étais déjà partie."
+
+# game/v1/scene38.rpy:42
+translate francais v1s38_e8dad41f:
+
+    # jen "Not really, I used to do it all the time growing up. Nothing's happened so far."
+    jen "Pas vraiment, j'ai toujours eu l'habitude de le faire quand j'étais petite. Jusqu'à présent, il ne m'est rien arrivé."
+
+# game/v1/scene38.rpy:47
+translate francais v1s38_84a2fa32:
+
+    # u "Okay, well, don't say it like that, ha. Hopefully nothing ever happens."
+    u "Ok, mais fait attention tout de même, il ne faut jamais dire jamais. J'espère qu'il ne t'arrivera jamais rien."
+
+# game/v1/scene38.rpy:71
+translate francais v1s38_c74437f2:
+
+    # u "Cool. I don't want you thinking I'm some creep."
+    u "Ouf, j'ai pas envie que tu me prennes pour un taré."
+
+# game/v1/scene38.rpy:94
+translate francais v1s38_67528f93:
+
+    # u "Well maybe if you weren't so cute I wouldn't have to pretend to run into you all the time."
+    u "Peut-être que si t'étais pas si mignonne, je n'aurais pas à faire semblant de te croiser tout le temps."
+
+# game/v1/scene38.rpy:99
+translate francais v1s38_d896912a:
+
+    # jen "Awww. Fine, you can keep stalking me."
+    jen "Awww. Très bien, tu peux donc continuer à me traquer."
+
+# game/v1/scene38.rpy:105
+translate francais v1s38_1a6449c3:
+
+    # u "Ha!"
+    u "Ah !"
+
+# game/v1/scene38.rpy:110
+translate francais v1s38_73e6e395:
+
+    # jen "My favorite stalker."
+    jen "Mon harceleur préféré."
+
+# game/v1/scene38.rpy:120
+translate francais v1s38_5658c09e:
+
+    # u "Oh, guess this is where our paths part for the night."
+    u "Oh, je crois que c'est ici que nos chemins se séparent pour la nuit."
+
+# game/v1/scene38.rpy:125
+translate francais v1s38_1e205cc9:
+
+    # jen "Yep. See you soon?"
+    jen "Oui. On se voit bientôt ?"

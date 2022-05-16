@@ -59,3 +59,16 @@ translate francais v3s70_continue_eedb2033:
 
     # de "Yes, come in!"
     de "Oui, entrez !"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene70.rpy:17
+translate francais v3s70_a_1c9aaefc:
+
+    # pe "Aw, that poor baby. It's been abandoned."
+    pe "Ooh, ce pauvre bébé. Il a été abandonné."
+
+# game/v3/scene70.rpy:22
+translate francais v3s70_a_d5a69355:
+
+    # u "I'm sure it'll find a new father in about a day or two."
+    u "Je suis sûr qu'il trouvera un nouveau père dans un jour ou deux."

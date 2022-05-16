@@ -220,7 +220,7 @@ translate francais v1s25_a39ad45c:
 translate francais v1s25_c7f27445:
 
     # am "But good ole Shane just thinks I'm another worthless junkie... Ha!"
-    am "Mais ce bon vieux Shane trouve que je suis juste une autre junkie sans intérêt... Ha !"
+    am "Mais ce bon vieux Shane trouve que je suis juste une autre junkie sans intérêt... Pff !"
 
 # game/v1/scene25.rpy:268
 translate francais v1s25_098548b2:
@@ -232,7 +232,7 @@ translate francais v1s25_098548b2:
 translate francais v1s25_82446a86:
 
     # am "Shane is my friend- WAS my friend..."
-    am "Shane est mon ami- ÉTAIT mon ami..."
+    am "Shane est mon ami... ÉTAIT mon ami..."
 
 # game/v1/scene25.rpy:275
 translate francais v1s25_2d8e2510:
@@ -1140,3 +1140,274 @@ translate francais v1s25_181edef8:
 
     # u "(Damn, should've gotten the Twazzlers...) Well, I hope you like them."
     u "(Merde, j'aurais dû prendre les Twazzlers...) Bon, j'espère que tu vas aimer."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene25.rpy:135
+translate francais v1s25_4e6e1537:
+
+    # am "There's a weird lady that's been asking people for spare gum around here... She takes it, chews it and then throws it at you."
+    am "Y a une dame bizarre qui demande des chewing-gums aux gens dans le coin... Elle en prend un, le mâche et le jette sur toi."
+
+# game/v1/scene25.rpy:150
+translate francais v1s25_5ce7e418:
+
+    # u "Ha, evil! You're something else."
+    u "Haha diabolique ! T'es vraiment bizarre."
+
+# game/v1/scene25.rpy:155
+translate francais v1s25_19fa3401:
+
+    # am "C'mon. Let's go to my room."
+    am "Viens. On va dans ma chambre."
+
+# game/v1/scene25.rpy:193
+translate francais v1s25_f7ea5221:
+
+    # u "Still getting into the swing of things, but I'll be set soon enough. You?"
+    u "Je suis encore en train de me familiariser avec tout ça, mais je vais vite retrouver le rythme. Et toi ?"
+
+# game/v1/scene25.rpy:239
+translate francais v1s25_7740c0c9:
+
+    # u "Where'd you get those from, anyway?"
+    u "De toute façon, elles viennent d'où ?"
+
+# game/v1/scene25.rpy:244
+translate francais v1s25_08d64574:
+
+    # am "Heh, I can't remember where I get every single drug that I take."
+    am "Haha, je me souviens pas forcément où je trouve tous les médicaments que je prends."
+
+# game/v1/scene25.rpy:260
+translate francais v1s25_3106855a:
+
+    # am "But good ole Shane just thinks I'm another worthless junkie... ha!"
+    am "Mais ce bon vieux Shane trouve que je suis juste une autre junkie sans intérêt... Pff !"
+
+# game/v1/scene25.rpy:270
+translate francais v1s25_cb0e3022:
+
+    # am "Shane is my friend... er, WAS my friend..."
+    am "Shane est mon ami... ÉTAIT mon ami..."
+
+# game/v1/scene25.rpy:277
+translate francais v1s25_77a6af07:
+
+    # u "I can tell this is serious for you, Amber... If you wanna talk, we can talk, or we can just leave it be."
+    u "Je peux voir que c'est sérieux pour toi, Amber... Si tu veux en parler, on peut le faire ou on peut laisser tomber, tout simplement."
+
+# game/v1/scene25.rpy:282
+translate francais v1s25_70521d7c:
+
+    # am "Why not talk about it, right?"
+    am "Pourquoi on n'en parlerait pas, hein ?"
+
+# game/v1/scene25.rpy:303
+translate francais v1s25_2d86fc6c:
+
+    # am "Telling me that he needs to better his life, then blocking me, pretty much said it all."
+    am "Me dire qu'il a \"besoin de réorganiser sa vie\" et puis m'a bloqué, c'est en gros ce qui s'est passé."
+
+# game/v1/scene25.rpy:312
+translate francais v1s25_7f24588a:
+
+    # u "I'm sorry you're going through this, you-"
+    u "Je suis desolé que tu traverses ça, tu-"
+
+# game/v1/scene25.rpy:317
+translate francais v1s25_ae9f28a6:
+
+    # am "Why?"
+    am "Et pourquoi ?"
+
+# game/v1/scene25.rpy:376
+translate francais v1s25_ef2f1671:
+
+    # u "What?"
+    u "Quoi ?"
+
+# game/v1/scene25.rpy:386
+translate francais v1s25_d46548e9:
+
+    # u "No... Don't give yourself that much credit. Josh was on that shit way before he met you."
+    u "Non... Te donne pas autant de crédit. Josh était déjà dans cette merde bien avant de te rencontrer."
+
+# game/v1/scene25.rpy:391
+translate francais v1s25_c65b5c20:
+
+    # am "Ugh."
+    am "Argh."
+
+# game/v1/scene25.rpy:396
+translate francais v1s25_b4bbc1e4:
+
+    # u "Forgive yourself for what you've done in the past. If things happened outside of your control, then oh well."
+    u "Demande pardon à toi-même pour ce que tu as fait dans le passé. Si les choses se sont passées en dehors de ton contrôle, tant pis."
+
+# game/v1/scene25.rpy:425
+translate francais v1s25_19608d57:
+
+    # am "If they would've acted how they do now when I was little, I probably wouldn't have been so rebellious."
+    am "S'ils s'étaient comportés comme ils le font maintenant quand j'étais petite, j'aurais peut-être pas été aussi rebelle."
+
+# game/v1/scene25.rpy:430
+translate francais v1s25_10318383:
+
+    # u "Ha, that's understandable."
+    u "Hum, ça se comprend."
+
+# game/v1/scene25.rpy:437
+translate francais v1s25_63df8337:
+
+    # am "I couldn't even sit back or slouch in my chair when I ate food at the dinner table. That's how strict they were."
+    am "Je pouvais même pas me détendre ou m'affaler sur ma chaise quand je mangeais à table, tellement ils étaient stricts."
+
+# game/v1/scene25.rpy:492
+translate francais v1s25_ce844348:
+
+    # am "It gets to the point where I can't stand being around myself anymore."
+    am "J'en arrive au point où je supporte même plus d'être avec moi-même."
+
+# game/v1/scene25.rpy:540
+translate francais v1s25_7c314792:
+
+    # u "Even though you haven't forced anyone to do anything, it's true that many people really like you and your company."
+    u "Même si t'as forcé personne à faire quoi que ce soit, il est vrai que beaucoup de gens t'aiment vraiment, toi et ta compagnie."
+
+# game/v1/scene25.rpy:568
+translate francais v1s25_bb83e267:
+
+    # u "Feel guilty for what choices you've allowed others to see you make."
+    u "Sens-toi coupable des décisions que t'as permis aux autres de te voir faire."
+
+# game/v1/scene25.rpy:578
+translate francais v1s25_9f2241e7:
+
+    # am "No, no, I'm not mad..."
+    am "Non, non, je suis pas folle..."
+
+# game/v1/scene25.rpy:590
+translate francais v1s25_6fe9021a:
+
+    # am "It doesn't make me a good person either, and that's what I want to be..."
+    am "Ça fait pas de moi une bonne personne non plus, et c'est pourtant ce que je veux être..."
+
+# game/v1/scene25.rpy:607
+translate francais v1s25_eca22709:
+
+    # am "I'm done. Done with all drugs."
+    am "J'en ai fini. Fini avec toutes ces drogues."
+
+# game/v1/scene25.rpy:661
+translate francais v1s25_8d783560:
+
+    # u "I'm so proud of you."
+    u "Je suis vraiment fier de toi."
+
+# game/v1/scene25.rpy:666
+translate francais v1s25_9f86fc0b:
+
+    # am "Don't start acting all sappy. I'm still the same, snappy Amber."
+    am "Commence pas à jouer les saintes nitouches, je suis toujours la même Amber, pleine de fougue."
+
+# game/v1/scene25.rpy:673
+translate francais v1s25_fa4d3624:
+
+    # u "Ha, noted."
+    u "Haha, c'est noté !"
+
+# game/v1/scene25.rpy:724
+translate francais v1s25_332c10bb:
+
+    # am "In other news, Lindsey has her bake sale tomorrow and I'm actually looking forward to it."
+    am "Sinon, Lindsey a sa vente de pâtisseries demain et j'ai vraiment hâte d'y être."
+
+# game/v1/scene25.rpy:729
+translate francais v1s25_5534803e:
+
+    # u "Why? Do you like baked goods?"
+    u "Pourquoi ? Tu aimes les pâtisseries ?"
+
+# game/v1/scene25.rpy:734
+translate francais v1s25_f37b7e19:
+
+    # am "Yeah, of course, but that's not why I'm going."
+    am "Bien sûr, mais c'est pas pour ça que j'y vais."
+
+# game/v1/scene25.rpy:739
+translate francais v1s25_2d0fac15:
+
+    # u "Ha, why are you going?"
+    u "Haha, alors pourquoi ?"
+
+# game/v1/scene25.rpy:780
+translate francais v1s25_dc4efdf0:
+
+    # am "Do you know how to lay in bed with a female without trying to fuck her?"
+    am "Est-ce que tu peux t'allonger dans un lit avec une femme sans essayer de la baiser ?"
+
+# game/v1/scene25.rpy:797
+translate francais v1s25_e4abc76c:
+
+    # am "Then yes, for real."
+    am "Alors oui, je suis sérieuse."
+
+# game/v1/scene25.rpy:842
+translate francais v1s25_8adec5d0:
+
+    # u "I can do that... sure... no problem..."
+    u "Je peux y arriver... bien sûr... sans problème..."
+
+# game/v1/scene25.rpy:847
+translate francais v1s25_ed44e8c6:
+
+    # am "Ha, good. Goodnight."
+    am "Bien, haha. Bonne nuit."
+
+# game/v1/scene25.rpy:904
+translate francais v1s25_nsfwSkipLabel1_2059273c:
+
+    # u "No one is following you off the bridge if you jump. Sorry, but you don't have quite that much influence."
+    u "Personne te suivra si tu sautes d'un pont. Désolé, mais t'as pas autant d'influence."
+
+# game/v1/scene25.rpy:930
+translate francais v1s25_nsfwSkipLabel1_e7b100e1:
+
+    # u "So, be a good person where it counts and have fun while you still can. Yeah?"
+    u "Alors, sois une bonne personne quand il le faut et amuse-toi tant que tu le peux encore. Tu comprends ?"
+
+# game/v1/scene25.rpy:940
+translate francais v1s25_nsfwSkipLabel1_18724d6d:
+
+    # am "*Gasps* [name]!"
+    am "*Soupire* [name] !"
+
+# game/v1/scene25.rpy:965
+translate francais v1s25_nsfwSkipLabel1_0c5b88c1:
+
+    # am "We're about to have some fucking fun. Ha!"
+    am "On va s'amuser comme des fous. Haha !"
+
+# game/v1/scene25.rpy:1059
+translate francais v1s25_nsfwSkipLabel1_b1bf455d:
+
+    # u "Uh-um, sorry, should I leave?"
+    u "H-hum, désolé, je dois partir ?"
+
+# game/v1/scene25.rpy:1064
+translate francais v1s25_nsfwSkipLabel1_65ada91e:
+
+    # am "Do you not remember what I said about the gum lady? You're staying here tonight. Get in the bed."
+    am "Tu te souviens pas de ce que j'ai dit à propos de la dame aux chewing-gums ? Tu restes là ce soir, va au lit."
+
+# game/v1/scene25.rpy:1074
+translate francais v1s25_nsfwSkipLabel1_5f13cd7c:
+
+    # am "What? You've seen tits before, haven't you?"
+    am "Quoi ? T'as déjà vu des seins avant, non ?"
+
+# game/v1/scene25.rpy:1089
+translate francais v1s25_nsfwSkipLabel1_831dd538:
+
+    # u "Okay... I can do that..."
+    u "Ok. Je peux y arriver."

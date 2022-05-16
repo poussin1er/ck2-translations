@@ -585,3 +585,160 @@ translate francais strings:
     # game/v3/scene25.rpy:707
     old "Hang up"
     new "Raccroche"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene25.rpy:66
+translate francais v3s25_f9c119c5:
+
+    # u "(Amber's still thinking about detective stuff. I think she has a fetish!)"
+    u "(Amber est toujours en train de penser à ces trucs de détective. Haha, on dirait qu'elle est fétichiste !)"
+
+# game/v3/scene25.rpy:74
+translate francais v3s25_ea38e457:
+
+    # u "(Maybe being a stripper is her true calling.)"
+    u "(Peut-être qu'être strip-teaseuse est sa véritable vocation.)"
+
+# game/v3/scene25.rpy:135
+translate francais v3s25_sg_e4f7118c:
+
+    # em "I do. I can't help but think about you every night when I'm getting naked and cozy."
+    em "C'est vrai. Je ne peux pas m'empêcher de penser à toi tous les soirs en me mettant nue et en m'installant confortablement."
+
+# game/v3/scene25.rpy:143
+translate francais v3s25_sg_2e48a387:
+
+    # u "Funny, I'm always thinking about you getting naked, too."
+    u "C'est marrant, moi aussi je pense toujours à toi en train de te déshabiller."
+
+# game/v3/scene25.rpy:214
+translate francais v3s25_sg_b9cd0bd9:
+
+    # u "(Laptop... Laptop... let's check the living room first.)"
+    u "(Ordinateur... Ordinateur... Allons d'abord vérifier le salon.)"
+
+# game/v3/scene25.rpy:262
+translate francais v3s25_sg_633baea6:
+
+    # u "(WHAT? No way. I'm in! Are we really that predictable, guys?)"
+    u "(QUOI ? trop fort. J'ai réussi ! Les mecs, sont si prévisibles que ça ?)"
+
+# game/v3/scene25.rpy:268
+translate francais v3s25_sg_47e59945:
+
+    # u "(Ha, no way. I'm in! Are we really that predictable, guys?)"
+    u "(trop fort. J'ai réussi ! Les mecs, sont si prévisibles que ça ?)"
+
+# game/v3/scene25.rpy:294
+translate francais v3s25_sg_47e59945_1:
+
+    # u "(Ha, no way. I'm in! Are we really that predictable, guys?)"
+    u "(trop fort. J'ai réussi ! Les mecs, sont si prévisibles que ça ?)"
+
+# game/v3/scene25.rpy:300
+translate francais v3s25_sg_47e59945_2:
+
+    # u "(Ha, no way. I'm in! Are we really that predictable, guys?)"
+    u "(trop fort. J'ai réussi ! Les mecs, sont si prévisibles que ça ?)"
+
+# game/v3/scene25.rpy:306
+translate francais v3s25_sg_47e59945_3:
+
+    # u "(Ha, no way. I'm in! Are we really that predictable, guys?)"
+    u "(trop fort. J'ai réussi ! Les mecs, sont si prévisibles que ça ?)"
+
+# game/v3/scene25.rpy:332
+translate francais v3s25_sg_3d9cf020:
+
+    # em "I hear you! And see you! Hi, cutie."
+    em "Je t'entends ! Et je te vois ! Coucou mon mignon."
+
+# game/v3/scene25.rpy:337
+translate francais v3s25_sg_da0c033f:
+
+    # u "Hey, you."
+    u "Salut toi."
+
+# game/v3/scene25.rpy:352
+translate francais v3s25_sg_02c517b1:
+
+    # em "Good. I wanted you to see some of my new outfits."
+    em "Tant mieux. Je voulais que tu voies certaines de mes nouvelles tenues."
+
+# game/v3/scene25.rpy:398
+translate francais v3s25_sg_516789bc:
+
+    # em "Why, thank you... I like it too."
+    em "Eh bien, merci... Moi aussi, j'aime beaucoup."
+
+# game/v3/scene25.rpy:423
+translate francais v3s25_sg_c8e64612:
+
+    # em "Good."
+    em "C'est parfait."
+
+# game/v3/scene25.rpy:458
+translate francais v3s25_sg_615035c4:
+
+    # u "It's your call. It doesn't look horrible!"
+    u "À toi de voir, c'est pas si moche que ça !"
+
+# game/v3/scene25.rpy:514
+translate francais v3s25_sg_d1d7d85c:
+
+    # em "Perfect."
+    em "Parfait."
+
+# game/v3/scene25.rpy:527
+translate francais v3s25_sg_2108681b:
+
+    # em "Do you?"
+    em "C'est vrai ?"
+
+# game/v3/scene25.rpy:552
+translate francais v3s25_sg_eea1018c:
+
+    # u "Y-yes. Final answer: Hot as fuck."
+    u "O-oui. Dernier mot : c'est chaud comme la braise."
+
+# game/v3/scene25.rpy:557
+translate francais v3s25_sg_d1d7d85c_1:
+
+    # em "Perfect."
+    em "Parfait."
+
+# game/v3/scene25.rpy:570
+translate francais v3s25_sg_2e71e83d:
+
+    # em "Naughty boy."
+    em "Vilain garçon."
+
+# game/v3/scene25.rpy:582
+translate francais v3s25_sg_7646a863:
+
+    # em "Well, that sucks. Oh well!"
+    em "Bon, ça craint. Et voilà !"
+
+# game/v3/scene25.rpy:602
+translate francais v3s25_sg_e6cc6545:
+
+    # u "I'll always be available for that."
+    u "Pour ça, je suis toujours dispo."
+
+# game/v3/scene25.rpy:607
+translate francais v3s25_sg_0633f02e:
+
+    # em "I like the feeling of you watching me."
+    em "J'aime savoir que tu me regardes."
+
+# game/v3/scene25.rpy:617
+translate francais v3s25_sg_96df6d06:
+
+    # em "Ha. Goodnight, handsome."
+    em "Bonne nuit beau gosse."
+
+# game/v3/scene25.rpy:675
+translate francais v3s25_sg_d98fe8d9:
+
+    # em "Awww, I was really excited to show you my sexy new outfits, though..."
+    em "Oooh, j'étais vraiment excitée de te montrer mes nouvelles tenues sexy, mais..."

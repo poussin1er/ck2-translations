@@ -626,3 +626,208 @@ translate francais v1s53_9b7fa09f:
 
     # sa "Oh, don't be. You did the right thing. I just like to rebel. *Chuckles*"
     sa "Oh, le sois pas. T'as fait ce qu'il fallait. C'est juste que j'aime être rebelle. *Rire*"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene53.rpy:35
+translate francais v1s53_5e7e6476:
+
+    # sa "*Singing* And she goes ooh, ooh, yeaaaah..."
+    sa "*Chante* Et elle fait ooh, ooh, yeaaaah..."
+
+# game/v1/scene53.rpy:45
+translate francais v1s53_da824d47:
+
+    # sa "Oh my God! How long have you been standing there staring at me, weirdo?"
+    sa "Oh, putain ! Haha... Depuis combien de temps t'es là à me regarder  avec un air chelou ?"
+
+# game/v1/scene53.rpy:75
+translate francais v1s53_fed94ae0:
+
+    # u "Well, I don't think those lyrics are going to win any awards... like, ever."
+    u "Ben, j'ai pas l'impression que ces paroles seront primées... un jour."
+
+# game/v1/scene53.rpy:85
+translate francais v1s53_f8201514:
+
+    # u "Okay, okay. I'm only joking with you."
+    u "Ok, ok... Je plaisante avec toi, c'est tout."
+
+# game/v1/scene53.rpy:100
+translate francais v1s53_c5e8a7f7:
+
+    # sa "Guess I forgot to laugh, then..."
+    sa "J'dois avoir oublié de rire, alors..."
+
+# game/v1/scene53.rpy:118
+translate francais v1s53_302f33a6:
+
+    # sa "Do you really think so? Thank you! I do enjoy it a lot. Not many people know."
+    sa "Tu trouves vraiment ? Merci ! J'aime beaucoup chanter, très peu de monde le sait."
+
+# game/v1/scene53.rpy:123
+translate francais v1s53_d64a2665:
+
+    # u "What are you doing down here on your own, anyway?"
+    u "Au fait, qu'est-ce que tu fais ici, toute seule ?"
+
+# game/v1/scene53.rpy:138
+translate francais v1s53_795b97c8:
+
+    # sa "Well, you're here now. You might as well come in and chat with me."
+    sa "Bah, t'es là maintenant. Tu pourrais entrer et discuter avec moi."
+
+# game/v1/scene53.rpy:148
+translate francais v1s53_7068e4b6:
+
+    # sa "I bought these pills today, but I don't even know what they are!"
+    sa "J'ai acheté ces pilules aujourd'hui, mais je sais même pas ce que c'est."
+
+# game/v1/scene53.rpy:168
+translate francais v1s53_e9803dc8:
+
+    # u "(Daddy?) Well, that's good."
+    u "(Papa ?) Bon, ça va."
+
+# game/v1/scene53.rpy:173
+translate francais v1s53_ccd4dca0:
+
+    # sa "I'm thinking about it, though."
+    sa "Par contre, j'y pense."
+
+# game/v1/scene53.rpy:199
+translate francais v1s53_36d3adb1:
+
+    # sa "For what? I make my own choices, you know."
+    sa "Pour quoi ? Je fais mes propres choix, tu sais."
+
+# game/v1/scene53.rpy:205
+translate francais v1s53_430008c8:
+
+    # sa "Oh, don't be. You did the right thing. I just like to rebel."
+    sa "Oh, le sois pas. T'as fait ce qu'il fallait. C'est juste que j'aime être rebelle."
+
+# game/v1/scene53.rpy:226
+translate francais v1s53_b4631f58:
+
+    # sa "Why would he? It's like family shame. You keep that shit hidden."
+    sa "Pourquoi il l'aurait fait ? Je suis une sorte de honte familiale, haha. \"Une merde à cacher\"."
+
+# game/v1/scene53.rpy:257
+translate francais v1s53_c73e70c3:
+
+    # sa "Yeah?"
+    sa "Tu vois ?"
+
+# game/v1/scene53.rpy:272
+translate francais v1s53_f51ce7fb:
+
+    # u "Well, that's one positive thing I've heard from this conversation, at least."
+    u "Au moins, voilà un point positif a tirer de cette conversation."
+
+# game/v1/scene53.rpy:302
+translate francais v1s53_0dd91d24:
+
+    # sa "All the things that have happened in my life... it isn't easy coming from a broken home, you know?"
+    sa "Toutes les choses qui se sont passées dans ma vie... Tu sais, c'est pas facile de venir d'un foyer brisé."
+
+# game/v1/scene53.rpy:312
+translate francais v1s53_f948bff4:
+
+    # sa "And when I'm around other people who take drugs... *sniffles*"
+    sa "Et quand je suis entourée d'autres personnes qui prennent de la drogue... *Renifle*"
+
+# game/v1/scene53.rpy:317
+translate francais v1s53_ca8083e9:
+
+    # sa "It makes me feel like, like I belong somewhere... *sniffles* do you know what I mean?"
+    sa "Ça me donne l'impression d'avoir ma place quelque part... *Renifle* Tu comprends ?"
+
+# game/v1/scene53.rpy:322
+translate francais v1s53_60a5798d:
+
+    # u "(How do I want to go about this? Convince her to stay off drugs? Is that even possible? Or should I just let her continue, since she knows her own limits?)"
+    u "(Comment dois-je m'y prendre ? La convaincre de ne pas se droguer ? Est ce que c'est possible ? Ou est-ce que je devrais simplement la laisser continuer, étant donné qu'elle connaît ses propres limites ?)"
+
+# game/v1/scene53.rpy:368
+translate francais v1s53_967ecffa:
+
+    # u "Drugs give people a distraction from their problems for a moment, and that's magical, I admit it."
+    u "Les drogues permettent aux gens de se distraire de leurs problèmes pendant un moment, et putain, c'est magique. Je le reconnais."
+
+# game/v1/scene53.rpy:374
+translate francais v1s53_d241d8ab:
+
+    # u "But you don't have enough self control to live this way. You overdosed. You're risking your life, Sam."
+    u "Mais tu te maîtrises pas assez pour pouvoir vivre de cette façon. T'as déjà fait une overdose, Sam. Tu risques ta vie."
+
+# game/v1/scene53.rpy:380
+translate francais v1s53_7b9ca118:
+
+    # u "But you don't have enough self control to live this way. You continue to relapse. You're dependent on drugs, Sam."
+    u "Mais tu te maîtrises pas assez pour pouvoir vivre de cette façon. T'arrêtes pas de rechuter. T'es accro et dépendante des drogues, Sam."
+
+# game/v1/scene53.rpy:395
+translate francais v1s53_07cd6b38:
+
+    # sa "..."
+    sa "..."
+
+# game/v1/scene53.rpy:405
+translate francais v1s53_c26abd4e:
+
+    # u "Of course I will."
+    u "Bien sûr que oui."
+
+# game/v1/scene53.rpy:410
+translate francais v1s53_0336fa14:
+
+    # u "What's up?"
+    u "Qu'est-ce qu'il y a ?"
+
+# game/v1/scene53.rpy:472
+translate francais v1s53_7024d308:
+
+    # sa "I uh, I don't want to take these pills anymore... could you throw them away for me?"
+    sa "Je euh, je veux plus prendre ces pilules... Tu peux les jeter pour moi ?"
+
+# game/v1/scene53.rpy:487
+translate francais v1s53_36331395:
+
+    # sa "I need to go to bed."
+    sa "Je dois aller au lit."
+
+# game/v1/scene53.rpy:544
+translate francais v1s53_986f33b9_1:
+
+    # sa "Thank you."
+    sa "Merci."
+
+# game/v1/scene53.rpy:549
+translate francais v1s53_242d31e6:
+
+    # u "Of course. I'll be here no matter what."
+    u "Évidemment, je serai là quoi qu'il arrive."
+
+# game/v1/scene53.rpy:574
+translate francais v1s53_3f56cf84:
+
+    # sa "But you're different... aren't you?"
+    sa "Mais toi, t'es different... Pas vrai ?"
+
+# game/v1/scene53.rpy:623
+translate francais v1s53_sg_9aad6e11:
+
+    # sa "What? W-why not?! You think I'm hot, don't you?"
+    sa "Quoi ? P- Pourquoi pas ?! Tu me trouves sexy, n'est-ce pas ?"
+
+# game/v1/scene53.rpy:639
+translate francais v1s53_sg_a7d7746f:
+
+    # sa "See, I was right! All of you are stupid dickheads. Every single one of you!"
+    sa "Tu vois, j'avais raison ! Ha ! Vous êtes tous des abrutis. Chacun d'entre vous !"
+
+# game/v1/scene53.rpy:660
+translate francais v1s53_sg_17e266e0:
+
+    # u "(I hope she doesn't hate me in the morning.)"
+    u "(J'espère qu'elle va pas me détester demain matin.)"

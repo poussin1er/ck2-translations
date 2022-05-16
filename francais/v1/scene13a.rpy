@@ -120,3 +120,40 @@ translate francais v1s13a_425fc94d:
 
     # gr "*Sniffs* There's a smell of change in the air. And you need to be ready."
     gr "*Snif* Ça sent le changement dans l'air. Et tu dois être prêt."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene13a.rpy:37
+translate francais v1s13a_2f74b3f3:
+
+    # gr "Ha! Watch your tone, fruit cake. I was just joshing... With how defensive you got, though, it does make me wonder a bit."
+    gr "Ho ! Surveille ton langage, mon petit sucre. J'déconnais, c'est tout... Mais vu comment tu t'es mis sur la défensive, j'me pose des questions."
+
+# game/v1/scene13a.rpy:47
+translate francais v1s13a_2ccb95e8:
+
+    # gr "It's pretty well-known that Charli liked fucking with you. The fact he was on vacation and still couldn't get you off his mind..."
+    gr "C'est assez connu que Charli adorait se foutre de toi. En plus, il était en vacances avec toi et donc, il voulait pas te lâcher la grappe..."
+
+# game/v1/scene13a.rpy:52
+translate francais v1s13a_c0a65d67:
+
+    # gr "Maybe it's that beautiful sparkle in your eye... not."
+    gr "Peut-être que c'est cette belle étincelle dans tes yeux... non."
+
+# game/v1/scene13a.rpy:72
+translate francais v1s13a_eb764625:
+
+    # gr "There's a smell of change in the air. And you need to be ready."
+    gr "Ça sent le changement dans l'air. Et faut que tu sois prêt."
+
+# game/v1/scene13a.rpy:92
+translate francais v1s13a_59e498a5:
+
+    # gr "Just be ready. Oh, yeah, and welcome back."
+    gr "Prépare-toi. Ah, ouais, et bon retour parmi nous."
+
+# game/v1/scene13a.rpy:112
+translate francais v1s13a_cdd8c6ba:
+
+    # u "(Jet lag recovery begins in five... four... three... two...)"
+    u "(Récupération du décalage horaire, mise à feu dans cinq... quatre... trois... deux...)"

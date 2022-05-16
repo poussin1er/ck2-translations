@@ -141,3 +141,28 @@ translate francais strings:
     # game/v3/scene20.rpy:36
     old "Leave them"
     new "Les laisser"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene20.rpy:89
+translate francais v3s20_amber_living_room_laptop_16b8bf31:
+
+    # u "(I think I've read enough of that.)"
+    u "(Je pense que j'en ai assez lu.)"
+
+# game/v3/scene20.rpy:109
+translate francais v3s20_amber_living_room_photos_7622dc70:
+
+    # u "(Not sure who the kid is with Amber in the other photo, though.)"
+    u "(Je suis pas sûr de savoir qui est le gamin avec elle, sur l'autre photo.)"
+
+# game/v3/scene20.rpy:111
+translate francais v3s20_amber_living_room_photos_e86f54ba:
+
+    # u "(And come to think of it, I haven't seen Josh in a while. I wonder how he's doing.)"
+    u "(En y réfléchissant bien, j'ai pas vu Josh depuis un moment. Je me demande comment il va.)"
+
+# game/v3/scene20.rpy:116
+translate francais v3s20_amber_living_room_photos_02414b03:
+
+    # u "(And is that little Amber playing violin? Ha, maybe I should ask her to play for me sometime.)"
+    u "(Et c'est la petite Amber qui joue du violon ? Haha, je devrais peut-être lui demander de jouer pour moi, un jour.)"

@@ -605,3 +605,130 @@ translate francais strings:
     # game/v3/scene7.rpy:493
     old "Get to class"
     new "Aller en cours"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene7.rpy:29
+translate francais v3s7_d39f50da:
+
+    # pa "*Drunk* *Giggles* Do you want a list? I mean, where do I start?"
+    pa "*Bourrée* *Ricane* Du veux une liste ? WHOOOO !!! Bon... Je gommence par quoi ?"
+
+# game/v3/scene7.rpy:34
+translate francais v3s7_04d5fde3:
+
+    # u "(Oh my fucking god, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:92
+translate francais v3s7_04d5fde3_1:
+
+    # u "(Oh my fucking god, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:116
+translate francais v3s7_2a8d3bf7:
+
+    # pa "*Drunk* Without the President's Scholarship, she'd have to sell all of that plastic back to the surgeons..."
+    pa "*Bourrée* Zans la bourze de Présidente, elle defra reventre tout son blaztique aux chirurchiens..."
+
+# game/v3/scene7.rpy:128
+translate francais v3s7_d6542a01:
+
+    # pa "Or that the only reason she wants to be president is because she can't afford tuition?"
+    pa "Ou que la seule raison pour laquelle elle veut être Présidente est qu'elle n'a pas les moyens de payer les frais de scolarité ?"
+
+# game/v3/scene7.rpy:168
+translate francais v3s7_phoneContinue_04d5fde3:
+
+    # u "(Oh my fucking god, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:226
+translate francais v3s7_phoneContinue_04d5fde3_1:
+
+    # u "(Oh my fucking god, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:235
+translate francais v3s7_phoneContinue_367b3be0:
+
+    # pha "*Drunk* I mean, no wonder she's such a bitch all the time..."
+    pha "*Bourrée* Bas étonnant gu'ça soit une vraie SALOPE tout l'demps..."
+
+# game/v3/scene7.rpy:248
+translate francais v3s7_phoneContinue_70b4c5af:
+
+    # pha "*Drunk* Without the President's scholarship, she'd have to sell all of that plastic back to the surgeons..."
+    pha "*Bourrée* Zans la bourze de Présidente, elle defra reventre tout son blaztique aux chirurchiens..."
+
+# game/v3/scene7.rpy:265
+translate francais v3s7_phoneContinue_b2e364e5:
+
+    # pha "Or that the only reason she wants to be president is because she can't afford tuition?"
+    pha "Ou que la seule raison pour laquelle elle veut être Présidente est qu'elle n'a pas les moyens de payer les frais de scolarité ?"
+
+# game/v3/scene7.rpy:304
+translate francais v3s7_phoneContinue_d6c77c48:
+
+    # aut "Yeah, I remember that night, but there was no ill intent behind it."
+    aut "Ouais, je me souviens de cette nuit, mais il n'y avait aucune mauvaise intention derrière tout ça."
+
+# game/v3/scene7.rpy:457
+translate francais v3s7_did_not_sabotage_lindsey_af29e031:
+
+    # aut "At the school we both go to? Yeah, What are the odds?"
+    aut "Dans l'école où on va tous les deux ? C'est vrai, quelles sont les chances ?"
+
+# game/v3/scene7.rpy:469
+translate francais v3s7_did_not_sabotage_lindsey_807c32bd:
+
+    # aut "I wanted to let you know that I expect to see you at the reopening of the dog shelter on Thursday."
+    aut "Je voulais que tu saches que j'aimerais bien te voir, à la réouverture du refuge pour chiens, jeudi."
+
+# game/v3/scene7.rpy:474
+translate francais v3s7_did_not_sabotage_lindsey_0a7943b0:
+
+    # u "Of course! I wouldn't miss it for the world."
+    u "Oh, bien sûr. Je manquerai ça pour rien au monde."
+
+# game/v3/scene7.rpy:481
+translate francais v3s7_did_not_sabotage_lindsey_33c26889:
+
+    # aut "Hopefully we can get some of the dogs adopted, too."
+    aut "Avec un peu de chance, on pourra également faire adopter certains de ces chiens."
+
+# game/v3/scene7.rpy:509
+translate francais v3s7_did_not_sabotage_lindsey_4f3a4ea4:
+
+    # aut "Oh, totally!"
+    aut "Oh, tout à fait !"
+
+# game/v3/scene7.rpy:518
+translate francais v3s7_did_not_sabotage_lindsey_97e60f37:
+
+    # u "Fingers crossed, then."
+    u "Alors on croise les doigts."
+
+# game/v3/scene7.rpy:544
+translate francais v3s7_did_not_sabotage_lindsey_49cd1cfb:
+
+    # aut "Ooh, economics! Fun times..."
+    aut "Ouah, l'économie ! C'est le moment de s'amuser..."
+
+# game/v3/scene7.rpy:549
+translate francais v3s7_did_not_sabotage_lindsey_a07fb038:
+
+    # u "Yeah, not in the mood to get yelled at for being late today."
+    u "Ouais, je suis pas vraiment d'humeur à me faire engueuler, si je suis en retard aujourd'hui."
+
+# game/v3/scene7.rpy:554
+translate francais v3s7_did_not_sabotage_lindsey_d14350bc:
+
+    # aut "Me too."
+    aut "Haha, moi non plus."
+
+# game/v3/scene7.rpy:564
+translate francais v3s7_did_not_sabotage_lindsey_fe5f5197:
+
+    # u "Never a dull moment for you presidents, huh? Bye, Autumn."
+    u "Il y a jamais de temps mort pour vous, les Présidents, hein !? Ciao, Autumn."

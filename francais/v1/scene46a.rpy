@@ -705,3 +705,316 @@ translate francais strings:
     # game/v1/scene46a.rpy:478
     old "Even more"
     new "Même plus"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene46a.rpy:16
+translate francais v1s46a_a61be53f:
+
+    # la "Hi!"
+    la "Coucou !"
+
+# game/v1/scene46a.rpy:21
+translate francais v1s46a_e40e3215:
+
+    # u "Hello, Dr. Lauren. I'm here for my impromptu hypnosis appointment."
+    u "Bonjour, Dr Lauren. Je suis ici pour mon rendez-vous surprise d'hypnose."
+
+# game/v1/scene46a.rpy:26
+translate francais v1s46a_19e7e59e:
+
+    # la "Come on in, silly."
+    la "Entre, idiot."
+
+# game/v1/scene46a.rpy:47
+translate francais v1s46a_235637f2:
+
+    # u "I like where this is going already. Is this an elaborate ruse to get some you-know-what going?"
+    u "J'aime déjà le début de cette expérience. C'est une ruse élaborée pour obtenir un peu de \"tu-sais-quoi\" ?"
+
+# game/v1/scene46a.rpy:52
+translate francais v1s46a_991d1d7c:
+
+    # la "Cute, but stop it. You have to focus."
+    la "C'est mignon, mais arrête. Tu dois rester concentré."
+
+# game/v1/scene46a.rpy:68
+translate francais v1s46a_4f88e75a:
+
+    # u "Okay, so, we're just going straight into it? No chit-chat?"
+    u "Ok. Alors, on y va direct ? Pas de bavardage ?"
+
+# game/v1/scene46a.rpy:73
+translate francais v1s46a_1f17a174:
+
+    # la "Oh, right. I'm sorry, [name]. I'm just super excited to try this. You know how I get about psych theory."
+    la "Oh, c'est vrai. Je suis désolée, [name]. Je suis tellement excitée d'essayer tout ça. Tu sais ce que je pense des théories psychologiques."
+
+# game/v1/scene46a.rpy:101
+translate francais v1s46a_sgb_a6d7ff1f:
+
+    # la "Okay... now, close your eyes."
+    la "Bon... Maintenant, ferme les yeux."
+
+# game/v1/scene46a.rpy:111
+translate francais v1s46a_sgb_ab741256:
+
+    # la "Breathe in slowly for five seconds... *Inhales*"
+    la "Inspire lentement pendant cinq secondes... *Inhale*"
+
+# game/v1/scene46a.rpy:121
+translate francais v1s46a_sgb_6f29996c:
+
+    # la "*Softly* Hold it for two seconds..."
+    la "*Doucement* Garde-la pendant deux secondes..."
+
+# game/v1/scene46a.rpy:132
+translate francais v1s46a_sgb_2fbbdfac:
+
+    # u "*Coughs* Ah, fuck. Sorry. *Inhales*"
+    u "*Tousse* Putain, haha. Désolé. *Inhale*"
+
+# game/v1/scene46a.rpy:137
+translate francais v1s46a_sgb_048e09fa:
+
+    # la "Stoner much?"
+    la "Tu fumes ?"
+
+# game/v1/scene46a.rpy:167
+translate francais v1s46a_sgb_ddeca30f:
+
+    # la "*Softly* You are now falling into a deep relaxation..."
+    la "*Doucement* Maintenant, tu tombes dans une profonde relaxation..."
+
+# game/v1/scene46a.rpy:184
+translate francais v1s46a_sgb_5928b156:
+
+    # u "If you say so!"
+    u "Si tu le dis !"
+
+# game/v1/scene46a.rpy:189
+translate francais v1s46a_sgb_d44a1ab9:
+
+    # la "[name]! Come on... ha, please, please try to take this seriously."
+    la "[name] ! Arrête... S'il te plaît, essaie de prendre ça au sérieux."
+
+# game/v1/scene46a.rpy:194
+translate francais v1s46a_sgb_3243b885:
+
+    # u "Okay... okay. Sorry."
+    u "D'accord... d'accord. Désolé."
+
+# game/v1/scene46a.rpy:211
+translate francais v1s46a_sgb_a91af3ca:
+
+    # la "*Softly* You are starting to feel relaxed... you feel safe... and completely comfortable."
+    la "*Doucement* Tu commences à te sentir détendu... Tu te sens en sécurité... Et complètement à l'aise."
+
+# game/v1/scene46a.rpy:216
+translate francais v1s46a_sgb_e9fbd13e:
+
+    # la "*Softly* As you drift into a deep state of relaxation, deeper and deeper..."
+    la "*Doucement* Alors que tu t'enfonces dans un état de relaxation profond et agréable, de plus en plus profond..."
+
+# game/v1/scene46a.rpy:217
+translate francais v1s46a_sgb_7216dd33:
+
+    # la "*Softly* Listen and feel the gentle caress of the elements around you."
+    la "*Doucement* Tu écoute et ressens la douce caresse des éléments naturels qui t'entourent."
+
+# game/v1/scene46a.rpy:222
+translate francais v1s46a_sgb_9da69822:
+
+    # la "*Softly* The longer you listen to my voice, the deeper you sink into pure contentment."
+    la "*Doucement* Plus tu écoutes ma voix, plus tu t'enfonces dans une pure relaxation."
+
+# game/v1/scene46a.rpy:227
+translate francais v1s46a_sgb_c3adf353:
+
+    # u "(Oh, wow... is this shit actually... working? What did I sign up for here?)"
+    u "(Oh, wow... Est-ce que cette merde fonctionne vraiment ? Dans quoi je me suis engagé, là ?)"
+
+# game/v1/scene46a.rpy:247
+translate francais v1s46a_sgb_5c465aac:
+
+    # la "*Softly* The sand between your toes is soft to the touch. You're calm... you're relaxed..."
+    la "*Doucement* Le sable entre tes orteils est doux au toucher. Tu es calme... tu es détendu..."
+
+# game/v1/scene46a.rpy:252
+translate francais v1s46a_sgb_e251626d:
+
+    # la "*Softly* You've never felt this unwound before... you're the happiest you've ever been."
+    la "*Doucement* Tu ne t'es jamais senti aussi détendu... tu es plus heureux que tu ne l'as jamais été."
+
+# game/v1/scene46a.rpy:283
+translate francais v1s46a_sgb_380b5671:
+
+    # la "She calls you over and asks you to rub lotion on her skin. You can help her."
+    la "Elle t'appelle et te demande d'appliquer de la lotion sur sa peau. Tu peux l'aider."
+
+# game/v1/scene46a.rpy:301
+translate francais v1s46a_sgb_e98de05d:
+
+    # la "*Softly* She's now asking you to massage the lotion across her breasts."
+    la "*Doucement* Elle te demande maintenant de masser la lotion sur ses seins."
+
+# game/v1/scene46a.rpy:314
+translate francais v1s46a_sgb_c48914f6:
+
+    # la "*Softly* Rubbing against her soft skin you can feel her nipples, which are stimulated by your touch."
+    la "*Doucement* En frottant sa peau douce, tu peux sentir ses mamelons qui s'excitent à ton contact."
+
+# game/v1/scene46a.rpy:364
+translate francais v1s46_nsfwSkipLabel1_0c66800e:
+
+    # la "Oh. My. God. I'm so sorry, I didn't think you'd-"
+    la "*Rire* Oh mon Dieu. Je suis vraiment désolée, je ne pensais pas que tu-"
+
+# game/v1/scene46a.rpy:374
+translate francais v1s46_nsfwSkipLabel1_8e50d4ee:
+
+    # u "What the... what the fuck?!"
+    u "C'est quoi ce... c'est quoi ce bordel ?!"
+
+# game/v1/scene46a.rpy:381
+translate francais v1s46_nsfwSkipLabel1_37a8ddeb:
+
+    # la "I'm so sorry! It was fun, though, right? Did it feel real?"
+    la "Je suis vraiment désolée ! Mais c'était amusant, non ? Est-ce que ça semblait réel ?"
+
+# game/v1/scene46a.rpy:391
+translate francais v1s46_nsfwSkipLabel1_64d404d5:
+
+    # la "That's so crazy... anyway, you can just go in the bathroom and clean yourself up."
+    la "C'est vraiment fou... Tu peux aller dans la salle de bain pour te nettoyer."
+
+# game/v1/scene46a.rpy:455
+translate francais v1s46_nsfwSkipLabel1_ff0dcc1e:
+
+    # la "You were the best participant I could've asked for."
+    la "Tu étais le meilleur intervenant que j'aurais pu demander."
+
+# game/v1/scene46a.rpy:461
+translate francais v1s46_nsfwSkipLabel1_1a9f1e91:
+
+    # u "Ha. That was such a weird experience. Where did you learn this?"
+    u "C'était une expérience vraiment bizarre. Où est-ce que t'as appris ça ?"
+
+# game/v1/scene46a.rpy:466
+translate francais v1s46_nsfwSkipLabel1_74ef0831:
+
+    # la "I think I've, uh, blurred the lines between my classes' lessons and my all-new porn-watching habits."
+    la "Je pense que j'ai, euh, flouté les limites entre les leçons de mes cours et mes toutes nouvelles habitudes prises en regardant du porno."
+
+# game/v1/scene46a.rpy:471
+translate francais v1s46_nsfwSkipLabel1_73a73781:
+
+    # u "Wow. I'm going to remember this the next time you ask to test some psych stuff on me."
+    u "Wow. J'essaierai de me souvenir de ça, la prochaine fois que tu me demanderas de tester des trucs psychologiques sur moi."
+
+# game/v1/scene46a.rpy:507
+translate francais v1s46_nsfwSkipLabel1_4e85e700:
+
+    # la "My poor, horny guinea pig."
+    la "Mon pauvre petit cochon d'Inde en manque."
+
+# game/v1/scene46a.rpy:551
+translate francais v1s46_nsfwSkipLabel1_7828686b:
+
+    # la "*Softly* It's the most beautiful day. So sunny and warm. You can feel the light dancing on your skin."
+    la "*Doucement* C'est la plus belle des journées. Si ensoleillée et chaude que tu peux sentir la lumière danser sur ta peau."
+
+# game/v1/scene46a.rpy:609
+translate francais v1s46_nsfwSkipLabel1_49fc6aa7:
+
+    # la "*Softly* But he's not stopping there... he's hungry for something else now. Before you know it, he's chewing at your... member."
+    la "*Doucement* Mais il ne s'arrête pas là... il a faim d'autre chose maintenant. Avant que tu ne t'en rendes compte, il est en train de mâchouiller ton... membre."
+
+# game/v1/scene46a.rpy:634
+translate francais v1s46_nsfwSkipLabel1_64d78e0e:
+
+    # la "*Softly* The horse has his eyes on the prize now... before you know it, he takes one quick bite towards your penis and-"
+    la "*Doucement* Le cheval a les yeux sur le butin maintenant... avant que tu ne comprennes, il mord d'un coup sec ton pénis et-"
+
+# game/v1/scene46a.rpy:639
+translate francais v1s46_nsfwSkipLabel1_f5359956:
+
+    # u "Aahhh! Fuck! Oww! M-my balls!"
+    u "Aahhh ! Putain ! Ouille ! M-Mes couilles !"
+
+# game/v1/scene46a.rpy:665
+translate francais v1s46_nsfwSkipLabel1_853c5ecd:
+
+    # la "I'm sorry, [name]! It was too good of an opportunity! I didn't think the horse dream would actually work on anyone... says more about you than me, really..."
+    la "Je suis désolée, [name] ! C'était une trop bonne opportunité ! Je ne pensais pas que le rêve du cheval fonctionnerait vraiment sur quelqu'un... Ça en dit plus sur toi que sur moi, en fait..."
+
+# game/v1/scene46a.rpy:675
+translate francais v1s46_nsfwSkipLabel1_6849012f:
+
+    # la "All in the name of psych science, I promise. You should be very proud of yourself. It worked perfectly."
+    la "Tout ça au nom de la science psychologique., je te le promets. Tu devrais être très fier de toi. Ça a parfaitement fonctionné."
+
+# game/v1/scene46a.rpy:680
+translate francais v1s46_nsfwSkipLabel1_c30e53ab:
+
+    # u "Warped as fuck. You like to take things pretty far at the amateur hour psych evaluations, don't you?"
+    u "C'est complètement tordu. Tu aimes aller assez loin dans les évaluations psychologiques pour amateurs, hein ?"
+
+# game/v1/scene46a.rpy:685
+translate francais v1s46_nsfwSkipLabel1_3615b629:
+
+    # la "Hehe, I saw a few tutorials and just wanted to see if it worked."
+    la "Hehe, j'ai vu quelques tutoriels et je voulais juste vérifier si ça fonctionnait."
+
+# game/v1/scene46a.rpy:690
+translate francais v1s46_nsfwSkipLabel1_032b6208:
+
+    # u "That was such a weird experience... my balls... they actually hurt a little. I'm going to remember this."
+    u "C'était une expérience vraiment bizarre... Mes couilles... En fait, elles me font un peu mal. Je m'en souviendrai."
+
+# game/v1/scene46a.rpy:695
+translate francais v1s46_nsfwSkipLabel1_4a4198c4:
+
+    # la "Perfect."
+    la "Parfait."
+
+# game/v1/scene46a.rpy:702
+translate francais v1s46_nsfwSkipLabel1_c05a0a9b:
+
+    # la "Now, I've gotta get caught up on homework, so..."
+    la "Bon, je dois me rattraper sur mes devoirs, alors..."
+
+# game/v1/scene46a.rpy:732
+translate francais v1s46_nsfwSkipLabel1_90622431:
+
+    # la "Thanks for doing that with me. I know I have some pretty out-there interests, but... really, thanks."
+    la "Merci d'avoir fait ça avec moi. Je sais que j'ai des passions plutôt farfelues, mais... franchement, merci."
+
+# game/v1/scene46a.rpy:742
+translate francais v1s46_nsfwSkipLabel1_6735fd95:
+
+    # la "We'll do something again soon, right?"
+    la "On fera bientôt une nouvelle expérience, d'accord ?"
+
+# game/v1/scene46a.rpy:747
+translate francais v1s46_nsfwSkipLabel1_1998d40e:
+
+    # u "Only if it's a different psych experiment. If it's another hypnosis session... maybe I'll send Imre instead."
+    u "Seulement si c'est une expérience psychologique différente. Si c'est une autre séance d'hypnose... j'enverrai peut-être Imre à la place."
+
+# game/v1/scene46a.rpy:752
+translate francais v1s46_nsfwSkipLabel1_ac7beb1c:
+
+    # la "Please don't do that to me."
+    la "Ne me fais pas ça, s'il te plaît."
+
+# game/v1/scene46a.rpy:757
+translate francais v1s46_nsfwSkipLabel1_af3d72dd:
+
+    # u "Ha. See ya."
+    u "À plus."
+
+# game/v1/scene46a.rpy:769
+translate francais v1s46_nsfwSkipLabel1_1f79ba0b:
+
+    # u "(What the fuck just happened...)"
+    u "(Putain, qu'est-ce qui vient de se passer...)"

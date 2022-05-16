@@ -11,3 +11,10 @@ translate francais v1s45_PhoneContinueAmber_8eb92e2e:
 
     # u "(News to share... Hmm.)"
     u "(Des nouvelles à partager... Hmm.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene45.rpy:40
+translate francais v1s45_PhoneContinueAmber_0acdb6ca:
+
+    # u "(News to share... hmm.)"
+    u "(Des nouvelles à partager... Hmm.)"

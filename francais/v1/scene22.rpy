@@ -70,7 +70,7 @@ translate francais v1s22_0e3df597:
 translate francais v1s22_c95bc0dd:
 
     # li "I just helped them with their applications but Mr. Rose dealt with all the admission stuff."
-    li "Je les ai juste aidés à remplir leurs demandes mais Mr Rose s'est occupé de toutes les affaires d'admission."
+    li "Je les ai juste aidés à remplir leurs demandes, mais Mr Rose s'est occupé de toutes les affaires d'admission."
 
 # game/v1/scene22.rpy:91
 translate francais v1s22_65ebf88e:
@@ -401,3 +401,88 @@ translate francais v1s22_end_bfa1bce3:
 
     # u "(Always thinking of others, isn't she?)"
     u "(Elle est toujours en train de penser aux autres.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene22.rpy:56
+translate francais v1s22_666a6754:
+
+    # u "Wait... Lindsey, did you... you know...?"
+    u "Attends... Lindsey, est-ce que t'as... Tu sais...?"
+
+# game/v1/scene22.rpy:66
+translate francais v1s22_60216b29:
+
+    # li "God, no!"
+    li "Oh, non !"
+
+# game/v1/scene22.rpy:86
+translate francais v1s22_830fa1a4:
+
+    # li "I just helped them with their applications, but Mr. Rose dealt with all the admission stuff."
+    li "Je les ai juste aidés à remplir leurs demandes, mais Mr Rose s'est occupé de toutes les affaires d'admission."
+
+# game/v1/scene22.rpy:157
+translate francais v1s22_49ea807b:
+
+    # li "Before we start, I wanna run you through some things, because this isn't as easy as I originally thought."
+    li "Avant de commencer, je veux te présenter certaines choses, car ce n'est pas aussi facile que je le pensais au départ."
+
+# game/v1/scene22.rpy:179
+translate francais v1s22_3912727d:
+
+    # li "Right, so with that in mind, now just have a look at my board and choose what you think is best."
+    li "Bien, donc avec ça en tête, jette maintenant un coup d'œil à mon tableau et choisis ce que tu juges être le meilleur."
+
+# game/v1/scene22.rpy:181
+translate francais v1s22_e98d329d:
+
+    # li "Both plans work, and I'm comfortable with either one so... Whatever you decide is what I'll go with."
+    li "Les deux plans sont efficaces et je suis à l'aise avec l'un ou l'autre, alors... Quelle que soit ta décision, c'est ce que je choisirai."
+
+# game/v1/scene22.rpy:253
+translate francais v1s22_sell_car_632c7e62:
+
+    # li "Ha, good choice."
+    li "Haha, bon choix !"
+
+# game/v1/scene22.rpy:277
+translate francais v1s22_sell_car_ede65bcb:
+
+    # li "I was wondering if that second plan was a little too much, ha. Now I have the answer."
+    li "Je me demandais si ce deuxième plan n'était pas un peu trop... haha. Maintenant, j'ai la réponse."
+
+# game/v1/scene22.rpy:282
+translate francais v1s22_sell_car_a740c36e:
+
+    # u "I mean, you gotta do whatcha gotta do to win, right?"
+    u "Enfin, tu dois faire ce qu'il faut pour gagner, non ?"
+
+# game/v1/scene22.rpy:300
+translate francais v1s22_steal_d85cfe12:
+
+    # li "Ah! This is going to be insane..."
+    li "Haha ! Ça va être dingue..."
+
+# game/v1/scene22.rpy:305
+translate francais v1s22_steal_e7fa7ae2:
+
+    # u "It's a really smart plan. I just hope we can pull it off."
+    u "C'est un plan très intelligent, j'espère seulement qu'on pourra le réaliser."
+
+# game/v1/scene22.rpy:335
+translate francais v1s22_steal_6ac672ca:
+
+    # li "Me too. This amount of money could help us tremendously with the rest of the ideas I have for the campaign. Even though it's a hard pill to swallow..."
+    li "Moi aussi. Cette somme d'argent pourrait nous aider énormément pour le reste des idées que j'ai pour la campagne. Même si c'est une pilule difficile à avaler..."
+
+# game/v1/scene22.rpy:394
+translate francais v1s22_end_c6f6a0c9:
+
+    # u "Right... either that, you spy on me, or you're a psychic."
+    u "Ok... Soit ça, soit tu m'espionnes, soit tu es un médium."
+
+# game/v1/scene22.rpy:406
+translate francais v1s22_end_e90950cf:
+
+    # li "I may have permission to use this place, but I don't like being in their way when they're trying to get their job done."
+    li "J'ai peut-être la permission d'utiliser cet endroit, mais je n'aime pas être dans leurs pattes, quand ils essaient de faire leur travail."

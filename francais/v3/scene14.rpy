@@ -1120,3 +1120,214 @@ translate francais v3s14_ff2f147f:
 
     # u "(Well that sucks, can't even kiss my own girlfriend, at least in the light of day.)"
     u "(Eh ben ça craint, je peux même pas embrasser ma propre petite amie, du moins au grand jour.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene14.rpy:104
+translate francais v3s14_db7bb99b:
+
+    # no "Mmhmm, and she should be here any min-"
+    no "Mmhmm, et elle devrait arriver dans quelques min-"
+
+# game/v3/scene14.rpy:224
+translate francais v3s14_79e27f4e:
+
+    # u "You're right. Sorry, ladies."
+    u "Vous avez raison, désolé mesdames."
+
+# game/v3/scene14.rpy:281
+translate francais v3s14_754c0d6d:
+
+    # ro "So, from this neutral pose, push your stomach down and your chin up to form the cow pose."
+    ro "Donc, à partir de cette pose neutre, poussez votre ventre vers le bas et votre menton vers le haut pour prendre la pose de la vache."
+
+# game/v3/scene14.rpy:317
+translate francais v3s14_8e258101:
+
+    # ro "Now inhale... and hold."
+    ro "Maintenant, inspirez... Et retenez votre souffle."
+
+# game/v3/scene14.rpy:322
+translate francais v3s14_6c85e41c:
+
+    # ro "Now, when we release, we form cow pose again."
+    ro "Maintenant, lorsqu'on relâche, on reprend la pose de la vache."
+
+# game/v3/scene14.rpy:329
+translate francais v3s14_685dce20:
+
+    # no "I'm really... *grunts* feeling this."
+    no "J'ai vraiment... *Grogne* à sentir ça."
+
+# game/v3/scene14.rpy:375
+translate francais v3s14_8e258101_1:
+
+    # ro "Now inhale... and hold."
+    ro "Maintenant, inspirez... Et retenez votre souffle."
+
+# game/v3/scene14.rpy:379
+translate francais v3s14_6c85e41c_1:
+
+    # ro "Now, when we release, we form cow pose again."
+    ro "Maintenant, lorsqu'on relâche, on reprend la pose de la vache."
+
+# game/v3/scene14.rpy:386
+translate francais v3s14_685dce20_1:
+
+    # no "I'm really... *grunts* feeling this."
+    no "J'ai vraiment... *Grogne* à sentir ça."
+
+# game/v3/scene14.rpy:435
+translate francais v3s14_fc228973:
+
+    # ro "Now when we release, we form cow pose again."
+    ro "Maintenant, lorsqu'on relâche, on reprend la pose de la vache."
+
+# game/v3/scene14.rpy:442
+translate francais v3s14_685dce20_2:
+
+    # no "I'm really... *grunts* feeling this."
+    no "J'ai vraiment... *Grogne* à sentir ça."
+
+# game/v3/scene14.rpy:485
+translate francais v3s14_0fea5119:
+
+    # ro "So it's in line with your spine. And then we're going to hold it there."
+    ro "Pour qu'elle soit dans l'axe de votre colonne vertébrale, et ensuite nous allons la maintenir ainsi."
+
+# game/v3/scene14.rpy:490
+translate francais v3s14_c4120fd7:
+
+    # u "Mnngh... what's this one called?"
+    u "Mnngh... Comment s'appelle cette pose ?"
+
+# game/v3/scene14.rpy:495
+translate francais v3s14_2ff475ce:
+
+    # ro "Umm, I don't quite recall. Leg pose, something... stretch?"
+    ro "Hum, je ne me souviens pas vraiment. Une pose de jambes, un genre de... d'étirement ?"
+
+# game/v3/scene14.rpy:500
+translate francais v3s14_aebf8f07:
+
+    # no "Leg pose stretch?"
+    no "Étirement de la jambe ?"
+
+# game/v3/scene14.rpy:510
+translate francais v3s14_928f65ae:
+
+    # ro "Let's go with that."
+    ro "On va partir là-dessus."
+
+# game/v3/scene14.rpy:515
+translate francais v3s14_1de9e19c:
+
+    # no "That's the one."
+    no "Je suis sûre que c'est ça."
+
+# game/v3/scene14.rpy:583
+translate francais v3s14_2a8352fc:
+
+    # ro "You can bend your knees a little, and feel free to sway side to side. Whatever feels good."
+    ro "Vous pouvez plier un peu les genoux et n'hésitez pas à vous balancer d'un côté à l'autre, comme bon vous semble."
+
+# game/v3/scene14.rpy:596
+translate francais v3s14_2db2ddec_1:
+
+    # ro "Lift your hips up, so you're making a triangle shape."
+    ro "Soulevez vos hanches, de manière à former un triangle."
+
+# game/v3/scene14.rpy:629
+translate francais v3s14_2a8352fc_1:
+
+    # ro "You can bend your knees a little, and feel free to sway side to side. Whatever feels good."
+    ro "Vous pouvez plier un peu les genoux et n'hésitez pas à vous balancer d'un côté à l'autre, comme bon vous semble."
+
+# game/v3/scene14.rpy:640
+translate francais v3s14_2db2ddec_2:
+
+    # ro "Lift your hips up, so you're making a triangle shape."
+    ro "Soulevez vos hanches, de manière à former un triangle."
+
+# game/v3/scene14.rpy:676
+translate francais v3s14_2a8352fc_2:
+
+    # ro "You can bend your knees a little, and feel free to sway side to side. Whatever feels good."
+    ro "Vous pouvez plier un peu les genoux et n'hésitez pas à vous balancer d'un côté à l'autre, comme bon vous semble."
+
+# game/v3/scene14.rpy:686
+translate francais v3s14_82c2acf9:
+
+    # ro "And now push your stomach in, then slowly unroll your spine until you're standing straight."
+    ro "Maintenant, rentrez votre ventre et déroulez lentement votre colonne vertébrale jusqu'à ce que vous vous teniez droit."
+
+# game/v3/scene14.rpy:696
+translate francais v3s14_0d04b107:
+
+    # ro "Reach up with both hands and hold it there for our final stretch."
+    ro "Levez les deux mains et maintenez-les en place pour notre dernier étirement."
+
+# game/v3/scene14.rpy:701
+translate francais v3s14_7e411d40:
+
+    # u "Ahh... wow. I feel like jelly."
+    u "Ahh... Wow. Je me sens comme une gelée."
+
+# game/v3/scene14.rpy:724
+translate francais v3s14_852fff1b:
+
+    # ro "I'm glad to hear that."
+    ro "Je suis heureuse de l'entendre."
+
+# game/v3/scene14.rpy:736
+translate francais v3s14_88cfc87e:
+
+    # u "Yeah, it was relaxing, to be honest. I feel rejuvenated."
+    u "Ouais, pour être honnête, c'était relaxant. Je me sens rajeuni."
+
+# game/v3/scene14.rpy:746
+translate francais v3s14_c270bf4e:
+
+    # no "You still have the same forehead... I mean, fivehead, sorry."
+    no "T'as toujours le même front... Enfin... Front large, désolée."
+
+# game/v3/scene14.rpy:858
+translate francais v3s14_cee6c0fb:
+
+    # pe "Imre and Karen. He won that thing from the Deer event where he got a free date."
+    pe "Imre et Karen. Il a gagné le truc de l'événement des Deers et il a gagné un rencard gratuit."
+
+# game/v3/scene14.rpy:863
+translate francais v3s14_e8c6d3fd:
+
+    # u "But why are you at the pier with them?"
+    u "Mais pourquoi t'es sur la jetée avec eux ?"
+
+# game/v3/scene14.rpy:873
+translate francais v3s14_efd0ba2e:
+
+    # pe "Please, just come save me? You can ask as many questions as you want once you're here."
+    pe "S'il te plaît, tu peux venir me sauver ? Une fois présent, tu pourras poser autant de questions que tu voudras."
+
+# game/v3/scene14.rpy:906
+translate francais v3s14_437c8a7d:
+
+    # no "You're always saving someone. We're going to grab coffee, so I'll catch up with you later?"
+    no "T'es toujours en train de voler au secours de quelqu'un. Nous on va se prendre un café, on se voit plus tard ?"
+
+# game/v3/scene14.rpy:911
+translate francais v3s14_cc007799:
+
+    # u "You absolutely will. Thanks for inviting me to my first-ever yoga session."
+    u "Bien sûr. Merci de m'avoir invité à ma toute première séance de yoga."
+
+# game/v3/scene14.rpy:916
+translate francais v3s14_92ed1d8a:
+
+    # no "No problem! It was nice spending time with you."
+    no "Pas de problème ! C'était sympa de passer du temps avec toi."
+
+# game/v3/scene14.rpy:939
+translate francais v3s14_5ef7aad3:
+
+    # u "Bye, ladies!"
+    u "À bientôt, mesdames !"

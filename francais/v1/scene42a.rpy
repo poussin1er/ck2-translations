@@ -219,3 +219,58 @@ translate francais strings:
     # game/v1/scene42a.rpy:79
     old "Sex would've been nice"
     new "Du sexe aurait été sympa"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene42a.rpy:17
+translate francais v1s42a_39e40f8a:
+
+    # u "*Yawns* Morning, sunshine. Did you sleep well?"
+    u "*Bailles* Bonjour mon rayon de soleil. T'as bien dormi ?"
+
+# game/v1/scene42a.rpy:37
+translate francais v1s42a_6722e337:
+
+    # u "Glad I could be of service."
+    u "Heureux d'avoir pu être utile."
+
+# game/v1/scene42a.rpy:42
+translate francais v1s42a_0d42c26b:
+
+    # pe "I wanted to mention that I'm sorry for last night."
+    pe "Je voulais te dire, je suis désolée pour la soirée d'hier."
+
+# game/v1/scene42a.rpy:119
+translate francais v1s42a_9f1911bc:
+
+    # u "Well, yeah, I can't lie. When you came out looking like that... I kinda thought something was gonna end up happening, ha."
+    u "Eh bien, oui, sans mentir. Quand t'es sortie habillée comme ça... J'ai un peu pensé que quelque chose allait se passer."
+
+# game/v1/scene42a.rpy:124
+translate francais v1s42a_d6f116bb:
+
+    # pe "Yeah, my bad. Sorry."
+    pe "Ouais, c'est ma faute. Désolée."
+
+# game/v1/scene42a.rpy:159
+translate francais v1s42a_9b6b1172:
+
+    # u "Nah. We have enough time to get ready and walk there."
+    u "Nan. On a encore le temps de se préparer pour y aller tranquillement."
+
+# game/v1/scene42a.rpy:189
+translate francais v1s42a_e513512e:
+
+    # u "Hey! What's that supposed to mean?"
+    u "Hé ! Qu'est-ce que ça veut dire ?"
+
+# game/v1/scene42a.rpy:194
+translate francais v1s42a_947da934:
+
+    # pe "Oh, nothing."
+    pe "Oh, rien."
+
+# game/v1/scene42a.rpy:209
+translate francais v1s42a_597096bc:
+
+    # u "Ha! I'm coming."
+    u "Oh ! J'arrive."

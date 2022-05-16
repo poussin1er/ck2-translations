@@ -168,3 +168,76 @@ translate francais v1s13_34c89875:
 
     # se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would. *Laughs*"
     se "Très drôle... Je suis content que tu sois de retour, mec. Vraiment, tu m'as manqué plus que je ne le pensais. *Rire*"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene13.rpy:32
+translate francais v1s13_a8178cbb:
+
+    # u "Ha, sorry Seb. I was gonna save that for the morning."
+    u "Ha, désolé Seb. J'allais réserver ça pour demain matin."
+
+# game/v1/scene13.rpy:37
+translate francais v1s13_9f1a78d4:
+
+    # se "Wolves don't roll like that, my man."
+    se "Les Wolves ne fonctionnent pas comme ça, mon pote."
+
+# game/v1/scene13.rpy:47
+translate francais v1s13_8430fe0f:
+
+    # u "Alright, sure, yeah... You make it sound like you're dying, though."
+    u "D'accord, c'est vrai, ouais... Mais à t'entendre, on dirait que t'es en train de mourir."
+
+# game/v1/scene13.rpy:57
+translate francais v1s13_d9dd728b:
+
+    # u "Wait... Sebastian, are you...?"
+    u "Attends... Sebastian, t'es...?"
+
+# game/v1/scene13.rpy:77
+translate francais v1s13_7e3dc5a4:
+
+    # se "Friend, you mean. Sounds like a friend is calling. There are no bosses around here, [name]."
+    se "Ami, tu veux dire. On dirait que mon ami m'appelle. Il n'y a pas de \"chef\" par ici, [name]."
+
+# game/v1/scene13.rpy:82
+translate francais v1s13_c4bf05e5:
+
+    # se "Didn't you notice how he asked for my help instead of barking out an order?"
+    se "Tu n'as pas remarqué la façon dont il a demandé mon aide, au lieu d'aboyer un ordre ?"
+
+# game/v1/scene13.rpy:87
+translate francais v1s13_eac8abbc:
+
+    # u "Yeah, man. Whatever you say. But a president is still the boss."
+    u "C'est possible, mec. Si tu veux. Mais un président reste toujours le chef."
+
+# game/v1/scene13.rpy:92
+translate francais v1s13_ac390f55:
+
+    # se "Different perspectives cause conflict-"
+    se "Des perspectives différentes entraînent des conflits-"
+
+# game/v1/scene13.rpy:107
+translate francais v1s13_3b0d6a92:
+
+    # u "Your friend sounds very patient."
+    u "Ton ami a l'air très patient."
+
+# game/v1/scene13.rpy:112
+translate francais v1s13_701a6ea0:
+
+    # se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would."
+    se "Très drôle. En tout cas, je suis content que tu sois de retour. Vous m'avez vraiment manqué. Plus que je ne le pensais."
+
+# game/v1/scene13.rpy:132
+translate francais v1s13_b851361c:
+
+    # u "(Sure sounded to me like he was being given an order. It may have been a polite one, but it was an order nonetheless. Definitely not a request...)"
+    u "(J'ai vraiment eu l'impression qu'il était en train de lui donner un ordre. Il était peut-être poli, mais c'était tout de même un ordre. Pas du tout une simple demande d'aide...)"
+
+# game/v1/scene13.rpy:147
+translate francais v1s13_cdd8c6ba:
+
+    # u "(Jet lag recovery begins in five... four... three... two...)"
+    u "(Récupération du décalage horaire, mise à feu dans cinq... quatre... trois... deux...)"

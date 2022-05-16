@@ -255,3 +255,10 @@ translate francais strings:
     # game/v3/scene56.rpy:109
     old "Hold a grudge"
     new "Garder rancune"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene56.rpy:22
+translate francais v3s56_384a8bb1:
+
+    # ch "Hey, [name]. Could you please come to the living room for a minute?"
+    ch "Salut, [name]. Tu peux venir dans le salon une minute, s'il te plaît ?"

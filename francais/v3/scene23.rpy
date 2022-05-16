@@ -1334,3 +1334,238 @@ translate francais v3s23_nsfwSkipLabel1_ed608bf3:
 
     # u "(The dude's already drunk out of his mind, I'll let him go this time. Can't promise that no one else won't kick his ass tonight, haha.)"
     u "(Ce mec est déjà complètement bourré, je vais le laisser tranquille pour cette fois. Par contre, je peux pas garantir que personne lui éclatera la gueule ce soir, haha.)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene23.rpy:46
+translate francais v3s23_d1c833f8:
+
+    # u "I grabbed these, too. Thought you might appreciate it."
+    u "J'ai pris ça aussi. Je me suis dit que t'aimerais en profiter."
+
+# game/v3/scene23.rpy:96
+translate francais v3s23_0b159afb:
+
+    # am "I'm so glad you brought my charger. My phone was doomed without it."
+    am "J'suis vraiment contente que t'aies apporté mon chargeur. Mon téléphone était foutu sans lui."
+
+# game/v3/scene23.rpy:108
+translate francais v3s23_fd936dab:
+
+    # am "Yep. What do you think?"
+    am "Ouaip, t'en penses quoi ?"
+
+# game/v3/scene23.rpy:114
+translate francais v3s23_cb9efe97:
+
+    # u "I'm warming up to it."
+    u "Je chauffe."
+
+# game/v3/scene23.rpy:219
+translate francais v3s23_c7a05eac:
+
+    # ds "The future remains to be seen, sweetheart!"
+    ds "On verra bien c'que l'avenir nous réserve, ma chérie !"
+
+# game/v3/scene23.rpy:229
+translate francais v3s23_7a30d177:
+
+    # am "Hmm... maybe."
+    am "Hmm... On va dire ça."
+
+# game/v3/scene23.rpy:235
+translate francais v3s23_a885fa08:
+
+    # u "Wait a minute. Didn't you buy Lindsey's car?"
+    u "Attends une minute... C'est pas toi qui a acheté la voiture de Lindsey ?"
+
+# game/v3/scene23.rpy:287
+translate francais v3s23_e70e5d4f:
+
+    # am "Ha, yeah, I know. Normally I'd have punched him in the throat, but..."
+    am "Ouais, je sais. Normalement, j'l'aurais frappé à la gorge, mais..."
+
+# game/v3/scene23.rpy:292
+translate francais v3s23_8af0a1a9:
+
+    # am "Management frowns upon dancers beating up customers so I have to let it slide."
+    am "La direction n'aime pas qu'les danseuses frappent les clients, alors j'dois laisser passer."
+
+# game/v3/scene23.rpy:297
+translate francais v3s23_bf238a7d:
+
+    # u "I get that, but it must be hard sometimes."
+    u "Je comprends, mais parfois ça doit être dur."
+
+# game/v3/scene23.rpy:345
+translate francais v3s23_99c1d070:
+
+    # am "Good. People tell me not to keep a key under the mat, but it's saved me so many times."
+    am "Tant mieux. Tout l'monde me dit de pas laisser de clé sous l'paillasson, mais ça m'a déjà sauvé tellement d'fois."
+
+# game/v3/scene23.rpy:373
+translate francais v3s23_c8d15829:
+
+    # am "Okay... well, for starters, don't read my mail ever again."
+    am "Ok... D'abord, lis plus jamais mon courrier."
+
+# game/v3/scene23.rpy:411
+translate francais v3s23_d669b24d:
+
+    # am "Ha! Shit! You saw that, huh?"
+    am "Merde ! T'as vu ça, hein ?"
+
+# game/v3/scene23.rpy:416
+translate francais v3s23_a9610143:
+
+    # u "Yeah... I mean to each their own, as they say."
+    u "Ouais... Enfin, chacun son truc, on dira."
+
+# game/v3/scene23.rpy:421
+translate francais v3s23_24a26422:
+
+    # am "Honestly, it's fun to read that stuff! Lauren got me into it."
+    am "Franchement, c'est sympa de lire ces trucs ! C'est Lauren qui m'les a fait découvrir."
+
+# game/v3/scene23.rpy:427
+translate francais v3s23_bd05d9a0:
+
+    # u "(Another saucy turn from Lauren.)"
+    u "(Une autre allure coquine de Lauren.)"
+
+# game/v3/scene23.rpy:432
+translate francais v3s23_cdf32aac:
+
+    # am "You should give it a go sometime, seriously. You might even pick up some ideas for your next hot date."
+    am "Tu devrais essayer un jour. Tu pourrais même y trouver des idées pour ton prochain rencard torride."
+
+# game/v3/scene23.rpy:437
+translate francais v3s23_cfbe784e:
+
+    # u "Oh, for sure. Thanks for the advice."
+    u "C'est sûr. Merci pour le conseil."
+
+# game/v3/scene23.rpy:442
+translate francais v3s23_309ea767:
+
+    # am "Anytime. Oh, and [name]?"
+    am "Quand tu veux. Oh, et [name] ?"
+
+# game/v3/scene23.rpy:466
+translate francais v3s23_c4815388:
+
+    # u "(If I don't keep that a secret, I'll leave here tonight with a few bruises... maybe even worse.)"
+    u "(Si je garde pas ça secret, ce soir, je vais sortir d'ici avec quelques bleus.... Voire pire.)"
+
+# game/v3/scene23.rpy:496
+translate francais v3s23_d4f57504:
+
+    # am "Ha, yeah."
+    am "Ah, ouais."
+
+# game/v3/scene23.rpy:528
+translate francais v3s23_b4365bf9:
+
+    # am "I guess."
+    am "Je crois."
+
+# game/v3/scene23.rpy:545
+translate francais v3s23_b93cda83:
+
+    # am "It's okay, it's just... a lot of people don't know the whole story."
+    am "T'inquiète... C'est juste que... Peu de gens connaissent toute l'histoire."
+
+# game/v3/scene23.rpy:576
+translate francais v3s23_f92c5f1d:
+
+    # am "I don't talk about him much because he's like... really special to me, I guess?"
+    am "J'parle pas beaucoup de lui parce qu'il est genre... vraiment spécial pour moi, je crois..."
+
+# game/v3/scene23.rpy:643
+translate francais v3s23_5e948f89:
+
+    # am "Angling for a freebie?"
+    am "Tu veux un cadeau gratuit ?"
+
+# game/v3/scene23.rpy:659
+translate francais v3s23_ab9d282e:
+
+    # u "Damn... you're pretty good at this, Amber!"
+    u "Putain... T'es vraiment douée, Amber !"
+
+# game/v3/scene23.rpy:667
+translate francais v3s23_83f157a0:
+
+    # am "I would hope so."
+    am "J'espère bien."
+
+# game/v3/scene23.rpy:677
+translate francais v3s23_f197aef6:
+
+    # am "Why is it that every guy starts talking to me about sex when I dance for them?"
+    am "Pourquoi tous les gars se mettent à me parler de cul, quand je danse pour eux ?"
+
+# game/v3/scene23.rpy:682
+translate francais v3s23_db35258d:
+
+    # u "It can't be helped... you're sexually hypnotic."
+    u "On peut rien y faire... T'es sexuellement hypnotique."
+
+# game/v3/scene23.rpy:716
+translate francais v3s23_nsfwSkipLabel1_8e869116:
+
+    # am "You're most welcome. But next time you're going to pay me."
+    am "Je t'en prie. Mais la prochaine fois, faudra que tu payes."
+
+# game/v3/scene23.rpy:729
+translate francais v3s23_nsfwSkipLabel1_d99045b8:
+
+    # am "Ha, fuck off. You need to get that wallet out if you want any more out of me."
+    am "Oh, va te faire foutre. Tu vas devoir sortir le portefeuille, si tu veux en avoir plus de moi."
+
+# game/v3/scene23.rpy:741
+translate francais v3s23_nsfwSkipLabel1_8f86c1a6:
+
+    # u "Fingers crossed."
+    u "Je croise les doigts."
+
+# game/v3/scene23.rpy:777
+translate francais v3s23_nsfwSkipLabel1_7bc07304:
+
+    # am "Ha, no! Just testing my balance in these heels."
+    am "Oh non ! Je teste juste mon équilibre avec ces talons."
+
+# game/v3/scene23.rpy:803
+translate francais v3s23_nsfwSkipLabel1_9220280e:
+
+    # am "I was just helping you out with that list, [name]. It was a one-time deal."
+    am "J'faisais que t'aider avec ta liste, [name]. C'était une action exceptionnelle."
+
+# game/v3/scene23.rpy:826
+translate francais v3s23_nsfwSkipLabel1_657c5c69:
+
+    # am "It's hard to maneuver sometimes with all the guys here trying to get me to blow them or fuck them."
+    am "C'est parfois dur d'gérer les choses avec tous les gars d'ici, qui essaient toujours d'faire en sorte que j'les suce ou que j'les baise."
+
+# game/v3/scene23.rpy:895
+translate francais v3s23_nsfwSkipLabel1_8a1ee339:
+
+    # u "You didn't have to deal with guys trying to pay you to fuck them. Maybe you should try to get your job back."
+    u "T'avais pas à faire face à des mecs qui essayaient de te payer pour les baiser. Tu devrais peut-être essayer de récupérer ton travail."
+
+# game/v3/scene23.rpy:905
+translate francais v3s23_nsfwSkipLabel1_42515e61:
+
+    # am "I like it here, [name]. I get to be who I want to be. And I can be a different person every night if I want to."
+    am "J'aime cet endroit, [name]. J'peux être qui j'veux. Et j'peux être une personne différente chaque soir, si j'veux."
+
+# game/v3/scene23.rpy:977
+translate francais v3s23_nsfwSkipLabel1_3380d757:
+
+    # ds "Ahhh... the seal has been broken!"
+    ds "Ahhh... La vanne s'est ouverte !"
+
+# game/v3/scene23.rpy:1016
+translate francais v3s23_nsfwSkipLabel1_73909b20:
+
+    # u "(The dude's already drunk out of his mind, I'll let him go this time. Can't promise that no one else won't kick his ass tonight, though.)"
+    u "(Ce mec est déjà complètement bourré, je vais le laisser tranquille pour cette fois. Par contre, je peux pas garantir que personne lui éclatera la gueule ce soir.)"

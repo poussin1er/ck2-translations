@@ -615,3 +615,202 @@ translate francais strings:
     # game/v1/scene43c.rpy:38
     old "Argument scene"
     new "Scène de dispute"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene43c.rpy:11
+translate francais v1s43c_0ac6d503:
+
+    # pe "Honestly, I don't even need to read the pages."
+    pe "Sincèrement, je n'ai même pas besoin de lire toutes les pages."
+
+# game/v1/scene43c.rpy:33
+translate francais v1s43c_c7eb08dd:
+
+    # pe "Just like that. Did you have any ideas for it, though?"
+    pe "Exactement cette situation. Et toi, tu as déjà eu des idées pour ce projet ?"
+
+# game/v1/scene43c.rpy:62
+translate francais v1s43c_7d297e8a:
+
+    # pe "Ha, right..."
+    pe "Oh, c'est vrai..."
+
+# game/v1/scene43c.rpy:68
+translate francais v1s43c_3e75b4c0:
+
+    # pe "Did I hear you say you want to end it with a kiss?"
+    pe "J'ai entendu que tu voulais finir la scène par un baiser, c'est ça ?"
+
+# game/v1/scene43c.rpy:73
+translate francais v1s43c_fa395b6b:
+
+    # u "That's exactly what you heard."
+    u "Oui, t'as bien entendu."
+
+# game/v1/scene43c.rpy:93
+translate francais v1s43c_306baf2b:
+
+    # pe "Wow, okay. Big talker."
+    pe "Wow, d'accord. Grand bavard."
+
+# game/v1/scene43c.rpy:137
+translate francais v1s43c_382850b3:
+
+    # u "Fair. What are you thinking?"
+    u "Pourquoi pas. Tu penses à quoi ?"
+
+# game/v1/scene43c.rpy:147
+translate francais v1s43c_98f2a8f3:
+
+    # u "Okay. I don't know much about medieval times and being a king (besides a college king, maybe), but I'll play along."
+    u "D'accord. Je connais pas grand-chose à l'époque médiévale et au fait d'être un roi (à part un college king, peut-être), mais je vais jouer le jeu."
+
+# game/v1/scene43c.rpy:152
+translate francais v1s43c_770bebc8:
+
+    # pe "Perfect."
+    pe "C'est parfait."
+
+# game/v1/scene43c.rpy:162
+translate francais v1s43c_b8aa504f:
+
+    # u "Okay, umm... you begin?"
+    u "Ok, humm... Tu commences ?"
+
+# game/v1/scene43c.rpy:172
+translate francais v1s43c_014c612e:
+
+    # u "*British accent* The hunt went well, m'lady. A few targets got away but we secured quite a haul nonetheless."
+    u "*Accent britannique* Tout s'est bien passé, ma dame. Quelques proies se sont échappées mais nous avons tout de même ramené un bon butin."
+
+# game/v1/scene43c.rpy:193
+translate francais v1s43c_362fc9b4:
+
+    # pe "*Whispers* Are you saying that as part of the script or as an actual comment?"
+    pe "*Chuchote* Tu dis ça dans le cadre du scénario ou c'est une vraie question ?"
+
+# game/v1/scene43c.rpy:198
+translate francais v1s43c_8cfcdb7a:
+
+    # u "Why are you whispering? But, yes, it was an actual comment."
+    u "Pourquoi tu chuchotes ? Mais oui, c'était une vraie question."
+
+# game/v1/scene43c.rpy:203
+translate francais v1s43c_0cc7f852:
+
+    # pe "*Whispers* Oh, okay, I'll change it. Ahem..."
+    pe "*Chuchote* Oh ok, je vais changer ça. Hum..."
+
+# game/v1/scene43c.rpy:238
+translate francais v1s43c_acc46ca4:
+
+    # u "*British accent* Ah. Heh, well, hopefully not literally..."
+    u "*Accent britannique* Ah. Eh bien, espérons que ce ne soit pas au sens propre."
+
+# game/v1/scene43c.rpy:283
+translate francais v1s43c_c2177ff4:
+
+    # u "*British accent* Uh, e-excuse me?"
+    u "*Accent britannique* Qu-Qu'est-ce à dire que ceci ?"
+
+# game/v1/scene43c.rpy:345
+translate francais v1s43c_e575d438:
+
+    # pe "*British accent* Very well, then... on the night before last, at what time did General Pines leave to go to his quarters?"
+    pe "*Accent britannique* Très bien, alors... Avant-hier soir, à quelle heure le général Pines est-il retourné dans ses quartiers ?"
+
+# game/v1/scene43c.rpy:365
+translate francais v1s43c_3af95795:
+
+    # pe "*British accent* That... that's exactly what the general's wife said..."
+    pe "*Accent britannique* C'est... C'est exactement ce que la femme du général a déclaré..."
+
+# game/v1/scene43c.rpy:370
+translate francais v1s43c_b6f828e9:
+
+    # u "*British accent* And you dare accuse the king... your accusation was out of line; you know where my loyalty lies."
+    u "*Accent britannique* Et vous osez accuser votre roi... Votre accusation était déplacée, vous savez très bien où se trouve ma loyauté."
+
+# game/v1/scene43c.rpy:375
+translate francais v1s43c_938eb0db:
+
+    # pe "*British accent* My accusation was misplaced, yes, but sadly... it wasn't the worst thing I've done tonight."
+    pe "*Accent britannique* Mon accusation était déplacée, oui, mais malheureusement... Ce ne fut pas la pire chose que j'ai faite ce soir."
+
+# game/v1/scene43c.rpy:420
+translate francais v1s43c_c28701b6:
+
+    # u "*British accent* Wait... you... you poisoned me?!"
+    u "*Accent britannique* Attendez... Vous... Vous m'avez empoisonné ?!"
+
+# game/v1/scene43c.rpy:430
+translate francais v1s43c_1b92e5bc:
+
+    # u "*British accent* Your mind is unsound, my queen."
+    u "*Accent britannique* Vous perdez la raison, ma Reine."
+
+# game/v1/scene43c.rpy:435
+translate francais v1s43c_8d1221be:
+
+    # pe "*British accent* That may be true, but the insanity stems from the love I have for you."
+    pe "*Accent britannique* Cela est peut être vrai, mais la folie vient de l'amour que je vous porte."
+
+# game/v1/scene43c.rpy:475
+translate francais v1s43c_8676991a:
+
+    # pe "*British accent* Goodbye, be free, and... *sniffles* I'm sorry..."
+    pe "*Accent britannique* Adieu, laissez-vous aller, et... *Renifles* Je suis désolée..."
+
+# game/v1/scene43c.rpy:490
+translate francais v1s43c_843ae763:
+
+    # u "That was actually really fun. Even went for a real kiss, huh?"
+    u "En fait, c'était très amusant. T'es même allé jusqu'à réellement m'embrasser, hein ?"
+
+# game/v1/scene43c.rpy:521
+translate francais v1s43c_e5a4c644:
+
+    # u "You dare speak to the king with such-"
+    u "*Accent britannique* Vous osez parler au roi avec de tels-"
+
+# game/v1/scene43c.rpy:523
+translate francais v1s43c_803b28e6:
+
+    # u "*gasps*"
+    u "*Soupirs*"
+
+# game/v1/scene43c.rpy:538
+translate francais v1s43c_0da0a74f:
+
+    # u "You! What... *moans* what did you do to me?!"
+    u "*Accent britannique* Vous ! Que... *Gémis* Que m'avez-vous fait ?!"
+
+# game/v1/scene43c.rpy:548
+translate francais v1s43c_5144e851:
+
+    # u "You sleazy-"
+    u "*Accent britannique* Espèce de sale pu-"
+
+# game/v1/scene43c.rpy:578
+translate francais v1s43c_96f9cf53:
+
+    # u "Not gonna lie, I had way more fun than I thought I would."
+    u "Sans mentir, je me suis vraiment amusé, bien plus que je croyais."
+
+# game/v1/scene43c.rpy:588
+translate francais v1s43c_18400321:
+
+    # u "Ha... ha... ha... so, are we done?"
+    u "Ha... ha... ha... Alors, on a fini ?"
+
+# game/v1/scene43c.rpy:593
+translate francais v1s43c_14f27581:
+
+    # pe "Yes, sirrrrrr. I need to run, anyway. Don't forget our scene by next week!"
+    pe "Oui, messire.  De toute façon, je dois filer, n'oublie pas notre scène pour la semaine prochaine !"
+
+# game/v1/scene43c.rpy:615
+translate francais v1s43c_6e78e15f:
+
+    # u "Oh... (I didn't even say bye... maybe she was in a rush?)"
+    u "Oh- (J'ai même pas eu le temps de dire au revoir... *Rire* Elle était peut-être pressée ?)"

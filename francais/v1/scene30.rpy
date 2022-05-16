@@ -179,3 +179,58 @@ translate francais strings:
     # game/v1/scene30.rpy:129
     old "Take Picture"
     new "Prendre une photo"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene30.rpy:42
+translate francais v1s30_38f0dd52:
+
+    # cl "Not too bad... although, this thing was definitely NOT cheap."
+    cl "Pas trop mal... Même si ce truc n'était VRAIMENT PAS donné."
+
+# game/v1/scene30.rpy:68
+translate francais v1s30_fe81a821:
+
+    # u "This better be a nice-ass toy..."
+    u "Il y a intérêt à ce que ce soit un beau jouet de merde..."
+
+# game/v1/scene30.rpy:73
+translate francais v1s30_5199e85e:
+
+    # cl "It is pretty fancy!"
+    cl "Il est plutôt chic !"
+
+# game/v1/scene30.rpy:90
+translate francais v1s30_f23f0960:
+
+    # u "Or did Chris tell you that..."
+    u "Ou bien c'est ce que Chris t'a dit de faire..."
+
+# game/v1/scene30.rpy:97
+translate francais v1s30_2ca6e59f:
+
+    # cl "As long as they are supporting me, I'm happy."
+    cl "Mais tant qu'ils me soutiennent, je suis heureuse."
+
+# game/v1/scene30.rpy:122
+translate francais v1s30_6148c723:
+
+    # cl "Yes... please."
+    cl "Oui... S'il te plaît."
+
+# game/v1/scene30.rpy:164
+translate francais v1s30_3a10513a:
+
+    # u "Ha, no. You look great, as always."
+    u "Haha, non. T'es superbe, comme toujours."
+
+# game/v1/scene30.rpy:190
+translate francais v1s30_37942a4a:
+
+    # cl "Okay, we can leave the stuff here because I think some of the Wolves wanted to... play with it."
+    cl "Bon, on peut laisser les affaires ici parce que je crois que certains des Wolves voulaient... jouer avec."
+
+# game/v1/scene30.rpy:195
+translate francais v1s30_9fd5fe5a:
+
+    # u "Ha, what?"
+    u "Haha, quoi ?"

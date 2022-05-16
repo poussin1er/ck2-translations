@@ -859,3 +859,136 @@ translate francais strings:
     # game/v1/scene32.rpy:134
     old "You're right"
     new "T'as raison"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene32.rpy:36
+translate francais v1s32_e30ee1a1:
+
+    # imre "What are you wearing? Why didn't you come dressed to work out?"
+    imre "Comment t'es fringué ? Pourquoi t'es pas venu en tenue pour la muscu ?"
+
+# game/v1/scene32.rpy:41
+translate francais v1s32_084619a3:
+
+    # u "What do you mean, dickhead? I beelined here when you called."
+    u "De quoi tu parles, connasse ? Je suis venu dès que tu m'as appelé."
+
+# game/v1/scene32.rpy:182
+translate francais v1s32_c1d330f4:
+
+    # imre "If you wanna know the truth, I went back to the hotel, got money from Chris and then went right back to the brothel."
+    imre "Si tu veux vraiment l'savoir, j'suis retourné à l'hôtel, j'ai emprunté d'l'argent à Chris et puis j'suis retourné direct au bordel."
+
+# game/v1/scene32.rpy:209
+translate francais v1s32_9ffb81f9:
+
+    # u "Okay. That sounds... healthy."
+    u "Okayyy. Ça a l'air... sain."
+
+# game/v1/scene32.rpy:214
+translate francais v1s32_7e926d5f:
+
+    # imre "Don't act brand new; you know how I am."
+    imre "Fais pas ta pucelle, tu sais comment j'suis."
+
+# game/v1/scene32.rpy:219
+translate francais v1s32_c58cbdfa:
+
+    # u "Ha. That I do."
+    u "Ça. C'est sûr !"
+
+# game/v1/scene32.rpy:270
+translate francais v1s32_ef2f1671:
+
+    # u "What?"
+    u "Quoi ?"
+
+# game/v1/scene32.rpy:310
+translate francais v1s32_9606cb24:
+
+    # u "Yeah, like she could snap you in half."
+    u "Ouais, comme si elle pouvait te casser en deux."
+
+# game/v1/scene32.rpy:359
+translate francais v1s32_4a725e2b:
+
+    # rub "She looks... just like you. Heh..."
+    rub "Elle te... ressemble... Haha..."
+
+# game/v1/scene32.rpy:361
+translate francais v1s32_f23beae7:
+
+    # rub "The female version of you, pretty much."
+    rub "C'est vraiment toi, en version féminine."
+
+# game/v1/scene32.rpy:366
+translate francais v1s32_1c68be6a:
+
+    # u "Oh, ha. No, as far as I know I'm an only child."
+    u "Oh, haha. Non, pour ce que j'en sais, je suis fils unique."
+
+# game/v1/scene32.rpy:373
+translate francais v1s32_ee67058f:
+
+    # rub "Just kidding. Sorry about that, though. It's been a while since we've all gotten home so maybe I'm just imagining things."
+    rub "Je déconne, haha. Désolée pour ça. Ça fait un moment qu'on n'est pas tous rentrés à la maison, alors je dois peut-être imaginer des trucs."
+
+# game/v1/scene32.rpy:393
+translate francais v1s32_ea69abf7:
+
+    # rub "Yeah, I am. Well, thanks anyway, bye!"
+    rub "Ouais, c'est vrai. Eh bien, merci quand même, salut !"
+
+# game/v1/scene32.rpy:432
+translate francais v1s32_9e832cbd:
+
+    # imre "Ha-ha, funny. Kicking people while they're down is one of your favorite things to do, huh?"
+    imre "Ha ha ha, très drôle. Tu kiffes frapper les gens à terre, hein ?"
+
+# game/v1/scene32.rpy:437
+translate francais v1s32_d010ecbe:
+
+    # u "Eh, it depends on the day."
+    u "Eh, ça dépend des jours."
+
+# game/v1/scene32.rpy:555
+translate francais v1s32_89c14e4d:
+
+    # u "Obviously, Imre, I was being-"
+    u "Bien sûr, Imre, j'étais-"
+
+# game/v1/scene32.rpy:562
+translate francais v1s32_4d5c9de5:
+
+    # imre "Okay... anyways, it's a simple jab-jab roundhouse. Watch!"
+    imre "Ok... Bref, c'est un simple jab jab roundhouse. Matte ça !"
+
+# game/v1/scene32.rpy:610
+translate francais v1s32_0f9640bd:
+
+    # u "I do. Let me try it."
+    u "Ouais, laisse-moi essayer."
+
+# game/v1/scene32.rpy:633
+translate francais v1s32_43126f3f:
+
+    # imre "Shit! Watching someone else do it makes me realize how cool it actually is. I need to trademark this!"
+    imre "Merde ! *Rire* Voir quelqu'un d'autre le faire me fait réaliser qu'c'est trop cool. J'dois déposer un brevet !"
+
+# game/v1/scene32.rpy:638
+translate francais v1s32_b1a21718:
+
+    # u "Do it fast."
+    u "Fais le au plus vite."
+
+# game/v1/scene32.rpy:658
+translate francais v1s32_2e78a4d0:
+
+    # u "That's why I asked."
+    u "Oui, c'est pour ça que j'ai demandé."
+
+# game/v1/scene32.rpy:678
+translate francais v1s32_1149beaf:
+
+    # u "Oh... who?"
+    u "Oh... Qui ?"

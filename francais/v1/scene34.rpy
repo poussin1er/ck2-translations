@@ -268,3 +268,46 @@ translate francais v1s34_nsfwSkipLabel1_56e69898:
 
     # pe "*Chuckles* Bye."
     pe "*Rire* À tout de suite."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene34.rpy:41
+translate francais v1s34_PhoneContinue_70261010:
+
+    # u "(Damn, what timing. I think I will...)"
+    u "(Mince, quel timing. Je crois que je vais y aller...)"
+
+# game/v1/scene34.rpy:80
+translate francais v1s34_PhoneContinue3_d509de46:
+
+    # u "(Luckily, she seems to have taken that in good spirits. Now to call Penelope...)"
+    u "(Heureusement, elle a l'air d'avoir pris ça avec bonne humeur. Maintenant, je dois appeler Pénélope...)"
+
+# game/v1/scene34.rpy:89
+translate francais v1s34_PhoneContinue3_d509de46_1:
+
+    # u "(Luckily, she seems to have taken that in good spirits. Now to call Penelope...)"
+    u "(Heureusement, elle a l'air d'avoir pris ça avec bonne humeur. Maintenant, je dois appeler Pénélope...)"
+
+# game/v1/scene34.rpy:132
+translate francais v1s34_PhoneContinue3_b6c8c77d:
+
+    # u "Good, because I was thinking we could try going on that date we talked about in London."
+    u "Bien, parce que je pensais qu'on pourrait essayer de faire ce rencard dont nous avons parlé à Londres."
+
+# game/v1/scene34.rpy:137
+translate francais v1s34_PhoneContinue3_5dbb4a72:
+
+    # pe "R-right now?"
+    pe "L-là, maintenant ?"
+
+# game/v1/scene34.rpy:142
+translate francais v1s34_PhoneContinue3_648c2e49:
+
+    # u "Yeah, right now. I mean, we're both free, so we might as well, right?"
+    u "Ouais, là maintenant. Enfin, on est tous les deux libres alors autant en profiter, non ?"
+
+# game/v1/scene34.rpy:195
+translate francais v1s34_nsfwSkipLabel1_25a27f21:
+
+    # pe "Bye."
+    pe "À tout de suite."

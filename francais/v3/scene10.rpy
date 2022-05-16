@@ -494,3 +494,118 @@ translate francais v3s10_nsfwSkipLabel1_5249f987:
 
     # la "I hope you plan on making it up to me later."
     la "J'espère que tu as l'intention de te rattraper plus tard."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene10.rpy:32
+translate francais v3s10_70083b4e:
+
+    # la "Ha, yeah, just about."
+    la "Ouais, à peu près."
+
+# game/v3/scene10.rpy:65
+translate francais v3s10_2f160e48:
+
+    # la "People talk about your first time being special. It certainly was."
+    la "Les gens disent que la première fois est spéciale. Elle l'a été, sans aucun doute."
+
+# game/v3/scene10.rpy:81
+translate francais v3s10_b3b94965:
+
+    # u "Ooh, feisty. I can't imagine you sounding this eager earlier in the semester."
+    u "Ooh, fougueuse. En début de semestre, je t'aurais difficilement imaginé aussi enthousiaste."
+
+# game/v3/scene10.rpy:99
+translate francais v3s10_ef177a55:
+
+    # ro "Sorry, everyone. No one said economics was fun!"
+    ro "Désolée les jeunes, personne n'a jamais dit que l'économie était amusante !"
+
+# game/v3/scene10.rpy:110
+translate francais v3s10_c5f190c5:
+
+    # u "(Oh shit... what is she trying to do?)"
+    u "(Oh, merde... Qu'est-ce qu'elle essaie de faire ?)"
+
+# game/v3/scene10.rpy:115
+translate francais v3s10_a0dcb19d:
+
+    # u "(Oh, wow... she actually wants to do this. That's... surprising.)"
+    u "(Oh wow... Elle a vraiment envie de faire ça. C'est... inattendu.)"
+
+# game/v3/scene10.rpy:128
+translate francais v3s10_744fe48c:
+
+    # u "(Lauren must be as bored as me.)"
+    u "(Lauren doit s'ennuyer autant que moi.)"
+
+# game/v3/scene10.rpy:152
+translate francais v3s10_3e7c5705:
+
+    # la "[name]!"
+    la "[name] !"
+
+# game/v3/scene10.rpy:266
+translate francais v3s10_dontknow_c3316ea9:
+
+    # u "(Whoa there, Lauren.)"
+    u "(Whoa, Lauren.)"
+
+# game/v3/scene10.rpy:295
+translate francais v3s10_sg_997abf13:
+
+    # u "(She's actually doing it?!)"
+    u "(elle fait vraiment ça !)"
+
+# game/v3/scene10.rpy:300
+translate francais v3s10_sg_785fcfba:
+
+    # u "(Oh shhhiittt...)"
+    u "(Oh meeeerde...)"
+
+# game/v3/scene10.rpy:305
+translate francais v3s10_sg_552b3a76:
+
+    # u "(This is... *moans* this is so wrong.)"
+    u "(C'est... *Gémis* C'est pas très très bien, Lauren.)"
+
+# game/v3/scene10.rpy:316
+translate francais v3s10_sg_083e7deb:
+
+    # u "(What if someone sees this? And why does that possibility excite me?)"
+    u "(Et si quelqu'un voit ça ? Et pourquoi cette éventualité m'excite-t-elle ?)"
+
+# game/v3/scene10.rpy:321
+translate francais v3s10_sg_666b915b:
+
+    # u "(Oh God...)"
+    u "(Oh merde...)"
+
+# game/v3/scene10.rpy:354
+translate francais v3s10_nsfwSkipLabel1_3de088d6:
+
+    # u "(Oh boy. Please tell me she didn't see anything.)"
+    u "(Oh merde, dites-moi qu'elle n'a rien vu.)"
+
+# game/v3/scene10.rpy:364
+translate francais v3s10_nsfwSkipLabel1_e90865dc:
+
+    # u "*Whispers* What was that all about, you little rascal? You're out of control!"
+    u "*Chuchote* C'était quoi ça, petite coquine ? T'es devenue incontrôlable !"
+
+# game/v3/scene10.rpy:369
+translate francais v3s10_nsfwSkipLabel1_36c5653c:
+
+    # la "I've never had so much control. *Soft giggle* Just having a little fun, is all."
+    la "Je ne me suis jamais autant contrôlé. *Ricane* Je ne fais que m'amuser un peu, c'est tout."
+
+# game/v3/scene10.rpy:374
+translate francais v3s10_nsfwSkipLabel1_7721c910:
+
+    # u "(She's gonna be the death of me. Lauren, of all people. Damn. How did it get to this?)"
+    u "(Elle va être responsable de ma mort. Lauren, parmi toutes les autres. Merde. Comment en est-on arrivé là ?)"
+
+# game/v3/scene10.rpy:396
+translate francais v3s10_nsfwSkipLabel1_23d27717:
+
+    # ro "See, that wasn't so bad. You all survived."
+    ro "Vous voyez, ce n'était pas si mal ? Vous avez tous survécu."

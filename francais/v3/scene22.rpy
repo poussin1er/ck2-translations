@@ -178,7 +178,7 @@ translate francais v3s22_2e87c7ab:
 translate francais v3s22_85da6756:
 
     # ab "You screamed, and almost started crying."
-    ab "Vous avez hurlé, et vous avez presque commencé à pleurer."
+    ab "Vous avez hurlé et vous avez presque commencé à pleurer."
 
 # game/v3/scene22.rpy:190
 translate francais v3s22_6f0e108d:
@@ -544,7 +544,7 @@ translate francais v3s22_1c405d40:
 translate francais v3s22_cf8043ae:
 
     # am "I wish people would trust me. I'm sober now, I don't need to be looked after."
-    am "J'aimerais que les gens me fassent confiance. Je suis sobre maintenant, j'ai pas besoin qu'on s'occupe de moi."
+    am "J'aimerais que les gens me fassent confiance. Je suis clean maintenant, j'ai pas besoin qu'on s'occupe de moi."
 
 # game/v3/scene22.rpy:536
 translate francais v3s22_8ae2e370:
@@ -826,7 +826,7 @@ translate francais v3s22_ea65c1c9:
 translate francais v3s22_73c24667:
 
     # am "The next morning when my dad left for work, well... It was a tragic scene, ha."
-    am "Le lendemain matin, quand mon père partait au travail, eh ben... C'était le drame..."
+    am "Le lendemain matin, quand mon père partait au travail, et là... C'est le drame..."
 
 # game/v3/scene22.rpy:807
 translate francais v3s22_5e1159b2:
@@ -1345,3 +1345,394 @@ translate francais strings:
     # game/v3/scene22.rpy:734
     old "Leave it alone"
     new "La laisser seule"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene22.rpy:51
+translate francais v3s22_fed1df3a:
+
+    # am "No fucking way."
+    am "Pas du tout."
+
+# game/v3/scene22.rpy:66
+translate francais v3s22_ad7b006b:
+
+    # u "You're welcome."
+    u "je t'en prie."
+
+# game/v3/scene22.rpy:110
+translate francais v3s22_b36769bb:
+
+    # am "Very true, sometimes."
+    am "C'est vrai, parfois."
+
+# game/v3/scene22.rpy:115
+translate francais v3s22_b1c1a293:
+
+    # u "So why are you working so late, anyway?"
+    u "Et pourquoi tu travailles si tard, de toute façon ?"
+
+# game/v3/scene22.rpy:125
+translate francais v3s22_09e1a798:
+
+    # u "I see. Who's \"we?\""
+    u "Je vois. Qui est \"on\" ?"
+
+# game/v3/scene22.rpy:165
+translate francais v3s22_4eeb9008:
+
+    # ab "Nice to meet you, kid. I'm glad you're here, actually."
+    ab "Ravi de vous rencontrer, petit. En fait, je suis content que vous soyez là."
+
+# game/v3/scene22.rpy:170
+translate francais v3s22_0b09fedf:
+
+    # u "Oh. Why?"
+    u "Ah, pourquoi ?"
+
+# game/v3/scene22.rpy:175
+translate francais v3s22_62947179:
+
+    # ab "Before you walked in, someone here was on the verge of a nervous breakdown."
+    ab "Avant que vous n'entriez, une personne ici présente était au bord de la crise de nerfs."
+
+# game/v3/scene22.rpy:185
+translate francais v3s22_dd2c0af6:
+
+    # ab "You screamed and almost started crying."
+    ab "Vous avez hurlé et vous avez presque commencé à pleurer."
+
+# game/v3/scene22.rpy:190
+translate francais v3s22_bf8864b5:
+
+    # u "Damn. What happened, Amber? Are you really that connected to your phone?"
+    u "Merde, qu'est-ce qui se passe Amber, tu peux pas te passer un peu de ton téléphone ?"
+
+# game/v3/scene22.rpy:233
+translate francais v3s22_70fbe198:
+
+    # u "Hmm... does it?"
+    u "Hmm... Et c'est le cas ?"
+
+# game/v3/scene22.rpy:260
+translate francais v3s22_58d10ff3:
+
+    # ab "Or... you know what? Take your time."
+    ab "Ou... vous savez quoi ? Prenez votre temps."
+
+# game/v3/scene22.rpy:287
+translate francais v3s22_16633752:
+
+    # am "So, you got into my house easily enough?"
+    am "Alors, t'es entrée chez moi facilement ?"
+
+# game/v3/scene22.rpy:292
+translate francais v3s22_fe75c3ec:
+
+    # u "Yeah, no issues. And no weird lady wanting bubble gum either, ha."
+    u "Ouais, pas de problèmes. Et pas de dame bizarre qui veut un chewing-gum non plus."
+
+# game/v3/scene22.rpy:382
+translate francais v3s22_3689fe36:
+
+    # am "But I don't need help. I'm handling it."
+    am "Mais j'ai pas besoin d'aide, je gère."
+
+# game/v3/scene22.rpy:402
+translate francais v3s22_3294de1b:
+
+    # am "You're lucky you're cute. Otherwise I would've kicked your ass for being a nosy motherfucker."
+    am "T'as de la chance d'être mignon, sinon je t'aurais botté le cul, pour avoir été fouiner."
+
+# game/v3/scene22.rpy:438
+translate francais v3s22_ffa2f81f:
+
+    # am "Hmm."
+    am "Hmm."
+
+# game/v3/scene22.rpy:453
+translate francais v3s22_2a61c1dc:
+
+    # u "I don't think I ever can."
+    u "Je crois pas qu'un jour je puisse arrêter."
+
+# game/v3/scene22.rpy:494
+translate francais v3s22_9e1e3fc6:
+
+    # u "No! Well, I didn't read them, no."
+    u "Non, je les ai pas lues, pas du tout."
+
+# game/v3/scene22.rpy:509
+translate francais v3s22_34c48def:
+
+    # am "That's great, I guess, but there are certain boundaries you don't cross with your friends."
+    am "C'est génial, mais y a certaines limites à pas franchir avec tes amis."
+
+# game/v3/scene22.rpy:514
+translate francais v3s22_34361f0d:
+
+    # u "*Sighs* Fuck, I'm sorry. I just got a quick peek and... I don't know. I'm sorry."
+    u "*Soupirs* Putain, je suis désolé. J'ai juste jeté un coup d'œil rapide et... je sais pas. Je suis désolé."
+
+# game/v3/scene22.rpy:531
+translate francais v3s22_0e5da5ea:
+
+    # am "I wish people would trust me. I'm sober now. I don't need to be looked after."
+    am "J'aimerais que les gens me fassent confiance. Je suis clean maintenant, j'ai pas besoin qu'on s'occupe de moi."
+
+# game/v3/scene22.rpy:536
+translate francais v3s22_b8ba7641:
+
+    # u "Of course not. I've seen what you're capable of, Amber. You have the power to change the world."
+    u "Bien sûr. J'ai vu de quoi t'es capable, Amber. Pour être honnête, t'as le pouvoir de changer ce monde."
+
+# game/v3/scene22.rpy:546
+translate francais v3s22_c4541f2b:
+
+    # am "You're a fuckin' asshole, you know that? But thanks. I mean it."
+    am "T'es un putain de trou du cul, tu sais ? Mais merci. Et je suis sérieuse."
+
+# game/v3/scene22.rpy:571
+translate francais v3s22_6eabed6b:
+
+    # u "So, how long have you been into erotic fanfiction?"
+    u "Alors, ça fait combien de temps que t'aimes les fanfictions érotiques ?"
+
+# game/v3/scene22.rpy:582
+translate francais v3s22_08a64af7:
+
+    # u "What is it about the whole \"cop\" cosplay that turns you on? Is it the handcuffs?"
+    u "Alors qu'est-ce qui t'excite dans le cosplay du \"flic\" ? Les menottes, c'est ça ?"
+
+# game/v3/scene22.rpy:597
+translate francais v3s22_343f4507:
+
+    # am "*Sighs* I just got into it recently. After the whole \"where's Nora?\" incident, I realized how badass I felt playing the role."
+    am "*Soupirs* J'ai commencé à m'y intéresser récemment... Après tout l'incident \"où est Nora\", j'ai compris à quel point je me sentais badass en jouant ce rôle."
+
+# game/v3/scene22.rpy:607
+translate francais v3s22_a8506b67:
+
+    # am "How DID you see it, by the way? Because I'm pretty sure I locked the-"
+    am "Et comment t'as vu ÇA au fait ? Je suis presque sûre d'avoir verrouillé l'ord-"
+
+# game/v3/scene22.rpy:622
+translate francais v3s22_25e10705:
+
+    # am "Ha, you're not getting away with this!"
+    am "Tu vas pas t'en sortir comme ça !"
+
+# game/v3/scene22.rpy:716
+translate francais v3s22_bbc53c63:
+
+    # am "It was pretty good, wasn't it?"
+    am "C'était pas mal, hein ?"
+
+# game/v3/scene22.rpy:732
+translate francais v3s22_0b0bc7d5:
+
+    # u "(I don't think she'll mind if I talk about the pictures she has in her house... right?)"
+    u "(Je crois que ça va pas la déranger si je parle des photos qu'elle a dans sa maison.... hein ?)"
+
+# game/v3/scene22.rpy:752
+translate francais v3s22_3175194d:
+
+    # am "You really took your time in there, huh."
+    am "T'as vraiment pris ton temps là-bas, hein."
+
+# game/v3/scene22.rpy:762
+translate francais v3s22_5bf75dae:
+
+    # u "You were a little Tchaikovsky in the making."
+    u "T'étais une petite Tchaïkovski en devenir."
+
+# game/v3/scene22.rpy:772
+translate francais v3s22_51caab09:
+
+    # u "*Whispers* Nerrrrd! We have a band nerd over here!"
+    u "*Chuchote* Nerrdd ! On a une nerd de la musique par là !"
+
+# game/v3/scene22.rpy:777
+translate francais v3s22_ad65b323:
+
+    # am "Hell yeah I was. I used to love playing."
+    am "Putain ouais, je l'étais. Et j'adorais jouer."
+
+# game/v3/scene22.rpy:797
+translate francais v3s22_aa77b5fe:
+
+    # am "I was helping my dad and step-witch bring the groceries inside and had left in the driveway."
+    am "J'aidais mon père et ma belle-sorcière à rentrer les courses à l'intérieur et je l'avais laissé dans l'allée."
+
+# game/v3/scene22.rpy:802
+translate francais v3s22_9a634ef1:
+
+    # am "The next morning when my dad left for work, well... it was a tragic scene, ha."
+    am "Le lendemain matin, quand mon père partait au travail, et là... C'est le drame..."
+
+# game/v3/scene22.rpy:807
+translate francais v3s22_3ebc15b3:
+
+    # u "That's the worst luck in the world."
+    u "C'est la pire des malchances au monde."
+
+# game/v3/scene22.rpy:817
+translate francais v3s22_840d4e98:
+
+    # am "I wanted to. I just couldn't afford one at eight years old."
+    am "J'en voulais un, mais j'pouvais pas me l'payer à huit ans."
+
+# game/v3/scene22.rpy:842
+translate francais v3s22_e07e8609:
+
+    # u "The sweet sound of a violin while her cats purr with glee!"
+    u "La douce musique d'un violon pendant que ses chats ronronnent de joie."
+
+# game/v3/scene22.rpy:847
+translate francais v3s22_9e29ba5a:
+
+    # am "Oh, it won't be cats."
+    am "Oh, ça sera pas des chats."
+
+# game/v3/scene22.rpy:852
+translate francais v3s22_05cf89cd:
+
+    # u "No? Dogs, then?"
+    u "Ah non ? Des chiens alors ?"
+
+# game/v3/scene22.rpy:857
+translate francais v3s22_653fcfc9:
+
+    # am "No, like... monkeys, probably."
+    am "Non, plutôt... Des singes peut-être."
+
+# game/v3/scene22.rpy:899
+translate francais v3s22_42a8c89e:
+
+    # u "That's really cool. Are you two similar?"
+    u "C'est vraiment cool, vous êtes pareils tous les deux ?"
+
+# game/v3/scene22.rpy:904
+translate francais v3s22_6a5435da:
+
+    # am "Yeah, big time."
+    am "Ouais, à fond."
+
+# game/v3/scene22.rpy:914
+translate francais v3s22_b753f6c7:
+
+    # u "Classic younger siblings."
+    u "Classique des frères et sœurs plus jeunes."
+
+# game/v3/scene22.rpy:931
+translate francais v3s22_6c900f49:
+
+    # am "Well, of course. Duh."
+    am "Bah. Bien sûr."
+
+# game/v3/scene22.rpy:941
+translate francais v3s22_63e01b2f:
+
+    # u "I look forward to meeting him one day. He sounds great."
+    u "J'ai hâte de le rencontrer un jour, il a l'air génial."
+
+# game/v3/scene22.rpy:949
+translate francais v3s22_d69e6685:
+
+    # u "(I'll mind my own business. Maybe she'll tell me about them on her own one day.)"
+    u "(Je vais m'occuper de mes affaires, peut-être qu'elle me parlera d'elles d'elle-même, un jour.)"
+
+# game/v3/scene22.rpy:982
+translate francais v3s22_d466f8db:
+
+    # u "Whoa there, I wasn't even ready!"
+    u "Wholà, j'étais même pas prêt !"
+
+# game/v3/scene22.rpy:987
+translate francais v3s22_83ff45ca:
+
+    # am "You're welcome."
+    am "De rien."
+
+# game/v3/scene22.rpy:1017
+translate francais v3s22_68cb5cc7:
+
+    # am "Ha, I'm not going to hit you... yet. That just surprised me."
+    am "J'vais pas t'frapper... pas encore. Ça m'a juste surpris."
+
+# game/v3/scene22.rpy:1040
+translate francais v3s22_f3bf1ac2:
+
+    # am "I know what you mean."
+    am "J'vois c'que tu veux dire."
+
+# game/v3/scene22.rpy:1052
+translate francais v3s22_14e47235:
+
+    # u "(Oh shit! We're in, boys!)"
+    u "(Oh merde ! on y est !)"
+
+# game/v3/scene22.rpy:1067
+translate francais v3s22_6a32ff6c:
+
+    # am "And with that, my fifteen minutes are up!"
+    am "Et après ça, mes quinze minutes sont terminées !"
+
+# game/v3/scene22.rpy:1100
+translate francais v3s22_35c5e1a1:
+
+    # am "Yes! I'm so knowledgeable now, [name], I could crack any case."
+    am "Oui ! J'ai acquis tellement de connaissances maintenant, [name], que je pourrais résoudre n'importe quelle affaire."
+
+# game/v3/scene22.rpy:1110
+translate francais v3s22_12168a93:
+
+    # am "I could merge the two somehow and solve crime in style!"
+    am "Je pourrais fusionner les deux et résoudre des crimes avec style !"
+
+# game/v3/scene22.rpy:1115
+translate francais v3s22_95898cac:
+
+    # u "Ha, this is almost a little too natural."
+    u "C'est presque un peu trop naturel."
+
+# game/v3/scene22.rpy:1120
+translate francais v3s22_fd777bf7:
+
+    # am "You know what else this room would be good for?"
+    am "Tu sais à quoi d'autre cette pièce pourrait servir ?"
+
+# game/v3/scene22.rpy:1140
+translate francais v3s22_d3ffbd2a:
+
+    # am "Cool down, hot shot. I didn't mean with you."
+    am "Détend-toi, champion. Je pensais pas à toi."
+
+# game/v3/scene22.rpy:1150
+translate francais v3s22_ed0118fb:
+
+    # am "Gotcha good."
+    am "J't'ai bien eu."
+
+# game/v3/scene22.rpy:1166
+translate francais v3s22_bfa5b402:
+
+    # u "I do remember feeling very lucky that night."
+    u "Ouais, je me souviens avoir eu beaucoup de chance ce soir-là."
+
+# game/v3/scene22.rpy:1173
+translate francais v3s22_27a73f8f:
+
+    # am "And on that note, my fifteen minutes are up!"
+    am "Et sur ces mots, mes quinze minutes sont terminées !"
+
+# game/v3/scene22.rpy:1188
+translate francais v3s22_aa727130:
+
+    # am "Ha, I know."
+    am "Je sais."
+
+# game/v3/scene22.rpy:1225
+translate francais v3s22_b81db712:
+
+    # am "Mhmm, sure. But seriously, though. Thanks for coming."
+    am "Mhmm... Mais sérieusement. Merci d'être venu."

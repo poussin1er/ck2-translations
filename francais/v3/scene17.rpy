@@ -335,3 +335,70 @@ translate francais strings:
     # game/v3/scene17.rpy:113
     old "There's tons of girls"
     new "Y a des tonnes de filles"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene17.rpy:40
+translate francais v3s17_5ecd8806:
+
+    # imre "So what the fuck was she doing making out with some random dude like that!?"
+    imre "Alors, qu'est-ce qu'elle foutait en train d'embrasser un mec comme ça, pris au hasard ?"
+
+# game/v3/scene17.rpy:75
+translate francais v3s17_e1af50ce:
+
+    # u "Maybe he was vegan too? That could've caught her attention."
+    u "Peut-être qu'il était aussi végan ? Ça aurait attiré son attention."
+
+# game/v3/scene17.rpy:106
+translate francais v3s17_b96daade:
+
+    # imre "I want a girl who's happy to eat my meat, even if she's vegan. You know?"
+    imre "Tu vois, j'veux une meuf qui soit heureuse de manger ma viande, même si elle est végane."
+
+# game/v3/scene17.rpy:120
+translate francais v3s17_2faf98b7:
+
+    # u "This is just another girl that you don't actually like but expected too much from. Forget Karen, honestly. She's not even hot!"
+    u "C'est juste une fille de plus, que t'aimes pas vraiment, mais dont tu attendais plus. Oublie Karen. Elle est même pas très sexy, en plus !"
+
+# game/v3/scene17.rpy:125
+translate francais v3s17_a8658d79:
+
+    # imre "She was hot to me!"
+    imre "Elle était sexy pour moi !"
+
+# game/v3/scene17.rpy:140
+translate francais v3s17_d6956c27:
+
+    # u "Seriously, you'll forget about her as soon as you meet someone else who's hotter."
+    u "Sérieux, tu l'oublieras dès que tu rencontreras quelqu'un d'autre de plus sexy."
+
+# game/v3/scene17.rpy:190
+translate francais v3s17_97584f73:
+
+    # u "C'mon, you know that was good."
+    u "Arrête, tu sais que ma blague était bonne."
+
+# game/v3/scene17.rpy:222
+translate francais v3s17_95981d12:
+
+    # u "That's the spirit. Now you sound like yourself again."
+    u "C'est ça que je veux entendre. Là, t'es redevenu toi-même."
+
+# game/v3/scene17.rpy:248
+translate francais v3s17_202a9dad:
+
+    # u "Me too. It was kind of fun up until... well, you know."
+    u "Moi aussi. C'était sympa jusqu'à ce que... eh ben, tu sais."
+
+# game/v3/scene17.rpy:253
+translate francais v3s17_dfd1895f:
+
+    # imre "Ha, yeah, true."
+    imre "Ouais, c'est vrai."
+
+# game/v3/scene17.rpy:281
+translate francais v3s17_9cc133d2:
+
+    # u "Ha, thanks for the compliment."
+    u "Merci du compliment."

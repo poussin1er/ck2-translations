@@ -293,3 +293,100 @@ translate francais v3s40_8d8ba680:
 
     # u "Night, Aubrey."
     u "Bonne nuit, Aubrey."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene40.rpy:43
+translate francais v3s40_68f41c59:
+
+    # u "Sounds like you were keeping score or something."
+    u "On dirait que t'as compté les points ou un truc comme ça."
+
+# game/v3/scene40.rpy:64
+translate francais v3s40_5e3a1e93:
+
+    # au "Mmm, yeah you probably should, ha."
+    au "Mmm, oui, tu vas certainement devoir le faire."
+
+# game/v3/scene40.rpy:87
+translate francais v3s40_5f9fd9b9:
+
+    # u "You being by my side has always felt right. Now I can call you my girlfriend."
+    u "Le fait que tu sois à mes côtés a toujours été un plaisir pour moi, à présent je peux réellement me dire que tu es ma petite amie."
+
+# game/v3/scene40.rpy:92
+translate francais v3s40_adccf82f:
+
+    # au "Exactly... Boyfriend."
+    au "Tout à fait... Mon petit ami."
+
+# game/v3/scene40.rpy:124
+translate francais v3s40_1c52981a:
+
+    # au "Tonight was, like, our first real date, so I want to do this right."
+    au "Ce soir, c'est un peu comme notre premier vrai rencard, alors je veux faire ça correctement."
+
+# game/v3/scene40.rpy:139
+translate francais v3s40_20e43d6d:
+
+    # u "Ha, wow. Are you sure?"
+    u "Oh waouh. T'es sûre ?"
+
+# game/v3/scene40.rpy:179
+translate francais v3s40_863d52d6:
+
+    # au "Oh, yeah. Been there and done that, no thank you!"
+    au "Ah, ouais. J'ai déjà fait ça et... laisse tomber !"
+
+# game/v3/scene40.rpy:189
+translate francais v3s40_ad93d97e:
+
+    # au "I will. Good luck!"
+    au "J'y manquerai pas. Bonne chance !"
+
+# game/v3/scene40.rpy:194
+translate francais v3s40_ee01f9b9:
+
+    # u "Thanks."
+    u "Merci."
+
+# game/v3/scene40.rpy:199
+translate francais v3s40_4d39a5d7:
+
+    # u "Alright, then. Goodnight, beautiful."
+    u "Alors, bonne nuit, ma belle."
+
+# game/v3/scene40.rpy:264
+translate francais v3s40_81d8789b:
+
+    # u "I get it. Thanks for being honest. I'm sorry it didn't go as well as we both wanted it to."
+    u "Je comprends, merci d'être honnête. Je suis désolé que ça se soit pas passé aussi bien qu'on le voulait tous les deux."
+
+# game/v3/scene40.rpy:269
+translate francais v3s40_6eb6c049:
+
+    # au "Don't apologize. You were being yourself and that's the most important thing."
+    au "T'excuse pas, t'es resté toi-même et c'est ça le plus important pour moi."
+
+# game/v3/scene40.rpy:274
+translate francais v3s40_25d8298b:
+
+    # u "Yeah, okay."
+    u "Ouais, je comprends."
+
+# game/v3/scene40.rpy:283
+translate francais v3s40_36e29345:
+
+    # u "I should, uh, head back now. I'm on baby duty tonight."
+    u "Je devrais, euh, y aller maintenant. Ce soir, je suis de corvée de bébé."
+
+# game/v3/scene40.rpy:288
+translate francais v3s40_ec70cefd:
+
+    # au "Oh, yeah. Good luck with that. I hope it doesn't cry too much."
+    au "Ah, oui. Bonne chance. J'espère qu'il va pas trop pleurer."
+
+# game/v3/scene40.rpy:293
+translate francais v3s40_bb21a923:
+
+    # u "I hope so too. Thanks."
+    u "Merci, moi aussi j'espère."

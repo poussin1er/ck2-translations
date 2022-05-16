@@ -119,3 +119,64 @@ translate francais v3s69a_c1c38151:
 
     # pe "Good. I like it when you're all mine."
     pe "Super. J'aime quand tu es tout à moi."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene69a.rpy:30
+translate francais v3s69a_f29e4732:
+
+    # pe "Mmm... I slept so well. Especially with my big spoon."
+    pe "Mmm... J'ai très bien dormi. Surtout avec ma grande cuillère."
+
+# game/v3/scene69a.rpy:65
+translate francais v3s69a_23bdaed7:
+
+    # u "Yeah. I was there when she adopted him."
+    u "Oui, j'étais là quand elle l'a adopté."
+
+# game/v3/scene69a.rpy:70
+translate francais v3s69a_c8b8a9ba:
+
+    # pe "You really get everywhere, don't you?"
+    pe "T'es vraiment partout, hein ?"
+
+# game/v3/scene69a.rpy:75
+translate francais v3s69a_ce7e9e6c:
+
+    # u "I just like to be where the action is, you know?"
+    u "J'aime juste être là où il y a de l'action, tu vois ?"
+
+# game/v3/scene69a.rpy:85
+translate francais v3s69a_5d9d9f98:
+
+    # u "Mmm... maybe..."
+    u "Mmm... Peut-être..."
+
+# game/v3/scene69a.rpy:90
+translate francais v3s69a_40c783e0:
+
+    # pe "Well, come help me, then. I'm sure he'd like to see a familiar face."
+    pe "Alors viens m'aider. Je suis sûre qu'il aimerait voir un visage familier."
+
+# game/v3/scene69a.rpy:92
+translate francais v3s69a_34481f25:
+
+    # pe "Or smell a familiar hand, I guess?"
+    pe "Ou sentir une main familière, peut-être ?"
+
+# game/v3/scene69a.rpy:97
+translate francais v3s69a_f4f89566:
+
+    # u "Ha, sounds like a plan."
+    u "Ok, pourquoi pas."
+
+# game/v3/scene69a.rpy:99
+translate francais v3s69a_7b09982f:
+
+    # u "I should probably stop at my place for a change of clothes first."
+    u "D'abord, je vais devoir passer chez moi, pour changer de vêtements."
+
+# game/v3/scene69a.rpy:109
+translate francais v3s69a_ac2d224d:
+
+    # u "Not really!"
+    u "Pas vraiment !"

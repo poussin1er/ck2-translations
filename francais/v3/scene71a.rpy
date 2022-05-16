@@ -465,3 +465,190 @@ translate francais strings:
     # game/v3/scene71a.rpy:101
     old "Choke her"
     new "L'étrangler"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene71a.rpy:110
+translate francais v3s71a_neck_fc5c7d0f:
+
+    # pe "Oh, wow, yeah, I like that."
+    pe "Oh, oui, j'aime ça."
+
+# game/v3/scene71a.rpy:120
+translate francais v3s71a_neck_3ea0182a:
+
+    # pe "Mmm, your lips are so soft and gentle."
+    pe "Mmm, tes lèvres sont si douces et délicates."
+
+# game/v3/scene71a.rpy:157
+translate francais v3s71a_boobs_3b2f3929:
+
+    # pe "Do you like them?"
+    pe "Tu les aimes ?"
+
+# game/v3/scene71a.rpy:176
+translate francais v3s71a_boobs_297d8f61:
+
+    # pe "Oh my..."
+    pe "Oh pu..."
+
+# game/v3/scene71a.rpy:188
+translate francais v3s71a_boobs_a1b73823:
+
+    # pe "You're really good at this, [name]."
+    pe "Tu es vraiment doué, [name]."
+
+# game/v3/scene71a.rpy:198
+translate francais v3s71a_boobs_b7e482d6:
+
+    # pe "Yes, and... and... I want you to go further."
+    pe "Oui, et... et... Je veux que tu ailles plus loin."
+
+# game/v3/scene71a.rpy:217
+translate francais v3s71a_feet_ef480a18:
+
+    # pe "You're really spoiling me, [name]."
+    pe "Tu me gâtes vraiment, [name]."
+
+# game/v3/scene71a.rpy:227
+translate francais v3s71a_feet_e4f5e726:
+
+    # pe "Oh no... *giggles* what are you going to do to me?"
+    pe "Oh non... *Ricane* Qu'est-ce que tu vas me faire ?"
+
+# game/v3/scene71a.rpy:239
+translate francais v3s71a_feet_25a4d143:
+
+    # pe "Oh, [name]."
+    pe "Oh, [name]."
+
+# game/v3/scene71a.rpy:249
+translate francais v3s71a_feet_09fa1f44:
+
+    # pe "I didn't even know this would feel so good..."
+    pe "Je ne savais même pas que ça pouvait être si bon..."
+
+# game/v3/scene71a.rpy:251
+translate francais v3s71a_feet_a4d92156:
+
+    # pe "I love feeling your mouth work its magic on me."
+    pe "J'aime sentir ta bouche exercer sa magie sur moi."
+
+# game/v3/scene71a.rpy:256
+translate francais v3s71a_feet_609f5a8a:
+
+    # pe "*Moans*"
+    pe "*Gémis*."
+
+# game/v3/scene71a.rpy:280
+translate francais v3s71a_continue_cc92b745:
+
+    # pe "Yeah, I've... *gasps*"
+    pe "Oui, je... *Soupire*"
+
+# game/v3/scene71a.rpy:282
+translate francais v3s71a_continue_4840ec3c:
+
+    # pe "I've been waiting for this."
+    pe "J'attendais ça depuis longtemps."
+
+# game/v3/scene71a.rpy:289
+translate francais v3s71a_continue_08c9fe8b:
+
+    # pe "And you're so, so big. *Moans*"
+    pe "Et elle est si, si grosse. *Gémis*"
+
+# game/v3/scene71a.rpy:322
+translate francais v3s71a_continue_9b524f6a:
+
+    # pe "Oh my... [name], you're so strong!"
+    pe "Oh pu... [name], tu es si puissant !"
+
+# game/v3/scene71a.rpy:333
+translate francais v3s71a_continue_608183e0:
+
+    # pe "You're so deep... *gasps*"
+    pe "Tu es si loin en moi... *Soupirs*"
+
+# game/v3/scene71a.rpy:343
+translate francais v3s71a_continue_85e7aa2b:
+
+    # u "I feel so close to you."
+    u "Je me sens si proche de toi."
+
+# game/v3/scene71a.rpy:348
+translate francais v3s71a_continue_f28b503c:
+
+    # pe "Mmm... I feel it too. Keep talking like that and I'm going to cum, [name]."
+    pe "Mmm... Je le ressens aussi. Continue à me parler comme ça et je vais jouir, [name]."
+
+# game/v3/scene71a.rpy:364
+translate francais v3s71a_continue_93a34b98:
+
+    # pe "Take me on the dean's chair..."
+    pe "Prends-moi sur la chaise de la doyenne..."
+
+# game/v3/scene71a.rpy:371
+translate francais v3s71a_continue_9f7430d6:
+
+    # pe "*Panting* I feel so tight around you..."
+    pe "*Halète* Je me sens si serrée autour de toi..."
+
+# game/v3/scene71a.rpy:376
+translate francais v3s71a_continue_b6ac8339:
+
+    # pe "This feels so wrong..."
+    pe "C'est si mal..."
+
+# game/v3/scene71a.rpy:385
+translate francais v3s71a_continue_338f3e52:
+
+    # pe "I think I do!"
+    pe "Je crois que oui !"
+
+# game/v3/scene71a.rpy:387
+translate francais v3s71a_continue_256a6345:
+
+    # pe "*Moans* Don't stop, [name]..."
+    pe "*Gémis* Ne t'arrête pas, [name]..."
+
+# game/v3/scene71a.rpy:394
+translate francais v3s71a_continue_9383d330:
+
+    # pe "I'm... I'm going to cum, oh my God."
+    pe "Oh, je... Je vais jouir."
+
+# game/v3/scene71a.rpy:396
+translate francais v3s71a_continue_609f5a8a:
+
+    # pe "*Moans*"
+    pe "*Gémis*"
+
+# game/v3/scene71a.rpy:405
+translate francais v3s71a_continue_3a603f91:
+
+    # pe "Oh... oh, my..."
+    pe "Oh... oh, put..."
+
+# game/v3/scene71a.rpy:420
+translate francais v3s71a_continue_d38808a3:
+
+    # pe "*Panting* I want to make you cum."
+    pe "*Halète* Je veux te faire jouir."
+
+# game/v3/scene71a.rpy:447
+translate francais v3s71a_continue_ed699a91:
+
+    # u "Incredible, Penelope. You're like a pro at this..."
+    u "Incroyable, Pénélope. On dirait une vraie pro, dans ce domaine..."
+
+# game/v3/scene71a.rpy:467
+translate francais v3s71a_continue_b482f933:
+
+    # u "*Gasps* I'm gonna cum..."
+    u "*Soupire* Je vais jouir..."
+
+# game/v3/scene71a.rpy:503
+translate francais v3s71a_continue_3a50ba01:
+
+    # pe "Oh NO! The door is open!"
+    pe "Oh, NON ! La porte est ouverte !"

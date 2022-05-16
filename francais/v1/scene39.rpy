@@ -359,3 +359,112 @@ translate francais strings:
     # game/v1/scene39.rpy:59
     old "Hell yeah!"
     new "Oh ouais !"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene39.rpy:22
+translate francais v1s39_78f0d998:
+
+    # u "Did you consider that it may be something else keeping him around? Something beyond just her?"
+    u "As-tu envisagé que c'est peut-être quelque chose d'autre qui le retient ? Quelque chose d'autre qu'elle ?"
+
+# game/v1/scene39.rpy:27
+translate francais v1s39_a5258155:
+
+    # pe "Like what? I can't think of anything that'd be worth putting up with her."
+    pe "Comme quoi ? Je ne peux pas imaginer quelque chose qui vaille la peine d'être supporté par elle."
+
+# game/v1/scene39.rpy:32
+translate francais v1s39_5ffe086c:
+
+    # u "Kids, maybe? She also said he lost his job, so I assume she's the breadwinner right now."
+    u "Des enfants peut-être ? Elle a aussi dit qu'il a perdu son emploi, donc je suppose que c'est elle qui subvient aux besoins de la famille, en ce moment."
+
+# game/v1/scene39.rpy:52
+translate francais v1s39_69e45114:
+
+    # u "Hey, you're the lady! You need to be the one promising me. I don't think I can be as nice and tame as he was."
+    u "Hé, c'est toi la dame ! Tu dois être celle qui me fait des promesses. Je pense pas pouvoir être aussi gentil et doux que lui."
+
+# game/v1/scene39.rpy:57
+translate francais v1s39_111d9ca5:
+
+    # pe "Oh? You'd snap back at me in front of everyone?"
+    pe "Oh ? tu me répondrais devant tout le monde ?"
+
+# game/v1/scene39.rpy:87
+translate francais v1s39_199ae502:
+
+    # u "Ha! I did not say it like that, I just meant..."
+    u "Haha ! Je l'ai pas dit ça comme ça, je voulais juste dire..."
+
+# game/v1/scene39.rpy:92
+translate francais v1s39_3cd6c0e9:
+
+    # pe "Oh, sorry. I thought you meant... well, you know what I thought."
+    pe "Oh, haha, désolée. Je pensais que tu voulais dire... Eh bien, tu sais à quoi je pensais."
+
+# game/v1/scene39.rpy:99
+translate francais v1s39_615c9b11:
+
+    # u "Good girl. Discussing, spanking, same thing."
+    u "Bien. Discuter, donner une fessée, c'est pareil."
+
+# game/v1/scene39.rpy:109
+translate francais v1s39_6a2c966a:
+
+    # u "What'd I do?"
+    u "Qu'est-ce que j'ai fait ?"
+
+# game/v1/scene39.rpy:126
+translate francais v1s39_2414fa46:
+
+    # pe "Well, I don't plan to ever push you that far, so... all good."
+    pe "Eh bien, je ne prévois pas de te pousser aussi loin, alors... tout va bien."
+
+# game/v1/scene39.rpy:141
+translate francais v1s39_d3754bc5:
+
+    # u "I can't even imagine you being angry, besides with what just happened..."
+    u "J'arrive même pas à t'imaginer en colère malgré ce qui vient de se passer..."
+
+# game/v1/scene39.rpy:146
+translate francais v1s39_00af7120:
+
+    # pe "It's not pretty."
+    pe "C'est pas beau à voir."
+
+# game/v1/scene39.rpy:156
+translate francais v1s39_fbc871c1:
+
+    # pe "Oh my god... trust me, don't be."
+    pe "Oh là là... Fais-moi confiance, ne le sois pas."
+
+# game/v1/scene39.rpy:224
+translate francais v1s39_cab2a430:
+
+    # u "Oh?"
+    u "Ah ?"
+
+# game/v1/scene39.rpy:229
+translate francais v1s39_da43405f:
+
+    # pe "You probably think that's stupid, I'm probably... rushing things. This was our first \"date\" date and here I am trying to-"
+    pe "Tu dois sûrement te dire que c'est stupide, que je précipite les choses... C'était notre premier \"rencard\" et je suis déjà en train d'essayer de-"
+
+# game/v1/scene39.rpy:244
+translate francais v1s39_6278cf58:
+
+    # u "Are you kidding? I can't wait."
+    u "Tu plaisantes ? Je peux pas attendre."
+
+# game/v1/scene39.rpy:276
+translate francais v1s39_0292c5d8:
+
+    # u "For sure."
+    u "Bien sûr."
+
+# game/v1/scene39.rpy:291
+translate francais v1s39_ec762fc8:
+
+    # pe "It's okay. At least you kept your promise. I'm gonna go."
+    pe "C'est pas grave. Au moins, tu as tenu ta promesse. Je vais y aller."

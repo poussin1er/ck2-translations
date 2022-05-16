@@ -475,3 +475,34 @@ translate francais strings:
     # game/v1/scene41a.rpy:344
     old "Not fair to Chloe"
     new "C'est injuste pour Chloé"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene41a.rpy:80
+translate francais v1s41a_423b7b6a:
+
+    # ry "Umm... anyway, if you're talking about the race, that means you must've found a way to take Chloe down. Ha!"
+    ry "Hum... Bref, si tu parles de la course, ça veut dire que tu as dû trouver un moyen de faire tomber Chloé. Haha !"
+
+# game/v1/scene41a.rpy:110
+translate francais v1s41a_71351872:
+
+    # ry "Yeah, but like... Why are you saying so? You said it yourself: You guys have a rough past."
+    ry "Ouais, mais... Pourquoi tu dis ça ? Tu l'as dit toi-même, vous avez \"un passé difficile\"."
+
+# game/v1/scene41a.rpy:115
+translate francais v1s41a_3de6adde:
+
+    # ca "You just told us last week to get ready for some sabotage."
+    ca "T'as dit la s'maine dernière qu'on devait s'préparer à saboter sa course."
+
+# game/v1/scene41a.rpy:120
+translate francais v1s41a_863122e0:
+
+    # gr "Look... going against Chloe here isn't a good look for the Apes."
+    gr "Écoute... Là, jouer contre Chloé n'est pas bon pour l'image des Apes."
+
+# game/v1/scene41a.rpy:376
+translate francais v1s41a_5a72c861:
+
+    # gr "We don't give a fuck about all that. Feelings don't mean shit, [name]."
+    gr "On s'en fout de tout ça. Les sentiments de merde, ça vaut rien, [name]."

@@ -36,3 +36,22 @@ translate francais v3s41_e4e95bb9:
 
     # u "(Is multiple girlfriends a thing? Now I'm just asking for trouble, haha! *Sighs*)"
     u "(Est-ce qu'avoir de multiples petites amies est une chose courante ? On dirait que je cherche les ennuis, haha ! *Soupirs*)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene41.rpy:19
+translate francais v3s41_65a5b588:
+
+    # u "(Aubrey is my girlfriend... Aubrey is my fucking girlfriend! Hell yeah!)"
+    u "(Aubrey est ma petite amie... Aubrey est ma putain de petite amie !)"
+
+# game/v3/scene41.rpy:28
+translate francais v3s41_f610a8b0:
+
+    # u "(And then there were four. Oof, what am I doing out here? I need to start being extra careful around my ladies...)"
+    u "(Et puis il y en a eu quatre... Mais qu'est-ce que je fous ? Je vais devoir commencer à faire très attention avec mes copines...)"
+
+# game/v3/scene41.rpy:35
+translate francais v3s41_c672eec6:
+
+    # u "(Is multiple girlfriends a thing? Now I'm just asking for trouble! *Sighs*)"
+    u "(Est-ce qu'avoir de multiples petites amies est une chose courante ? On dirait que je cherche les ennuis ! *Soupirs*)"

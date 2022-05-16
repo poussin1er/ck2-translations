@@ -1020,3 +1020,292 @@ translate francais v1s17_end_853e4089:
 
     # la "Bye."
     la "Bye."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene17.rpy:27
+translate francais v1s17_ce7fcf65:
+
+    # ro "[name], I sense you're a bit confused about the look of the classroom."
+    ro "[name], je devine que tu es un peu troublé par la mise en place de la salle."
+
+# game/v1/scene17.rpy:32
+translate francais v1s17_ead6a79a:
+
+    # u "Ha, yeah, a bit. I don't think we've ever worked in groups before."
+    u "Heu, ouais, un peu. Il me semble qu'on a jamais travaillé en groupe, avant."
+
+# game/v1/scene17.rpy:37
+translate francais v1s17_31982eef:
+
+    # ro "You're right, we haven't, but I wanted to give those of you who went on the trip a chance to catch up on the curriculum."
+    ro "Tu as raison, nous ne l'avons jamais fait, mais je voulais donner à tous les participants du voyage, l'occasion de rattraper le programme."
+
+# game/v1/scene17.rpy:52
+translate francais v1s17_427e531f:
+
+    # ro "You're going to be with Lauren today. I thought I'd pair my brightest student with the class clown."
+    ro "Tu seras avec Lauren aujourd'hui. Je pensais jumeler mon élève le plus brillant avec le clown de la classe."
+
+# game/v1/scene17.rpy:63
+translate francais v1s17_9a1f5985:
+
+    # ro "You continue to find new ways to make me laugh."
+    ro "Tu continues à trouver de nouvelles façons de me faire rire."
+
+# game/v1/scene17.rpy:93
+translate francais v1s17_c69e7923:
+
+    # ro "Ha! Good boy."
+    ro "Ha ! Brave garçon."
+
+# game/v1/scene17.rpy:98
+translate francais v1s17_f9d07864:
+
+    # u "(Hot damn, I like when she does that sneaky shit.)"
+    u "(Putain de merde. j'aime bien quand elle fait ce genre de trucs sournois.)"
+
+# game/v1/scene17.rpy:109
+translate francais v1s17_b785fab9:
+
+    # ro "See? My point exactly. Now, off you go. She's waiting for you."
+    ro "Tu vois ? C'est exactement ce que je voulais dire. Maintenant, va-t'en. Elle t'attend."
+
+# game/v1/scene17.rpy:152
+translate francais v1s17_6feb61a8:
+
+    # la "I don't know if I should be offended that you think my life revolves around education..."
+    la "Je ne sais pas si je dois être offensée ou pas par le fait que tu penses que ma vie ne tourne qu'autour de mon éducation..."
+
+# game/v1/scene17.rpy:161
+translate francais v1s17_af3bbc22:
+
+    # u "So, I was right, then? Nothing else to do with your life?"
+    u "Alors, j'avais raison ? T'as rien d'autre à faire de ta vie ?"
+
+# game/v1/scene17.rpy:166
+translate francais v1s17_f1acbe37:
+
+    # la "You're not funny, [name]. At least, not very."
+    la "Tu n'es pas drôle, [name]. En tout cas, pas tant que ça."
+
+# game/v1/scene17.rpy:193
+translate francais v1s17_0fccfdfb:
+
+    # u "Just stating facts."
+    u "Je fais que constater les faits."
+
+# game/v1/scene17.rpy:195
+translate francais v1s17_33ebefea:
+
+    # u "And maybe trying to tell you that you should get out more, in the most subtle way possible."
+    u "Et peut-être que j'essaie aussi de te dire que tu devrais sortir plus souvent, de la manière la plus subtile possible."
+
+# game/v1/scene17.rpy:200
+translate francais v1s17_ac63021b:
+
+    # la "Ha! I knew the compliment was too good to be true."
+    la "Haha ! Je me doutais que le compliment était trop beau pour être sincère."
+
+# game/v1/scene17.rpy:205
+translate francais v1s17_b91b106a:
+
+    # u "Only partially."
+    u "En partie seulement."
+
+# game/v1/scene17.rpy:246
+translate francais v1s17_18303ed8:
+
+    # u "I'm extremely sorry about any and all of the mistakes I've made, I really am."
+    u "Je suis vraiment désolé pour toutes les erreurs que j'ai pu faire, je t'assure."
+
+# game/v1/scene17.rpy:251
+translate francais v1s17_1afbacf4:
+
+    # la "Yep..."
+    la "Ouaip..."
+
+# game/v1/scene17.rpy:253
+translate francais v1s17_181db766:
+
+    # la "I've moved on from it though, so..."
+    la "Mais j'ai tourné la page, alors..."
+
+# game/v1/scene17.rpy:258
+translate francais v1s17_09df5ecf:
+
+    # u "(Yeah, okay. Sure as hell sounds like you have.)"
+    u "(Ouais, bon. Ça a l'air d'être le cas.)"
+
+# game/v1/scene17.rpy:283
+translate francais v1s17_00530538:
+
+    # la "Ooh!"
+    la "Ooh !"
+
+# game/v1/scene17.rpy:288
+translate francais v1s17_28ee1799:
+
+    # la "So... according to the notes, we're looking into macro versus micro economics."
+    la "Alors... d'après les instructions, on étudie la macroéconomie en opposition à la microéconomie."
+
+# game/v1/scene17.rpy:293
+translate francais v1s17_96269902:
+
+    # u "Uhhh... okay..."
+    u "Euuuh... c'est pas faux..."
+
+# game/v1/scene17.rpy:295
+translate francais v1s17_466d2210:
+
+    # u "(My brain is still in Europe, I think.)"
+    u "(Je crois que mon cerveau est resté en Europe.)"
+
+# game/v1/scene17.rpy:312
+translate francais v1s17_304da2e6:
+
+    # u "Easy for you to say! You were basically partnered with me to teach me. You already know all of this stuff."
+    u "Facile à dire pour toi ! En gros, t'as fait équipe avec moi pour pouvoir m'enseigner tout ça... Toi, tu les maîtrises déjà parfaitement."
+
+# game/v1/scene17.rpy:317
+translate francais v1s17_b8736157:
+
+    # la "That's true, but it's hard to learn when you're not interested or focused. And you, sir, are definitely not interested or focused."
+    la "C'est vrai, mais c'est pas évident d'apprendre quand on n'est pas intéressé ou concentré. Et vous, monsieur, n'êtes clairement ni intéressé ni concentré."
+
+# game/v1/scene17.rpy:322
+translate francais v1s17_0f25d506:
+
+    # la "So, I'm going to send you a copy of the TA notes and you can mull over them in your own time."
+    la "Je vais donc t'envoyer une copie des notes du délégué et tu pourras y travailler à ton rythme."
+
+# game/v1/scene17.rpy:341
+translate francais v1s17_e416bbc3:
+
+    # u "Oooooh. *Coughs* Nerd! *Coughs*"
+    u "Ooooohhh... *Toux* Nerd ! *Toux*"
+
+# game/v1/scene17.rpy:346
+translate francais v1s17_f80f0754:
+
+    # la "Ugh, you are so rude!"
+    la "Argh, tu es tellement grossier !"
+
+# game/v1/scene17.rpy:351
+translate francais v1s17_8e930bfc:
+
+    # u "Oops, I meant to say \"damn, look at you getting in nice and good with the people on the inside.\""
+    u "Oups, je voulais dire : \"Waouh, regarde comme tu t'entends bien avec les personnes d'ici.\""
+
+# game/v1/scene17.rpy:356
+translate francais v1s17_c5131d83:
+
+    # la "Mm, that's more like it."
+    la "Mhmm, c'est plutôt ça."
+
+# game/v1/scene17.rpy:364
+translate francais v1s17_c6c9d08d:
+
+    # u "Damn. Well done."
+    u "Eh bien, bien joué."
+
+# game/v1/scene17.rpy:369
+translate francais v1s17_e58d48df:
+
+    # la "Thank you!"
+    la "Merci !"
+
+# game/v1/scene17.rpy:389
+translate francais v1s17_59ecf543:
+
+    # u "Ooh, about what?"
+    u "Ooooh... À propos de quoi ?"
+
+# game/v1/scene17.rpy:444
+translate francais v1s17_ff626990:
+
+    # la "I'm always down for a bake sale, but I'm not trying to get involved in any of this. Did you see all of her flyers?"
+    la "Je suis toujours partante pour une vente de gâteaux, mais je ne veux vraiment pas m'impliquer dans tout ça. Tu as vu tous les prospectus qu'elle a placardé ?"
+
+# game/v1/scene17.rpy:464
+translate francais v1s17_cf832f26:
+
+    # la "I also have to admit, though, Lindsey has great leadership potential and tons of new ideas that will greatly benefit not only the Chicks, but all sororities."
+    la "Mais je dois aussi admettre que Lindsey a un grand potentiel de leadership et des tonnes de nouvelles idées qui profiteront grandement non seulement aux Chicks, mais à toutes les sororités."
+
+# game/v1/scene17.rpy:481
+translate francais v1s17_9a3e0a4a:
+
+    # u "We both know you're a great baker and obviously Lindsey knows it, too, so I think you should help her."
+    u "On sait tous les deux que t'es une excellente pâtissière et apparemment Lindsey le sait aussi, donc je crois que tu devrais l'aider."
+
+# game/v1/scene17.rpy:491
+translate francais v1s17_4293aa9a:
+
+    # u "I do. Lindsey has been working her ass off since the minute she decided to run for President. She cares about the Chicks."
+    u "Je sais. Lindsey se donne à fond depuis la minute où elle a décidé de se lancer dans la course à la présidence. Elle se soucie vraiment des Chicks."
+
+# game/v1/scene17.rpy:496
+translate francais v1s17_1e4e96f4:
+
+    # u "Plus, she came to you, of all people, for a reason. She trusts you and knows what you're capable of."
+    u "De plus, elle est venue te voir, toi parmi tous les autres, pour une raison. Elle te fait confiance et sait ce dont tu es capable."
+
+# game/v1/scene17.rpy:519
+translate francais v1s17_d53af90a:
+
+    # la "Ha, I guess you're right."
+    la "Haha, tu dois avoir raison."
+
+# game/v1/scene17.rpy:575
+translate francais v1s17_61f3cae9:
+
+    # la "You're right. Thank you."
+    la "Tu as raison. Merci."
+
+# game/v1/scene17.rpy:657
+translate francais v1s17_fd1d95a5:
+
+    # u "*Whispers* I know, because you're loyal."
+    u "*Chuchote* Je le sais, car t'es vraiment loyale."
+
+# game/v1/scene17.rpy:667
+translate francais v1s17_d7e50d0f:
+
+    # u "You're the most loyal soul I've ever met, Lauren. That's why I'm asking you, the one person I trust with anything and everything."
+    u "T'es la personne la plus loyale que j'ai rencontré, Lauren. C'est pourquoi je te le demande, à toi, la seule personne en qui j'ai confiance pour tout et n'importe quoi."
+
+# game/v1/scene17.rpy:689
+translate francais v1s17_051f70ab:
+
+    # la "You really believe this is the right thing to do?"
+    la "Tu crois vraiment que c'est la meilleure chose à faire ?"
+
+# game/v1/scene17.rpy:755
+translate francais v1s17_c3c6dc4e:
+
+    # la "Exactly, the most loyal person you know, and that's why you of all people should also know that I wouldn't do something like that."
+    la "Tout à fait, \"la personne la plus loyale que tu as rencontré\" et c'est pourquoi toi plus que quiconque devrait savoir que je ne ferais jamais une chose pareille."
+
+# game/v1/scene17.rpy:760
+translate francais v1s17_b8841cbb:
+
+    # u "Yeah, yeah, I realize that. I was just joking."
+    u "Ouais, ouais, je sais bien. Je rigolais, c'est tout."
+
+# game/v1/scene17.rpy:765
+translate francais v1s17_99fe9c77:
+
+    # la "Sure you were."
+    la "Bien sûr."
+
+# game/v1/scene17.rpy:770
+translate francais v1s17_1744082e:
+
+    # u "I swear! I was..."
+    u "Je te jure ! J'étais..."
+
+# game/v1/scene17.rpy:790
+translate francais v1s17_end_0e491dfd:
+
+    # la "Oh perfect, class is over. Be careful about everything you do during this whole... \"mess,\" okay?"
+    la "Oh super, le cours est terminé. Fais attention à tout ce que tu fais pendant tout ce... \"bordel\", d'accord ?"

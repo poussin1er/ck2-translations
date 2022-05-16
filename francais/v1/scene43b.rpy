@@ -595,3 +595,118 @@ translate francais strings:
     # game/v1/scene43b.rpy:277
     old "Work with Riley"
     new "Travailler avec Riley"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene43b.rpy:69
+translate francais v1s43b_9546e7c4:
+
+    # lee "Today is a very good day, everyone. Although, I understand you're unaware of why that is."
+    lee "Aujourd'hui chers élèves, est une très bonne journée. Bien que, je comprenne que vous ne sachiez pas pourquoi."
+
+# game/v1/scene43b.rpy:89
+translate francais v1s43b_c919f496:
+
+    # u "(Oh... that's why Riley is here.)"
+    u "(Oh... C'est pour ça que Riley s'est placée ici.)"
+
+# game/v1/scene43b.rpy:109
+translate francais v1s43b_11b7134e:
+
+    # ri "I, thank you... I mean, you could've just told me that's what was happening. But really, thanks. I'm excited!"
+    ri "Je, merci... Enfin, vous auriez pu me dire que c'était ce qui allait se passer. Mais vraiment, merci. Je suis excitée !"
+
+# game/v1/scene43b.rpy:114
+translate francais v1s43b_97db3dd1:
+
+    # lee "So are we. Right, class?"
+    lee "Nous le sommes aussi. N'est-ce pas chers élèves ?"
+
+# game/v1/scene43b.rpy:119
+translate francais v1s43b_6fb277c6:
+
+    # ri "Ha, it's okay."
+    ri "Merci."
+
+# game/v1/scene43b.rpy:124
+translate francais v1s43b_50b51aa1:
+
+    # u "(This should be interesting...)"
+    u "(Ça devrait être intéressant...)"
+
+# game/v1/scene43b.rpy:159
+translate francais v1s43b_1945552a:
+
+    # ri "Ahem, I, uh... I'm very approachable, so even though I don't know what all my responsibilities will be as a teacher's assistant, feel free to talk to me."
+    ri "Hum, je euh... je suis très accessible, donc je ne sais pas quelles seront toutes mes responsabilités en tant qu'assistante du professeur, mais n'hésitez pas à venir me voir."
+
+# game/v1/scene43b.rpy:169
+translate francais v1s43b_bbcc9f18:
+
+    # lee "Very good! Thank you. Now, onto class..."
+    lee "Très bien ! Merci. Maintenant, place au cours..."
+
+# game/v1/scene43b.rpy:174
+translate francais v1s43b_4886b50a:
+
+    # lee "Today, we will once again be doing a roleplay."
+    lee "Aujourd'hui, nous allons une fois de plus faire un jeu de rôle."
+
+# game/v1/scene43b.rpy:260
+translate francais v1s43b_b78faa87:
+
+    # imre "Look, man... ugh, please? Just let me work with her."
+    imre "Écoute mec... Euh, s'te plaît ? Laisse-moi juste bosser avec elle."
+
+# game/v1/scene43b.rpy:270
+translate francais v1s43b_51d3d2db:
+
+    # imre "*Sighs* Okay, fine, I sent some drunk texts to Riley last night and she hasn't replied, so it'd be awkward having to work with her. You know?"
+    imre "*Soupirs* Bon, d'accord, j'ai envoyé des textos bourrés à Riley hier soir et elle a pas répondu, donc ce serait gênant de devoir travailler avec elle. Tu vois ?"
+
+# game/v1/scene43b.rpy:275
+translate francais v1s43b_2050996e:
+
+    # u "Yeah. I get that..."
+    u "Ouais. Je vois..."
+
+# game/v1/scene43b.rpy:328
+translate francais v1s43b_5e23b096:
+
+    # pe "*Whispers* And me."
+    pe "*Chuchote* Et toi."
+
+# game/v1/scene43b.rpy:334
+translate francais v1s43b_0737a6bd:
+
+    # pe "No, no, no. You and me."
+    pe "Non, non, non. Moi et toi."
+
+# game/v1/scene43b.rpy:356
+translate francais v1s43b_b541e817:
+
+    # lee "Now, once I'm finished speaking, you may leave the classroom and begin reading pages 100-103 in your textbook."
+    lee "Dès que j'aurai fini de parler, vous pourrez quitter la salle de classe et commencer à lire les pages 100 à 103 de votre manuel."
+
+# game/v1/scene43b.rpy:514
+translate francais v1s43Chloe_PhoneContinue1_8e95cc18:
+
+    # imre "Fuck, dude... I don't know. Maybe she'll pretend like it never happened? Or should I bring it up? What the fuck should I do here?"
+    imre "Putain, mec... J'en sais rien. Peut-être qu'elle fera comme si c'était jamais arrivé ? Ou j'devrais en parler ? Putain, qu'est-ce que j'dois faire là ?"
+
+# game/v1/scene43b.rpy:519
+translate francais v1s43Chloe_PhoneContinue1_274ab15f:
+
+    # u "Ha... I just wanted to see you squirm for a second. I wouldn't actually do you like that. Have fun with Penelope."
+    u "Je voulais juste te voir te tortiller pendant un moment. Je te ferais pas ça, amuse-toi bien avec Pénélope."
+
+# game/v1/scene43b.rpy:524
+translate francais v1s43Chloe_PhoneContinue1_94755924:
+
+    # imre "Oh shit, ha, phew... thanks, man."
+    imre "Oh merde, pfiou... Merci mec."
+
+# game/v1/scene43b.rpy:693
+translate francais v1s43Chloe_PhoneContinue2_1a8f2da2:
+
+    # u "Let's just work in the classroom across the hall. It's always empty."
+    u "On a qu'à travailler dans la salle de classe de l'autre côté du couloir, elle est toujours vide."

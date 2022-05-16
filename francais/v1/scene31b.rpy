@@ -520,7 +520,7 @@ translate francais v1s31b_eb6055eb:
 translate francais v1s31b_23d83807:
 
     # au "You obviously have no friends so when people try to just hang out with you, you think there's a secret motive."
-    au "T'as visiblement pas d'amis, alors quand les gens essaient de passer un peu de temps avec toi, tu penses qu'il y a un motif secret."
+    au "T'as visiblement pas d'amis, alors quand les gens essaient de passer un peu de temps avec toi, tu crois toujours qu'il y a un truc derrière."
 
 # game/v1/scene31b.rpy:623
 translate francais v1s31b_2500bbd8:
@@ -1213,3 +1213,172 @@ translate francais strings:
     # game/v1/scene31b.rpy:1315
     old "Apologize"
     new "S'excuser"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene31b.rpy:47
+translate francais v1s31b_9464b42f:
+
+    # u "Yeah, this idea is kinda risky. You said it'd be easy with a little alcohol in him, right?"
+    u "Ouais, cette idée est un peu risquée. T'as dit que ce serait facile en lui donnant un peu d'alcool, non ?"
+
+# game/v1/scene31b.rpy:52
+translate francais v1s31b_c618dbf9:
+
+    # cl "Well, yeah... it won't be hard at all."
+    cl "Eh bien, ouais... Ça, ça ne sera pas difficile du tout."
+
+# game/v1/scene31b.rpy:82
+translate francais v1s31b_440bf87a:
+
+    # u "Umm... you will be on your own... I'm not flirting with him, ha."
+    u "Hum... Tu te débrouilleras toute seule... Je vais pas flirter avec lui, haha."
+
+# game/v1/scene31b.rpy:105
+translate francais v1s31b_9a2ae209:
+
+    # u "With your ex."
+    u "Avec ton ex."
+
+# game/v1/scene31b.rpy:147
+translate francais v1s31b_d9eaafbc:
+
+    # cl "Or, I guess... we know each other too well."
+    cl "Ou, je peut-être que... Qu'on se connait trop bien."
+
+# game/v1/scene31b.rpy:152
+translate francais v1s31b_3df81b16:
+
+    # cl "If you were there, he'd know something was up. No matter how drunk he is."
+    cl "Si tu étais là, il saurait que quelque chose se passe. Peu importe à quel point il est ivre."
+
+# game/v1/scene31b.rpy:253
+translate francais v1s31b_b39385ba:
+
+    # au "Ha! I'm not one of your little frat boys that you can intimidate, Gray."
+    au "Haha ! Je suis pas l'un de tes petits copains de fraternité que tu peux intimider, Gray"
+
+# game/v1/scene31b.rpy:265
+translate francais v1s31b_9f1fe9c5:
+
+    # cl "Uh, hey, guys."
+    cl "Euh, salut vous."
+
+# game/v1/scene31b.rpy:301
+translate francais v1s31b_502a5874:
+
+    # cl "Where's Cameron?"
+    cl "Où est Cameron ?"
+
+# game/v1/scene31b.rpy:311
+translate francais v1s31b_093b11fb:
+
+    # u "Heh."
+    u "Heu."
+
+# game/v1/scene31b.rpy:363
+translate francais v1s31b_daaf619c:
+
+    # cl "If you say so!"
+    cl "Si tu le dis !"
+
+# game/v1/scene31b.rpy:557
+translate francais v1s31b_a64e381b:
+
+    # cl "Well..."
+    cl "Bon..."
+
+# game/v1/scene31b.rpy:562
+translate francais v1s31b_a6f5e4c0:
+
+    # gr "I have, and boy let me tell you..."
+    gr "Je les connais, et mon garçon laisse-moi te dire..."
+
+# game/v1/scene31b.rpy:564
+translate francais v1s31b_0f5f4733:
+
+    # gr "Those glasses make you wanna do something... *Whispers* out of pocket."
+    gr "Ces lunettes te donnent envie de faire un truc... *Chuchote* Sorti de ta poche."
+
+# game/v1/scene31b.rpy:601
+translate francais v1s31b_f1494827:
+
+    # au "Bahaha!"
+    au "Bwahaha !"
+
+# game/v1/scene31b.rpy:611
+translate francais v1s31b_5d2b1a1f:
+
+    # au "You!"
+    au "Toi !"
+
+# game/v1/scene31b.rpy:616
+translate francais v1s31b_e3f9ddcc:
+
+    # au "You obviously have no friends, so when people try to just hang out with you, you think there's a secret motive."
+    au "T'as visiblement pas d'amis, alors quand les gens essaient de passer un peu de temps avec toi, tu crois toujours qu'il y a un truc derrière."
+
+# game/v1/scene31b.rpy:621
+translate francais v1s31b_5a3c631a:
+
+    # au "And honestly... even if there is, why can't you just enjoy the company? You definitely need some."
+    au "Et franchement... Même si c'est le cas, pourquoi tu peux pas simplement profiter de cette compagnie ? T'en as vraiment besoin."
+
+# game/v1/scene31b.rpy:626
+translate francais v1s31b_d6fe69e2:
+
+    # cl "She's got a point..."
+    cl "Elle marque un point..."
+
+# game/v1/scene31b.rpy:647
+translate francais v1s31b_1c69f241:
+
+    # cl "That's something I remember clearly. One time Gray popped off on Mr. Lee and got manhandled real quick."
+    cl "Je me souviens très bien d'un truc comme ça. Une fois, Gray s'est emporté contre Mr Lee et il s'est très vite fait maitriser."
+
+# game/v1/scene31b.rpy:652
+translate francais v1s31b_ad232234:
+
+    # au "Ah! I remember his girly scream like it was yesterday."
+    au "Ah ! Je me souviens de son cri de fillette comme si c'était hier."
+
+# game/v1/scene31b.rpy:677
+translate francais v1s31b_0f3fdf45:
+
+    # cl "I didn't even notice I called you that, sorry. Force of habit I guess, since I'm looking at you."
+    cl "Je n'avais même pas remarqué que je t'avais appelé comme ça, désolée. Par habitude, peut-être, vu que je te regarde."
+
+# game/v1/scene31b.rpy:688
+translate francais v1s31b_d50134c7:
+
+    # gr "A lot of things were a force of habit when you looked at me. Are you trying to start those again, too?"
+    gr "Beaucoup de choses étaient une question d'habitude quand tu m'regardais. T'essaies de recommencer ça aussi ?"
+
+# game/v1/scene31b.rpy:731
+translate francais v1s31b_bf686a16:
+
+    # gr "You wouldn't believe me if I told you."
+    gr "Tu me croirais pas si j'te l'disais."
+
+# game/v1/scene31b.rpy:793
+translate francais v1s31b_7b93cd6b:
+
+    # cl "Glad you guys are hitting it off, but, umm..."
+    cl "Je suis contente que vous vous entendiez bien, mais..."
+
+# game/v1/scene31b.rpy:924
+translate francais v1s31b_56d6ebce:
+
+    # au "Sorry... honestly, it's probably torture for her."
+    au "Désolé... Pour être honnête, c'est sûrement une torture pour elle."
+
+# game/v1/scene31b.rpy:935
+translate francais v1s31b_de58b201:
+
+    # au "Or not... who knows."
+    au "Ou pas... Va savoir."
+
+# game/v1/scene31b.rpy:1264
+translate francais v1s31b_33943194:
+
+    # gr "You're a fucking joke."
+    gr "T'es une putain d'comique."

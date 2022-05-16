@@ -721,3 +721,142 @@ translate francais strings:
     # game/v3/scene55.rpy:631
     old "I have bad breath"
     new "J'ai mauvaise haleine"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene55.rpy:32
+translate francais v3s55_ae0b14f3:
+
+    # u "Sleepy?"
+    u "Fatiguée ?"
+
+# game/v3/scene55.rpy:57
+translate francais v3s55_dad16ccc:
+
+    # u "Ha, okay. If you're sure."
+    u "Ah, d'accord. Si tu le dis."
+
+# game/v3/scene55.rpy:132
+translate francais v3s55_threepositives_505a3f68:
+
+    # u "Yeah."
+    u "Ouais."
+
+# game/v3/scene55.rpy:137
+translate francais v3s55_threepositives_b9c33f1d:
+
+    # li "Um, well, she's blonde. And as we all know, blondes are awesome."
+    li "Hum, eh ben, elle est blonde. Et comme nous le savons tous, les blondes sont géniales."
+
+# game/v3/scene55.rpy:169
+translate francais v3s55_threepositives_f121feea:
+
+    # li "Um... oh, and I hear she's good at volleyball too. That's three things."
+    li "Hum... Oh, et j'ai entendu dire qu'elle était également très douée au volleyball. Et ça fait trois."
+
+# game/v3/scene55.rpy:182
+translate francais v3s55_threepositives_33c55783:
+
+    # u "Anything that isn't about her physical appearance?"
+    u "Et tout ce qui concerne pas son apparence physique ?"
+
+# game/v3/scene55.rpy:207
+translate francais v3s55_threepositives_08c1f49c:
+
+    # u "Ha, okay. Great compliment, but maybe leave out that second part."
+    u "Ok. Très beau compliment, mais mets peut-être de côté la deuxième partie."
+
+# game/v3/scene55.rpy:217
+translate francais v3s55_threepositives_efe5fd33:
+
+    # li "Do I really need to be that careful with my words?"
+    li "Je dois vraiment faire autant attention à mes mots ?"
+
+# game/v3/scene55.rpy:309
+translate francais v3s55_importantquality_7a278d93:
+
+    # li "Yeah, people skills. So, you can manipulate effectively, ha."
+    li "Ouais, les qualités relationnelles. Alors, tu pourras manipuler plus efficacement."
+
+# game/v3/scene55.rpy:314
+translate francais v3s55_importantquality_a1757429:
+
+    # u "Okay, definitely don't want to use the word manipulate in the interview."
+    u "D'accord, il faudra surtout pas utiliser le mot \"manipuler\" pendant l'interview."
+
+# game/v3/scene55.rpy:319
+translate francais v3s55_importantquality_950a175c:
+
+    # li "No, of course not. Duh."
+    li "Non, bien sûr que non."
+
+# game/v3/scene55.rpy:329
+translate francais v3s55_importantquality_4023205a:
+
+    # li "Ooh, I like that. I'll use that one. Effective communicator."
+    li "Ooh, j'aime bien ça. Je vais utiliser ça. Communicatrice efficace."
+
+# game/v3/scene55.rpy:394
+translate francais v3s55_randomkindness_a733201b:
+
+    # li "Oh. Good thing I reminded you, then!"
+    li "Ah. Alors, heureusement que je te l'ai rappelé !"
+
+# game/v3/scene55.rpy:414
+translate francais v3s55_randomkindness_bc7a52bc:
+
+    # li "Exactly! I've got this interview in the bag."
+    li "Exactement ! Cette interview est dans la poche."
+
+# game/v3/scene55.rpy:419
+translate francais v3s55_randomkindness_eef1dc7a:
+
+    # u "I'm loving that confidence."
+    u "J'aime cette confiance."
+
+# game/v3/scene55.rpy:439
+translate francais v3s55_randomkindness_512197e3:
+
+    # u "It makes you sound like an awesome person. Someone who's really kind."
+    u "Ça te fera paraître comme une personne géniale. Quelqu'un de vraiment gentil."
+
+# game/v3/scene55.rpy:449
+translate francais v3s55_randomkindness_d2be5806:
+
+    # u "I know, but hammer it home, hard. Just don't sound too narcissistic."
+    u "Je sais, mais insiste bien là-dessus. Mais sans être trop narcissique."
+
+# game/v3/scene55.rpy:456
+translate francais v3s55_randomkindness_48f9763f:
+
+    # li "Okay. I got it."
+    li "Ok. Je comprends."
+
+# game/v3/scene55.rpy:578
+translate francais v3s55_interviewend_59dd6934:
+
+    # li "I hope the interview goes as smooth as this prep session."
+    li "J'espère que l'interview se passera aussi bien que cette séance de préparation."
+
+# game/v3/scene55.rpy:609
+translate francais v3s55_interviewend_b71d97c9:
+
+    # li "As ready as I'll ever be."
+    li "Aussi prête que possible."
+
+# game/v3/scene55.rpy:614
+translate francais v3s55_interviewend_d1bb5a27:
+
+    # u "I'll see you a bit later for the main event."
+    u "On se voit plus tard pour le grand événement."
+
+# game/v3/scene55.rpy:650
+translate francais v3s55_interviewend_b24084ae:
+
+    # u "My breath smells pretty bad right now... sorry 'bout that."
+    u "Mon haleine est plutôt mauvaise, là... désolé."
+
+# game/v3/scene55.rpy:655
+translate francais v3s55_interviewend_b9e3aceb:
+
+    # li "Oh, ew! Okay. Bye then."
+    li "Oh, beurk ! Bon. Alors, à plus tard."

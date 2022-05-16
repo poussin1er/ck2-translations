@@ -629,3 +629,124 @@ translate francais strings:
     # game/v3/scene11.rpy:413
     old "Not your best photo"
     new "Pas ta meilleure photo"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene11.rpy:40
+translate francais v3s11_565b36a5:
+
+    # ri "I'm good. Haven't gotten more shit from Tom... so far."
+    ri "Je vais bien. Je n'ai pas eu droit à d'autres emmerdes de la part de Tom... jusque là."
+
+# game/v3/scene11.rpy:51
+translate francais v3s11_32247b00:
+
+    # ri "You look like you feel better, too..."
+    ri "Tu as l'air d'aller mieux, toi aussi."
+
+# game/v3/scene11.rpy:93
+translate francais v3s11_9cdc248a:
+
+    # u "Oh, it was fun."
+    u "Oh, en fait, c'était marrant."
+
+# game/v3/scene11.rpy:144
+translate francais v3s11_8ca068a1:
+
+    # ri "Oh, wait... look at this."
+    ri "Oh, attends... Regarde ça."
+
+# game/v3/scene11.rpy:149
+translate francais v3s11_8d53bd20:
+
+    # u "What? Free condoms from the nurse? That's pretty common, but, we can stop by if you-"
+    u "Quoi ? Des préservatifs gratuits offerts par l'infirmière ? C'est assez courant, mais on peut y passer si tu-"
+
+# game/v3/scene11.rpy:159
+translate francais v3s11_69856150:
+
+    # u "Oooh... risky."
+    u "Oooh... C'est risqué de pas en mettre."
+
+# game/v3/scene11.rpy:165
+translate francais v3s11_41ee869f:
+
+    # ri "Ha. Are you done?"
+    ri "Pfff. T'as fini ?"
+
+# game/v3/scene11.rpy:191
+translate francais v3s11_6e6c065f:
+
+    # ri "We didn't. It's new."
+    ri "On n'en a pas. C'est nouveau."
+
+# game/v3/scene11.rpy:193
+translate francais v3s11_cced51db:
+
+    # ri "Looks like Elijah's the editor."
+    ri "On dirait qu'Elijah est le Rédacteur en chef."
+
+# game/v3/scene11.rpy:233
+translate francais v3s11_6c80fdf6:
+
+    # u "Newspaper squad. Bahaha! Put that on a badge."
+    u "L'équipe du journal. Bwahaha ! Mets ça sur un badge."
+
+# game/v3/scene11.rpy:325
+translate francais v3s11_1a8cb10b:
+
+    # ri "Come on! This will be so fun."
+    ri "Allez ! Ça va être marrant."
+
+# game/v3/scene11.rpy:340
+translate francais v3s11_1ed28d9d:
+
+    # ri "Ooookay, fine."
+    ri "Bonnnn, d'accord."
+
+# game/v3/scene11.rpy:351
+translate francais v3s11_97558b67:
+
+    # ri "Ha, right. Whatever you say."
+    ri "T'as raison. Bon... comme tu voudras."
+
+# game/v3/scene11.rpy:398
+translate francais v3s11_bf219700:
+
+    # ri "Your bad side? Chloe, you don't have a bad side."
+    ri "Ton mauvais côté ? Chloé, tu n'as aucun mauvais côté."
+
+# game/v3/scene11.rpy:452
+translate francais v3s11_f031052c:
+
+    # ri "Right... oh, look at the time! I've gotta go do some... work on the... assignment."
+    ri "Voilà... Oh- Regardez l'heure ! Je dois aller... faire mon... devoir."
+
+# game/v3/scene11.rpy:481
+translate francais v3s11_bb527a01:
+
+    # u "That's okay. We don't have to-"
+    u "C'est pas grave. On a pas à-"
+
+# game/v3/scene11.rpy:486
+translate francais v3s11_45815246:
+
+    # cl "Get this: He takes us into his office and makes us look each other in the eye while we apologize."
+    cl "Écoute ça : Il nous a emmené dans son bureau et nous a obligé à nous regarder dans les yeux en nous excusant mutuellement."
+
+# game/v3/scene11.rpy:496
+translate francais v3s11_41fe359f:
+
+    # cl "Then, after a few lectures about patience and gratitude and whatever the fuck else..."
+    cl "Puis, après quelques leçons de morale sur la patience, la gratitude et tout le reste..."
+
+# game/v3/scene11.rpy:508
+translate francais v3s11_051a90e5:
+
+    # cl "Yeah. Bonsai trees are all about patience and discipline, [name]. Didn't you know that?"
+    cl "Ouais. S'occuper des bonsaïs est une question de patience et de discipline, [name]. Tu ne le savais pas ?"
+
+# game/v3/scene11.rpy:529
+translate francais v3s11_ad7b006b:
+
+    # u "You're welcome."
+    u "De rien."

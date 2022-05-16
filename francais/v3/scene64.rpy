@@ -517,3 +517,130 @@ translate francais strings:
     # game/v3/scene64.rpy:194
     old "Deny it"
     new "Le nier"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene64.rpy:21
+translate francais v3s64_b_9cc3bd87:
+
+    # li "Amazing. A little rough at points, but hey, I like it hard sometimes."
+    li "Incroyable. Un peu brutal à certains moments mais hé, j'aime que ce soit rude parfois."
+
+# game/v3/scene64.rpy:41
+translate francais v3s64_a_1e9d972b:
+
+    # li "Yeah, it took us a moment to find you, ha."
+    li "Ouais, il nous a fallu un moment pour vous trouver."
+
+# game/v3/scene64.rpy:72
+translate francais v3s64_continue_0f9ffa70:
+
+    # au "Oh my God. I love s'mores."
+    au "Oh, je rêve. J'adore les chamallows grillés."
+
+# game/v3/scene64.rpy:89
+translate francais v3s64_continue_6bcb637b:
+
+    # au "Me too!"
+    au "Moi aussi !"
+
+# game/v3/scene64.rpy:107
+translate francais v3s64_continue_b2c206f6:
+
+    # u "No, just a little full, but thanks for your concern."
+    u "Non, je suis juste un peu plein, mais merci de t'en inquiéter."
+
+# game/v3/scene64.rpy:112
+translate francais v3s64_continue_d576a156:
+
+    # au "I'll eat yours, then."
+    au "Alors, je vais manger les tiens."
+
+# game/v3/scene64.rpy:122
+translate francais v3s64_continue_a1dd5033:
+
+    # u "Wow, how many do you think we can fit in there?"
+    u "Waouh, combien pensez-vous qu'on puisse en mettre là-dessus ?"
+
+# game/v3/scene64.rpy:210
+translate francais v3s64_continue_f4b1d681:
+
+    # cl "Sorry? Why the fuck did you write it, then?"
+    cl "Désolé ? Pourquoi t'as écrit ça alors ?"
+
+# game/v3/scene64.rpy:228
+translate francais v3s64_continue_1f4f1c7b:
+
+    # cl "Are you seriously trying to deny it?"
+    cl "Tu cherches vraiment à le nier ?"
+
+# game/v3/scene64.rpy:306
+translate francais v3s64_continue_54142e12:
+
+    # no "That was pretty shitty of you, [name]. Hilarious, but wrong. You don't say that shit about a girl; it sticks with us a lot longer than you'd think."
+    no "C'était plutôt merdique de ta part, [name]. Hilarant, mais déplacé. On dit pas ce genre de conneries à une fille, ça nous colle à la peau bien plus longtemps que tu le penses."
+
+# game/v3/scene64.rpy:332
+translate francais v3s64_continue_d637c397:
+
+    # u "I do."
+    u "Je sais."
+
+# game/v3/scene64.rpy:354
+translate francais v3s64_continue_b08e4db9:
+
+    # cl "Thanks. That does make me feel a little better about it."
+    cl "Merci. Je me sens un peu mieux à ce sujet."
+
+# game/v3/scene64.rpy:391
+translate francais v3s64_continue_e282b646:
+
+    # cl "Umm, don't take this the wrong way, but... your handwriting looks like chicken scratches."
+    cl "Hum, ne le prends pas mal, mais... ton écriture ressemble à des griffures de poulet."
+
+# game/v3/scene64.rpy:396
+translate francais v3s64_continue_0e224b4e:
+
+    # au "Ha, hey! It could be mine."
+    au "Hey ! Ça pourrait être la mienne."
+
+# game/v3/scene64.rpy:401
+translate francais v3s64_continue_23fd64ac:
+
+    # cl "No, no, [name]'s is much, much worse."
+    cl "Non, non, celle de [name] est bien, bien pire."
+
+# game/v3/scene64.rpy:419
+translate francais v3s64_continue_0043fb37:
+
+    # cl "Communal vibrators? Thanks for a laugh, Aubrey!"
+    cl "Vibromasseurs communs ? Merci pour ce fou rire, Aubrey !"
+
+# game/v3/scene64.rpy:424
+translate francais v3s64_continue_222bb43f:
+
+    # au "Wha-"
+    au "Qu-"
+
+# game/v3/scene64.rpy:426
+translate francais v3s64_continue_f297d61d:
+
+    # au "It's a serious suggestion!"
+    au "C'est une proposition sérieuse !"
+
+# game/v3/scene64.rpy:438
+translate francais v3s64_continue_5ab96819:
+
+    # u "I'm thinking this a good time for me to go and let the real party begin, ha."
+    u "Je crois que c'est le bon moment pour que je parte et que votre vraie fête commence."
+
+# game/v3/scene64.rpy:494
+translate francais v3s64_continue_f686e6fd:
+
+    # li "Thanks for the spa night, Chloe. I genuinely had fun, surprisingly."
+    li "Merci pour la soirée spa, Chloé. Je me suis vraiment bien amusée, bizarrement."
+
+# game/v3/scene64.rpy:499
+translate francais v3s64_continue_18f05882:
+
+    # cl "Ha, no problem. Don't be late; we're starting with or without you!"
+    cl "Ha, pas de problème. Ne sois pas en retard; on commence avec ou sans toi !"

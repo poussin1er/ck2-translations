@@ -71,3 +71,10 @@ translate francais v3s4_phoneContinue_ee852c08:
 
     # u "(Am I dreaming? *laughs*)"
     u "(Je suis en train de rêver ? *Rire*)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene4.rpy:206
+translate francais v3s4_phoneContinue_c00d34a7:
+
+    # u "(Am I dreaming?)"
+    u "(Est-ce que je rêve ?)"

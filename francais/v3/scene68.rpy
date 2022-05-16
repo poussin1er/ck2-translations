@@ -179,3 +179,46 @@ translate francais v3s68_f4ba78f8:
 
     # u "*Sighs* (The fun's over. Now it's time to be a responsible father and go collect [v3_baby_name].)"
     u "*Soupir* ( Le plaisir est terminé. Il est maintenant temps de se comporter en père responsable et d'aller chercher [v3_baby_name].)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene68.rpy:26
+translate francais v3s68_8d76d67e:
+
+    # u "Well, I was going home."
+    u "Je rentrais chez moi."
+
+# game/v3/scene68.rpy:41
+translate francais v3s68_f3236a59:
+
+    # pe "I'll make an exception, just this once."
+    pe "Je ferais une exception, pour cette fois."
+
+# game/v3/scene68.rpy:77
+translate francais v3s68_663a8b21:
+
+    # pe "Well, you should have thought about that before deciding to have a baby!"
+    pe "Tu aurais dû y penser avant de décider de faire un bébé !"
+
+# game/v3/scene68.rpy:82
+translate francais v3s68_86c929b0:
+
+    # u "Ha, yeah."
+    u "C'est vrai."
+
+# game/v3/scene68.rpy:144
+translate francais v3s68_e9da19ae:
+
+    # u "Not me! The baby!"
+    u "Pas moi ! Le bébé !"
+
+# game/v3/scene68.rpy:149
+translate francais v3s68_e2528fbb:
+
+    # pe "Come on. Let's go."
+    pe "Allez viens. On y va."
+
+# game/v3/scene68.rpy:187
+translate francais v3s68_543cb088:
+
+    # pe "*Laughs* Let's get out here, then."
+    pe "*Rire* Alors, allons-y."

@@ -449,3 +449,16 @@ translate francais strings:
     # game/v3/scene46.rpy:403
     old "Orange"
     new "Orange"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene46.rpy:285
+translate francais v3s46_34e6ddf9:
+
+    # ca "Okay, it's the orange key."
+    ca "Alors, c'est la clé orange."
+
+# game/v3/scene46.rpy:316
+translate francais v3s46_8ab0a938:
+
+    # ca "Fail!"
+    ca "T'as raté !"

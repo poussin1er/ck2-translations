@@ -136,13 +136,13 @@ translate francais v1s16_e6c3c736:
 translate francais v1s16_fab0bbf5:
 
     # cl "*Chuckles* I can think of a few rewards already..."
-    cl "*Rire* Je pense déjà à quelques récompenses..."
+    cl "*Rire* Je réfléchis déjà à quelques récompenses..."
 
 # game/v1/scene16.rpy:159
 translate francais v1s16_a82a8c22:
 
     # cl "*Whispering* Plus, the President always needs an assistant and if it's my job to, you know... take care of you, while also running the sorority..."
-    cl "*Chuchote* De plus, la présidente a toujours besoin d'un assistant et si c'est à moi de, tu sais... m'occuper de toi, tout en dirigeant la sororité..."
+    cl "*Chuchote* De plus, la présidente a toujours besoin d'un assistant, et si c'est à moi de, tu sais... m'occuper de toi, tout en dirigeant la sororité..."
 
 # game/v1/scene16.rpy:161
 translate francais v1s16_bed432d7:
@@ -166,7 +166,7 @@ translate francais v1s16_02865fad:
 translate francais v1s16_9b756545:
 
     # cl "So, what's your answer? Will you help me try and win this campaign?"
-    cl "Alors, tu me réponds ? Veux tu m'aider à essayer de gagner cette campagne ?"
+    cl "Alors, quelle est ta réponse ? Veux tu m'aider à essayer de gagner cette campagne ?"
 
 # game/v1/scene16.rpy:188
 translate francais v1s16_2d9b7089:
@@ -424,3 +424,130 @@ translate francais v1s16_12e59fb5:
 
     # u "(Oh well. Time for class!)"
     u "(Bon, c'est l'heure des cours !)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene16.rpy:27
+translate francais v1s16_a290a3d4:
+
+    # u "I'm seeing it. She's definitely serious about this."
+    u "Je vois ça. Elle est vraiment sérieuse dans cette affaire."
+
+# game/v1/scene16.rpy:55
+translate francais v1s16_47327d48:
+
+    # cl "Ugh. I thought we'd get back and have a chance to get comfortable first, but I literally walked into a pro-Lindsey campus."
+    cl "Argh. Je pensais qu'une fois rentrés, nous aurions la possibilité de nous mettre à l'aise, mais je suis littéralement revenue dans un campus pro-Lindsey."
+
+# game/v1/scene16.rpy:112
+translate francais v1s16_00dd30ef:
+
+    # cl "I need a lot of help if I'm going to beat her, [name]. It won't be as easy as I thought."
+    cl "J'ai besoin de toute l'aide possible si je veux la battre, [name]. Ça va pas être aussi facile que je le pensais."
+
+# game/v1/scene16.rpy:136
+translate francais v1s16_c5e8c2a2:
+
+    # cl "I remember how you said you'd support me before, but..."
+    cl "Je me souviens qu'avant, tu as dit que tu me soutiendrais, mais..."
+
+# game/v1/scene16.rpy:149
+translate francais v1s16_f04a919f:
+
+    # cl "I can think of a few rewards already."
+    cl "Je réfléchis déjà à quelques récompenses..."
+
+# game/v1/scene16.rpy:159
+translate francais v1s16_451f7dff:
+
+    # cl "*Whispering* Plus, the president always needs an assistant, and if it's my job to, you know, take care of you, while also running the sorority..."
+    cl "*Chuchote* De plus, la présidente a toujours besoin d'un assistant, et si c'est à moi de, tu sais... m'occuper de toi, tout en dirigeant la sororité..."
+
+# game/v1/scene16.rpy:170
+translate francais v1s16_433f15dc:
+
+    # cl "So, what's your answer? Will you help me try to win this campaign?"
+    cl "Alors, quelle est ta réponse ? Veux tu m'aider à essayer de gagner cette campagne ?"
+
+# game/v1/scene16.rpy:192
+translate francais v1s16_98c810ef:
+
+    # u "Not only that, but you know I'm always gonna be there for you, supporting you in whatever way you need. Of course I'll help you win."
+    u "En plus de ça, tu sais que je serai toujours là pour toi, pour te soutenir dans tout ce dont tu as besoin. Bien sûr, je t'aiderai à gagner."
+
+# game/v1/scene16.rpy:207
+translate francais v1s16_3a294854:
+
+    # u "You're welcome, Chloe."
+    u "Je t'en prie, Chloé."
+
+# game/v1/scene16.rpy:212
+translate francais v1s16_438f43e9:
+
+    # cl "Meet me in the library after your class. We have lots to discuss!"
+    cl "Retrouve-moi à la bibliothèque après ton cours. On a beaucoup à se dire !"
+
+# game/v1/scene16.rpy:225
+translate francais v1s16_a7d7a2c9:
+
+    # u "(If her goal was to make me feel sorry enough for her that I would agree to help, she succeeded! Clever girl.)"
+    u "(Si son but était de me faire sentir suffisamment triste pour elle pour que j'accepte de l'aider, elle a réussi ! Petite futée.)"
+
+# game/v1/scene16.rpy:260
+translate francais v1s16_cff41a11:
+
+    # cl "You can't spare a little time to help me out with any of this?"
+    cl "Tu ne peux pas trouver un peu de temps pour m'aider avec tout ça ?"
+
+# game/v1/scene16.rpy:265
+translate francais v1s16_ab79ae5c:
+
+    # u "I'm sorry, Chloe. I'm just really busy now that we're back on campus and things with the-"
+    u "Je suis désolé, Chloé. Je suis vraiment débordé maintenant qu'on est de retour sur le campus et les trucs avec les-"
+
+# game/v1/scene16.rpy:271
+translate francais v1s16_a07e7377:
+
+    # cl "What do you mean you don't have time?! You have time to fuck me, but no time to talk?"
+    cl "Comment ça, tu n'as pas le temps ?! Tu as le temps de me baiser, mais pas le temps de parler ?"
+
+# game/v1/scene16.rpy:286
+translate francais v1s16_4b0dae6a:
+
+    # u "It's not that I don't want to, Chloe. I'm kinda busy with my own Greek life, is all. Like, we just got back to campus, and-"
+    u "C'est pas que je veux pas, Chloé. C'est juste que je suis très occupée avec ma propre vie de fraternité. S'il te plait, on vient juste de revenir sur le campus et-"
+
+# game/v1/scene16.rpy:293
+translate francais v1s16_3add9c58:
+
+    # cl "I'll remember how busy you are the next time you want to \"hang out\"."
+    cl "Je me souviendrai à quel point tu es \"occupé\", la prochaine fois que tu voudras \"sortir\"."
+
+# game/v1/scene16.rpy:298
+translate francais v1s16_55cba150:
+
+    # u "(Fuck. This is gonna cause some serious issues for us. Honestly kinda surprised she didn't break up with me right there... Chloe's way or no way.)"
+    u "(Ça va causer de sérieux problèmes entre nous. Putain... Je suis un peu surpris qu'elle n'ait pas rompu avec moi sur le champ... que ce soit à la manière de Chloé ou pas)"
+
+# game/v1/scene16.rpy:303
+translate francais v1s16_78d4f143:
+
+    # u "(Well, time for class.)"
+    u "(Bon, c'est l'heure des cours.)"
+
+# game/v1/scene16.rpy:309
+translate francais v1s16_46052a2a:
+
+    # cl "I'm always having to do things on my own."
+    cl "Je dois toujours faire les choses par moi-même."
+
+# game/v1/scene16.rpy:335
+translate francais v1s16_2be58b38:
+
+    # u "(Gah. I knew she wouldn't take that well. Chloe's way or no way.)"
+    u "(Arf. Je savais qu'elle allait mal le prendre. Avec Chloé, c'est ce qu'elle veut ou rien.)"
+
+# game/v1/scene16.rpy:340
+translate francais v1s16_dd724701:
+
+    # u "(Oh well. Time for class.)"
+    u "(Bon, c'est l'heure des cours.)"

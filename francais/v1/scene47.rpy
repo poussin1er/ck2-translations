@@ -917,3 +917,388 @@ translate francais strings:
     # game/v1/scene47.rpy:791
     old "Take photo with bird"
     new "Prends une photo avec l'oiseau"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene47.rpy:67
+translate francais v1s47_935d6cf0:
+
+    # u "Ha, well, thank you..."
+    u "Haha, merci..."
+
+# game/v1/scene47.rpy:83
+translate francais v1s47_7bcfedec:
+
+    # u "Yeah. Really nice..."
+    u "Ouais. Très jolie..."
+
+# game/v1/scene47.rpy:99
+translate francais v1s47_25039b8c:
+
+    # u "I like it a lot, though, uh, why are you all dressed up?"
+    u "J'aime beaucoup... Pourquoi t'es habillée comme ça ?"
+
+# game/v1/scene47.rpy:114
+translate francais v1s47_3151ee4f:
+
+    # li "Be sure to comment your compliment on my post."
+    li "N'oublie pas de poster ton compliment sur mon post."
+
+# game/v1/scene47.rpy:140
+translate francais v1s47_71353406:
+
+    # u "Uh, huh? Keep going... please, I insist."
+    u "Euh, hein ? Continue... S'il te plaît, j'insiste."
+
+# game/v1/scene47.rpy:151
+translate francais v1s47_e3f950cd:
+
+    # u "Not yet. I mean... you look great."
+    u "Pas encore. Enfin... T'es superbe."
+
+# game/v1/scene47.rpy:156
+translate francais v1s47_93047508:
+
+    # li "Thank you, [name]. I told you I'd dress up nicely if it means that we make a bit extra cash."
+    li "Merci, [name]. Je t'ai dit que je me ferai belle si cela nous permettait de gagner un peu plus d'argent."
+
+# game/v1/scene47.rpy:161
+translate francais v1s47_177b432b:
+
+    # u "I think it'll work."
+    u "Je crois que ça va marcher."
+
+# game/v1/scene47.rpy:177
+translate francais v1s47_052559ab:
+
+    # li "The opposite, actually. I just finished taking a few presidential photos for Kiwii."
+    li "Tout le contraire. Je viens de finir de prendre quelques photos Kiwii pour la présidentielle."
+
+# game/v1/scene47.rpy:187
+translate francais v1s47_e41e6876:
+
+    # li "Alright, alright. Are you ready to capture all the beauty of the shittiest car you've ever seen?"
+    li "Bien, très bien. T'es prêt à capturer toute la beauté de la voiture la plus merdique que tu aies jamais vue ?"
+
+# game/v1/scene47.rpy:192
+translate francais v1s47_d0b7bea2:
+
+    # u "As ready as I'll ever be. Is this it?"
+    u "Plus prêt que je l'ai jamais été. Ça te va ?"
+
+# game/v1/scene47.rpy:212
+translate francais v1s47_323d199b:
+
+    # li "Okay, it's not like that..."
+    li "Ouais, c'est vrai qu'elle a beauc..."
+
+# game/v1/scene47.rpy:222
+translate francais v1s47_ca736aa2:
+
+    # li "I know but... still, he gave it to me knowing I would sell it. I just didn't need the extra money until now."
+    li "Je sais mais... En fait, il me l'a donnée en sachant que je la vendrais. Je n'ai jamais vraiment eu besoin d'argent, jusqu'à présent."
+
+# game/v1/scene47.rpy:237
+translate francais v1s47_b7866c0b:
+
+    # u "Didn't he mention that you should wash it first?"
+    u "Il a pas précisé que tu devais d'abord la laver ?"
+
+# game/v1/scene47.rpy:247
+translate francais v1s47_a7181f58:
+
+    # u "Decades?"
+    u "Des décennies ?"
+
+# game/v1/scene47.rpy:252
+translate francais v1s47_709d8665:
+
+    # li "[name]... hoo boy. Let's just take these photos already so we can sell it as quickly as we can. Please?"
+    li "[name]... Prenons d'abord ces photos pour pouvoir la vendre au plus vite. D'accord ?"
+
+# game/v1/scene47.rpy:287
+translate francais v1s47_92a25744:
+
+    # li "That's so gross, yet so true..."
+    li "C'est si vulgaire, et pourtant si vrai..."
+
+# game/v1/scene47.rpy:292
+translate francais v1s47_237f0a2d:
+
+    # u "There are a lot of pervs out there... I'm curious to see which one ends up buying this piece of junk."
+    u "Il y a beaucoup de pervers là-bas... Je suis curieux de voir lequel d'entre eux finira par acheter ce tas de ferraille."
+
+# game/v1/scene47.rpy:297
+translate francais v1s47_07ac0a17:
+
+    # li "Interesting logic, [name]. They must be a perv if they decide to buy?"
+    li "Logique intéressante, [name]. Ils devront être pervers pour se décider à acheter ?"
+
+# game/v1/scene47.rpy:302
+translate francais v1s47_209fbd94:
+
+    # u "Either that or... desperate for four wheels and a piece of metal."
+    u "Soit ça, soit... Ils auront désespérément besoin de quatre roues autour d'un morceau de métal."
+
+# game/v1/scene47.rpy:307
+translate francais v1s47_58acb591:
+
+    # li "Okay... whatever they do with it, doesn't matter. If they give us their money, I'm happy."
+    li "Ok... Peu importe ce qu'ils en font, peu importe ce qu'ils achètent; s'ils nous donnent leur argent, je suis heureuse."
+
+# game/v1/scene47.rpy:312
+translate francais v1s47_852fef58:
+
+    # u "Ha, true. Let's do it, then."
+    u "Ha, pas faux. Alors, allons-y."
+
+# game/v1/scene47.rpy:333
+translate francais v1s47_0fd76992:
+
+    # li "Yeah, me too. We've only got one shot at this, and I don't want to ruin it with any... unnecessary hotness. You know?"
+    li "Ouais, moi aussi. On n'a qu'une seule chance, et je ne veux pas la gâcher avec des trucs... sexy inutiles. Tu vois ?"
+
+# game/v1/scene47.rpy:340
+translate francais v1s47_956e45ab:
+
+    # u "I kind of meant because of how gross it is, though."
+    u "Je voulais plutôt dire, ça pourrait paraître vulgaire."
+
+# game/v1/scene47.rpy:345
+translate francais v1s47_bdece92a:
+
+    # li "Oh my God, you're right... good call."
+    li "Oh là oui, tu as raison... Bien vu."
+
+# game/v1/scene47.rpy:374
+translate francais v1s47_hood_bdb0d276:
+
+    # li "Just take the photo already, [name]!"
+    li "Prends simplement la photo, [name] !"
+
+# game/v1/scene47.rpy:379
+translate francais v1s47_hood_9d3ab9bd:
+
+    # u "Ha, sorry!"
+    u "Désolé !"
+
+# game/v1/scene47.rpy:413
+translate francais v1s47_hood_093b11fb:
+
+    # u "Heh."
+    u "Heu."
+
+# game/v1/scene47.rpy:465
+translate francais v1s47_trunk_2ca9fab5:
+
+    # u "Perfect."
+    u "Parfait."
+
+# game/v1/scene47.rpy:494
+translate francais v1s47_trunk_14c6cb27:
+
+    # li "It does not! Uh, at least, not totally."
+    li "Mais non ! Euh, en tout cas, pas tout à fait."
+
+# game/v1/scene47.rpy:504
+translate francais v1s47_trunk_57b2b7f8:
+
+    # li "Okay, it kinda does... is it that bad?"
+    li "Bon... Si... Un peu... C'est si grave que ça ?"
+
+# game/v1/scene47.rpy:524
+translate francais v1s47_trunk_ca6c27fe:
+
+    # li "Got 'em."
+    li "Je les ai."
+
+# game/v1/scene47.rpy:556
+translate francais v1s47_driver_0c9b9a9e:
+
+    # li "I have a lollipop! Should I like... suck on it?"
+    li "J'ai une sucette ! Est-ce que je devrais genre... la mettre dans la bouche ?"
+
+# game/v1/scene47.rpy:562
+translate francais v1s47_driver_6c903c30:
+
+    # u "Is that even a question? Yeah, stick it in your mouth."
+    u "C'est vraiment une question ? Vas-y, mets-la dans ta bouche."
+
+# game/v1/scene47.rpy:565
+translate francais v1s47_driver_446b2b36:
+
+    # u "Um... yes. That'd be a good idea."
+    u "Hum... oui. Ça pourrait être une bonne idée."
+
+# game/v1/scene47.rpy:570
+translate francais v1s47_driver_7a01e260:
+
+    # u "Holy shit, Linds... I wouldn't be able to turn down an offer like that."
+    u "Putain de merde, Linds... Je serais également incapable de refuser une telle offre."
+
+# game/v1/scene47.rpy:580
+translate francais v1s47_driver_07fd23cd:
+
+    # u "Eh... not anymore. Please don't say that ever again."
+    u "Euh... plus maintenant. S'te plaît, me dis plus jamais ça."
+
+# game/v1/scene47.rpy:590
+translate francais v1s47_driver_1ec945c3:
+
+    # u "Thanks!"
+    u "Merci !"
+
+# game/v1/scene47.rpy:624
+translate francais v1s47_driver_7bd24192:
+
+    # li "Ha, um... pretty sure the action happens in the back seat."
+    li "Je, hum... En fait... Je suis presque sûre que l'action se passe sur le siège arrière."
+
+# game/v1/scene47.rpy:629
+translate francais v1s47_driver_cab2a430:
+
+    # u "Oh?"
+    u "Ah ?"
+
+# game/v1/scene47.rpy:644
+translate francais v1s47_driver_f507b09a:
+
+    # li "Oh, me? No, no."
+    li "Oh, moi ? Non, non."
+
+# game/v1/scene47.rpy:704
+translate francais v1s47_passenger_8586b77a:
+
+    # li "Damn, okay, Mr. Photography..."
+    li "Bon, ok Mr Le-Photographe..."
+
+# game/v1/scene47.rpy:721
+translate francais v1s47_passenger_4f15c423:
+
+    # li "Alrighty... anymore?"
+    li "Très bien... Tu veux en prendre d'autres ?"
+
+# game/v1/scene47.rpy:731
+translate francais v1s47_passenger_52395bf0:
+
+    # u "Just... Stand there and look pretty or something."
+    u "Contente-toi de... rester là et d'être belle ou un truc du genre."
+
+# game/v1/scene47.rpy:741
+translate francais v1s47_passenger_41728693:
+
+    # u "Ha, sorry. You look great no matter what, so it doesn't matter."
+    u "Haha, désolé. T'es superbe quoi qu'il arrive, ça n'a pas d'importance."
+
+# game/v1/scene47.rpy:746
+translate francais v1s47_passenger_57412f2f:
+
+    # li "Well, thank you. I just hope the buyers think the same thing."
+    li "Oh, merci. J'espère simplement que les acheteurs penseront la même chose."
+
+# game/v1/scene47.rpy:763
+translate francais v1s47_passenger_4f15c423_1:
+
+    # li "Alrighty... anymore?"
+    li "Très bien... Tu veux en prendre d'autres ?"
+
+# game/v1/scene47.rpy:774
+translate francais v1s47_passenger_b22719a8:
+
+    # u "Whoa! We have a photo-bombing bird!"
+    u "Wouah ! On a un oiseau qui fait des photos-bombes !"
+
+# game/v1/scene47.rpy:776
+translate francais v1s47_passenger_a8162698:
+
+    # li "Ha, wow... he's looking right at the camera!"
+    li "Ha, wow... Il regarde droit vers l'objectif !"
+
+# game/v1/scene47.rpy:786
+translate francais v1s47_passenger_caeaad89:
+
+    # li "Hmm... maybe the animal lovers will like it?"
+    li "Hmm... Les amoureux des animaux vont peut-être aimer ça ?"
+
+# game/v1/scene47.rpy:815
+translate francais v1s47_passenger_1a6449c3:
+
+    # u "Ha!"
+    u "Oh !"
+
+# game/v1/scene47.rpy:837
+translate francais v1s47_passenger_4f15c423_2:
+
+    # li "Alrighty... anymore?"
+    li "Très bien... Tu veux en prendre d'autres ?"
+
+# game/v1/scene47.rpy:845
+translate francais v1s47_passenger_cc8bfd20:
+
+    # u "Yeah, Linds. A crazy bird lady might buy the car simply because he's sitting on it."
+    u "Ouais, Linds. Une folle des oiseaux pourrait acheter la voiture juste parce qu'il est posé dessus."
+
+# game/v1/scene47.rpy:863
+translate francais v1s47_passenger_4f15c423_3:
+
+    # li "Alrighty... anymore?"
+    li "Très bien... Tu veux en prendre d'autres ?"
+
+# game/v1/scene47.rpy:879
+translate francais v1s47_end_dc805d13:
+
+    # u "Alright. That's every angle of Grandpa's Wagon, I think."
+    u "Super. Je crois qu'on a eu tous les angles de la Wagen de Papy."
+
+# game/v1/scene47.rpy:884
+translate francais v1s47_end_8bf45733:
+
+    # li "Great."
+    li "Génial."
+
+# game/v1/scene47.rpy:895
+translate francais v1s47_end_1ee00a3f:
+
+    # u "We can let them think that all the way up until their money hits your bank account. Then we'll just ghost 'em."
+    u "On peut les laisser penser ce qu'ils veulent jusqu'à ce que leur argent arrive sur ton compte en banque. Ensuite, on les ghostera."
+
+# game/v1/scene47.rpy:900
+translate francais v1s47_end_e50ec230:
+
+    # li "[name]!"
+    li "[name] !"
+
+# game/v1/scene47.rpy:910
+translate francais v1s47_end_d6cf6058:
+
+    # li "Well, just... don't say it out loud like that."
+    li "Juste... Ne le dis pas comme ça, à voix haute."
+
+# game/v1/scene47.rpy:915
+translate francais v1s47_end_887286e2:
+
+    # u "Okay, sure."
+    u "Oui, bien sûr."
+
+# game/v1/scene47.rpy:926
+translate francais v1s47_end_54edcb8e:
+
+    # li "*Sighs* Me too. Hopefully we can sell it to anyone at all, if not the perfect buyer."
+    li "*Soupirs* Moi aussi. Espérons que nous réussirons tout simplement à la vendre, Même si ce n'est pas le parfait acheteur."
+
+# game/v1/scene47.rpy:961
+translate francais v1s47_end_d8701d91:
+
+    # li "Not right now, no."
+    li "Pas là, non."
+
+# game/v1/scene47.rpy:971
+translate francais v1s47_end_bd9cc439:
+
+    # u "Bye, big chunk of metal!"
+    u "Au revoir, le gros tas de ferraille !"
+
+# game/v1/scene47.rpy:986
+translate francais v1s47_end_e96e4017:
+
+    # li "A special one."
+    li "C'est spécial."

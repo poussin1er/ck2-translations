@@ -844,3 +844,142 @@ translate francais v1s51Chloe_PhoneContinue_bccb21a3:
 
     # li "*Whispers* I'm sure I can get it open, this is crazy!"
     li "*Chuchote* C'est fou, je suis sûre de pouvoir l'ouvrir !"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene51.rpy:53
+translate francais v1s51_bedside_table_6995d0eb:
+
+    # u "(Pretty basic bedside table for a woman... wonder how often she uses that thing... let's search somewhere else.)"
+    u "(Une table de chevet plutôt basique pour une femme... Je me demande si elle l'utilise souvent... Cherchons ailleurs.)"
+
+# game/v1/scene51.rpy:106
+translate francais v1s51_desk_drawer_0813f31c:
+
+    # u "(A list of Chloe's passwords... this could probably help Lindsey in some way, but I'm not comfortable with something like that.)"
+    u "(Une liste de tous les mots de passe de Chloé.... Ça pourrait peut-être aider Lindsey d'une certaine façon, mais je suis pas à l'aise avec quelque chose comme ça.)"
+
+# game/v1/scene51.rpy:150
+translate francais v1s51_closet_a273e5e5:
+
+    # u "(Jackpot! That's $500, baby!)"
+    u "(Jackpot ! Ça fait 500 dollars, bébé ! *Rires*)"
+
+# game/v1/scene51.rpy:152
+translate francais v1s51_closet_81868e32:
+
+    # u "(Jackpot! That's $900, baby!)"
+    u "(Jackpot ! Ça fait 900 dollars, bébé ! *Rires*)"
+
+# game/v1/scene51.rpy:278
+translate francais v1s51_pillow_a9382bc8:
+
+    # u "Hey, man. You don't have a secret camera in your eye, do you?"
+    u "Hé, mec. Me dis pas que t'as une caméra secrète dans ton œil, hein ?"
+
+# game/v1/scene51.rpy:300
+translate francais v1s51_pillow_9d7d5cd3:
+
+    # u "(Chloe's diary... shit. I wonder what secrets are waiting to be found in here.)"
+    u "(Merde... Le journal intime de Chloé. Je me demande quels secrets attendent d'être découverts là-dedans.)"
+
+# game/v1/scene51.rpy:302
+translate francais v1s51_pillow_129d3375:
+
+    # u "(It's locked, but I'm sure it wouldn't be too hard to open, and Lindsey could find something useful to help her win.)"
+    u "(Il est fermé à clé mais je suis sûre qu'il doit pas être trop difficile à ouvrir, du coup Lindsey pourrait trouver quelque chose d'utile pour l'aider à gagner.)"
+
+# game/v1/scene51.rpy:304
+translate francais v1s51_pillow_76d99f04:
+
+    # u "(But this contains all of Chloe's secrets... should I take it?)"
+    u "(Mais ça contient tous les secrets de Chloé... Dois-je le prendre ?)"
+
+# game/v1/scene51.rpy:322
+translate francais v1s51_pillow_74c34afd:
+
+    # u "(There's going to be some extremely private things in here... it's best if I leave it.)"
+    u "(Il va y avoir des choses extrêmement privées là-dedans.... Je préfère le laisser.)"
+
+# game/v1/scene51.rpy:551
+translate francais v1s51_continue_463fe45a:
+
+    # unknown "Ow, fuck! My toe! *Whines* Damn you, shampoo..."
+    unknown "Aïe, Putain ! Mon orteil ! *Gémis* Va te faire foutre, shampooing de..."
+
+# game/v1/scene51.rpy:685
+translate francais v1s51Chloe_PhoneContinue_24057a0f:
+
+    # u "*Whispers* Oh shit is right."
+    u "*Chuchote* Oh merde t'as raison."
+
+# game/v1/scene51.rpy:712
+translate francais v1s51Chloe_PhoneContinue_84e77792:
+
+    # li "*Whispers* I'm glad you survived."
+    li "*Chuchote* Je suis contente que tu aies survécu."
+
+# game/v1/scene51.rpy:733
+translate francais v1s51Chloe_PhoneContinue_1fe05248:
+
+    # li "*Whispers* I'm proud of you."
+    li "*Chuchote* Je suis fière de toi."
+
+# game/v1/scene51.rpy:754
+translate francais v1s51Chloe_PhoneContinue_1ad9c34d:
+
+    # li "*Whispers* I know, yeah... my campaign is really going to suffer without that money."
+    li "*Chuchote* Je sais, ouais... Ma campagne va vraiment souffrir sans cet argent."
+
+# game/v1/scene51.rpy:774
+translate francais v1s51Chloe_PhoneContinue_253b0bab:
+
+    # li "*Whispers* True. That's a great idea, [name]. Thanks for getting this, at least. Really sucks about the money, though."
+    li "*Chuchote* C'est vrai. C'est une excellente idée, [name]. Merci d'avoir obtenu au moins ça. Mais ça craint vraiment pour l'argent."
+
+# game/v1/scene51.rpy:781
+translate francais v1s51Chloe_PhoneContinue_ae49f2f9:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Chuchote* Il faut vraiment que je rentre à la maison, là. Je suis un peu fatigué."
+
+# game/v1/scene51.rpy:805
+translate francais v1s51Chloe_PhoneContinue_15988bd5:
+
+    # u "*Whispers* I don't know what to say. I did my best... I'm sorry."
+    u "*Chuchote* Je sais pas quoi dire. J'ai fait de mon mieux... Je suis désolé."
+
+# game/v1/scene51.rpy:817
+translate francais v1s51Chloe_PhoneContinue_ae49f2f9_1:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Chuchote* Il faut vraiment que je rentre à la maison, là. Je suis un peu fatigué."
+
+# game/v1/scene51.rpy:851
+translate francais v1s51Chloe_PhoneContinue_a80c446e:
+
+    # li "*Whispers* Of course!"
+    li "*Chuchote* Bien sûr !"
+
+# game/v1/scene51.rpy:864
+translate francais v1s51Chloe_PhoneContinue_440fb94f:
+
+    # li "*Whispers* What's that... wait, Chloe's... diary?"
+    li "*Chuchote* Qu'est-ce que... Attends, le... journal intime de Chloé ?"
+
+# game/v1/scene51.rpy:869
+translate francais v1s51Chloe_PhoneContinue_0224825d:
+
+    # u "*Whispers* Yeah. You might find something useful there, but it's locked."
+    u "*Chuchote* Ouais. Tu pourrais y trouver quelque chose d'utile, mais il est fermé à clé."
+
+# game/v1/scene51.rpy:874
+translate francais v1s51Chloe_PhoneContinue_73adc116:
+
+    # li "*Whispers* I'm sure I can get it open. This is crazy!"
+    li "*Chuchote* C'est fou, je suis sûre de pouvoir l'ouvrir !"
+
+# game/v1/scene51.rpy:889
+translate francais v1s51Chloe_PhoneContinue_bb53a663:
+
+    # u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that action."
+    u "*Chuchote* Bon, je ferais mieux de rentrer chez moi. Je commence à être un peu fatigué après tout ça."

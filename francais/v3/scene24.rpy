@@ -11,3 +11,10 @@ translate francais v3s24_90419d81:
 
     # u "(I'm not sure how long it'll be before Amber ends up hitting one of those creeps... But I hope I'm there to see it when it happens!)"
     u "(Je sais pas combien de temps il va se passer avant qu'Amber finisse par défoncer un de ces minables.... Mais j'espère être là pour voir ça, quand ça arrivera !)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene24.rpy:24
+translate francais v3s24_58897b11:
+
+    # u "(I'm not sure how long it'll be before Amber ends up hitting one of those creeps... but I hope I'm there to see it when it happens!)"
+    u "(Je sais pas combien de temps il va se passer avant qu'Amber finisse par défoncer un de ces minables.... Mais j'espère être là pour voir ça, quand ça arrivera !)"

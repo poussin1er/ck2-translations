@@ -17,3 +17,10 @@ translate francais v3s53_PhoneContinueReply_b7e1bc9a:
 
     # u "(Well, that wasn't very hard...)"
     u "(Bon, c'était pas très compliqué...)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene53.rpy:12
+translate francais v3s53_84393ae7:
+
+    # u "(The Dean coming in to psychologically kick that trucker in the nuts and adopt Oscar like that... it really made my day.)"
+    u "(Le fait de voir la Doyenne frapper psychologiquement ce camionneur dans les couilles et qui adopte Oscar comme ça, a vraiment fait ma journée.)"

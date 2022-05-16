@@ -383,3 +383,160 @@ translate francais v1s42_e753f65c:
 
     # u "(Finally...)"
     u "(Enfin...)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene42.rpy:18
+translate francais v1s42_66495e60:
+
+    # u "How come?"
+    u "Comment ça ?"
+
+# game/v1/scene42.rpy:23
+translate francais v1s42_85692dea:
+
+    # pe "I just love sleepovers, honestly, and I'm kind of a sucker for cuddling."
+    pe "Honnêtement, j'adore les soirées pyjama et je raffole des câlins."
+
+# game/v1/scene42.rpy:28
+translate francais v1s42_7e69d5d9:
+
+    # u "You and me both."
+    u "Toi et moi."
+
+# game/v1/scene42.rpy:43
+translate francais v1s42_5ebea414:
+
+    # pe "You're gonna make me blush..."
+    pe "Tu vas me faire rougir."
+
+# game/v1/scene42.rpy:58
+translate francais v1s42_5acd95b4:
+
+    # pe "Good."
+    pe "Bien."
+
+# game/v1/scene42.rpy:98
+translate francais v1s42_4e96ccf4:
+
+    # u "You... you look amazing!"
+    u "Tu... Tu es magnifique !"
+
+# game/v1/scene42.rpy:103
+translate francais v1s42_fe2644e3:
+
+    # pe "Oh, stop it. I do not."
+    pe "Oh arrête, c'est pas vrai !"
+
+# game/v1/scene42.rpy:108
+translate francais v1s42_f6e4cd4c:
+
+    # u "Yes, you really do. I was speechless there for a sec."
+    u "Si, tu l'est vraiment. Je suis resté sans voix pendant quelques secondes."
+
+# game/v1/scene42.rpy:113
+translate francais v1s42_d7aa64a1:
+
+    # pe "Hmm... well, thank you."
+    pe "Hmm... Eh bien, je te remercie."
+
+# game/v1/scene42.rpy:143
+translate francais v1s42_b4637143:
+
+    # pe "Laying in bed, snuggled up to a guy that I actually like..."
+    pe "Là, au lit, blottie contre un mec que j'aime beaucoup..."
+
+# game/v1/scene42.rpy:145
+translate francais v1s42_78738860:
+
+    # pe "Every guy in the past just... wasn't what I needed. It seemed like those were the only kinds of guys I could get, though."
+    pe "Tous les mecs du passé n'étaient tout simplement... pas ce dont j'avais besoin. J'avais même l'impression qu'ils étaient le seul type de mecs que je pouvais avoir."
+
+# game/v1/scene42.rpy:170
+translate francais v1s42_46146982:
+
+    # u "What type of guys do you like laying next to?"
+    u "À côté de quel type de mec aimes-tu t'allonger ?"
+
+# game/v1/scene42.rpy:180
+translate francais v1s42_32e6f1af:
+
+    # u "Okay. Do go on."
+    u "Ok. Vas-y."
+
+# game/v1/scene42.rpy:200
+translate francais v1s42_6b33e111:
+
+    # u "Ha, sorry. Just marking off the list."
+    u "Haha, désolé. Je fais juste des croix sur ma liste."
+
+# game/v1/scene42.rpy:220
+translate francais v1s42_71909de3:
+
+    # pe "Me too. I could get used to this..."
+    pe "Moi aussi. Je pourrais m'y habituer..."
+
+# game/v1/scene42.rpy:263
+translate francais v1s42_10197f9c:
+
+    # la "Sorry, babe... I'm sure I woke you but, I just had the most amazing experience!"
+    la "Désolée, bébé... Je pense que je t'ai réveillé mais, je viens de vivre une expérience incroyable !"
+
+# game/v1/scene42.rpy:273
+translate francais v1s42_804d26fd:
+
+    # la "Don't laugh, but..."
+    la "Ne ris pas mais..."
+
+# game/v1/scene42.rpy:286
+translate francais v1s42_67f14363:
+
+    # la "Honestly, I... I just want to keep going."
+    la "Sincèrement, je... J'ai vraiment envie de recommencer."
+
+# game/v1/scene42.rpy:291
+translate francais v1s42_5d61fd8f:
+
+    # u "Wow. Well, I'm happy for you. You survived all that porn without going for it even sooner?"
+    u "Wow. Je suis heureux pour toi. T'as survécu à tout ce porno sans chercher à le faire plus tôt ?"
+
+# game/v1/scene42.rpy:296
+translate francais v1s42_c354dace:
+
+    # la "Believe it or not, yes. This was my first time."
+    la "Crois-le ou non, non. C'était ma première fois."
+
+# game/v1/scene42.rpy:303
+translate francais v1s42_d8cd7bed:
+
+    # u "(\"There's a first time for everything?\" The fuck am I on about? I need sleep...)"
+    u "(\"Il y a une première fois pour tout\", C'est quoi ces conneries ? J'ai vraiment besoin de dormir...)"
+
+# game/v1/scene42.rpy:308
+translate francais v1s42_29d47e08:
+
+    # la "Yeah, I guess there is..."
+    la "Ouais, je crois que oui..."
+
+# game/v1/scene42.rpy:340
+translate francais v1s42_139d1c63:
+
+    # la "Ha, go to sleep. I'll talk to you tomorrow, handsome."
+    la "Haha, rendors-toi mon beau. On se parle demain."
+
+# game/v1/scene42.rpy:350
+translate francais v1s42_57623e41:
+
+    # la "Yup! Goodnight. I'll keep my late night adventures to myself for now."
+    la "Ouaip ! Bonne nuit. Je vais garder mes aventures nocturnes pour moi, pour l'instant."
+
+# game/v1/scene42.rpy:383
+translate francais v1s42_c21263a4:
+
+    # u "Good to hear. Most importantly, what did you wanna call and tell me?"
+    u "C'est bon à savoir. Le plus important, c'est que tu voulais m'appeler et me raconter, c'est ça ?"
+
+# game/v1/scene42.rpy:403
+translate francais v1s42_d610591b:
+
+    # u "You will. Goodnight, babe."
+    u "Oui bien sûr, bonne nuit bébé."

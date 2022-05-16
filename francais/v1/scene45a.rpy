@@ -559,3 +559,226 @@ translate francais strings:
     # game/v1/scene45a.rpy:162
     old "Be supportive"
     new "Sois solidaire"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene45a.rpy:18
+translate francais v1s45a_cfc34a17:
+
+    # am "I just, uh... I quit my job at Lew's."
+    am "J'ai euh... j'ai démissionné de mon travail chez Lew's."
+
+# game/v1/scene45a.rpy:21
+translate francais v1s45a_246d62d4:
+
+    # am "Guess you can't tease me about it anymore, ha."
+    am "Tu vas plus pouvoir me taquiner là-dessus, haha."
+
+# game/v1/scene45a.rpy:31
+translate francais v1s45a_39040a22:
+
+    # am "Just tired of it, honestly... it's not fun."
+    am "J'en avais marre, vraiment... C'était pas vraiment fun."
+
+# game/v1/scene45a.rpy:38
+translate francais v1s45a_70cbb385:
+
+    # u "(Like, a stripper?)"
+    u "(Genre stripteaseuse ?)"
+
+# game/v1/scene45a.rpy:56
+translate francais v1s45a_4d1b616e:
+
+    # am "Really? You're cool with it? I mean, I know how it sounds at first, but-"
+    am "Sérieux ? T'es tranquille avec ça ? Enfin, je vois à quoi ça pourrait faire penser au début mais-"
+
+# game/v1/scene45a.rpy:66
+translate francais v1s45a_fc266f00:
+
+    # am "Wow. Thank you."
+    am "Waouh. Merci."
+
+# game/v1/scene45a.rpy:85
+translate francais v1s45a_001084ac:
+
+    # am "Ugh... I knew you'd say that. It's not a stripper, it's-"
+    am "Argh... J'savais que tu dirais ça. C'est pas \"stripteaseuse\", c'est..."
+
+# game/v1/scene45a.rpy:95
+translate francais v1s45a_274ea181:
+
+    # am "Regardless of what you call it, I'm doing it 'cause I want to. I didn't think I needed anyone's permission to do that."
+    am "Quelque soit le nom que tu lui donnes, j'le fais parce que je le veux. J'imaginais pas avoir besoin de la permission de quiconque pour le faire."
+
+# game/v1/scene45a.rpy:100
+translate francais v1s45a_a540c76e:
+
+    # u "You don't, but... you had a good, solid job and you're throwing it away for this?"
+    u "T'a pas besoin de ma permission, mais... Tu avais un bon travail stable et tu le lâches pour ça ?"
+
+# game/v1/scene45a.rpy:105
+translate francais v1s45a_fd72d02e:
+
+    # am "I wasn't happy at Lew's and this dancing job... it seems like something I'll enjoy."
+    am "J'étais pas heureuse chez Lew's et ce travail de danseuse... A l'air d'être quelque chose qui me plairait."
+
+# game/v1/scene45a.rpy:120
+translate francais v1s45a_44f47f9a:
+
+    # u "I know."
+    u "Je sais."
+
+# game/v1/scene45a.rpy:125
+translate francais v1s45a_ba777989:
+
+    # am "Oh, [name]..."
+    am "Oh, [name]..."
+
+# game/v1/scene45a.rpy:148
+translate francais v1s45a_ac1797bc:
+
+    # u "Wait... the same manager that was being a dick to you that one day?"
+    u "Attends... Le même manager qui s'est comporté comme un con avec toi la dernière fois ?"
+
+# game/v1/scene45a.rpy:153
+translate francais v1s45a_e17e4a9a:
+
+    # am "Yeah! That's the one."
+    am "Ouais, lui-même."
+
+# game/v1/scene45a.rpy:155
+translate francais v1s45a_7230f7cd:
+
+    # am "Turns out that he was just seeing how much bullshit I could take. He thinks I could stay with the company long-term. If I wanted to, of course."
+    am "En fait, il a simplement voulu voir combien de conneries je pouvais supporter. Il pense que je pourrais rester dans la compagnie à long terme. Si je le voulais, bien sûr."
+
+# game/v1/scene45a.rpy:173
+translate francais v1s45a_922189c6:
+
+    # u "Should I call you ma'am now, when I stop by?"
+    u "Je devrais t'appeler M'dame, quand je passerai te voir, maintenant ?"
+
+# game/v1/scene45a.rpy:178
+translate francais v1s45a_e10d976a_1:
+
+    # am "You're an ass, you know that?"
+    am "T'es un vrai con, tu sais ?"
+
+# game/v1/scene45a.rpy:183
+translate francais v1s45a_0bda206e:
+
+    # u "I learned from the best, though."
+    u "Pourtant, j'ai appris de la meilleure."
+
+# game/v1/scene45a.rpy:188
+translate francais v1s45a_238da308:
+
+    # am "Okay, dickhead..."
+    am "Ok tête de nœud..."
+
+# game/v1/scene45a.rpy:195
+translate francais v1s45a_166c69d0:
+
+    # u "Oh, wow. I'm scared."
+    u "Oh waouh. J'ai peur."
+
+# game/v1/scene45a.rpy:213
+translate francais v1s45a_262c3c9c:
+
+    # u "You're really on the right track, I think. At this rate, I'll be asking you for a job at Lew's one day."
+    u "Je pense que t'es vraiment sur la bonne voie. À ce rythme, un jour, je te demanderai un travail chez Lew's."
+
+# game/v1/scene45a.rpy:218
+translate francais v1s45a_d6364cb3:
+
+    # am "Ha, thanks."
+    am "Oh, merci."
+
+# game/v1/scene45a.rpy:247
+translate francais v1s45a_7595087b:
+
+    # am "You're, like, a blanket."
+    am "T'es comme une couverture."
+
+# game/v1/scene45a.rpy:252
+translate francais v1s45a_8f7faf82:
+
+    # u "Uh... oh. Well, thank you?"
+    u "Oh, heu... merci ?"
+
+# game/v1/scene45a.rpy:257
+translate francais v1s45a_f5db7690:
+
+    # am "I mean, like... you're nice and warm, like a blanket that wraps me up tight and makes me feel safe."
+    am "Je veux dire, comme... T'es gentil et chaleureux, comme une couverture qui m'enveloppe et me fait me sentir en sécurité."
+
+# game/v1/scene45a.rpy:262
+translate francais v1s45a_6357f30b:
+
+    # u "(That's the cutest thing I've ever heard.)"
+    u "(c'est la chose la plus mignonne que j'ai jamais entendue.)"
+
+# game/v1/scene45a.rpy:267
+translate francais v1s45a_913683ef:
+
+    # am "A security blanket... whether I'm fucking it all up or doing things perfectly, at the end of the day you've still got me feeling safe and warm."
+    am "Une couverture de sécurité... Que tu foutes tout en l'air ou que tu fasses les choses parfaitement, à la fin de la journée, j'me sens toujours en sécurité et réchauffée."
+
+# game/v1/scene45a.rpy:295
+translate francais v1s45a_d0b98913:
+
+    # am "I do, and... it takes a lot for me to say that, so don't take it lightly."
+    am "Oui vraiment. Et... Il m'a fallu beaucoup de temps pour te dire ça, alors prends pas ces mots à la légère."
+
+# game/v1/scene45a.rpy:300
+translate francais v1s45a_c43a9f09:
+
+    # u "I won't. I promise. Thank you for saying that."
+    u "Ça risque pas. Je te promets. Merci de m'avoir dit ça."
+
+# game/v1/scene45a.rpy:330
+translate francais v1s45a_09ccb4ac:
+
+    # u "Sounds perfect."
+    u "Ça m'a l'air parfait."
+
+# game/v1/scene45a.rpy:370
+translate francais v1s45a_cfea60a3:
+
+    # am "Hell yeah. I'm out of here on a high note."
+    am "Putain ouais. Je vais partir sur une bonne note."
+
+# game/v1/scene45a.rpy:377
+translate francais v1s45a_4177f1f2:
+
+    # u "Sounds like a plan."
+    u "Quand tu veux."
+
+# game/v1/scene45a.rpy:464
+translate francais v1s45a_PhoneContinue_c1a53fcb:
+
+    # u "Yeah, yeah... I was just testing you."
+    u "Ouais, ouais... Je voulais juste te tester."
+
+# game/v1/scene45a.rpy:466
+translate francais v1s45a_PhoneContinue_e7b40095:
+
+    # u "Call me in five. I'm gonna start heading over..."
+    u "Appelle-moi dans cinq minutes, je vais me mettre en route..."
+
+# game/v1/scene45a.rpy:526
+translate francais v1s45a_PhoneContinue_e3f513b0:
+
+    # u "I was just there, actually."
+    u "En fait, j'y étais tout à l'heure."
+
+# game/v1/scene45a.rpy:563
+translate francais v1s45a_PhoneContinue_164fa10c:
+
+    # u "Uh-huh..."
+    u "Oh-heu..."
+
+# game/v1/scene45a.rpy:568
+translate francais v1s45a_PhoneContinue_ce42f6b4:
+
+    # li "See you soon."
+    li "À tout de suite."

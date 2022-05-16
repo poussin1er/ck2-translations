@@ -632,3 +632,202 @@ translate francais v1s20_01d95b70:
 
     # aut "So, I might shoot you a text on Friday and see if you're free? To help at the shelter on Saturday?"
     aut "Alors, je pourrais t'envoyer un SMS vendredi et voir si tu es libre, pour aider au refuge le samedi ?"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene20.rpy:42
+translate francais v1s20_64fa8ed7:
+
+    # aut "I'm not kidnapping you, I swear."
+    aut "Je ne vais pas te kidnapper, je te le jure."
+
+# game/v1/scene20.rpy:47
+translate francais v1s20_ef004f4a:
+
+    # u "That's what a kidnapper would say."
+    u "C'est ce que dirait un kidnappeur."
+
+# game/v1/scene20.rpy:52
+translate francais v1s20_7f2eeff8:
+
+    # aut "Not a very good one."
+    aut "Pas un très bon."
+
+# game/v1/scene20.rpy:57
+translate francais v1s20_717aa8af:
+
+    # u "Ha. So, what are you handing out candy for?"
+    u "Haha. Alors, pourquoi est-ce que tu distribues des bonbons ?"
+
+# game/v1/scene20.rpy:82
+translate francais v1s20_bbee72b0:
+
+    # aut "We didn't, really. We just had some major renovations and they also renamed the place."
+    aut "Ce n'est pas vraiment le cas. On a juste fait de grosses rénovations et ils ont aussi renommé les locaux."
+
+# game/v1/scene20.rpy:98
+translate francais v1s20_69d24fa3:
+
+    # aut "Oh, wow, I can't believe I didn't ask! How was the trip?"
+    aut "Oh, wow, je n'arrive pas à croire que j'ai oublié de te demander ! Comment s'est passé le voyage ?"
+
+# game/v1/scene20.rpy:127
+translate francais v1s20_ea85db15:
+
+    # aut "Lauren definitely enjoyed it. She told me about some of the things she did with Amber, and... I can tell she had a big influence on her."
+    aut "Lauren a vraiment apprécié. Elle m'a parlé de certaines des choses qu'elle a faites avec Amber, et... Je peux dire qu'elle a eu une grande influence sur elle."
+
+# game/v1/scene20.rpy:138
+translate francais v1s20_568c4fc8:
+
+    # aut "She's definitely loosened up since you guys returned and I'm sure Amber had much to do with that."
+    aut "Elle s'est vraiment détendue depuis votre retour et je suis sûre qu'Amber y est pour beaucoup."
+
+# game/v1/scene20.rpy:143
+translate francais v1s20_dc5cf9fa:
+
+    # u "Yeah, they seem to get along surprisingly well."
+    u "Ouais, elles avaient l'air de s'entendre étonnamment bien."
+
+# game/v1/scene20.rpy:149
+translate francais v1s20_e84075e9:
+
+    # aut "The whole breakup between you guys seemed to get her to open up."
+    aut "Cette histoire de rupture entre vous a semblé la pousser à s'ouvrir."
+
+# game/v1/scene20.rpy:154
+translate francais v1s20_3164d393:
+
+    # aut "She didn't go into detail about what happened but she said you guys are still friends, so I'm not that concerned."
+    aut "Elle n'a pas donné de détails sur ce qui s'est passé, mais elle a dit que vous étiez toujours amis, donc je ne suis pas vraiment inquiète."
+
+# game/v1/scene20.rpy:159
+translate francais v1s20_01c60b99:
+
+    # u "It definitely wasn't a good day. Not proud of some of the decisions I made. But we're still there for each other."
+    u "C'était vraiment pas une bonne journée. Je suis pas fier de certaines des décisions que j'ai prises, mais on est toujours là les uns pour les autres."
+
+# game/v1/scene20.rpy:164
+translate francais v1s20_11031497:
+
+    # aut "I'm glad to hear that. My sister's first real boyfriend wasn't a complete dickhead... Phew!"
+    aut "Je suis contente d'entendre ça. Le premier vrai petit ami de ma sœur n'est pas complètement une tête de noeud... Ouf !"
+
+# game/v1/scene20.rpy:242
+translate francais v1s20_c71c28a2:
+
+    # aut "Keep at it."
+    aut "Continue comme ça."
+
+# game/v1/scene20.rpy:248
+translate francais v1s20_ae23bf95:
+
+    # u "Amber is a wild card. We all definitely have fun with her, there's no doubt about that."
+    u "Amber est un joker, on s'amuse tous vraiment beaucoup avec elle. Il n'y a aucun doute là-dessus."
+
+# game/v1/scene20.rpy:260
+translate francais v1s20_129a46ae:
+
+    # aut "I definitely get what you're saying."
+    aut "Je comprends tout à fait ce que tu dis."
+
+# game/v1/scene20.rpy:270
+translate francais v1s20_71f5d3ee:
+
+    # aut "I'm glad to hear that. But I don't worry much about her anymore. She's become very independent since the start of the semester."
+    aut "Je suis heureuse de savoir ça. Mais, je ne m'inquiète plus beaucoup pour elle. Elle est devenue très indépendante depuis le début du semestre."
+
+# game/v1/scene20.rpy:291
+translate francais v1s20_5294f634:
+
+    # aut "It is now, ha..."
+    aut "Maintenant oui..."
+
+# game/v1/scene20.rpy:306
+translate francais v1s20_5320059b:
+
+    # u "How? You look nothing alike and your personalities are black and white."
+    u "De quelle façon ? Vous ne vous ressemblez pas du tout et vos personnalités sont bien différentes."
+
+# game/v1/scene20.rpy:321
+translate francais v1s20_26ba3ee1:
+
+    # aut "It's so weird but, you remind me of my childhood friend, Hero."
+    aut "C'est vraiment bizarre, tu me rappelles mon ami d'enfance, Héro."
+
+# game/v1/scene20.rpy:331
+translate francais v1s20_9cf0ac44:
+
+    # aut "Yes! We also thought it was a unique name, at least at first. Cool, huh?"
+    aut "Oui ! On pensait aussi que c'était un nom original, au début en tout cas. Cool, hein ?"
+
+# game/v1/scene20.rpy:336
+translate francais v1s20_b7a1f56f:
+
+    # u "Hell yeah it's cool. No one else is named that."
+    u "Putain ouais, c'est cool. Personne d'autre ne porte ce nom."
+
+# game/v1/scene20.rpy:341
+translate francais v1s20_80be7c83:
+
+    # aut "His parents used to say they knew he'd never be mistaken for someone else and that's why they liked the name."
+    aut "Ses parents disaient qu'ils savaient qu'il ne serait jamais confondu avec quelqu'un d'autre et c'est pour ça qu'ils aimaient ce nom."
+
+# game/v1/scene20.rpy:351
+translate francais v1s20_731abf72:
+
+    # aut "Which obviously crushed their spirits. But magically, one day his mother was pregnant and nine months later came their hero."
+    aut "Ce qui a évidemment brisé leur moral. Mais comme par magie, un jour sa mère est tombée enceinte et neuf mois plus tard est né leur héro."
+
+# game/v1/scene20.rpy:366
+translate francais v1s20_e21eb58c:
+
+    # u "You know, I don't think I've ever seen you hang out with anyone."
+    u "Tu sais, je me souviens pas t'avoir déjà vue sortir avec quelqu'un."
+
+# game/v1/scene20.rpy:391
+translate francais v1s20_8da77cb8:
+
+    # aut "Well, I had a friend. The one I just told you about: Hero."
+    aut "Eh bien, j'avais un ami. Celui dont je viens de te parler... Héro."
+
+# game/v1/scene20.rpy:401
+translate francais v1s20_1211b891:
+
+    # aut "Oh, fuck no. Excuse my language. But, he and I had a pretty bad falling out."
+    aut "Oh, putain non. Excuse mon langage. Mais, lui et moi avons eu une dispute assez grave."
+
+# game/v1/scene20.rpy:406
+translate francais v1s20_246b6137:
+
+    # u "Over what? Wait, sorry. If you don't want to talk about this..."
+    u "À quel sujet ? Attends, je suis désolé si tu voulais pas parler de ça."
+
+# game/v1/scene20.rpy:416
+translate francais v1s20_dad8a917:
+
+    # u "I understand completely."
+    u "D'accord, je comprends."
+
+# game/v1/scene20.rpy:426
+translate francais v1s20_4239041f:
+
+    # aut "You know, it's kind of odd that you and I haven't gotten to know each other very well yet."
+    aut "Tu sais, c'est un peu bizarre que toi et moi n'ayons pas encore appris à mieux nous connaître."
+
+# game/v1/scene20.rpy:444
+translate francais v1s20_5c1936a4:
+
+    # u "We should just hang out more."
+    u "On devrait passer plus de temps ensemble."
+
+# game/v1/scene20.rpy:479
+translate francais v1s20_9984f343:
+
+    # aut "Ha, sounds like you need some more friends too."
+    aut "Haha, on dirait que tu as besoin de plus d'amis toi aussi."
+
+# game/v1/scene20.rpy:508
+translate francais v1s20_ee01f9b9:
+
+    # u "Thanks."
+    u "Merci."

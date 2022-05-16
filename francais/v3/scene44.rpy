@@ -789,3 +789,136 @@ translate francais strings:
     # game/v3/scene44.rpy:594
     old "Don't seize that moment"
     new "Ne saisis pas l'occasion"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene44.rpy:38
+translate francais v3s44_728218e9:
+
+    # la "Ha, yeah, I would give you a little bit more if I didn't have my hands full with this dog."
+    la "Ouais, je t'en aurais donné un peu plus si je n'avais pas les mains prises avec ce chien."
+
+# game/v3/scene44.rpy:43
+translate francais v3s44_c40855fd:
+
+    # u "It's okay."
+    u "T'inquiète."
+
+# game/v3/scene44.rpy:54
+translate francais v3s44_5a689e7b:
+
+    # la "Yeah. That was hot, wasn't it?"
+    la "Ouais. C'était chaud, hein ?"
+
+# game/v3/scene44.rpy:59
+translate francais v3s44_6555a3fa:
+
+    # u "It was. And super risky."
+    u "C'est clair. Et vraiment risqué."
+
+# game/v3/scene44.rpy:69
+translate francais v3s44_1e654cec:
+
+    # u "I never would've guessed you'd do something so... unexpected! Should I be worried you'll try something like that again?"
+    u "J'aurais jamais imaginé que tu ferais quelque chose d'aussi... inattendu ! Je devrais m'inquiéter de savoir si tu vas encore essayer un truc comme ça ?"
+
+# game/v3/scene44.rpy:74
+translate francais v3s44_e4667d79:
+
+    # la "Oh, I guarantee I'll try something again. No more Miss Shy Lauren."
+    la "Oh, je te garantis que je recommencerai à essayer quelque chose. Finie la Miss Lauren timide."
+
+# game/v3/scene44.rpy:108
+translate francais v3s44_4515ae40:
+
+    # u "I have a way with animals. Must be my loving personality."
+    u "J'ai un don avec les animaux. Ça doit être mon côté affectueux."
+
+# game/v3/scene44.rpy:204
+translate francais v3s44_97835f28:
+
+    # la "Wow, look at you, dog whisperer!"
+    la "Wow, regarde-toi, \"l'homme qui murmure à l'oreille des chiens\"."
+
+# game/v3/scene44.rpy:316
+translate francais v3s44_8512c011:
+
+    # la "What? Wait, really?!"
+    la "Quoi ? Attendez, c'est vrai ?!"
+
+# game/v3/scene44.rpy:346
+translate francais v3s44_8b400c2c:
+
+    # u "Ha, yeah. At this rate she'll be asking you to walk all the dogs to the park from now on."
+    u "Super. À ce rythme, elle va te demander d'aller promener tous les chiens au parc maintenant."
+
+# game/v3/scene44.rpy:361
+translate francais v3s44_b1a958f0:
+
+    # la "You're a horrible influence."
+    la "Tu as une horrible influence sur moi."
+
+# game/v3/scene44.rpy:373
+translate francais v3s44_09e5a117:
+
+    # la "A little bit, yeah. It's fine, though."
+    la "Oui, un peu. Mais c'est très bien."
+
+# game/v3/scene44.rpy:452
+translate francais v3s44_83bdddbb:
+
+    # u "And personal therapist."
+    u "Qui sera thérapeute personnel."
+
+# game/v3/scene44.rpy:483
+translate francais v3s44_d02c60c8:
+
+    # u "Ha, no, we'll just follow him for a little bit. Let him choose our path."
+    u "Non, on va juste le suivre un peu. Laisse-le choisir le chemin."
+
+# game/v3/scene44.rpy:540
+translate francais v3s44_2c853fb9:
+
+    # la "You're not wrong..."
+    la "Tu n'as pas tort..."
+
+# game/v3/scene44.rpy:542
+translate francais v3s44_f9a14095:
+
+    # la "Let's head back to the park, I guess."
+    la "Je crois qu'il serait mieux de retourner au parc."
+
+# game/v3/scene44.rpy:724
+translate francais v3s44_0161901f:
+
+    # u "Ha, yeah..."
+    u "Oh, ouais..."
+
+# game/v3/scene44.rpy:726
+translate francais v3s44_799077c2:
+
+    # u "Guess we could have done without the visit to the alleyway."
+    u "Je crois qu'on aurait pu se passer de la visite de la ruelle."
+
+# game/v3/scene44.rpy:741
+translate francais v3s44_c4cf138e:
+
+    # la "Mhmm, okay. At least my shirt's dried off... kind of."
+    la "Mhmm, bon. Au moins, mon t-shirt a séché... en gros."
+
+# game/v3/scene44.rpy:746
+translate francais v3s44_0a32df86:
+
+    # u "Glad to hear it."
+    u "Content de l'apprendre."
+
+# game/v3/scene44.rpy:762
+translate francais v3s44_6cab179d:
+
+    # u "And now, I need to go to the Chicks' house for baby duty."
+    u "Et maintenant, je vais devoir me rendre à la maison des Chicks pour assurer la garde du bébé."
+
+# game/v3/scene44.rpy:790
+translate francais v3s44_b1558a12:
+
+    # u "Yep. I'm gonna be a dad. Must be punishment for my sins."
+    u "Ouaip. Je vais être papa. Ça doit être la punition pour mes péchés."

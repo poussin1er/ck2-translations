@@ -957,3 +957,220 @@ translate francais strings:
     # game/v1/scene23.rpy:255
     old "Disagree"
     new "Ne pas être d'accord"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene23.rpy:37
+translate francais v1s23_cbbe7097:
+
+    # ch "Just enjoying the sunset, is all."
+    ch "Je profite du coucher de soleil, tout simplement."
+
+# game/v1/scene23.rpy:49
+translate francais v1s23_23e8abf8:
+
+    # ch "Sometimes, taking a moment to relax despite having so much shit to do... is what you need to do most."
+    ch "Parfois, le plus important est de prendre un moment pour se détendre malgré le fait que tu as beaucoup de choses à faire."
+
+# game/v1/scene23.rpy:64
+translate francais v1s23_ad9a84a1:
+
+    # u "Ha, maybe."
+    u "Hum, peut-être."
+
+# game/v1/scene23.rpy:86
+translate francais v1s23_864fe889:
+
+    # u "Uh, yeah... how'd you know?"
+    u "Euh, ouais... Comment tu sais ?"
+
+# game/v1/scene23.rpy:103
+translate francais v1s23_c031f697:
+
+    # ch "For some, maybe not. But, when you're dating her biggest enemy, it may be a bit difficult."
+    ch "Pour certains, peut-être pas. Mais quand tu sors avec sa plus grande ennemie, ça peut être un peu plus compliqué."
+
+# game/v1/scene23.rpy:115
+translate francais v1s23_4e2daba0:
+
+    # ch "Supporting Chloe was pretty much the last straw for her. But I live by doing what's right, not what I prefer."
+    ch "Le fait de soutenir Chloé a été la goutte d'eau qui a fait déborder le vase pour elle. Mais je vis en faisant ce qui est juste, pas ce que je préfère."
+
+# game/v1/scene23.rpy:175
+translate francais v1s23_5f16532e:
+
+    # ch "I was just saying your name as you came running."
+    ch "Je venais à peine de dire ton nom, quand tu es arrivée en courant."
+
+# game/v1/scene23.rpy:180
+translate francais v1s23_a2037417:
+
+    # cl "Oh. That's why I felt my ears burning..."
+    cl "Oh. C'est pour ça que j'avais les oreilles qui sifflaient..."
+
+# game/v1/scene23.rpy:228
+translate francais v1s23_476164cc:
+
+    # cl "Thank you. After this plan and my re-election, hopefully the Chicks will be back!"
+    cl "Merci. Après ce programme et ma réélection, j'espère bien que les Chicks reprendront le dessus !"
+
+# game/v1/scene23.rpy:233
+translate francais v1s23_f0cb5a32:
+
+    # u "I like your spirit."
+    u "J'aime ton état d'esprit."
+
+# game/v1/scene23.rpy:238
+translate francais v1s23_21031a9b:
+
+    # cl "Ha, thanks. Now, rather than just having the support of the Wolves for namesake, I'd like to really show our unity."
+    cl "Haha, merci. Maintenant, plutôt que d'avoir simplement le soutien des Wolves entre homologues, j'aimerais vraiment montrer à tous, que nous sommes unis."
+
+# game/v1/scene23.rpy:263
+translate francais v1s23_c24dcc6a:
+
+    # u "You're right. It is expensive, but money is just an object when it comes to keeping the Chicks' legacy in good hands."
+    u "T'as raison. C'est cher, mais l'argent n'est rien lorsqu'il s'agit de garder l'héritage des Chicks entre de bonnes mains."
+
+# game/v1/scene23.rpy:271
+translate francais v1s23_d8d61e26:
+
+    # u "I have to disagree. We could just do an amateur shoot with our phones. It doesn't have to be spectacular."
+    u "Je suis pas d'accord, en effet, on pourrait toujours faire un shooting amateur avec nos téléphones. Ça n'a pas besoin d'être spectaculaire."
+
+# game/v1/scene23.rpy:276
+translate francais v1s23_33903dc0:
+
+    # ch "Chloe knows hard and well that when it comes to these things, nothing can be done like an amateur."
+    ch "Chloé sait très bien que lorsqu'il s'agit de tout ça, rien ne peut être fait en amateur."
+
+# game/v1/scene23.rpy:335
+translate francais v1s23_a590df7a:
+
+    # cl "Ha, that's what I was thinking too. We'd not only be getting support from the SVC Wolves, but giving support to the Wolf Sanctuary as well."
+    cl "Haha, je m'en doutais aussi. Non seulement on recevra le soutien des Wolves de la SVC, mais en plus de ça, on apportera notre soutien au Sanctuaire des Loups."
+
+# game/v1/scene23.rpy:354
+translate francais v1s23_69ec7175:
+
+    # ch "You guys are approaching this with a lot of respect for the Wolves and me."
+    ch "Vous abordez tout ça avec beaucoup de respect pour les Wolves et moi."
+
+# game/v1/scene23.rpy:361
+translate francais v1s23_cdaa7890:
+
+    # cl "Chris, I'd never do that."
+    cl "Oh non, Chris. Je ne ferais jamais ça."
+
+# game/v1/scene23.rpy:367
+translate francais v1s23_cda48c9b:
+
+    # ch "Ha! If kissing ass was a profession, you'd be making a really good salary, Chloe."
+    ch "Haha ! Si lécher le cul était une profession, tu gagnerais vraiment bien ta vie, Chloé."
+
+# game/v1/scene23.rpy:372
+translate francais v1s23_81866791:
+
+    # u "No kidding!"
+    u "Sans déconner !"
+
+# game/v1/scene23.rpy:377
+translate francais v1s23_1e800c95:
+
+    # cl "Ugh, asshole! I'm being serious."
+    cl "Argh, connards ! Je suis sérieuse."
+
+# game/v1/scene23.rpy:384
+translate francais v1s23_e70c790e:
+
+    # ch "You know what?"
+    ch "Tu sais quoi ?"
+
+# game/v1/scene23.rpy:425
+translate francais v1s23_b476c4e5:
+
+    # ch "I'm very serious. I like the plan you guys came up with, I like the respect you're giving to the Wolves, and I like you as president."
+    ch "Je suis très sérieux. J'aime le projet que tu as élaboré, j'aime le respect que tu portes aux Wolves, et je t'aime bien en tant que Présidente."
+
+# game/v1/scene23.rpy:452
+translate francais v1s23_e70c790e_1:
+
+    # ch "You know what?"
+    ch "Tu sais quoi ?"
+
+# game/v1/scene23.rpy:490
+translate francais v1s23_b476c4e5_1:
+
+    # ch "I'm very serious. I like the plan you guys came up with, I like the respect you're giving to the Wolves, and I like you as president."
+    ch "Je suis très sérieux. J'aime le projet que tu as élaboré, j'aime le respect que tu portes aux Wolves, et je t'aime bien en tant que Présidente."
+
+# game/v1/scene23.rpy:523
+translate francais v1s23_e1bfc158:
+
+    # ch "I know you're joking."
+    ch "Arrête de te moquer de moi."
+
+# game/v1/scene23.rpy:565
+translate francais v1s23_61f0700c:
+
+    # ch "Okay, damn, you little politician... I'm not all for the idea of it, but if you think that's our best option, I trust you."
+    ch "Ok, merde, espèce de petit politicien... Je ne suis pas tout à fait pour cette idée, mais si tu penses que c'est notre meilleure option, je te fais confiance."
+
+# game/v1/scene23.rpy:570
+translate francais v1s23_51d48c53:
+
+    # cl "Financially I think it's best, but I also just think it's adorable."
+    cl "Financièrement, je pense que c'est ce qu'il y a de mieux, mais je trouve également que ça sera vraiment adorable."
+
+# game/v1/scene23.rpy:575
+translate francais v1s23_e1475615:
+
+    # u "There ya have it..."
+    u "Et voilà, tu l'as..."
+
+# game/v1/scene23.rpy:598
+translate francais v1s23_8963b956:
+
+    # cl "Ha! Oh-"
+    cl "Ah ! Oh-"
+
+# game/v1/scene23.rpy:607
+translate francais v1s23_36656d89:
+
+    # u "I would hope so."
+    u "J'espère bien."
+
+# game/v1/scene23.rpy:629
+translate francais v1s23_6508fdc5:
+
+    # ch "You two are something else, really."
+    ch "Sans déconner, vous êtes tous les deux vraiment spéciaux."
+
+# game/v1/scene23.rpy:712
+translate francais v1s23_63e3cdd1:
+
+    # ch "I wish you luck with the campaign, of course, and I want the best for you, but this isn't the move for the Wolves or myself."
+    ch "Bien sûr, je te souhaite bonne chance pour la campagne et je veux le meilleur pour toi, mais ce n'est pas une bonne décision à prendre pour les Wolves ou pour moi-même."
+
+# game/v1/scene23.rpy:729
+translate francais v1s23_298b463d:
+
+    # ch "Ha, we'll see."
+    ch "Haha, on verra."
+
+# game/v1/scene23.rpy:756
+translate francais v1s23_1805d426:
+
+    # cl "Really, it's fine."
+    cl "Vraiment, c'est bon."
+
+# game/v1/scene23.rpy:782
+translate francais v1s23_67eba8a9:
+
+    # ch "Okay then."
+    ch "Alors, c'est bon."
+
+# game/v1/scene23.rpy:787
+translate francais v1s23_c63e6790:
+
+    # u "I'm gonna figure out who's blowing my phone up. I'll talk to you real soon, Chris."
+    u "Je vais regarder qui fait exploser mon téléphone, on se parle très vite, Chris."

@@ -1054,3 +1054,226 @@ translate francais v3s60_73cd9d65:
 
     # el "Well, that's very commendable of you. I will look into it later."
     el "C'est très louable de ta part. Je me pencherai sur la question plus tard."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene60.rpy:17
+translate francais v3s60_96b98d94:
+
+    # li "Ha, ha. That's funny."
+    li "Ha, ha. C'est marrant."
+
+# game/v3/scene60.rpy:48
+translate francais v3s60_57854788:
+
+    # li "*Muffled* [name]? Crazy boy."
+    li "*Étouffé* [name] ? Grand fou."
+
+# game/v3/scene60.rpy:57
+translate francais v3s60_a71be0f3:
+
+    # li "[name] is here to take notes for me; I don't want to miss anything."
+    li "[name] est là pour prendre des notes à ma place, je ne veux rien manquer."
+
+# game/v3/scene60.rpy:90
+translate francais v3s60_e7259441:
+
+    # li "And then both cats fall into the fish pond. So stupid."
+    li "Et les deux chats tombent dans l'étang à poissons. C'est tellement ridicule."
+
+# game/v3/scene60.rpy:95
+translate francais v3s60_98c662d8:
+
+    # el "Yeah, I'd show you, too, but I can't be bothered to find it again."
+    el "Ouais, je te la montrerais bien aussi, mais j'ai pas envie de la rechercher à nouveau."
+
+# game/v3/scene60.rpy:110
+translate francais v3s60_ff067ef4:
+
+    # li "A true professional."
+    li "Un vrai professionnel."
+
+# game/v3/scene60.rpy:126
+translate francais v3s60_61e03a5d:
+
+    # el "Here's an interesting one to start off: What do you admire about your presidential opponent?"
+    el "Voilà, pour débuter, une question intéressante : Qu'est-ce que tu admires chez ton adversaire à la présidentielle ?"
+
+# game/v3/scene60.rpy:154
+translate francais v3s60_3fa9a6e5:
+
+    # u "(Vague compliments. I've trained her well.)"
+    u "(Vagues compliments. Je l'ai bien formé.)"
+
+# game/v3/scene60.rpy:265
+translate francais v3s60_d996c3e5:
+
+    # li "Like, okay... if someone makes me breakfast and they know that I want blueberries on my pancakes, but the president puts honey on them."
+    li "Genre, ok... Si quelqu'un me prépare le petit-déjeuner et qu'il sait que je veux des myrtilles sur mes pancakes, mais que la présidente met du miel dessus."
+
+# game/v3/scene60.rpy:329
+translate francais v3s60_b92e8662:
+
+    # li "When I was younger I'd donate my entire allowance to help save the rainforest, ha. Probably that one, still."
+    li "Quand j'étais plus jeune, je donnais tout mon argent de poche pour aider à sauver la forêt tropicale, haha. C'est certainement encore celle-ci."
+
+# game/v3/scene60.rpy:341
+translate francais v3s60_9facb11b:
+
+    # li "They help so many dogs that have been abandoned. It's a really great cause. You should mention it in the paper, if you aren't already."
+    li "Ils aident tellement de chiens qui ont été abandonnés. C'est une très bonne cause, tu devrais le mentionner dans le journal si ce n'est pas déjà fait."
+
+# game/v3/scene60.rpy:346
+translate francais v3s60_acf601b3:
+
+    # el "Well, that's commendable of you. I will look into it later."
+    el "C'est très louable de ta part. Je me pencherai sur la question plus tard."
+
+# game/v3/scene60.rpy:455
+translate francais v3s60_9a7cbb1e:
+
+    # el "Um... Not really. Unless you count moving chess pieces as weightlifting."
+    el "Hum... Pas vraiment. Sauf si tu comptes le déplacement de pièces d'échecs comme de l'haltérophilie."
+
+# game/v3/scene60.rpy:467
+translate francais v3s60_68a9b923:
+
+    # el "Oh, okay... s-sure. That would be g-great!"
+    el "Oh, oui... B-bien sûr. Ce serait g-génial !"
+
+# game/v3/scene60.rpy:472
+translate francais v3s60_c4c97b2b:
+
+    # u "(And there's the flirting that I suggested. She's a natural.)"
+    u "(Et voilà le petit flirt que j'ai conseillé. Elle est douée.)"
+
+# game/v3/scene60.rpy:510
+translate francais v3s60_b35645c7:
+
+    # ri "She sat down and almost fell off the chair!"
+    ri "Elle s'est assise et a failli tomber de sa chaise !"
+
+# game/v3/scene60.rpy:515
+translate francais v3s60_e67ff830:
+
+    # li "So embarrassing. I think I've had too many coffees."
+    li "Tellement embarrassant. Je crois que j'ai bu trop de cafés."
+
+# game/v3/scene60.rpy:520
+translate francais v3s60_b4052744:
+
+    # u "Ha, at least you'll be alert for the interview."
+    u "Ah, au moins tu seras en pleine forme pour l'entretien."
+
+# game/v3/scene60.rpy:584
+translate francais v3s60_ee1c1a07:
+
+    # li "Thanks, Riley. It was a great question."
+    li "Merci, Riley. C'était une excellente question."
+
+# game/v3/scene60.rpy:593
+translate francais v3s60_55bd8ada:
+
+    # li "What do I admire about Chloe? As her rival, can I really say nice things about her and mean it?"
+    li "Qu'est-ce que j'admire chez Chloé ? En tant que sa rivale, puis-je vraiment dire des choses gentilles sur elle et les penser ?"
+
+# game/v3/scene60.rpy:605
+translate francais v3s60_1035e6cf:
+
+    # li "Um... and she's really good at volleyball, so it helps her keep in good shape."
+    li "Hum... Et elle est vraiment bonne au volley-ball, ça doit donc l'aider à rester en bonne forme."
+
+# game/v3/scene60.rpy:630
+translate francais v3s60_cd2c42b5:
+
+    # ri "I'm interested to know: Is there a specific quality that you feel every successful president should have?"
+    ri "J'aimerais savoir : Y a-t-il une qualité spécifique que, selon toi, tout président efficace devrait avoir ?"
+
+# game/v3/scene60.rpy:641
+translate francais v3s60_8d82addc:
+
+    # li "You need to understand what people want in order to meet their needs. And it's really important that people feel heard."
+    li "Il faut comprendre ce que les personnes désirent afin de répondre à leurs besoins. De plus, il est très important que celles-ci se sentent réellement écoutées."
+
+# game/v3/scene60.rpy:657
+translate francais v3s60_f0a1d25d:
+
+    # ri "Perfect."
+    ri "Parfait."
+
+# game/v3/scene60.rpy:668
+translate francais v3s60_dfd98371:
+
+    # u "(What can I say? She had an incredible teacher.)"
+    u "(Que dire ? Elle a eu un professeur incroyable.)"
+
+# game/v3/scene60.rpy:687
+translate francais v3s60_ab2f863b:
+
+    # li "Um... just, like, get to know people and learn about what they want?"
+    li "Hum... Juste en... genre, en connaissant les autres et en se renseignant sur ce qu'ils désirent ?"
+
+# game/v3/scene60.rpy:713
+translate francais v3s60_41295acc:
+
+    # ri "This is a nice one, to show people your kind side. Have you done anything recently to help someone other than yourself?"
+    ri "C'est une onne idée, pour montrer aux gens ton côté gentil. As-tu fait quelque chose récemment pour aider quelqu'un d'autre que toi ?"
+
+# game/v3/scene60.rpy:729
+translate francais v3s60_498e8661:
+
+    # ri "What was the most recent one?"
+    ri "Et quelle a donc été le don le plus récent ?"
+
+# game/v3/scene60.rpy:746
+translate francais v3s60_828c5b59:
+
+    # u "(What a reply! I've sculpted her into a master interviewee!)"
+    u "(Quelle réponse ! J'ai fait d'elle une maîtresse de l'interview !)"
+
+# game/v3/scene60.rpy:770
+translate francais v3s60_29aa9d45:
+
+    # ri "Cats don't like dogs, generally speaking."
+    ri "Les chats n'aiment pas les chiens, en général."
+
+# game/v3/scene60.rpy:772
+translate francais v3s60_4aa428bb:
+
+    # ri "And to be honest... if I had to choose, I prefer cats."
+    ri "Et pour être honnête... Si je devais choisir, je préfère les chats."
+
+# game/v3/scene60.rpy:782
+translate francais v3s60_7e653524:
+
+    # ri "I disagree. They're independent, for sure, but that's what I like about them."
+    ri "Je ne suis pas d'accord avec toi. Ils sont indépendants, c'est vrai et c'est ce que j'aime chez eux."
+
+# game/v3/scene60.rpy:801
+translate francais v3s60_b21bf0aa:
+
+    # ri "And dogs aren't?"
+    ri "Et les chiens ne le sont pas ?"
+
+# game/v3/scene60.rpy:815
+translate francais v3s60_0501e9ef:
+
+    # li "Well, let's just agree to disagree, then."
+    li "Bien, alors mettons-nous d'accord sur notre désaccord."
+
+# game/v3/scene60.rpy:846
+translate francais v3s60_c0f56f31:
+
+    # ri "Very professional with the handshake. I like it!"
+    ri "Très professionnel avec la poignée de main. J'aime ça !"
+
+# game/v3/scene60.rpy:858
+translate francais v3s60_45233ea2:
+
+    # ri "Aw, thanks for noticing! I'm using a new conditioner my salon recommended. I think it's the coconut that makes it shine."
+    ri "Ooh, merci de l'avoir remarqué ! J'utilise un nouvel après-shampooing que mon salon m'a recommandé, je crois que c'est la noix de coco qui les fait briller."
+
+# game/v3/scene60.rpy:902
+translate francais v3s60_7e309f8f:
+
+    # li "Thank fuck that's over with."
+    li "Ouf, c'est fini."

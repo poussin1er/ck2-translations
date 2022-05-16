@@ -178,3 +178,40 @@ translate francais v1s15_3d1a9aee:
 
     # u "(That man is a whole ass character, but I think he has more than one reason why he's on Chloe's side. *Laughs*)"
     u "(Ce mec est un vrai personnage.... Mais je crois qu'il a plus d'une raison d'être du côté de Chloé. *Rire*)"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene15.rpy:22
+translate francais v1s15_407da7a0:
+
+    # u "(Holy shit... this is serious!)"
+    u "(Putain de merde... c'est sérieux !)"
+
+# game/v1/scene15.rpy:102
+translate francais v1s15_88ef1056:
+
+    # u "Wait, that's how you're deciding?"
+    u "Attends, c'est comme ça que tu prends tes décisions ?"
+
+# game/v1/scene15.rpy:115
+translate francais v1s15_9994f43b:
+
+    # u "Ha! Not gonna lie, that seems like a genius way to decide things."
+    u "He ! Je vais pas te mentir, ça a l'air d'être une super méthode pour prendre des décisions."
+
+# game/v1/scene15.rpy:128
+translate francais v1s15_33cd31ac:
+
+    # u "Not gonna lie, that is a ridiculously stupid, hilarious way to make decisions."
+    u "Je vais pas te mentir, c'est une méthode de décision complètement conne et ridicule."
+
+# game/v1/scene15.rpy:143
+translate francais v1s15_d16a604d:
+
+    # imre "Oh, 'cause that part is true. Chris and Chloe have always been tight, and they get along well as presidents."
+    imre "Oh, parce que c'est vrai. Chris et Chloé ont toujours été proches, et ils s'entendent bien en tant que présidents."
+
+# game/v1/scene15.rpy:160
+translate francais v1s15_860f072f:
+
+    # u "(That man is a character. Looks like there's way more than one reason he's on Chloe's side.)"
+    u "(Ce mec est vraiment chelou. On dirait bien qu'il y a bien plus que ça, pour qu'il soutienne autant Chloé.)"

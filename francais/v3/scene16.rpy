@@ -943,3 +943,232 @@ translate francais strings:
     # game/v3/scene16.rpy:818
     old "Blame Karen, not him"
     new "Blâmer Karen, pas lui"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v3/scene16.rpy:27
+translate francais v3s16_82f076b1:
+
+    # dg3 "No, it's okay. I saw it earlier. Thank you, though."
+    dg3 "Non, c'est bon. Je les ai vu tout à l'heure. Merci quand même."
+
+# game/v3/scene16.rpy:56
+translate francais v3s16_3553b72c:
+
+    # u "Honestly? I think it's fine. With a little time, this will all smooth over."
+    u "Franchement ? Je crois que ça va. Avec un peu de temps, tout va s'arranger."
+
+# game/v3/scene16.rpy:71
+translate francais v3s16_997743b6:
+
+    # u "Seriously. If anything, she seemed a little embarrassed that she knocked your food on the floor."
+    u "Sérieux. Au pire, elle était juste un peu gênée d'avoir fait tomber ton hotdog par terre."
+
+# game/v3/scene16.rpy:83
+translate francais v3s16_c9010804:
+
+    # imre "I still would've eaten it, though!"
+    imre "J'l'aurais quand même mangé !"
+
+# game/v3/scene16.rpy:93
+translate francais v3s16_28fc7c99:
+
+    # u "Definitely."
+    u "Sans aucun doute."
+
+# game/v3/scene16.rpy:113
+translate francais v3s16_a87a748b:
+
+    # u "Your idea of flirting is forcing a vegan to betray their entire ideology?"
+    u "Ton idée de la drague est de forcer une végane à trahir toute son idéologie ?"
+
+# game/v3/scene16.rpy:147
+translate francais v3s16_0fe2f83b:
+
+    # pe "And is she worth the trouble of apologizing and attempting to fix your mistakes?"
+    pe "Et est-ce qu'elle vaut la peine de s'excuser et d'essayer de réparer tes erreurs ?"
+
+# game/v3/scene16.rpy:159
+translate francais v3s16_d4bb2ea5:
+
+    # u "Don't let anything, or anyone, ever make you feel like you don't deserve the things you want in life."
+    u "Laisse jamais rien, ni personne d'ailleurs, te laisser penser que tu mérites pas ce que tu veux dans la vie."
+
+# game/v3/scene16.rpy:180
+translate francais v3s16_97728500:
+
+    # pe "Yes! That's the smartest thing I've ever heard you say."
+    pe "Oui ! C'est la chose la plus intelligente que je t'aie jamais entendu dire."
+
+# game/v3/scene16.rpy:220
+translate francais v3s16_b53ea0e3:
+
+    # imre "Hmm... you're right!"
+    imre "Hmm... Vous avez raison !"
+
+# game/v3/scene16.rpy:256
+translate francais v3s16_b98fd6ca:
+
+    # pe "Excuse me, ladies, can we stop with the gossip? I'm right here."
+    pe "Excusez-moi les filles, pourriez-vous arrêter de jouer les commères ? Je suis juste là."
+
+# game/v3/scene16.rpy:278
+translate francais v3s16_a09d6b3a:
+
+    # imre "I need to win her something, I think. Here at the shooting gallery. To get things back on track."
+    imre "J'crois qu'il faut que j'lui gagne un truc. Là, au stand de tir, pour que tout rentre dans l'ordre."
+
+# game/v3/scene16.rpy:288
+translate francais v3s16_40927803:
+
+    # imre "Uh... pfft, who knows?"
+    imre "Euh... Pfft, qui sait ?"
+
+# game/v3/scene16.rpy:329
+translate francais v3s16_d67e4c7d:
+
+    # tb "It's not impossible to get it on your first try. Believe in yourself."
+    tb "C'est pas impossible de gagner du premier coup, crois en toi."
+
+# game/v3/scene16.rpy:380
+translate francais v3s16_cb0ad211:
+
+    # imre "Ha! Fuck yeah! Did you see that shit?"
+    imre "Putain ouais ! Vous avez vu cette merde ?"
+
+# game/v3/scene16.rpy:400
+translate francais v3s16_e601cdf0:
+
+    # pe "I can't believe you won it! I can't wait to see Karen's face."
+    pe "Je n'arrive pas à croire que tu l'aies gagné ! J'ai hâte de voir la tête de Karen."
+
+# game/v3/scene16.rpy:410
+translate francais v3s16_5b20f6cf:
+
+    # imre "Cowboys are too cool, man. Thanks, Bullseye."
+    imre "Les cow-boys sont trop cool. Merci, Bullseye."
+
+# game/v3/scene16.rpy:441
+translate francais v3s16_974f80aa:
+
+    # pe "Ha, I'm kidding, you don't have to."
+    pe "Je rigole, tu n'es pas obligé de le faire."
+
+# game/v3/scene16.rpy:446
+translate francais v3s16_10711249:
+
+    # tb "Ah, come on! With a lady as pretty as she, you've got to win a wonderful prize to make her happy."
+    tb "Ah, allez ! Avec une jolie femme comme elle, vous devez gagner un prix magnifique, pour la rendre heureuse."
+
+# game/v3/scene16.rpy:456
+translate francais v3s16_663f0145:
+
+    # pe "At least give it a try. No pressure! We're getting the full experience today, remember?"
+    pe "Essaie au moins, sans pression. On va vivre pleinement l'expérience aujourd'hui, tu te souviens ?"
+
+# game/v3/scene16.rpy:466
+translate francais v3s16_1bc44c03:
+
+    # pe "Sweet! I mean... deal."
+    pe "Super ! Heu... D'accord."
+
+# game/v3/scene16.rpy:547
+translate francais v3s16_d6b6a137:
+
+    # u "You weren't expecting me to?"
+    u "Tu t'attendais pas à ce que j'y arrive aussi ?"
+
+# game/v3/scene16.rpy:589
+translate francais v3s16_1202cef4:
+
+    # tb "Um, tough news, though... I've run out of the top prizes. Would you accept some candy?"
+    tb "Hum, par contre, mauvaise nouvelle... J'ai en quelque sorte épuisé les premiers prix. Voudriez-vous accepter des bonbons ?"
+
+# game/v3/scene16.rpy:599
+translate francais v3s16_f5e9c7a1:
+
+    # tb "Um, no, sir. What a strange question."
+    tb "Hum, non Monsieur. Cette question est bizarre."
+
+# game/v3/scene16.rpy:634
+translate francais v3s16_a674ed19:
+
+    # u "Thank God."
+    u "Heureusement."
+
+# game/v3/scene16.rpy:655
+translate francais v3s16_7ca630b2:
+
+    # pe "Yes. Me and this yummy heart. It was meant to be."
+    pe "Oui. Moi, ce coeur délicieux. Il était m'était destiné."
+
+# game/v3/scene16.rpy:676
+translate francais v3s16_8d9b682c:
+
+    # tb "Watch your profanity..."
+    tb "Attention à vos injures..."
+
+# game/v3/scene16.rpy:698
+translate francais v3s16_e71a76bd:
+
+    # tb "Although, I'd hold off on applying for the police department for right now."
+    tb "Bien qu'à votre place, j'éviterais pour l'instant de postuler pour la police."
+
+# game/v3/scene16.rpy:703
+translate francais v3s16_b4642f26:
+
+    # imre "Ha! Nice one."
+    imre "Bien joué."
+
+# game/v3/scene16.rpy:708
+translate francais v3s16_70bd1762:
+
+    # tb "Get yourself a job serving drinks. You've got the looks for it."
+    tb "Trouvez-vous un emploi de serveur de bar, vous avez le physique pour ça."
+
+# game/v3/scene16.rpy:715
+translate francais v3s16_6c49a9ea:
+
+    # u "Yeah... thanks. That's great advice."
+    u "Ouais... Merci. Bon conseil."
+
+# game/v3/scene16.rpy:720
+translate francais v3s16_a0c03a45:
+
+    # imre "Hey, guys. Karen's been gone a while now. Should we go check on her?"
+    imre "Hé, les amis. Karen est partie depuis longtemps, là, on devrait pas aller voir si tout va bien ?"
+
+# game/v3/scene16.rpy:753
+translate francais v3s16_ef503a93:
+
+    # u "(Oh... fuck.)"
+    u "(Oh... Putain.)"
+
+# game/v3/scene16.rpy:805
+translate francais v3s16_86737063:
+
+    # u "I am! I see it, Imre."
+    u "Si, j'ai vu, Imre..."
+
+# game/v3/scene16.rpy:845
+translate francais v3s16_ae2a5172:
+
+    # imre "For real? The right place? The hotdog stand?"
+    imre "Sérieux ? Au bon endroit ? Le stand de Hotdogs ?"
+
+# game/v3/scene16.rpy:850
+translate francais v3s16_9f3b2cbd:
+
+    # pe "Why was she even... nevermind..."
+    pe "Pourquoi est-ce qu'elle était... enfin bref..."
+
+# game/v3/scene16.rpy:855
+translate francais v3s16_81c37419:
+
+    # u "I'm just saying, let's not get involved with this hotdog dude. Let's leave her here, and she can figure out her own ride."
+    u "Je disais seulement, inutile de te prendre la tête avec le mec des hotdogs. On se barre sans elle, elle se démerdera toute seule."
+
+# game/v3/scene16.rpy:895
+translate francais v3s16_e0ee186b:
+
+    # pe "Yeah, I want to make sure she's being safe. Just do your best to calm him down."
+    pe "Oui, je veux juste m'assurer qu'elle est en sécurité. Fais de ton mieux pour le calmer."

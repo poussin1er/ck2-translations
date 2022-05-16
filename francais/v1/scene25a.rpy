@@ -40,7 +40,7 @@ translate francais v1s25a_c50b125e:
 translate francais v1s25a_0f23906f:
 
     # u "What do you want then?"
-    u "Tu veux quoi alors ?"
+    u "Alors, tu veux quoi ?"
 
 # game/v1/scene25a.rpy:76
 translate francais v1s25a_82edee0e:
@@ -100,7 +100,7 @@ translate francais v1s25a_7ebfd414:
 translate francais v1s25a_9814f62e:
 
     # u "*Moans* Haha... Ride 'em cowgirl..."
-    u "*Gémis* Haha... Chevauche-moi cowgirl..."
+    u "*Gémis* Haha... chevauche-moi cowgirl..."
 
 # game/v1/scene25a.rpy:211
 translate francais v1s25a_9c0476a4:
@@ -208,4 +208,77 @@ translate francais v1s25a_16dac629:
 translate francais v1s25a_a93e3e38:
 
     # am "Oh, yeahhhh... I'm so stupid, I forgot what I just said to you. *Laughs* Goodnight."
+    am "Oh, ouaiiiis... Je suis trop conne, j'ai oublié ce que je viens de te dire. *Rire* Bonne nuit."
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene25a.rpy:18
+translate francais v1s25a_5005c27a:
+
+    # u "*Drowsy* I'm so high... right now... ha..."
+    u "*Somnolent* Je suis complètement défoncé... là maintenant... Haha..."
+
+# game/v1/scene25a.rpy:23
+translate francais v1s25a_a25752ae:
+
+    # am "*Drowsy* Me too. *Moans*"
+    am "*Somnolente* Ha, moi aussi. *Gémis*"
+
+# game/v1/scene25a.rpy:36
+translate francais v1s25a_8cd21c53:
+
+    # am "Wow! Okay, big guy..."
+    am "Wow ! Ok, mon grand..."
+
+# game/v1/scene25a.rpy:66
+translate francais v1s25a_43db0418:
+
+    # u "What do you want, then?"
+    u "Alors, tu veux quoi ?"
+
+# game/v1/scene25a.rpy:76
+translate francais v1s25a_9faf1f44:
+
+    # am "Fuck me, [name]. C'mon... *Moans* fuck me!"
+    am "Baise-moi, [name]. S'il te plaît... *Gémis* Baise-moi !"
+
+# game/v1/scene25a.rpy:152
+translate francais v1s25a_ec750764:
+
+    # u "You're amazing, Amber... Holy-"
+    u "T'es incroyable, Amber... Put-"
+
+# game/v1/scene25a.rpy:185
+translate francais v1s25a_fc683d88:
+
+    # am "*Panting* Why ride a horse when you can ride a cowboy?"
+    am "*Halète* Pourquoi monter un cheval quand on peut monter un cow-boy ?"
+
+# game/v1/scene25a.rpy:197
+translate francais v1s25a_8d8c664b:
+
+    # u "*Moans* That's right... ride 'em, cowgirl..."
+    u "*Gémis* C'est ça.. chevauche-moi cowgirl..."
+
+# game/v1/scene25a.rpy:264
+translate francais v1s25a_add58a8b:
+
+    # u "I'm cumming, Amb-"
+    u "Je jouis, Amb-"
+
+# game/v1/scene25a.rpy:272
+translate francais v1s25a_e39c33d7:
+
+    # u "AHH! Aaaahhhh."
+    u "AHH! Aaaahhhh."
+
+# game/v1/scene25a.rpy:311
+translate francais v1s25a_9d273399:
+
+    # am "*Panting* After a night like that, you have to stay here. We're high as fuck!"
+    am "*Halète* Après une nuit comme ça, tu dois rester là. On est défoncés !"
+
+# game/v1/scene25a.rpy:336
+translate francais v1s25a_03066285:
+
+    # am "Oh, yeahhhh... I'm so stupid, I forgot what I just said to you. Goodnight."
     am "Oh, ouaiiiis... Je suis trop conne, j'ai oublié ce que je viens de te dire. *Rire* Bonne nuit."

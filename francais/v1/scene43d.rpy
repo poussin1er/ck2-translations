@@ -375,3 +375,184 @@ translate francais strings:
     # game/v1/scene43d.rpy:210
     old "I'm submissive"
     new "Je suis soumis"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene43d.rpy:18
+translate francais v1s43d_5753b9a4:
+
+    # ri "Thank you for pairing with me, by the way."
+    ri "Au fait, merci de faire équipe avec moi."
+
+# game/v1/scene43d.rpy:28
+translate francais v1s43d_2d0305ae:
+
+    # ri "I saw Imre floating around the room and I thought I was gonna have to be with him for a second, but thankfully... you came to the rescue."
+    ri "J'ai vu Imre tourner dans la pièce et j'ai craint de devoir me mettre avec lui pendant un moment, mais heureusement... Tu es venu à la rescousse."
+
+# game/v1/scene43d.rpy:33
+translate francais v1s43d_c7666659:
+
+    # u "It's no problem. He actually told me what he did and begged me to work with you so that it wasn't awkward for either of you."
+    u "Pas de problème. Pour te dire, il m'a raconté ce qu'il avait fait et m'a supplié de travailler avec toi pour que ça soit pas trop gênant, pour aucun de vous deux."
+
+# game/v1/scene43d.rpy:63
+translate francais v1s43d_46b6e599:
+
+    # u "Got it."
+    u "Compris."
+
+# game/v1/scene43d.rpy:79
+translate francais v1s43d_e367f220:
+
+    # ri "Yeah, ha. I am now... yeah."
+    ri "Ouais, ouais. Je vais bien, maintenant... Ouais."
+
+# game/v1/scene43d.rpy:99
+translate francais v1s43d_3fe000b7:
+
+    # ri "*Clears throat* Drumroll, please!"
+    ri "*Raclement de gorge* Roulements de tambour s'il vous plaît !"
+
+# game/v1/scene43d.rpy:114
+translate francais v1s43d_aadb9ce3:
+
+    # u "Ha, c'mon already, weirdo. I thought you didn't wanna be here long?"
+    u "Allez, vas-y, c'est bizarre. Je croyais que tu voulais pas rester ici trop longtemps ?"
+
+# game/v1/scene43d.rpy:126
+translate francais v1s43d_62dddef3:
+
+    # u "You mean you wanna wing it? Be lazy and come up with nothing?"
+    u "Tu voudrais improviser ? Être paresseuse et rien imaginer ?"
+
+# game/v1/scene43d.rpy:131
+translate francais v1s43d_648bc37b:
+
+    # ri "Well... we can come up with a premise."
+    ri "Eh bien... On peut trouver une idée de base."
+
+# game/v1/scene43d.rpy:146
+translate francais v1s43d_875325dc:
+
+    # u "Okay. And how is that?"
+    u "Ok. De quelle façon ?"
+
+# game/v1/scene43d.rpy:152
+translate francais v1s43d_196ba007:
+
+    # ri "Well, the king thinks that above all, the queen should always be treated."
+    ri "Le Roi estime que la Reine doit avant tout être choyée."
+
+# game/v1/scene43d.rpy:162
+translate francais v1s43d_ba734852:
+
+    # ri "Yeah, always."
+    ri "Ouais, toujours."
+
+# game/v1/scene43d.rpy:172
+translate francais v1s43d_98cddfb4:
+
+    # u "Hmm... okay, I think I understand. (This scene is gonna be hot as fuck...)"
+    u "Hmm... Ok, je crois que je vois ce que tu veux dire. (Cette scène va être chaude comme la braise...)"
+
+# game/v1/scene43d.rpy:177
+translate francais v1s43d_a3bf8c92:
+
+    # ri "Mmm, good."
+    ri "Mmm, bon."
+
+# game/v1/scene43d.rpy:183
+translate francais v1s43d_b6830dd0:
+
+    # ri "I don't need to explain myself to you! King or not, you will do as the queen demands. And that's final."
+    ri "Je n'ai pas besoin de me justifier auprès de toi ! Roi ou pas, tu feras ce que la Reine exige. C'est tout."
+
+# game/v1/scene43d.rpy:188
+translate francais v1s43d_a5f9f709:
+
+    # u "Oh, shit... how the hell am I supposed to compete with an A-list actress?"
+    u "Oh, merde... Comment suis-je censée rivaliser avec une actrice de première classe ?"
+
+# game/v1/scene43d.rpy:193
+translate francais v1s43d_03e8f121:
+
+    # ri "Ha!"
+    ri "Ah !"
+
+# game/v1/scene43d.rpy:198
+translate francais v1s43d_f0d69703:
+
+    # ri "I really wanna make the whole class squirm. And Mr. Lee, too, for hitting me with that bomb today."
+    ri "Je veux vraiment faire frémir toute la classe ! Et aussi Mr Lee pour m'avoir envoyé cette bombe aujourd'hui."
+
+# game/v1/scene43d.rpy:203
+translate francais v1s43d_fe2cf6ac:
+
+    # u "How are you planning to do that?"
+    u "Et comment tu comptes t'y prendre ?"
+
+# game/v1/scene43d.rpy:240
+translate francais v1s43d_46a425b3:
+
+    # u "Wellll, umm..."
+    u "Eh biennn, humm..."
+
+# game/v1/scene43d.rpy:253
+translate francais v1s43d_4b0fc063:
+
+    # ri "That I do..."
+    ri "C'est vrai..."
+
+# game/v1/scene43d.rpy:263
+translate francais v1s43d_a2ec139a:
+
+    # u "Yes, my queen."
+    u "Oui, ma Reine."
+
+# game/v1/scene43d.rpy:270
+translate francais v1s43d_88ae8f3f:
+
+    # ri "Also, we'll have to include something linked to history so that we don't give Mr. Lee a reason to interrupt."
+    ri "De plus, on devra inclure au moins quelque chose d'historique pour ne pas tout gâcher en donnant à Mr Lee une occasion d'interrompre notre jeu."
+
+# game/v1/scene43d.rpy:275
+translate francais v1s43d_5e38262e:
+
+    # u "Fair enough."
+    u "C'est vrai."
+
+# game/v1/scene43d.rpy:280
+translate francais v1s43d_21bb6518:
+
+    # ri "Alright, so... we're good for next week, then?"
+    ri "Bien, alors... On est bons pour la semaine prochaine ?"
+
+# game/v1/scene43d.rpy:285
+translate francais v1s43d_69cc4711:
+
+    # u "Yep. We're all good."
+    u "Ouaip. On est bons."
+
+# game/v1/scene43d.rpy:296
+translate francais v1s43d_61ad5939:
+
+    # u "Don't have too much fun without me."
+    u "Essayez de pas trop vous amuser sans moi."
+
+# game/v1/scene43d.rpy:301
+translate francais v1s43d_2b2fb3e7:
+
+    # ri "No promises!"
+    ri "Je ne promets rien !"
+
+# game/v1/scene43d.rpy:306
+translate francais v1s43d_528e081b:
+
+    # u "(She can't get enough of her Aubs, can she?)"
+    u "(Elle peut plus se passer de sa Aubs, hein ?)"
+
+# game/v1/scene43d.rpy:323
+translate francais v1s43d_f5cc5138:
+
+    # u "(As long as I get a passing grade, she can have as much fun as she wants with the class.)"
+    u "(Tant que j'obtiens une bonne note, elle peut s'amuser autant qu'elle veut dans ce cours.)"

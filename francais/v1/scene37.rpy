@@ -280,7 +280,7 @@ translate francais v1s37_aca2663a:
 translate francais v1s37_af3f3597:
 
     # host "Anything for you sir?"
-    host "Quelque chose pour vous monsieur ?"
+    host "Souhaitez-vous autre chose, monsieur ?"
 
 # game/v1/scene37.rpy:303
 translate francais v1s37_d6ec6b25:
@@ -893,3 +893,274 @@ translate francais strings:
     # game/v1/scene37.rpy:404
     old "Be serious"
     new "Être sérieux"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene37.rpy:49
+translate francais v1s37_f73531fe:
+
+    # pe "Hi!"
+    pe "Salut !"
+
+# game/v1/scene37.rpy:59
+translate francais v1s37_fc420dc3:
+
+    # pe "Thank you. You too, as always."
+    pe "Merci. Toi aussi. Comme toujours."
+
+# game/v1/scene37.rpy:64
+translate francais v1s37_b264a2c5:
+
+    # u "I thought I'd get here before you and try to get us a table; didn't think you'd get here so fast."
+    u "Je voulais arriver avant toi et essayer de nous obtenir une table, je pensais pas que tu arriverais si vite."
+
+# game/v1/scene37.rpy:74
+translate francais v1s37_70611477:
+
+    # u "Wait, what? You should've told me you were moving at lightning speed. It's too windy out here for you to be waiting."
+    u "Attends, quoi ? Tu aurais dû me prévenir que tu pouvais te déplacer à la vitesse de la lumière. *Rire* Il y a trop de vent, ici, pour que tu attendes seule dehors."
+
+# game/v1/scene37.rpy:79
+translate francais v1s37_ffe5ab60:
+
+    # pe "Oh, no worries. I love this weather. You ready?"
+    pe "Oh, ne t'inquiète pas. J'adore ce temps. T'es prêts ?"
+
+# game/v1/scene37.rpy:84
+translate francais v1s37_c6e9a2c1:
+
+    # u "You bet."
+    u "Tu parles."
+
+# game/v1/scene37.rpy:94
+translate francais v1s37_d7daadac:
+
+    # pe "Hehe, that's cute."
+    pe "Héhé, c'est mignon."
+
+# game/v1/scene37.rpy:112
+translate francais v1s37_e7d3aaa4:
+
+    # host "Perfect. Follow me, please."
+    host "Trés bien. Si vous voulez bien me suivre."
+
+# game/v1/scene37.rpy:142
+translate francais v1s37_09f2ed81:
+
+    # host "Got it, and do you two need a minute to look or are you ready to order?"
+    host "Très bien, avez-vous besoin d'un peu de temps pour regarder la carte ou souhaitez-vous prendre la commande ?"
+
+# game/v1/scene37.rpy:152
+translate francais v1s37_e0658bf0:
+
+    # host "Of course, take your time. I'll be back with water."
+    host "Prenez votre temps. Je reviens dans un instant avec vos verres d'eau."
+
+# game/v1/scene37.rpy:167
+translate francais v1s37_9cd928dd:
+
+    # u "Then why'd you suggest coming here?"
+    u "Alors pourquoi avoir proposé de venir ici ?"
+
+# game/v1/scene37.rpy:177
+translate francais v1s37_f489aa31:
+
+    # u "Nah, I won't force you to."
+    u "Nan, je vais pas te forcer à manger."
+
+# game/v1/scene37.rpy:182
+translate francais v1s37_d0a6f0c3:
+
+    # pe "Phew, good. I'll just leave a big tip for my water."
+    pe "Pfiou, tant mieux. Je vais simplement laisser un gros pourboire pour mon eau."
+
+# game/v1/scene37.rpy:187
+translate francais v1s37_c82c7029:
+
+    # u "Ha! I've never heard anyone say that."
+    u "Ah ! J'ai jamais entendu personne dire ça."
+
+# game/v1/scene37.rpy:202
+translate francais v1s37_83dc578d:
+
+    # pe "Oh... are you sure?"
+    pe "Oh... T'es sûr ?"
+
+# game/v1/scene37.rpy:222
+translate francais v1s37_50a1961f:
+
+    # host "Here you go."
+    host "Et voici, pour vous."
+
+# game/v1/scene37.rpy:237
+translate francais v1s37_0b424079:
+
+    # pe "We're still deciding if we're even hungry, heh. I hope that's okay."
+    pe "On est toujours en train de se demander si on a réellement faim, j'espère que ça vous va."
+
+# game/v1/scene37.rpy:242
+translate francais v1s37_df1e9887:
+
+    # host "I know what you mean. You two just enjoy your evening and if you want anything, let me know."
+    host "Je vois ce que vous voulez dire. Profitez de votre soirée et si vous avez besoin de quelque chose, n'hésitez pas."
+
+# game/v1/scene37.rpy:272
+translate francais v1s37_7306ba8c:
+
+    # lady "Oh my God, if you gave him all day, he'd take all day. We're ready to order."
+    lady "Oh mon Dieu, si vous lui donniez toute la journée, il prendrait toute la journée. Nous sommes prêts à passer commande."
+
+# game/v1/scene37.rpy:297
+translate francais v1s37_9b2847ea:
+
+    # host "Anything for you, sir?"
+    host "Souhaitez-vous autre chose, monsieur ?"
+
+# game/v1/scene37.rpy:377
+translate francais v1s37_6a7d0671:
+
+    # u "Ha! I promise I won't."
+    u "Haha, je te promets que je rirai pas."
+
+# game/v1/scene37.rpy:382
+translate francais v1s37_7e437513:
+
+    # pe "You already are!"
+    pe "T'es déjà en train de le faire !"
+
+# game/v1/scene37.rpy:387
+translate francais v1s37_b0f0a6a4:
+
+    # u "Okay, okay... heh... phew. I'm ready."
+    u "Ok, ok... Pfiou. C'est bon, je suis prêt."
+
+# game/v1/scene37.rpy:417
+translate francais v1s37_8294f718:
+
+    # u "Bahahahaha, ooh, ah, I'm sorry... I-"
+    u "Bwahahahaha, ooh, ah, je suis désolé... Je-"
+
+# game/v1/scene37.rpy:432
+translate francais v1s37_3a26df4b:
+
+    # u "*Coughs* Ahem, excuse me... so, why'd it get cancelled?"
+    u "*Tousse* Ahem, excuse-moi... Alors, pourquoi l'entretien a été annulée ?"
+
+# game/v1/scene37.rpy:437
+translate francais v1s37_9cd83818:
+
+    # pe "*Sighs* It was the dean. I swear she's out to get me."
+    pe "*Soupirs* C'était la doyenne, je suis sûre qu'elle veut ma peau."
+
+# game/v1/scene37.rpy:447
+translate francais v1s37_66bc5eab:
+
+    # pe "Because of the case I had. For some reason, she thinks I'm the devil now. I tried to-"
+    pe "À cause de l'histoire que j'ai eue, pour une raison quelconque, elle estime que je suis le diable maintenant. J'ai essayé de-"
+
+# game/v1/scene37.rpy:459
+translate francais v1s37_46ada1c7:
+
+    # gentleman "Can you please not speak to me that way? I'm trying to provide us with a nice evening out."
+    gentleman "Peux-tu, s'il te plaît, ne pas me parler de cette façon ? J'essaie de nous faire passer une bonne soirée."
+
+# game/v1/scene37.rpy:550
+translate francais v1s37_e398421b:
+
+    # pe "Oh! I'm sorry. Oops."
+    pe "Oh ! Je suis désolée, oupd."
+
+# game/v1/scene37.rpy:555
+translate francais v1s37_c7bb5851:
+
+    # u "No need to apologize. I didn't realize I never really speak about her to anyone."
+    u "Pas besoin de t'excuser. J'avais pas réalisé que je parlais jamais d'elle à qui que ce soit."
+
+# game/v1/scene37.rpy:565
+translate francais v1s37_ba79b9f9:
+
+    # u "She's in New York for work and probably won't be back for a while. So with that and school and the frat... yeah, it's a lot."
+    u "Elle est à New York pour le travail et ne reviendra peut-être pas avant un moment. Alors avec ça, l'école et la fraternité... Ouais, ça fait beaucoup."
+
+# game/v1/scene37.rpy:590
+translate francais v1s37_6b3d335e:
+
+    # pe "Those girls would eat me alive like a pack of wolves. No pun intended..."
+    pe "Ces filles me mangeraient toute crue comme une meute de loups. Sans mauvais jeu de mots..."
+
+# game/v1/scene37.rpy:595
+translate francais v1s37_24c80712:
+
+    # u "Maybe they'd like you! All they'd want is for you to hack the school and change their grades to at least a passing level."
+    u "*Rire* Peut-être que tu leur plairais ! Tout ce qu'elles voudraient, c'est que tu pirates le système informatique de l'école et que tu modifies leurs notes pour qu'elles atteignent au moins le niveau de la moyenne."
+
+# game/v1/scene37.rpy:600
+translate francais v1s37_19aad56c:
+
+    # pe "Har-har, not funny."
+    pe "Ah ah... T'es pas drôle."
+
+# game/v1/scene37.rpy:605
+translate francais v1s37_f7399835:
+
+    # u "Too soon?"
+    u "C'est trop tôt ?"
+
+# game/v1/scene37.rpy:610
+translate francais v1s37_e768ad11:
+
+    # pe "Nah. It actually was funny, but unexpected. I'm still trying to forget that whole experience, ha."
+    pe "Nan. En fait, c'était drôle, mais inattendu. J'essaie encore d'oublier toute cette histoire."
+
+# game/v1/scene37.rpy:625
+translate francais v1s37_093b11fb:
+
+    # u "Heh."
+    u "Heu."
+
+# game/v1/scene37.rpy:660
+translate francais v1s37_8a3cfab9:
+
+    # pe "Feels a lot like it, too."
+    pe "Oui, ça ressemble beaucoup à ça."
+
+# game/v1/scene37.rpy:675
+translate francais v1s37_18ea75d3:
+
+    # u "You kidding me? That was fun, what are you talking about?"
+    u "Tu te fous de moi ? Ça c'est drôle, mais de quoi tu parles ?"
+
+# game/v1/scene37.rpy:680
+translate francais v1s37_3b854053:
+
+    # pe "Fun for you, maybe."
+    pe "C'est peut-être drôle pour toi."
+
+# game/v1/scene37.rpy:726
+translate francais v1s37_c297c16d:
+
+    # lady "And that's also why you can't keep a fucking job. You're a loser!"
+    lady "Et c'est aussi pour ça que tu ne peux pas conserver un putain de travail, t'es un loser !"
+
+# game/v1/scene37.rpy:793
+translate francais v1s37_53e72b49:
+
+    # pe "Listen up, princess! I came here to go on a wonderful date, just like you. And I CAN'T DO THAT because YOU won't stop being a BITCH!"
+    pe "Écoute moi bien, Princesse ! Je suis venue ici pour passer un merveilleux rendez-vous, tout comme toi. Et JE NE PEUX PAS EN PROFITER parce que TU n'arrêtes pas de te comporter comme une CHIENNE !"
+
+# game/v1/scene37.rpy:805
+translate francais v1s37_59c1991b:
+
+    # pe "Keep your shitty attitude and miserable life to yourself, okay?"
+    pe "Garde ton attitude de merde et ta vie misérable pour toi, OK ?"
+
+# game/v1/scene37.rpy:806
+translate francais v1s37_dbfedc6c:
+
+    # pe "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words for you next time."
+    pe "Le monde ne tourne pas autour de TOI. Si je te revois un jour et que je t'entends parler de nouveau à quelqu'un comme ça, je n'aurai plus que de simples mots à te dire pour que tu comprennes."
+
+# game/v1/scene37.rpy:845
+translate francais v1s37_050c4103:
+
+    # u "You all good?"
+    u "Tout va bien ?"

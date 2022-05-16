@@ -107,3 +107,10 @@ translate francais strings:
     # game/v1/scene31.rpy:92
     old "That's a turn-off"
     new "C'est contrariant"
+# TODO: Translation updated at 2022-05-14 15:02
+
+# game/v1/scene31.rpy:23
+translate francais v1s31_de348817:
+
+    # cl "Hey! I just wanted to call and let you know that everyone is on their way to the Apes house for the get-together."
+    cl "Hey ! Je voulais juste t'appeler pour te dire que tout le monde est en route vers la maison des Apes pour un rassemblement."
