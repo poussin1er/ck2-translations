@@ -66,6 +66,67 @@ translate francais v2s8_e63b039e:
     # cl "It all depends on how we want to go about this..."
     cl "Tout dépend de la façon dont on veut s'y prendre..."
 
+    scene v2s8_4 # TPP. Show MC upclose analyzing the planning board, MC in a generic standing thinking pose while he looks at the board, Chloe in the background, both slight smile, mouth closed.
+    with dissolve
+
+    pause 0.75
+
+# -Insert Planning Board with the options for phase 2-
+# -The planning board pops up and MC makes his choices from what's presented, close when finished-
+    python:
+        chloe_board = PlanningBoard("images/v2/planning_boards/chloe_background.webp", money=chloe_board.money)
+
+        chloe_board.add_approach("Sabotage",
+            "Nuire à la réputation de Lindsey",
+            opinion="\"Cette idée n'est pas pour les âmes sensibles, mais je dois jouer le jeu si je veux gagner... Nous saboterons sa campagne avec un soupçon de honte, pas si infime que ça.\"")
+
+        chloe_board.add_approach("Tuition",
+            "Réduction des frais de scolarité pour toutes les Chicks",
+            opinion="\"La seule chose à laquelle j'ai toujours rêvé pouvoir faire en tant que Présidente des Chicks, est d'obtenir la gratuité des frais de scolarité pour toutes les membres. Si on présente un assez bon dossier, je pourrai peut-être convaincre la doyenne de faire en sorte que ça se réalise.\"")
+
+        chloe_board.add_task("Sabotage",
+            "Enregistrer Lindsey en secret",
+            opinion="\"Une fois qu'on aura récupéré quelques bouteilles d'alcool, Imre et toi ferez de votre mieux pour que Lindsey se saoule. Je ne sais pas trop dans quel état d'esprit elle sera, mais tu pourrais peut-être lui dire qu'elle a besoin de se détendre un peu. Après tout, elle est probablement stressée par le fait de ne rien avoir et que moi si...\"")
+
+        chloe_board.add_task("Sabotage",
+            "Provoquer Lindsey pour qu'elle dise quelque chose qui pourrait nuire à sa réputation",
+            opinion="\"Nous avons besoin qu'elle dise quelque chose de mal. Quelque chose de détestable, et encore mieux si c'est à mon sujet. Si elle est ivre, tu n'auras aucun problème à obtenir quelque chose d'elle, mais là encore, je ne suis pas sûre de son état d'esprit. Assure-toi simplement qu'elle est détendue et sous contrôle.\"")
+
+        v2s8_chloe_kiwii = chloe_board.add_subtask("Sabotage",
+            "Chloé poste l'enregistrement sur Kiwii",
+            opinion="\"L'étape finale de ce projet magnifique consiste à télécharger les preuves sur Kiwii. C'est la clé. Une fois que tout le monde aura entendu les choses horribles qu'elle a dites, ils viendront vers moi en courant.\"")
+
+        chloe_board.add_subtask("Sabotage",
+            "Diffuse l'enregistrement par le biais du système de communication de la doyenne",
+            opinion="\"La dernière étape est très importante, alors pourquoi ne pas faire les choses en grand ? Je peux nous obtenir l'accès au système de communication de la doyenne, et on pourra diffuser ton enregistrement afin que tout le campus puisse l'entendre.\"")
+
+        v2s8_chloe_lee = chloe_board.add_subtask("Tuition",
+            "Essayer de convaincre Mr Lee de me soutenir pour ce projet devant la doyenne.",
+            opinion="\"Avant de présenter cette idée folle à la doyenne, on aura besoin du soutien de certains professeurs. Je pense que Mr Lee est notre meilleure chance, il est intelligent et très respecté. Bien qu'il puisse être difficile à cerner.\"",
+            people=[mr_lee])
+
+        chloe_board.add_subtask("Tuition",
+            "Essayer de convaincre Mme Rose de me soutenir pour ce projet devant la doyenne.",
+            opinion="\"Avant de présenter cette idée folle à la doyenne, on aura besoin du soutien de certains des professeurs. Mme Rose pourrait être une bonne candidate. Elle est très empathique, mais je ne sais pas à quel point elle m'apprécie...\"",
+            people=[ms_rose])
+
+        chloe_board.add_task("Tuition",
+            "Parler à la doyenne avec le soutien de Mr Lee ou de Mme Rose",
+            opinion="\"Enfin, on aura une entrevue avec la doyenne. Si on arrive à démontrer qu'un professeur soutient notre idée, on devrait pouvoir obtenir son approbation.\"",
+            people=[dean])
+
+    call screen planning_board(chloe_board)
+
+    if chloe_board.approach is not None:
+        $ v2_chloe_lindseysabotage = chloe_board.approach.id == "Sabotage"
+
+    if chloe_board.selected_task is not None:
+        $ v2_chloe_postkiwii = chloe_board.selected_task == v2s8_chloe_kiwii
+        $ v2_chloe_mrleesupport = chloe_board.selected_task == v2s8_chloe_lee
+
+    # End planning board (screen disappears)
+
+
 # game/v2/scene8.rpy:132
 translate francais v2s8_c3ef7d46:
 

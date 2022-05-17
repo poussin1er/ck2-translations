@@ -1160,3 +1160,18 @@ translate francais strings:
     # renpy/common/00preferences.rpy:505
     old "audio when minimized"
     new "audio lorsqu'il est réduit"
+# TODO: Translation updated at 2022-05-16 23:01
+
+translate francais strings:
+
+    # renpy/common/00action_other.rpy:662
+    old "Open [text] directory."
+    new "Ouvre le répertoire [text]."
+
+    # renpy/common/00preferences.rpy:531
+    old "main volume"
+    new "volume principal"
+
+    # renpy/common/00preferences.rpy:535
+    old "mute main"
+    new "sourdine"

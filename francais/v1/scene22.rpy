@@ -210,6 +210,43 @@ translate francais v1s22_c424203a:
     # u "*Gulps*"
     u "*Gloups*"
 
+    # Lindsey's planning board appears and MC makes his choices from the UI screen
+
+    python:
+        lindsey_board.add_approach("Sell", "Vendre la voiture de Lindsey", opinion="\"Une vieille voiture que mon grand-père m'a donné et qui traîne dans sa grange. Ce n'est pas la plus jolie, mais elle t'emmène là où tu dois aller.\"")
+        lindsey_board.add_approach("Steal", "Voler dans la trésorerie des Chicks", opinion="\"Je sais que ça a l'air dingue... Pourquoi voudrais-je voler les fonds des Chicks, hein ? Eh bien, Chloé détient tous nos fonds dans sa chambre et en ce moment et elle les utilise pour sa campagne. On doit récupérer cet argent avant qu'elle ne le dépense entièrement pour elle-même.\"")
+
+        v1s22_pics_no_linds = lindsey_board.add_subtask("Sell", "Prendre des photos de la voiture sans Lindsey",
+            opinion="\"Les acheteurs voudront certainement des photos nettes et précises. Utilise ton téléphone pour prendre des photos sous tous les angles afin qu'ils sachent exactement ce qu'ils achètent.\"",
+            people=[mc, lindsey])
+        v1s22_pics_with_linds = lindsey_board.add_subtask("Sell", "Prendre des photos de la voiture avec Lindsey",
+            opinion="\"La publicité doit être PARFAITE compte tenu de l'apparence de ce tas de ferraille. Je m'habillerai très bien et on s'assurera de prendre des photos sous tous les angles pour qu'ils sachent exactement ce qu'ils achètent.\"",
+            people=[mc, lindsey])
+        lindsey_board.add_task("Sell", "Personnalise ton annonce en ligne",
+            opinion="\"Non seulement notre annonce doit attirer l'attention de tous, mais on devra aussi s'assurer de donner une description correcte de la voiture. Et surtout, il faudra aussi décider de la somme qu'on demandera.\"",
+            people=[mc, lindsey])
+        lindsey_board.add_task("Sell", "Rencontrer les acheteurs potentiels",
+            opinion="\"Une fois qu'on aura quelques acheteurs intéressés, on leur proposera de nous rencontrer afin qu'ils puissent regarder la voiture. Il faudra les convaincre d'acheter et essayer d'obtenir le meilleur prix possible.\"",
+            people=[mc, lindsey, buyer])
+
+        v1s22_concert = lindsey_board.add_subtask("Steal", "Fais sortir Chloé avec des billets de concert (100 $)",
+            opinion="\"Si on veut faire sortir Chloé de sa chambre pour la soirée, tout ce dont on a besoin, c'est de deux billets pour le concert qui aura lieu ce jeudi. Elle ne pourra pas dire non, ça fait un moment qu'elle veut voir ce groupe. Mais ça va me coûter la quasi totalité de l'argent que j'ai à disposition.\"",
+            people=[mc, chloe],
+            cost=100)
+        v1s22_date = lindsey_board.add_subtask("Steal", "Demande à Chloé de sortir et pose-lui un lapin",
+            opinion="\"Le moyen le plus économique d'occuper Chloé serait que tu l'invites à sortir dans un endroit chic et que tu la fasses attendre aussi longtemps que possible. De plus, elle sera contrariée, ce qui est un avantage non négligeable... Pour moi.\"",
+            people=[mc, chloe])
+        lindsey_board.add_task("Steal", "Lindsey distrait Aubrey",
+            opinion="\"La seule personne qui restera à distraire sera Aubrey, et je pourrai m'en occuper avec une seule phrase : \"Hey Aubrey, j'ai envie d'essayer la sodomie !\".",
+            people=[lindsey, aubrey])
+        lindsey_board.add_task("Steal", "Tu voles l'argent des Chicks dans la chambre de Chloé",
+            opinion="\"La dernière étape, et la plus importante, sera de pénétrer dans la chambre de Chloé et de chercher l'argent. Il pourra se trouver à plusieurs endroits, alors il faudra fouiller partout. Et franchement... Essaye de voir ce que tu peux trouver d'autre qui pourrait nous aider plus tard.\"",
+            people=[mc])
+
+    call screen planning_board(lindsey_board)
+
+    # Once concluded the screen disappears
+
 # game/v1/scene22.rpy:250
 translate francais v1s22_sell_car_6ba4a140:
 

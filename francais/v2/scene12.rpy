@@ -534,6 +534,73 @@ translate francais v2s12_05fb6a4d:
     # li "So basically, it's just who you think should come, and what the best way to gain their support would be."
     li "Donc en gros, il suffit de savoir qui selon toi devrait venir, et quel serait le meilleur moyen de gagner leur soutien."
 
+    # -The planning board pops up and MC makes his choices from what's presented-
+
+    python:
+        lindsey_board = PlanningBoard("images/v2/planning_boards/lindsey_background.webp", money=lindsey_board.money, style="lindsey_board")
+
+        lindsey_board.add_approach("Game Night",
+            "Soirée jeux (100 $)",
+            opinion="\"Organiser une soirée jeux serait le meilleur moyen de réunir certains alliés de Chloé en toute intimité. On aura de l'alcool, des en-cas et on s'assurera qu'ils passent une bonne soirée tout en leur faisant savoir que je suis bien plus efficace que Chloé.\"")
+
+        lindsey_board.add_approach("VIP Night",
+            "Soirée VIP (800 $)",
+            opinion="\"Il y a certaines personnes qui sont du côté de Chloé que je pense pouvoir faire pencher en ma faveur... Leur opinion à mon égard n'est pas mauvaise, ils ont juste l'air de la préférer... Si on leur offre une soirée exceptionnelle, il n'y aura pas la moindre chance qu'ils la choisissent à ma place.\"")
+
+        lindsey_board.add_task("Game Night",
+            "Acheter de l'alcool avec une fausse carte d'identité (100 $)",
+            opinion="\"Comme aucun de nous n'a l'âge légal pour boire, il nous faudra une fausse carte d'identité si on veut de l'alcool. Un de mes amis en fabrique, alors je peux m'en occuper.\"",
+            people=[mc, lindsey],
+            cost=100)
+
+        v2s12_lindsey_pb_mostlikely = lindsey_board.add_subtask("Game Night",
+            "Qui a le plus de chances de...",
+            opinion="\"\"Qui a le plus de chances de\" est un jeu toujours amusant à jouer à plusieurs. On rira, on en apprendra un peu plus sur les autres et peut-être que certains secrets sortiront également.\"")
+
+        lindsey_board.add_subtask("Game Night",
+            "Tu préférerais",
+            opinion="\"\"Tu préférerais\" est le jeu le plus facile à lancer lorsque tu veux engager la conversation. Espérons qu'on en tirera quelques rires et peut-être aussi quelques secrets.\"")
+
+        lindsey_board.add_task("Game Night",
+            "Organiser la soirée jeux",
+            opinion="\"Une fois qu'on aura les jeux et (espérons-le) l'alcool, il ne restera plus qu'à s'assurer que tout le monde passe un bon moment et parte en souhaitant voter pour moi.\"",
+            people=[autumn, aubrey, mc],
+            cost=0)
+
+        lindsey_board.add_task("VIP Night",
+            "Réserver une limousine et un club privé (800 $)",
+            "\"Ça représentera une grosse partie de mon budget de campagne, mais cette location de limousine et cette salle VIP dans la boîte de nuit la plus proche feront un tabac pour nos amis. J'ai hâte de pouvoir les chouchouter toute la soirée.\"",
+            cost=800)
+
+        v2_s12_lindsey_pb_inviteSebastian = lindsey_board.add_subtask("VIP Night",
+            "Inviter Aubrey, Autumn, et Sebastian",
+            opinion="\"Aubrey et Autumn viendront sans aucun doute, je veux pouvoir passer un peu de temps avec elles loin de Chloé. La troisième personne que je voudrais inviter serait Sebastian. On est assez proches et le fait que Seb soit de mon côté signifierait un plus grand soutien de la part des Wolves.\"",
+            people=[aubrey, autumn, sebastian],
+            cost=0)
+
+        lindsey_board.add_subtask("VIP Night",
+            "Inviter Aubrey, Autumn et Grayson",
+            opinion="\"Aubrey et Autumn viendront sans aucun doute, je veux pouvoir passer du temps avec elles loin de Chloé. La troisième personne que je voudrais inviter serait Grayson. Il a déjà une haine ardente envers Chloé et il me permettrait d'obtenir le soutien des Apes.\"",
+            people=[aubrey, autumn, grayson],
+            cost=0)
+
+        lindsey_board.add_task("VIP Night",
+            "Organiser une soirée VIP exceptionnelle",
+            opinion="\"Pour terminer, une soirée inoubliable ! Notre principal objectif pendant celle-ci sera les trois personnes qu'on souhaitera impressionner. Les satisfaire et les divertir toute la soirée sera notre seul objectif, en plus de nous faire passer un très bon moment.\"",
+            people=[mc, lindsey, aubrey, autumn],
+            cost=0) # Can't add Sebastian or Grayson here because we're loading the menu before the player can select.
+
+    call screen planning_board(lindsey_board)
+
+    if lindsey_board.approach is not None:
+        $ v2_lindsey_gamenight = lindsey_board.approach.id == "Game Night"
+
+    if lindsey_board.selected_task is not None:
+        $ v2_lindsey_mostlikelyto = lindsey_board.selected_task == v2s12_lindsey_pb_mostlikely
+        $ v2_lindsey_inviteseb = lindsey_board.selected_task == v2_s12_lindsey_pb_inviteSebastian
+
+    # End planning board (screen disappears)
+
 # game/v2/scene12.rpy:546
 translate francais v2s12_e44db73c:
 

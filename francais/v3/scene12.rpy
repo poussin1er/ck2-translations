@@ -162,6 +162,64 @@ translate francais v3s12_a9067dc1:
     # u "Okay, show me what you've got."
     u "Bon, montre-moi ce que t'as."
 
+    python:
+        chloe_board = PlanningBoard("images/v3/planning_boards/chloe_background.webp", money=chloe_board.money)
+
+        chloe_board.add_approach("Newspaper",
+            "Décider de la couverture du nouveau journal des élèves",
+            opinion="\"Elijah lance un journal scolaire et pour sa première édition, j'ai BESOIN d'avoir le contrôle sur ce qui sera ou sur qui figurera sur sa couverture. Il faudra trouver un moyen de le convaincre de nous laisser décider de ce que l'on mettra en couverture.\"")
+
+        chloe_board.add_approach("Sparty",
+            "Journée spa pour les Chicks",
+            opinion="\"J'ai vraiment envie de faire plaisir à toutes les filles, et malheureusement... Je dis bien \"toutes\". Il faudra que je mette les drames de côté pour une soirée et que je me détende pendant la Sparty ! Tu comprends ? Une soirée spa ? Non ? OK, de toute façon ! Elles adoreront et elles m'aimeront encore plus après ça.\"")
+
+        chloe_board.add_task("Newspaper",
+            "Convaincre Elijah de nous laisser décider de la couverture",
+            opinion="\"Convaincre Elijah ne devrait vraiment pas être trop difficile. On pourrait organiser une entrevue avec lui, voir ce qu'il en pense et peut-être qu'on pourrait trouver un accord.\"",
+            people=[elijah,chloe,mc])
+
+        v3s12_chloe_on_cover = chloe_board.add_subtask("Newspaper",
+            "Promouvoir Chloé sur la couverture",
+            opinion="\"Pour la couverture, me promouvoir est une évidence : je pourrais obtenir un bon cliché, j'en ai déjà quelques-uns. Ensuite, on devra simplement décider ce qu'on veut qu'elle contienne et quel style conviendrait le mieux.\"")
+
+        chloe_board.add_subtask("Newspaper",
+            "Embarrasser Lindsey sur la couverture",
+            opinion="\"Au lieu de me mettre sur la couverture, on pourrait utiliser ça à notre avantage et vraiment bousiller la campagne de Lindsey. On pourrait peut-être trouver une photo intéressante, voir même en photoshoper une.\"")
+
+        chloe_board.add_task("Newspaper",
+            "Design de la couverture",
+            opinion="\"L'étape finale sera de la concevoir comme on le souhaite. Dès que tout sera parfait, on laissera la touche finale à l'équipe du journal.\"")
+
+        chloe_board.add_task("Sparty",
+            "Acheter des articles pour la journée spa (100 $)",
+            opinion="\"Acheter les articles qu'on voudra est la première étape, on doit s'assurer de choisir des choses qui sentent bon, qui ne sont pas bon marché et qui permettront de s'amuser pendant la soirée.\"",
+            cost=100)
+
+        chloe_board.add_subtask("Sparty",
+            "Engager une masseuse professionnelle (300 $)",
+            opinion="\"Les massages seront essentiels et on veut qu'elles soient envoûtées par des mains professionnelles. Ça coûtera un bon paquet de dollars, mais ça signifiera que toi et moi pourrons nous concentrer sur l'ambiance et sur les personnes présentes.\"",
+            cost=300)
+
+        v3s12_chloe_mc_masseuse = chloe_board.add_subtask("Sparty",
+            "[name] se charge des massages",
+            opinion="\"Si on veut économiser un peu d'argent, tu pourrais être notre masseur lors de cette soirée. À toi de voir, haha.\"")
+
+        chloe_board.add_task("Sparty",
+            "Accueillir une séance de spa",
+            opinion="\"Enfin, et surtout, on accueillera les filles ! N'oublie pas que je me comporterai de la meilleure façon possible, afin d'éviter au maximum les problèmes, alors je t'en prie, aide-moi à y parvenir.\"",
+            people=[chloe,nora,aubrey,lindsey,jenny])
+
+    call screen planning_board(chloe_board)
+
+    if chloe_board.approach is not None:
+        $ v3_chloe_newspaper = chloe_board.approach.id == "Newspaper"
+
+    if chloe_board.selected_task is not None:
+        $ v3_chloe_on_cover = chloe_board.selected_task == v3s12_chloe_on_cover
+        $ v3_chloe_mc_masseuse = chloe_board.selected_task == v3s12_chloe_mc_masseuse
+
+    # End planning board (screen disappears)
+
 # game/v3/scene12.rpy:216
 translate francais v3s12_73c96d19:
 

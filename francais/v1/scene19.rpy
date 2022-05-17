@@ -72,6 +72,47 @@ translate francais v1s19_8e95fb42:
     # cl "So, here's what I'm thinking for phase one."
     cl "Alors, voici à quoi je pense pour la première phase."
 
+    python:
+        chloe_board.add_approach("Wolves", "Proclamer les Wolves comme confrérie officielle des Chicks", opinion="\"Les Wolves et les Chicks ont déjà un lien spécial, mais on peut convaincre Chris de faire des Wolves notre confrérie officielle. Ce qui impliquera une vie entière de loyauté et de soutien, ce qui est exactement ce dont j'ai besoin en ce moment.\"")
+        chloe_board.add_approach("Apes", "Mettre les Apes de notre côté", opinion="\"En ce moment, Chris est pratiquement comme une plaie ouverte et je ne veux pas remuer le couteau dans la plaie, avec tout ce qu'il traverse. Si on profite de ce moment de vulnérabilité pour lui faire entendre raison, on pourra peut-être l'amener à se concentrer sur lui-même, sur les Wolves et, surtout, sur moi en tant que Présidente des Chicks. Fais juste attention à ne pas dire la mauvaise chose...\"")
+
+        chloe_board.add_task("Wolves", "Parler à Chris pour obtenir son soutien complet",
+            opinion="\"Chris est pratiquement comme une plaie ouverte en ce moment, et je ne veux pas remuer le couteau dans la plaie qu'il traverse. Si on profite de ce moment de vulnérabilité pour lui faire entendre raison, on pourra peut-être l'amener à se concentrer sur ce qui est vraiment important.\"",
+            people=[mc, chloe, chris])
+        v1s19_real_wolf = chloe_board.add_subtask("Wolves", "Photoshoot with a real wolf ($450)",
+            opinion="\"On pourra louer un loup pendant une heure en échange d'une jolie somme. Peux-tu imaginer ce que les gens diront quand ils verront que les Chicks se sont associées aux Wolves et que je pose avec un vrai loup?!\"",
+            people=[mc, chloe, wolf, trainer],
+            cost=450)
+        v1s19_plush_wolf = chloe_board.add_subtask("Wolves", "Photoshoot avec un loup en peluche (50 $)",
+            opinion="\"Je pourrais facilement trouver une peluche de loup pour poser avec. C'est un peu moins intéressant qu'un vrai, mais certainement moins cher et bien sûr, l'option \"la plus sûre\".\"",
+            people=[mc, chloe],
+            cost=50)
+        chloe_board.add_task("Wolves", "Poste la photo sur Kiwii",
+            opinion="\"La dernière étape sera de poster la photo avec une bonne légende et d'espérer que tout se passe bien.\"",
+            people=[mc, chloe])
+
+        chloe_board.add_task("Apes", "Organise une petite rencontre avec Cameron, Grayson, Chloé, Aubrey et toi.",
+            opinion= "\"Commençons par le commencement : Tous les rassembler dans une pièce, leur donner à chacun une bière et mettre de la bonne musique. Alors, une fois l'ambiance posée, on pourra passer aux choses sérieuses.\"",
+            people=[mc, chloe, aubrey, grayson, cameron])
+        v1s19_talk_cameron = chloe_board.add_subtask("Apes", "Parler à Cameron d'une alliance stratégique",
+            opinion="\"Cameron a secrètement d'incroyables qualités de leader, et je sais qu'il prévoit de les utiliser un jour. Si on dit à Cameron exactement ce qu'il veut entendre en ce qui concerne l'avenir des Apes, il n'aura aucune raison de voter contre moi.\"",
+            people=[mc, chloe, cameron])
+        v1s19_seduce_grayson = chloe_board.add_subtask("Apes", "Séduire Grayson",
+            opinion="\"Ne te méprends pas, je sais que ça a l'air un peu... manipulateur, mais tu dois admettre que je peux facilement mettre Grayson de notre côté avec une pincée de flirt. Et crois-moi, il n'en faudra pas beaucoup, surtout avec quelques verres dans le nez.\"",
+            people=[mc, chloe, grayson])
+
+    call screen planning_board(chloe_board)
+
+label v1s19_continue:
+    $ v1_chloe_wolves = chloe_board.approach.id == "Wolves"
+    $ v1_realwolf = chloe_board.selected_task == v1s19_real_wolf
+    $ v1_chloe_cameron = chloe_board.selected_task == v1s19_talk_cameron
+
+    if v1_realwolf:
+        $ chloe_board.money -= 450
+    elif v1_chloe_wolves:
+        $ chloe_board.money -= 50
+
 # game/v1/scene19.rpy:126
 translate francais v1s19_continue_3076e58f:
 

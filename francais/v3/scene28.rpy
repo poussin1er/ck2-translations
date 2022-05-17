@@ -54,6 +54,65 @@ translate francais v3s28_50e0c55c:
     # li "I had some other ideas but I think these are the strongest, especially after hearing what Penelope said earlier."
     li "J'avais d'autres idées mais je pense que celles-ci sont les meilleures, surtout après avoir entendu ce que Pénélope a dit tout à l'heure."
 
+    python:
+        lindsey_board = PlanningBoard("images/v3/planning_boards/lindsey_background.webp", money=lindsey_board.money, style="lindsey_board")
+
+        lindsey_board.add_approach("Newspaper",
+            "Lindsey est interviewée pour le journal de l'université",
+            opinion="\"Le journal de l'université va être très populaire, surtout le premier. Ça serait génial d'y avoir un article entier consacré à ma campagne. On pourra raconter tout ce qu'on veut, que ce soit en positif sur moi ou en négatif au sujet de mon adversaire.\"")
+
+        lindsey_board.add_approach("Polly",
+            "Faire en sorte que Polly soutienne Lindsey",
+            opinion="\"Une grande pop star est en ville, et il va falloir en profiter. Tu imagines si Polly soutenait ma campagne ? On pourrait peut-être même la faire se produire sur scène ! Ça serait complètement dingue.\"")
+
+        v3s28_lindsey_elijah = lindsey_board.add_subtask("Newspaper",
+            "Demander à Elijah d'interviewer Lindsey",
+            opinion="\"Elijah est à la tête du journal, il est donc logique de lui demander une interview. Par contre... C'est un vrai connard. Je ne le laisserais pas accepter cette idée simplement parce qu'il cherchera à déformer mes propos pour en faire un blog à ragots. Il faut qu'on soit prêts quand on le rencontrera.\"",
+            people=[elijah])
+
+        lindsey_board.add_subtask("Newspaper",
+            "Demander à Riley d'interviewer Lindsey",
+            opinion="\"Riley est nouvelle sur la scène du journal, et en plus c'est une fille. Je serais certainement plus à l'aise si c'était Riley qui m'interviewait, mais là encore, il faut qu'on s'assure que l'article ait l'air professionnel, alors il faudra préparer nos sujets.\"",
+            people=[riley])
+
+        lindsey_board.add_task("Newspaper",
+            "préparer Lindsey pour l'interview",
+            opinion="\"Tu seras mon coach en relations publiques, d'accord ? On va même préparer une liste de questions lors d'une interview fictive, pour qu'on puisse vraiment voir si je me débrouille bien sous pression et que tu puisses me donner des conseils sur ce qu'il est préférable de dire à notre interlocuteur.\"",
+            people=[lindsey,mc])
+
+        lindsey_board.add_task("Newspaper",
+            "Lindsey fait l'interview",
+            opinion="\"Il va falloir que je fasse cette interview seule, parce qu'ils vont certainement écrire ça là-dedans. Mais tu pourrais peut-être me regarder et me soutenir à distance.\"",
+            people=[lindsey])
+
+        lindsey_board.add_task("Polly",
+            "Découvrir où se trouve Polly",
+            opinion="\"La première étape de cette incroyable idée est de découvrir où se trouve Polly. J'ai un ou deux amis qui pourraient nous aider à la retrouver. Il va falloir faire quelques efforts pour la localiser, mais je te promets. J'y arriverai.\"")
+
+        v3s28_lindsey_roomservice = lindsey_board.add_subtask("Polly",
+            "Se faire passer pour le room service",
+            opinion="\"Une fois qu'on saura où elle séjourne, on pourra mettre la main sur des uniformes d'employés correspondants, et monter dans sa chambre en tant que Room Service. Il faudra juste faire attention à ce qu'on dira, on n'a pas envie qu'elle nous prenne pour des harceleurs détraqués, tu vois ?\"")
+
+        lindsey_board.add_subtask("Polly",
+            "Se présenter en tant que soi-même",
+            opinion="\"Une fois qu'on saura où elle séjourne, on tentera notre chance en frappant à sa porte. Polly n'est pas une personne détestable, elle ne refusera donc pas la visite de deux très grands fans, mais il faudra faire attention à ne pas la faire paniquer.\"")
+
+        lindsey_board.add_task("Polly",
+            "Convaincre Polly de soutenir Lindsey lors de son concert acoustique",
+            opinion="\"Enfin, on demandera à Polly de bien vouloir soutenir ma campagne. Je ne sais pas du tout si elle va se produire, poster quelque chose, ou de ce qu'on pourra lui faire faire... Mais j'espère bien qu'on pourra parvenir à quelque chose.\"",
+            people=[lindsey,mc,polly])
+
+    call screen planning_board(lindsey_board)
+
+    if lindsey_board.approach is not None:
+        $ v3_lindsey_newspaper = lindsey_board.approach.id == "Newspaper"
+
+    if lindsey_board.selected_task is not None:
+        $ v3_lindsey_elijah = lindsey_board.selected_task == v3s28_lindsey_elijah
+        $ v3_lindsey_roomservice = lindsey_board.selected_task == v3s28_lindsey_roomservice
+
+    # End planning board (screen disappears)
+
 # game/v3/scene28.rpy:127
 translate francais v3s28_dcd99046:
 
