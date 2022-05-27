@@ -190,7 +190,7 @@ translate francais v1s28_7762068e:
 translate francais v1s28_2b674013:
 
     # u "Okay..."
-    u "Okay..."
+    u "Laquelle...?"
 
 # game/v1/scene28.rpy:165
 translate francais v1s28_7344780b:
@@ -352,7 +352,7 @@ translate francais v1s28_de6c6282:
 translate francais v1s28_e40ed444:
 
     # u "Well, I'm glad you did."
-    u "Et bien, je suis content que tu l'aies fait."
+    u "Et bien, je suis content que tu me l'aies dit."
 
 # game/v1/scene28.rpy:281
 translate francais v1s28_b236b055:

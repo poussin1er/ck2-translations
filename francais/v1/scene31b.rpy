@@ -148,7 +148,7 @@ translate francais v1s31b_89d6727c:
 translate francais v1s31b_0db697cc:
 
     # cl "If you were there he'd know something was up. No matter how drunk he is."
-    cl "Si tu étais là, il saurait que quelque chose se passe. Peu importe à quel point il est ivre."
+    cl "Si tu étais là, il se douterait qu'il se passe quelque chose. Peu importe son état d'ébriété."
 
 # game/v1/scene31b.rpy:157
 translate francais v1s31b_57ae9944:
@@ -160,7 +160,7 @@ translate francais v1s31b_57ae9944:
 translate francais v1s31b_d952532e:
 
     # u "*Sighs* I trust that you'll do what's best."
-    u "*Soupirs* Je sais que tu feras ce qui est le mieux."
+    u "*Soupirs* Je suis sûr que tu feras ce qui convient."
 
 # game/v1/scene31b.rpy:177
 translate francais v1s31b_aac0bbae:
@@ -172,19 +172,19 @@ translate francais v1s31b_aac0bbae:
 translate francais v1s31b_3f8592ef:
 
     # u "Yeah... Of course."
-    u "Ouais... Bien sûr."
+    u "T'inquiète pas... C'est normal."
 
 # game/v1/scene31b.rpy:197
 translate francais v1s31b_3907b078:
 
     # u "I'm sorry, but... I don't feel comfortable with that."
-    u "Je suis desolé, mais... Je me sens pas à l'aise avec ça."
+    u "Je suis désolé, mais... Je suis pas à l'aise avec ça."
 
 # game/v1/scene31b.rpy:202
 translate francais v1s31b_cbdbdc30:
 
     # cl "*Sighs* Okay, I understand."
-    cl "*Soupirs* Ok, je comprends."
+    cl "*Soupirs* D'accord... je comprends."
 
 # game/v1/scene31b.rpy:207
 translate francais v1s31b_f15cadce:
@@ -196,7 +196,7 @@ translate francais v1s31b_f15cadce:
 translate francais v1s31b_cce1b4f7:
 
     # cl "Yeah, I get it."
-    cl "Ouais, je comprends."
+    cl "Oui, je comprends."
 
 # game/v1/scene31b.rpy:217
 translate francais v1s31b_2220486d:
@@ -286,7 +286,7 @@ translate francais v1s31b_6a5545df:
 translate francais v1s31b_f8278f87:
 
     # au "Well, isn't this a crazy bunch. Two Greek heads who used to date, the hot shot freshman that everyone knows, and of course..."
-    au "Et bien, c'est une équipe de folie ? Deux chefs de frats qui sortaient ensemble, le nouveau venu sexy que tout le monde connaît déjà, et bien sûr..."
+    au "Et ben, c'est une équipe de folie ? Deux chefs de frats qui sortaient ensemble, le nouveau venu sexy que tout le monde connaît déjà, et bien sûr..."
 
 # game/v1/scene31b.rpy:360
 translate francais v1s31b_d5e9e6a9:
@@ -304,7 +304,7 @@ translate francais v1s31b_108b353e:
 translate francais v1s31b_0c815a1e:
 
     # u "The hot shot freshman, huh? Haven't heard that one yet."
-    u "Le nouveau venu sexy, hein ? Je l'avait pas encore entendue, celle-là."
+    u "Le nouveau venu sexy, hein ? Celle-là, je l'avait pas encore entendue."
 
 # game/v1/scene31b.rpy:375
 translate francais v1s31b_45ddb14e:
@@ -346,7 +346,7 @@ translate francais v1s31b_d5a24e27:
 translate francais v1s31b_6fc874fd:
 
     # au "Are we just chillin' for now? I'm cool with that, if that's the case."
-    au "On va juste se détendre pour l'instant ? Je suis cool avec ça, si c'est le cas."
+    au "Pour l'instant, On fait que se détendre ? Si c'est le cas, ça me va."
 
 # game/v1/scene31b.rpy:427
 translate francais v1s31b_875559cc:
@@ -412,7 +412,7 @@ translate francais v1s31b_7a244fca:
 translate francais v1s31b_6b6477c0:
 
     # cl "Yeah... Not like I used to be."
-    cl "Ouais... Pas comme je l'étais avant."
+    cl "C'est vrai mais... Pas comme je l'étais avant."
 
 # game/v1/scene31b.rpy:531
 translate francais v1s31b_00320270:
@@ -778,7 +778,7 @@ translate francais v1s31b_975026b2:
 translate francais v1s31b_d5489a57:
 
     # au "Sorry... Honestly, it's probably torture for her."
-    au "Désolé... Pour être honnête, c'est sûrement une torture pour elle."
+    au "Désolée... Pour être honnête, c'est sûrement une torture pour elle."
 
 # game/v1/scene31b.rpy:937
 translate francais v1s31b_8df05827:
@@ -838,7 +838,7 @@ translate francais v1s31b_39a25115:
 translate francais v1s31b_6221a2e1:
 
     # au "Wait... You're just leaving me here?"
-    au "Attends... Tu me laisses ici ?"
+    au "Attends... Tu me laisses là ?"
 
 # game/v1/scene31b.rpy:1003
 translate francais v1s31b_aa0a757f:
@@ -1243,13 +1243,13 @@ translate francais v1s31b_9a2ae209:
 translate francais v1s31b_d9eaafbc:
 
     # cl "Or, I guess... we know each other too well."
-    cl "Ou, je peut-être que... Qu'on se connait trop bien."
+    cl "Je dirais même, peut-être que... Qu'on se connait trop bien."
 
 # game/v1/scene31b.rpy:152
 translate francais v1s31b_3df81b16:
 
     # cl "If you were there, he'd know something was up. No matter how drunk he is."
-    cl "Si tu étais là, il saurait que quelque chose se passe. Peu importe à quel point il est ivre."
+    cl "Si tu étais là, il se douterait qu'il se passe quelque chose. Peu importe son état d'ébriété."
 
 # game/v1/scene31b.rpy:253
 translate francais v1s31b_b39385ba:
@@ -1369,7 +1369,7 @@ translate francais v1s31b_7b93cd6b:
 translate francais v1s31b_56d6ebce:
 
     # au "Sorry... honestly, it's probably torture for her."
-    au "Désolé... Pour être honnête, c'est sûrement une torture pour elle."
+    au "Désolée... Pour être honnête, c'est sûrement une torture pour elle."
 
 # game/v1/scene31b.rpy:935
 translate francais v1s31b_de58b201:

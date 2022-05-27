@@ -28,7 +28,7 @@ translate francais v1s31_f41eb92b:
 translate francais v1s31_48eaceaf:
 
     # cl "You know my relationship with the Apes is rocky because of me and Grayson."
-    cl "Tu sais que mes relations avec les Apes sont difficiles à cause de moi et Grayson."
+    cl "Tu sais que mes relations avec les Apes sont difficiles à cause... de moi et Grayson."
 
 # game/v1/scene31.rpy:43
 translate francais v1s31_179fafc0:
