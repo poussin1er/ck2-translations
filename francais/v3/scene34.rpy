@@ -1041,3 +1041,406 @@ translate francais strings:
     # game/v3/scene34.rpy:720
     old "Tell him to fuck off"
     new "Lui dire d'aller se faire foutre"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene34.rpy:29
+translate francais v3s34_e0243018:
+
+    # cl "*Mmm, good boy."
+    cl "Mmm, brave garçon."
+
+# game/v3/scene34.rpy:49
+translate francais v3s34_e7819425:
+
+    # u "If Elijah put it there, won't he want his weird Elijah-rules followed?"
+    u "Si Elijah l'a mis là, tu crois pas qu'il voudrait que ses règles personnelles chelou soient respectées ?"
+
+# game/v3/scene34.rpy:74
+translate francais v3s34_5a0497ca:
+
+    # u "What a weird guy."
+    u "Ce mec est chelou."
+
+# game/v3/scene34.rpy:98
+translate francais v3s34_b90b2b22:
+
+    # u "Oh yeah, of course. Civilized people know how to knock before entering a room."
+    u "Ah oui, bien sûr. Les personnes civilisées connaissent la procédure à suivre et elles frappent avant d'entrer quelque part."
+
+# game/v3/scene34.rpy:121
+translate francais v3s34_c010db62:
+
+    # cl "Exactly. Acting like he's the dean."
+    cl "Voilà. Il se prend pour le doyen."
+
+# game/v3/scene34.rpy:150
+translate francais v3s34_47e38ccc:
+
+    # u "What's the matter? Worried we'd catch you jerking off?"
+    u "C'est quoi le problème ? T'as peur qu'on te choppe en train de te branler ?"
+
+# game/v3/scene34.rpy:190
+translate francais v3s34_a9e5e6ab:
+
+    # u "(He definitely jerks off in here.)"
+    u "(Je suis sûr qu'il se branle là-dedans.)"
+
+# game/v3/scene34.rpy:200
+translate francais v3s34_d4f1d058:
+
+    # cl "Right, well... As you know, I'm deep into my Chicks presidential campaign right now."
+    cl "Bon, alors... Comme tu le sais, en ce moment, je suis à fond dans ma campagne présidentielle des Chicks."
+
+# game/v3/scene34.rpy:205
+translate francais v3s34_7b66a372:
+
+    # el "Indeed. You and Lindsey are putting a lot of work in your campaigns."
+    el "En effet. Lindsey et toi mettez beaucoup de cœur à l'ouvrage dans vos campagnes."
+
+# game/v3/scene34.rpy:210
+translate francais v3s34_fc7d01b0:
+
+    # cl "Right, I am very committed. I just need some help proving to SVC that I'm the most dedicated and responsible candidate."
+    cl "C'est vrai, je suis très engagée. J'ai juste besoin d'aide pour prouver à la SVC que je suis la candidate la plus dévouée et la plus responsable."
+
+# game/v3/scene34.rpy:215
+translate francais v3s34_eab250ae:
+
+    # el "Okay, so what can I do for you?"
+    el "Bien, alors qu'est-ce que je peux faire pour toi ?"
+
+# game/v3/scene34.rpy:220
+translate francais v3s34_7c495108:
+
+    # cl "With the current hype about the SVC Newspaper, I can tell that your first edition is going to be a major hit."
+    cl "Avec le buzz actuel autour du journal de la SVC, je peux te garantir que ta première édition va cartonner."
+
+# game/v3/scene34.rpy:225
+translate francais v3s34_1213f198:
+
+    # el "Oh, why thank you. I'm glad to hear that the student body is excited about the idea."
+    el "Oh, merci beaucoup. Je suis heureux d'apprendre que le corps étudiant réagit favorablement à cette idée."
+
+# game/v3/scene34.rpy:240
+translate francais v3s34_830f195e:
+
+    # u "It is kind of surprising... everyone liking something that Elijah did, right?"
+    u "C'est d'ailleurs assez surprenant... tout le monde aime quelque chose qu'Elijah fait, non ?"
+
+# game/v3/scene34.rpy:250
+translate francais v3s34_97e89ccb:
+
+    # cl "*Sighs* [name], no jokes today please."
+    cl "*Soupirs* [name], pas de plaisanteries aujourd'hui, s'il te plaît."
+
+# game/v3/scene34.rpy:308
+translate francais v3s34_d019e734:
+
+    # cl "With your help, of course. But yeah, this is the perfect opportunity to create a front cover that'll show SVC what I'm all about."
+    cl "Avec ton aide, bien sûr. Mais ouais, ça serait l'occasion parfaite de créer une couverture qui m'aiderait montrer au SVC qui je suis réellement."
+
+# game/v3/scene34.rpy:313
+translate francais v3s34_eb968c02:
+
+    # el "Hmm, that is an interesting idea."
+    el "Hmm, c'est une idée intéressante."
+
+# game/v3/scene34.rpy:323
+translate francais v3s34_983e122a:
+
+    # u "Pretty much, yeah."
+    u "En gros, oui."
+
+# game/v3/scene34.rpy:350
+translate francais v3s34_858563fa:
+
+    # u "When Chloe wins, you'll feel proud to have helped?"
+    u "Quand Chloé gagnera, tu seras fier de l'avoir aidé !?"
+
+# game/v3/scene34.rpy:379
+translate francais v3s34_7efdf97a:
+
+    # u "Ha! Oh yeah? Have they?"
+    u "Ah bon ? Vraiment ?"
+
+# game/v3/scene34.rpy:394
+translate francais v3s34_a0835e7d:
+
+    # u "(Oh yeah, fuckwit. The SVC Times is right up there with the Bluffington Post.)"
+    u "(Eh ouais, crétin. Le SVC Times est juste au même niveau que le Bluffington Post.)"
+
+# game/v3/scene34.rpy:404
+translate francais v3s34_6ba0f7c1:
+
+    # u "So... your fix to the whole \"journalistic integrity\" thing is to ask for... a bribe?"
+    u "Alors... ta réponse à toute cette histoire \"d'intégrité journalistique\" est de demander... un pot-de-vin ?"
+
+# game/v3/scene34.rpy:406
+translate francais v3s34_02867c7b:
+
+    # u "So you want money? If you're that desperate then I'm sure Chloe can-"
+    u "Alors, tu veux de l'argent ? Si t'es si désespéré, je suis sûr que Chloé peut-"
+
+# game/v3/scene34.rpy:416
+translate francais v3s34_e125ef2e:
+
+    # u "Okay, do I dare ask what you do want?"
+    u "Bon, est-ce que je peux te demander ce que tu veux ?"
+
+# game/v3/scene34.rpy:431
+translate francais v3s34_c5e9c30d:
+
+    # u "Oh, really? I'm very, uh... surprised. Very. (Where the fuck is this going?)"
+    u "Ah, sérieux ? Je suis vraiment, euh... surpris. Vraiment. (C'est quoi ce bordel ?)"
+
+# game/v3/scene34.rpy:458
+translate francais v3s34_13a9d4bb:
+
+    # u "Oh my God! You fucking idiot."
+    u "Oh merde ! Mais quel con !"
+
+# game/v3/scene34.rpy:463
+translate francais v3s34_22189246:
+
+    # u "Oh fuck, Oh my God, it hurts..."
+    u "Oh putain de merde, ça fait mal..."
+
+# game/v3/scene34.rpy:473
+translate francais v3s34_7832707b:
+
+    # u "You... *Coughs violently*"
+    u "Tu... *Tousse violemment*."
+
+# game/v3/scene34.rpy:475
+translate francais v3s34_427cc59c:
+
+    # u "Oh my God. I can't handle this. You're actually serious right now?"
+    u "Oh merde. Je peux pas gérer ça. T'es sérieux là ?"
+
+# game/v3/scene34.rpy:496
+translate francais v3s34_1df10988:
+
+    # u "Are you out of your fucking mind, Elijah?"
+    u "T'as pété les putain de plombs, Elijah ?"
+
+# game/v3/scene34.rpy:526
+translate francais v3s34_fc941eea:
+
+    # u "You. Want to fuck. My girlfriend. That's where we're at."
+    u "Toi. Tu veux baiser. Ma meuf. C'est vraiment ce que tu proposes."
+
+# game/v3/scene34.rpy:531
+translate francais v3s34_47e012df:
+
+    # el "I just mean-"
+    el "Je voulais juste dire-"
+
+# game/v3/scene34.rpy:536
+translate francais v3s34_d99b8682:
+
+    # u "You're lucky Chloe needs you, you son of a bitch. Because I feel like putting your head through that monitor."
+    u "T'as de la chance que Chloé ait besoin de toi, fils de pute. Parce que là, j'ai vraiment envie de te faire traverser la tête à travers cet écran."
+
+# game/v3/scene34.rpy:541
+translate francais v3s34_8619d847:
+
+    # el "Come on. At least talk to her about it. See what she thinks?"
+    el "Allez. Parle-lui au moins de ça. Et vois ce qu'elle pense ?"
+
+# game/v3/scene34.rpy:578
+translate francais v3s34_e6cdf206:
+
+    # cl "And why do you look so angry?"
+    cl "Et pourquoi tu as l'air énervé ?"
+
+# game/v3/scene34.rpy:583
+translate francais v3s34_088b24e8:
+
+    # u "*Sighs* Get this. In return for giving us the cover, he wants..."
+    u "*Soupirs* Écoute ça : Pour nous donner la couverture, il veut..."
+
+# game/v3/scene34.rpy:593
+translate francais v3s34_1779c6b4:
+
+    # cl "Fuck, just spit it out, [name]. Please! You're freaking me out."
+    cl "Putain, crache le morceau, [name]. S'il te plaît ! Tu me fais peur."
+
+# game/v3/scene34.rpy:613
+translate francais v3s34_155d54fc:
+
+    # cl "Oh my God. Oh my God, this is too good."
+    cl "Oh là là. Oh là là, c'est trop fort."
+
+# game/v3/scene34.rpy:618
+translate francais v3s34_c6957ce6:
+
+    # u "Yeah... so funny... (We're laughing?)"
+    u "Ouais... vraiment marrant... (On rigole ?)"
+
+# game/v3/scene34.rpy:623
+translate francais v3s34_a27890b5:
+
+    # cl "Oh my God... you're serious?! *Whispers* That is _so_ gross!"
+    cl "Oh merde... tu es sérieux ?! *Chuchote* C'est _trop_ dégueu !"
+
+# game/v3/scene34.rpy:633
+translate francais v3s34_a7aade23:
+
+    # cl "Oh my God, I can't even deal with that. I hope you went easy on him."
+    cl "Oh merde, je ne peux même pas gérer ça. J'espère que tu y es allé doucement avec lui."
+
+# game/v3/scene34.rpy:644
+translate francais v3s34_ef83c53c:
+
+    # cl "Aww, my protective boy."
+    cl "Oooh, mon petit protecteur."
+
+# game/v3/scene34.rpy:654
+translate francais v3s34_6af13111:
+
+    # cl "Well deserved."
+    cl "Bien mérité."
+
+# game/v3/scene34.rpy:660
+translate francais v3s34_e1a8fd23:
+
+    # u "I almost pissed myself. Not even joking."
+    u "J'ai failli me pisser dessus en riant. Je déconne pas."
+
+# game/v3/scene34.rpy:665
+translate francais v3s34_b848afe6:
+
+    # cl "I would've too! Holy shit."
+    cl "Moi aussi, j'ai failli ! Oh, Putain."
+
+# game/v3/scene34.rpy:672
+translate francais v3s34_55ac8b30:
+
+    # cl "I'm not even joking, I've done it before. Obviously not with Elijah. Ew."
+    cl "Je ne rigole pas, j'ai déjà fait ça avant. Mais bien sûr pas avec Elijah. Beurk."
+
+# game/v3/scene34.rpy:677
+translate francais v3s34_fea7df96:
+
+    # u "I mean, I wouldn't doubt it, honestly."
+    u "Franchement, j'en doute pas."
+
+# game/v3/scene34.rpy:687
+translate francais v3s34_32ff83a1:
+
+    # u "Ugh, let's hear this..."
+    u "Argh, écoutons ça..."
+
+# game/v3/scene34.rpy:692
+translate francais v3s34_e86bc92a:
+
+    # cl "Either I offer him a kiss-"
+    cl "Soit je lui fais un bisou-"
+
+# game/v3/scene34.rpy:723
+translate francais v3s34_dea597f5:
+
+    # cl "Wait, you crazy boy. The second option definitely means no front cover, though. So, seriously... what do you think?"
+    cl "Attends, t'es fou. La deuxième option implique à coup sûr l'absence de couverture dans le journal. Alors, sincèrement... t'en penses quoi ?"
+
+# game/v3/scene34.rpy:747
+translate francais v3s34_413d3537:
+
+    # cl "Very true. That's what I needed. *Deep breaths* Okay, let's do this."
+    cl "C'est vrai. C'est ce dont j'avais besoin. *Respiration profonde* Ok, on y va."
+
+# game/v3/scene34.rpy:767
+translate francais v3s34_6b4944b7:
+
+    # el "Um, so? What's your decision?"
+    el "Hum, alors ? Quelle est ta décision ?"
+
+# game/v3/scene34.rpy:772
+translate francais v3s34_ebf159a1:
+
+    # el "*High pitched whining*"
+    el "*Gémissements très aigus*."
+
+# game/v3/scene34.rpy:779
+translate francais v3s34_f38d84c9:
+
+    # el "*Elijah shudders slightly where he stands*"
+    el "*Elijah frissonne légèrement sur place*"
+
+# game/v3/scene34.rpy:831
+translate francais v3s34_85fb668b:
+
+    # u "Gladly. Don't forget to clean yourself up there, buddy!"
+    u "Avec plaisir. N'oublie pas d'aller te nettoyer en bas, mon pote !"
+
+# game/v3/scene34.rpy:846
+translate francais v3s34_6f67e92c:
+
+    # u "Well, that was traumatizing."
+    u "Eh ben, c'était traumatisant."
+
+# game/v3/scene34.rpy:851
+translate francais v3s34_ce0e4878:
+
+    # cl "At least you just had to watch. I got to experience that bullshit up close."
+    cl "Au moins, tu n'as eu qu'à regarder. Moi, j'ai dû vivre cette merde."
+
+# game/v3/scene34.rpy:853
+translate francais v3s34_ed1366ff:
+
+    # cl "*Sighs* Well, now that I can at least mark that off the list... I have about twenty more things to do before tonight."
+    cl "*Soupirs* Bon, maintenant que je peux au moins rayer ça de la liste... J'ai encore une vingtaine de choses à faire avant ce soir."
+
+# game/v3/scene34.rpy:858
+translate francais v3s34_5e2a17bd:
+
+    # u "You need a break."
+    u "T'as besoin d'une pause."
+
+# game/v3/scene34.rpy:876
+translate francais v3s34_31e6d9c8:
+
+    # cl "There. You're the only one that gets tongue."
+    cl "Voilà. Et toi, tu es le seul à avoir droit à la langue."
+
+# game/v3/scene34.rpy:881
+translate francais v3s34_6d19dba4:
+
+    # u "For free, too? I'm the luckiest guy in town."
+    u "Gratuitement en plus ? Je suis le mec le plus chanceux de la ville."
+
+# game/v3/scene34.rpy:886
+translate francais v3s34_60cc9f61:
+
+    # cl "I guess that makes me the luckiest girl."
+    cl "Ça doit faire de moi la fille la plus chanceuse."
+
+# game/v3/scene34.rpy:895
+translate francais v3s34_532cbe44:
+
+    # u "He's lucky we're walking away without breaking one of his bones. Or reporting him to the dean."
+    u "Il a quand même eu de la chance qu'on s'en aille sans lui briser un os. Ou le dénoncer à la doyenne."
+
+# game/v3/scene34.rpy:900
+translate francais v3s34_71994472:
+
+    # cl "Ha! Or both."
+    cl "Ou les deux."
+
+# game/v3/scene34.rpy:910
+translate francais v3s34_221a1d65:
+
+    # cl "You're right, that little perv doesn't even deserve the satisfaction of my lips..."
+    cl "Tu as raison, ce petit pervers ne mérite même pas la satisfaction de mes lèvres..."
+
+# game/v3/scene34.rpy:973
+translate francais v3s34_7b3e3e4f:
+
+    # cl "I'm still deciding whether I should tell the dean about your little request, or if I should just share it with the rest of SVC."
+    cl "Je suis toujours en train de décider si je dois parler de ta petite requête à la doyenne ou si je dois simplement la partager avec le reste de la SVC."
+
+# game/v3/scene34.rpy:1036
+translate francais v3s34_9265a04e:
+
+    # u "(Just hope there's not more frat drama when I get home!)"
+    u "(J'espère juste qu'il n'y aura pas un autre drame de fraternité quand je rentrerai à la maison !)"

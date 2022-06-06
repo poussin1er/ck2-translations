@@ -64,3 +64,10 @@ translate francais v1s14_19080ff1:
 
     # u "(Fuck, what time is it now?)"
     u "(Putain, il est quelle heure, là ?)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene14.rpy:51
+translate francais v1s14_3f89b3b1_2:
+
+    # u "*Phone vibrates*"
+    u "*Le téléphone vibre*"

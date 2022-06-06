@@ -709,3 +709,280 @@ translate francais strings:
     # game/v2/scene6.rpy:284
     old "Empathize"
     new "Fais preuve d'empathie"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene6.rpy:23
+translate francais v2s6_edaf75b6:
+
+    # u "(There's Chloe. Oh shit... is she crying?)"
+    u "(Voilà Chloé. Oh merde... Elle pleure ?)"
+
+# game/v2/scene6.rpy:24
+translate francais v2s6_11bd3b0e:
+
+    # u "(Oh no, I think I know what this is about. *Sighs*)"
+    u "(Oh non, je crois savoir de quoi il s'agit... *Soupirs*)"
+
+# game/v2/scene6.rpy:59
+translate francais v2s6_65f01bf6:
+
+    # cl "I don't know how I'm supposed to pay for... *crying* I needed that money..."
+    cl "Je ne sais pas comment je vais pouvoir payer pour... *Pleure* J'avais besoin de cet argent..."
+
+# game/v2/scene6.rpy:64
+translate francais v2s6_55370d84:
+
+    # u "(Well, fuck. So did we.)"
+    u "(Putain... Nous aussi.)"
+
+# game/v2/scene6.rpy:87
+translate francais v2s6_f1828e9d:
+
+    # cl "They were in my room! What if they were there while I was sleeping? I could be dead right now, I-"
+    cl "Ils ont été dans ma chambre ! Et s'ils avaient été là pendant que je dormais ? J'aurais mourir, là. Je-"
+
+# game/v2/scene6.rpy:93
+translate francais v2s6_21657167:
+
+    # cl "Somebody broke into my room, and... *sobbing* they took three hundred dollars out of my purse..."
+    cl "Quelqu'un est entré dans ma chambre... *Sanglote* Ils ont pris trois cents dollars dans mon sac à main..."
+
+# game/v2/scene6.rpy:98
+translate francais v2s6_6b24a8c3:
+
+    # u "Oh, Chloe. Oh no. Is... is that all they took?"
+    u "Oh, Chloé... Oh non. Ils... Ils t'ont pris que ça ?"
+
+# game/v2/scene6.rpy:103
+translate francais v2s6_0afa036c:
+
+    # cl "*Sniffles* Yeah... luckily, they didn't find my hidden stash with all the campaign money."
+    cl "*Renifles* Ouais... Heureusement, ils n'ont pas trouvé ma cachette avec tout l'argent de la campagne."
+
+# game/v2/scene6.rpy:109
+translate francais v2s6_500db1ad:
+
+    # u "(Or maybe they did find it but decided not to rob you clean...)"
+    u "(Ou peut-être qu'ils l'ont trouvée mais ont décidé de pas te dévaliser...)"
+
+# game/v2/scene6.rpy:126
+translate francais v2s6_5614616e:
+
+    # cl "They took all of it, [name]. All my campaign money... it's gone! *Sobbing*"
+    cl "Ils ont tout pris, [name]. Tout l'argent de ma campagne... Il n'y a plus rien ! *Sanglote*"
+
+# game/v2/scene6.rpy:131
+translate francais v2s6_0ce11584:
+
+    # u "Oh, shit... wait, who? How?"
+    u "Oh, merde... Attends, qui ? Comment ?"
+
+# game/v2/scene6.rpy:136
+translate francais v2s6_7d3394e7:
+
+    # cl "I had it all in my room, meaning... someone went in there and took it. It's all gone!"
+    cl "Tout était dans ma chambre, ce qui veut dire que... quelqu'un y est entré et a tout pris. Tout a disparu !"
+
+# game/v2/scene6.rpy:141
+translate francais v2s6_0539eee4:
+
+    # u "(Yeah... sorry about that...)"
+    u "(Ouais... Désolé pour ça...)"
+
+# game/v2/scene6.rpy:146
+translate francais v2s6_48afa1a1:
+
+    # u "I'm so sorry, Chloe. Are you okay, though? Did they hurt you, or...?"
+    u "Je suis vraiment désolé, Chloé. Mais tu vas bien ? Ils t'ont fait du mal ou..."
+
+# game/v2/scene6.rpy:157
+translate francais v2s6_bd7c8d31:
+
+    # cl "Someone broke into my room and stole my... my diary! *Sobbing*"
+    cl "Quelqu'un s'est introduit dans ma chambre et a volé mon... Mon journal intime ! *Sanglote*"
+
+# game/v2/scene6.rpy:171
+translate francais v2s6_5049fb96:
+
+    # u "Holy shit... you have a diary?"
+    u "Putain de merde... T'as un journal intime ?"
+
+# game/v2/scene6.rpy:190
+translate francais v2s6_3b7f80df:
+
+    # u "Why is... what does it, uh... say about me?"
+    u "Pourquoi ça... Qu'est-ce que ça, euh... dit de moi ?"
+
+# game/v2/scene6.rpy:206
+translate francais v2s6_3b38e09f:
+
+    # cl "And I wrote down every important moment of my life in there... *Cries*"
+    cl "Et j'ai écrit chaque moment important de ma vie là-dedans... *Pleure*"
+
+# game/v2/scene6.rpy:246
+translate francais v2s6_9f709ad4:
+
+    # cl "Everything is gone. My campaign money, my diary... *Sniffles*"
+    cl "Tout a disparu. L'argent de ma campagne, mon journal intime... *Renifle*"
+
+# game/v2/scene6.rpy:249
+translate francais v2s6_2bd9919b:
+
+    # cl "Even all the money in my purse..."
+    cl "Et même tout l'argent qu'il y avait dans mon sac à main..."
+
+# game/v2/scene6.rpy:270
+translate francais v2s6_7bcac9a7:
+
+    # cl "Yeah, me too! There's a lot written down in there, about both of us. *Sniffles* I'm so sorry."
+    cl "Ouais, moi aussi ! Il y a beaucoup de choses écrites là-dedans, sur nous deux. *Renifle* Je suis vraiment désolée."
+
+# game/v2/scene6.rpy:280
+translate francais v2s6_51c4fb38:
+
+    # u "*Sighs* It's not your fault. It's fine."
+    u "*Soupirs* C'est pas ta faute, tout va bien."
+
+# game/v2/scene6.rpy:299
+translate francais v2s6_db653336:
+
+    # u "This absolutely sucks, I know that. But it's not over, Chloe. This isn't the end."
+    u "Ça craint vraiment, je m'en doute. Mais c'est pas fini Chloé. C'est pas encore terminé."
+
+# game/v2/scene6.rpy:304
+translate francais v2s6_a15c61fc:
+
+    # u "As long as you continue towards your goal, which is to be president of the Chicks... that IS your goal, yeah?"
+    u "Tant que tu poursuis ton objectif, qui est de rester présidente des Chicks... c'est ça ton objectif, hein ?"
+
+# game/v2/scene6.rpy:342
+translate francais v2s6_19b6ca37:
+
+    # u "I know you are; there's no denying that. But-"
+    u "Je sais que c'est le cas, on peut pas le nier. Mais-"
+
+# game/v2/scene6.rpy:426
+translate francais v2s6_b260f100:
+
+    # u "Good."
+    u "Bien."
+
+# game/v2/scene6.rpy:454
+translate francais v2s6_5497f450:
+
+    # cl "*Sighs* I'm way too busy. I already told her I couldn't make it."
+    cl "*Soupirs* Je vais être bien trop occupée, je lui ai déjà dit que je ne pourrais pas venir."
+
+# game/v2/scene6.rpy:459
+translate francais v2s6_f27db498:
+
+    # u "Ah, that sucks, but... well, good luck with it all."
+    u "Ah, ça craint... Alors, bonne chance avec tout ça."
+
+# game/v2/scene6.rpy:485
+translate francais v2s6_fa3d010a:
+
+    # u "Ha... okay... okay, wait, you can mention whatever you want."
+    u "Haha... Ok... Ok attends, tu peux dire ce que tu veux."
+
+# game/v2/scene6.rpy:490
+translate francais v2s6_2bff76bc:
+
+    # cl "Too late!"
+    cl "Trop tard !"
+
+# game/v2/scene6.rpy:520
+translate francais v2s6_3ee87384:
+
+    # u "(Oh, there's Chloe. Putting on the charm for support, no doubt.)"
+    u "(Oh, voilà Chloé, qui fait certainement du charme pour avoir du soutien.)"
+
+# game/v2/scene6.rpy:529
+translate francais v2s6_d911742a:
+
+    # cl "... Yeah, Lindsey has some nice posters, I'll give her that..."
+    cl "...ouais, Lindsey a de belles affiches, je lui accorde ça..."
+
+# game/v2/scene6.rpy:534
+translate francais v2s6_1432068d:
+
+    # cl "But a poster doesn't prove anything. She doesn't have what it takes to be the pres-"
+    cl "Mais une affiche ne prouve rien. Elle n'a pas ce qu'il faut pour être Prés..."
+
+# game/v2/scene6.rpy:564
+translate francais v2s6_bfa21435:
+
+    # cl "I love it! Thank you."
+    cl "J'adore ! Merci."
+
+# game/v2/scene6.rpy:577
+translate francais v2s6_004e56b5:
+
+    # cl "That's why it's important that every person on campus supports me over Lindsey. Not just Chicks."
+    cl "C'est pourquoi il est important que chaque personne du campus me soutienne par rapport à Lindsey, et pas seulement les Chicks."
+
+# game/v2/scene6.rpy:584
+translate francais v2s6_410249e0:
+
+    # u "And the shit-talking Lindsey never stops either, ha."
+    u "Et le discours de merde contre Lindsey s'arrête jamais non plus..."
+
+# game/v2/scene6.rpy:589
+translate francais v2s6_d0803158:
+
+    # cl "Hey, I say what I need to say to get the votes. That's politics."
+    cl "Hé, je dis ce que je dois dire pour obtenir les votes. C'est ça la politique."
+
+# game/v2/scene6.rpy:594
+translate francais v2s6_a0043828:
+
+    # u "You're a natural."
+    u "T'as un don naturel."
+
+# game/v2/scene6.rpy:599
+translate francais v2s6_cc45ca14:
+
+    # cl "Aww, well, thank you. I wish everyone felt that way, you know?"
+    cl "Aww, eh bien merci. J'aimerais que tout le monde ait ce sentiment, tu vois ?"
+
+# game/v2/scene6.rpy:604
+translate francais v2s6_cdfbac0b:
+
+    # u "Yeah. But hey, that's politics!"
+    u "Ouais. Mais bon, ça, c'est de la politique."
+
+# game/v2/scene6.rpy:609
+translate francais v2s6_e86c01dd:
+
+    # cl "Nice... and very true."
+    cl "Joli... et tout à fait vrai."
+
+# game/v2/scene6.rpy:622
+translate francais v2s6_32af947b:
+
+    # cl "Ha, let's go."
+    cl "Allez, c'est parti !"
+
+# game/v2/scene6.rpy:642
+translate francais v2s6_27582738:
+
+    # u "Okay. I'll see you tonight? Lauren's party?"
+    u "Ok, je te vois ce soir ? À la fête de Lauren ?"
+
+# game/v2/scene6.rpy:647
+translate francais v2s6_7a8c3d16:
+
+    # cl "Ah, no... I'm way too busy for a birthday party. Have fun, though!"
+    cl "Ah, non... Je suis bien trop occupée pour avoir le temps de participer à une fête d'anniversaire. Mais amuse-toi bien !"
+
+# game/v2/scene6.rpy:652
+translate francais v2s6_623b9e31:
+
+    # u "Aw, okay. I'll try."
+    u "Ah, d'accord. Je vais essayer."
+
+# game/v2/scene6.rpy:658
+translate francais v2s6_f9e68818:
+
+    # cl "I wish I could come, though. I miss you..."
+    cl "Mais j'aimerais vraiment pouvoir venir. Tu me manques..."

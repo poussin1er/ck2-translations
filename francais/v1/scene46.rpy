@@ -138,3 +138,10 @@ translate francais v1s46_46082c25:
 
     # la "Ah, okay, maybe another time?"
     la "Ahh okay, une autre fois peut-être ?"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene46.rpy:50
+translate francais v1s46_2ca6fb8f:
+
+    # la "You know I like psych stuff, this isn't too random. And as for time... how about now?"
+    la "Tu sais que j'aime les trucs psychologiques, tout ça n'est pas si aléatoire. Et pour ce qui est du moment... pourquoi pas maintenant ?"

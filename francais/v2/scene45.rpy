@@ -909,3 +909,124 @@ translate francais strings:
     # game/v2/scene45.rpy:662
     old "Angry mode"
     new "Mode en colère"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene45.rpy:33
+translate francais v2s45_3ed46ec2:
+
+    # am "I've got an informant: Lindsey."
+    am "J'ai une informatrice : Lindsey."
+
+# game/v2/scene45.rpy:68
+translate francais v2s45_80c255a1:
+
+    # am "Woah now. Hold on a minute there, missy."
+    am "Woah... Attendez une minute, mademoiselle."
+
+# game/v2/scene45.rpy:153
+translate francais v2s45_c390f6c9:
+
+    # am "Step back inside please, ma'am."
+    am "Retournez à l'intérieur, s'il vous plaît m'dame."
+
+# game/v2/scene45.rpy:238
+translate francais v2s45_28f29431:
+
+    # cl "I don't have much time for this, though, so-"
+    cl "J'ai pas beaucoup de temps pour ça, alors..."
+
+# game/v2/scene45.rpy:248
+translate francais v2s45_f95f5819:
+
+    # cl "So, I'm being held hostage... in my own home?"
+    cl "Donc, je suis retenue en otage... Dans ma propre maison ?"
+
+# game/v2/scene45.rpy:319
+translate francais v2s45_7d267643:
+
+    # am "Think harder, damn it!"
+    am "Réfléchissez davantage, bordel !"
+
+# game/v2/scene45.rpy:329
+translate francais v2s45_9ebbdc44:
+
+    # cl "... Mr. Rose? I guess?"
+    cl "...Mr Rose ? Je crois ?"
+
+# game/v2/scene45.rpy:357
+translate francais v2s45_e6f5d555:
+
+    # am "Picture yourself in her shoes. She's in need and wants to get away for a while. Who does she call?"
+    am "Mettez-vous à sa place. Elle est dans le besoin, et veut s'évader un moment. Qui appelle-t-elle ?"
+
+# game/v2/scene45.rpy:389
+translate francais v2s45_7d5778fd:
+
+    # u "You're intelligent, Chloe. You're kind and considerate."
+    u "Il est évident que t'es intelligente, Chloé. T'es gentille et prévenante."
+
+# game/v2/scene45.rpy:482
+translate francais v2s45_7f7e1375:
+
+    # u "So, what else, then?"
+    u "Alors, quoi d'autre ?"
+
+# game/v2/scene45.rpy:536
+translate francais v2s45_ef22ec55:
+
+    # cl "Maybe she saw them both briefly to tell them about the breakup. Who knows?"
+    cl "Peut-être les a-t-elle vus tous les deux brièvement pour leur parler de la rupture, qui sait ?"
+
+# game/v2/scene45.rpy:585
+translate francais v2s45_561c1858:
+
+    # cl "But guys, this was, like, ages ago. So don't ask me for his name. I can't remember."
+    cl "Mais, c'était il y a des lustres. Alors me demandez pas son nom, je ne m'en souviens pas."
+
+# game/v2/scene45.rpy:590
+translate francais v2s45_00e30c4e:
+
+    # cl "I think he lives round here, though. Or at least he used to."
+    cl "Je crois qu'il vit dans le coin, ou du moins qu'il y vivait."
+
+# game/v2/scene45.rpy:638
+translate francais v2s45_3e678450:
+
+    # cl "Well, I mean, sure, she likes nature. Who doesn't?"
+    cl "Eh bien, en fait... Bien sûr, elle aime la nature. Qui ne l'aime pas ?"
+
+# game/v2/scene45.rpy:673
+translate francais v2s45_3f6a9e03:
+
+    # cl "She likes to say she does."
+    cl "Elle aime dire qu'elle aime, en tout cas."
+
+# game/v2/scene45.rpy:726
+translate francais v2s45_7198097c:
+
+    # cl "No, no, no. She would never go back to him, it's just that they had good memories together and always stayed friends."
+    cl "Non, non, non. Elle ne retournerait jamais avec lui, c'est seulement qu'ils avaient de bons souvenirs ensemble et qu'ils sont toujours restés amis."
+
+# game/v2/scene45.rpy:741
+translate francais v2s45_df67f733:
+
+    # cl "I can't say that she would have. He lives nearby, I think. Or he used to, at least."
+    cl "Je peux pas dire qu'elle l'aurait fait. Il vit à proximité, je crois. Ou du moins, il y vivait avant."
+
+# game/v2/scene45.rpy:813
+translate francais v2s45_e2c9208f:
+
+    # u "Again... already gone."
+    u "Encore une fois... Déjà partie."
+
+# game/v2/scene45.rpy:833
+translate francais v2s45_61c5ec03:
+
+    # u "Sure. Everyone needs a hobby."
+    u "Évidemment, tout le monde a besoin d'un passe-temps."
+
+# game/v2/scene45.rpy:840
+translate francais v2s45_be827914:
+
+    # am "Yeah. Let's return to HQ and wrap this thing up."
+    am "Ouais, on rentre au QG et on en finis avec cette histoire."

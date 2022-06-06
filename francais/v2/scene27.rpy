@@ -219,3 +219,76 @@ translate francais strings:
     # game/v2/scene27.rpy:97
     old "Favorite? I'm not so sure."
     new "Favorites ? Pas sûr."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene27.rpy:44
+translate francais v2s27_1b9be5a1:
+
+    # u "(Well, that was an interesting conversation...)"
+    u "(Eh bien, c'était une conversation intéressante...)"
+
+# game/v2/scene27.rpy:80
+translate francais v2s27_0d4523c0:
+
+    # u "I was just about to head home. Thinking about having a relaxed evening for once, ha."
+    u "J'étais sur le point de rentrer chez moi. Je pensais passer une soirée tranquille pour une fois."
+
+# game/v2/scene27.rpy:104
+translate francais v2s27_9f11ff8a:
+
+    # u "Well, you are my two favorite girls, that's true..."
+    u "Eh bien, vous êtes mes deux favorites, c'est vrai..."
+
+# game/v2/scene27.rpy:112
+translate francais v2s27_f3186f85:
+
+    # u "(Or four. Wait, how many girlfriends do I have?)"
+    u "(Ou quatre... Attends, combien de petites amies j'ai ?)"
+
+# game/v2/scene27.rpy:125
+translate francais v2s27_0c637ca6:
+
+    # u "Favorite? I'm not so sure."
+    u "Favorite ? Je suis pas si sûr."
+
+# game/v2/scene27.rpy:147
+translate francais v2s27_be309133:
+
+    # jen "Oh, come on, grandpa! There's a new underground bar that just opened up, and they're not checking IDs!"
+    jen "Oh, allez Papy ! Il y a un nouveau bar clandestin qui vient d'ouvrir, et ils vérifient pas les cartes d'identité !"
+
+# game/v2/scene27.rpy:154
+translate francais v2s27_81cc7378:
+
+    # u "(Good, my last one from Josh expired like a day after I got it.)"
+    u "(Bien, la carte que m'a filé Josh a expiré un jour après l'avoir reçue.)"
+
+# game/v2/scene27.rpy:155
+translate francais v2s27_815af763:
+
+    # u "(Speaking of Josh... where the hell is he?)"
+    u "(En parlant de Josh... Il est où ce con ?)"
+
+# game/v2/scene27.rpy:190
+translate francais v2s27_9e33a484:
+
+    # pe "Yeah, [name]! Don't be a boring old man for once! You can go slipper shopping tomorrow."
+    pe "Ouais, [name] ! Ne sois pas un vieux schnock pour une fois ! Tu pourras aller acheter tes pantoufles demain."
+
+# game/v2/scene27.rpy:195
+translate francais v2s27_5d33d902:
+
+    # jen "Good one."
+    jen "Et PAN ! Dans le dentier."
+
+# game/v2/scene27.rpy:205
+translate francais v2s27_d5d0cf7e:
+
+    # u "Ha, okay, okay. I guess I am!"
+    u "Ok, ok. Je vois que j'ai pas le choix !"
+
+# game/v2/scene27.rpy:222
+translate francais v2s27_d232ea62:
+
+    # u "Okay, crazies. I'll see you there."
+    u "Ok, les folles. Je vous retrouve là-bas."

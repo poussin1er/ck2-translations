@@ -814,3 +814,10 @@ translate francais v1s43c_6e78e15f:
 
     # u "Oh... (I didn't even say bye... maybe she was in a rush?)"
     u "Oh- (J'ai même pas eu le temps de dire au revoir... *Rire* Elle était peut-être pressée ?)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene43c.rpy:371
+translate francais v1s43c_361c74c0:
+
+    # u "*British accent* And you dare accuse the king... your accusation was out of line. You know where my loyalty lies."
+    u "*Accent britannique* Et vous osez incriminer le roi... votre accusation était hors de propos. Vous savez où se trouve ma loyauté."

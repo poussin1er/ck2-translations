@@ -1164,3 +1164,10 @@ translate francais v1s37_050c4103:
 
     # u "You all good?"
     u "Tout va bien ?"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene37.rpy:64
+translate francais v1s37_3a23368f:
+
+    # u "I thought I'd get here before you and try to get us a table. Didn't think you'd get here so fast."
+    u "Je pensais arriver avant toi et essayer de nous trouver une table. Je pensais pas que tu serais là si vite."

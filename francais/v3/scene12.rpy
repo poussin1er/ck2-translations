@@ -367,3 +367,58 @@ translate francais strings:
     # game/v3/scene12.rpy:295
     old "I'll try..."
     new "Je vais essayer..."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene12.rpy:53
+translate francais v3s12_49151bf2:
+
+    # u "Yup, it was a good plan."
+    u "Ouaip, c'était une bonne idée."
+
+# game/v3/scene12.rpy:121
+translate francais v3s12_ed3d2f65:
+
+    # cl "Me too, but... They were all in tears."
+    cl "Moi aussi, mais... Elles étaient toutes en larmes."
+
+# game/v3/scene12.rpy:156
+translate francais v3s12_c815a4f6:
+
+    # cl "The Chicks vote is just a little more than a week away, so we've gotta nail this."
+    cl "Le vote des Chicks a lieu dans un peu plus d'une semaine, alors il faut absolument réussir."
+
+# game/v3/scene12.rpy:230
+translate francais v3s12_7747596f:
+
+    # u "The cover of the first SVC newspaper is going to be very influential with the Chicks."
+    u "La couverture du premier journal de la SVC va avoir une grande influence sur les Chicks."
+
+# game/v3/scene12.rpy:281
+translate francais v3s12_862d1ab9:
+
+    # cl "Oh, shut up. Ladies first, you can have the leftovers."
+    cl "Oh, tais-toi. Les dames d'abord, tu pourras avoir les restes."
+
+# game/v3/scene12.rpy:301
+translate francais v3s12_eb8dd9bf:
+
+    # cl "Thanks, and have fun!"
+    cl "Merci, et amuse-toi bien !"
+
+# game/v3/scene12.rpy:321
+translate francais v3s12_83768b6c:
+
+    # u "And yeah, I'll do my best."
+    u "Et ouais, je ferai de mon mieux."
+
+# game/v3/scene12.rpy:326
+translate francais v3s12_80a08ec9:
+
+    # cl "Come on, we gotta kill this. We're in the home stretch."
+    cl "Allez, il faut qu'on déchire tout ça. On est dans la dernière ligne droite."
+
+# game/v3/scene12.rpy:331
+translate francais v3s12_dae4998e:
+
+    # u "For sure, I'm just saying that-"
+    u "Bien sûr, je dis simplement que-"

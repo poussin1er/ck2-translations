@@ -24,3 +24,10 @@ translate francais v3s53_84393ae7:
 
     # u "(The Dean coming in to psychologically kick that trucker in the nuts and adopt Oscar like that... it really made my day.)"
     u "(Le fait de voir la Doyenne frapper psychologiquement ce camionneur dans les couilles et qui adopte Oscar comme ça, a vraiment fait ma journée.)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene53.rpy:12
+translate francais v3s53_4e198f7d:
+
+    # u "(The dean coming in to psychologically kick that trucker in the nuts and adopt Oscar like that... it really made my day.)"
+    u "(Le fait de voir la Doyenne frapper psychologiquement ce camionneur dans les couilles et qui adopte Oscar comme ça, a vraiment fait ma journée.)"

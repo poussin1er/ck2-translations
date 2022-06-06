@@ -680,3 +680,148 @@ translate francais v2s1_cc757f66:
 
     # u "*Chuckles* Right... Yeah, no. I guess I don't watch a lot of television."
     u "*Rire* Bien sûr... Ouais. Non, c'est vrai que je regarde pas beaucoup la Télé."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene1.rpy:313
+translate francais v2s1_79465600:
+
+    # imre "So, the fact that you stood on the side lines looking like a knight in shining armor. That has nothing to do with why they broke up?"
+    imre "Donc, le fait que tu restes sur la touche en ayant l'air d'un chevalier servant n'a rien à voir avec le fait qu'ils aient rompu."
+
+# game/v2/scene1.rpy:395
+translate francais v2s1_b74efbbf:
+
+    # imre "I don't like that you're right, but... you are."
+    imre "J'aime pas que t'aies raison, mais... t'as raison."
+
+# game/v2/scene1.rpy:407
+translate francais v2s1_79c95ef3:
+
+    # imre "You're lucky I came to talk to you first, man... 'cause I was more than ready to tell him everything I know."
+    imre "T'as d'la chance que j'sois venu t'parler en premier, mec... j'étais plus que prêt à tout lui dire."
+
+# game/v2/scene1.rpy:424
+translate francais v2s1_2f5b741c:
+
+    # u "I know, trust me. It's a delicate situation."
+    u "Je sais, fais-moi confiance. La situation est délicate."
+
+# game/v2/scene1.rpy:445
+translate francais v2s1_c4cb76d2:
+
+    # imre "My man..."
+    imre "Mec..."
+
+# game/v2/scene1.rpy:450
+translate francais v2s1_96771fca:
+
+    # u "I pick up what you're putting down."
+    u "Je reprends ce que tu as laissé."
+
+# game/v2/scene1.rpy:467
+translate francais v2s1_42eb0bdf:
+
+    # u "Okay, bud."
+    u "D'accord, mon pote."
+
+# game/v2/scene1.rpy:475
+translate francais v2s1_c087bd3a:
+
+    # imre "I need to talk to someone about Chris and Nora... this is like when Ross and Rachel broke up, dude!"
+    imre "Il faut que j'parle à quelqu'un de Chris et Nora... c'est comme quand Ross et Rachel ont rompu !"
+
+# game/v2/scene1.rpy:496
+translate francais v2s1_0eeeb6fe:
+
+    # u "Yeah, of course I know."
+    u "Ouais, je vois bien."
+
+# game/v2/scene1.rpy:501
+translate francais v2s1_632c9c26:
+
+    # imre "Ah, man... my heart is being torn all over again."
+    imre "Ah, mon pote... mon cœur se déchire encore une fois."
+
+# game/v2/scene1.rpy:506
+translate francais v2s1_b446761c:
+
+    # u "I didn't know how important their relationship was to you..."
+    u "Je savais pas à quel point leur histoire était importante pour toi..."
+
+# game/v2/scene1.rpy:518
+translate francais v2s1_61df2c2d:
+
+    # u "A monkey? What?"
+    u "Un singe ? Hein ?"
+
+# game/v2/scene1.rpy:523
+translate francais v2s1_2ea66136:
+
+    # imre "You're kidding, right? Man... girls love that shit."
+    imre "Tu t'fous d'ma gueule, hein ? Putain mec... les meufs kiffent cette merde."
+
+# game/v2/scene1.rpy:525
+translate francais v2s1_1dcc3d3a:
+
+    # imre "That's the only reason I watch it... so, I have something in common with girls. You know?"
+    imre "C'est juste pour ça que j'regarde... pour avoir un point commun avec les filles. Tu vois ?"
+
+# game/v2/scene1.rpy:530
+translate francais v2s1_d4ecdc58:
+
+    # u "Riiight... yeah, uh, I guess I don't watch a lot of television."
+    u "Okayyy... d'accord, ouais, euh, on dirait que je regarde pas souvent la télé."
+
+# game/v2/scene1.rpy:573
+translate francais v2s1_5c5670ca:
+
+    # u "Yikes, man... you really gotta start paying more attention around here."
+    u "Argh... tu vas vraiment devoir commencer à faire gaffe à ce qui se passe ici."
+
+# game/v2/scene1.rpy:593
+translate francais v2s1_06e28b31:
+
+    # u "I don't care if she looks like a bitch or acts like one. She has every right to."
+    u "Je me fous qu'elle ait l'air d'une salope ou qu'elle agisse comme telle. Elle en a parfaitement le droit."
+
+# game/v2/scene1.rpy:687
+translate francais v2s1_saynothing_2d38aae1:
+
+    # u "I know. You'll grow up one day."
+    u "Je sais. Un jour, tu grandiras."
+
+# game/v2/scene1.rpy:692
+translate francais v2s1_saynothing_c18c8d9e:
+
+    # imre "Eh, not likely."
+    imre "Eh, peu de chances."
+
+# game/v2/scene1.rpy:697
+translate francais v2s1_saynothing_b814ec38:
+
+    # imre "I'm heading out, then. Thanks for the chat."
+    imre "Bon, je m'casse. Merci d'avoir discuté avec moi."
+
+# game/v2/scene1.rpy:800
+translate francais v2s1_PhoneContinueAut_74b1820e:
+
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Habille-toi pour impressionner ton impératrice macabre...\")"
+
+# game/v2/scene1.rpy:802
+translate francais v2s1_PhoneContinueAut_0b8d9d08:
+
+    # u "(Guess I need to go gift shopping. Maybe Autumn can give me ideas on what Lauren would like?)"
+    u "(J'imagine qu'il va falloir acheter des cadeaux. Peut-être qu'Autumn pourrait me donner des idées sur ce que Lauren aimerait.)"
+
+# game/v2/scene1.rpy:804
+translate francais v2s1_PhoneContinueAut_0dbad9bb:
+
+    # u "(Or I can just get her some kind of gift card, 'cause... she likes books, I think?)"
+    u "(Ou alors je pourrai tout simplement lui offrir un chèque-cadeau, vu qu'il me semble que... qu'elle aime les livres.)"
+
+# game/v2/scene1.rpy:834
+translate francais v2s1_PhoneContinueAut_dac778a7:
+
+    # u "*Groans* (No time for snoozing today. Need to get up.)"
+    u "*Grogne* (Pas le temps de roupiller aujourd'hui. Je dois me lever.)"

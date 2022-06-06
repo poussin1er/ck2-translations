@@ -159,3 +159,10 @@ translate francais strings:
     # game/v2/scene31.rpy:50
     old "Don't contact Emily"
     new "Ne pas contacter Emily"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene31.rpy:48
+translate francais v2s31_590fb6b4:
+
+    # u "(Back when I was happy with Emily, and I thought relationships were easy. Ha! How wrong I was...)"
+    u "(L'époque où j'étais heureux avec Emily, et quand je croyais encore que les relations étaient faciles. Naïf que j'étais...)"

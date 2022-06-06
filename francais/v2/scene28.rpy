@@ -1344,3 +1344,442 @@ translate francais v2s28_cd701dde:
 
     # u "(The tequila is trying to take control... Stay strong, [name].)"
     u "(La tequila essaie de prendre le contrôle... Reste forts, [name].)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene28.rpy:32
+translate francais v2s28_08ac3bcf:
+
+    # u "No. Why should they?"
+    u "Non. Pourquoi elles auraient dû "
+
+# game/v2/scene28.rpy:38
+translate francais v2s28_605ca965:
+
+    # pe "We've just been talking about you!"
+    pe "On parlait de toi !"
+
+# game/v2/scene28.rpy:43
+translate francais v2s28_b8d36db5:
+
+    # jen "Yeah, all your sordid secrets are out, [name]."
+    jen "Ouais, tous tes sombres secrets ont été révélés, [name]."
+
+# game/v2/scene28.rpy:48
+translate francais v2s28_aedb893f:
+
+    # u "(Oh, fuck. There are a lot of those.) What do you mean?"
+    u "(Oh, merde. Il y en a beaucoup.) Comment ça ?"
+
+# game/v2/scene28.rpy:53
+translate francais v2s28_26995d89:
+
+    # jen "She knows."
+    jen "Elle, elle sait."
+
+# game/v2/scene28.rpy:68
+translate francais v2s28_af390006:
+
+    # u "Oh... ha, okay. You told her about that?"
+    u "Oh... ok. Tu lui as parlé de ça ?"
+
+# game/v2/scene28.rpy:73
+translate francais v2s28_7d397f5f:
+
+    # jen "We tell each other everything, babe."
+    jen "On se dit tout, bébé."
+
+# game/v2/scene28.rpy:104
+translate francais v2s28_056640e7:
+
+    # pe "Well, whoever's idea it was... nice work. My best friends deserve the best."
+    pe "Eh bien, peu importe qui en a eu l'idée... C'est beau. Mes meilleurs amis méritent le meilleur."
+
+# game/v2/scene28.rpy:115
+translate francais v2s28_a2bed5f9:
+
+    # pe "Ha, yep! My two closest friends are dating, eeeeep!"
+    pe "Oh, ouep ! Mes deux amis les plus proches sortent ensemble, youhooou !"
+
+# game/v2/scene28.rpy:130
+translate francais v2s28_e887f3e8:
+
+    # u "Calm down. It's not like I'm going to propose or anything."
+    u "Calme-toi. C'est pas comme si j'allais faire ma demande en mariage ou quoi que ce soit."
+
+# game/v2/scene28.rpy:135
+translate francais v2s28_21b6ba3d:
+
+    # jen "Why? What's wrong with me?"
+    jen "Pourquoi ? Qu'est-ce qui va pas chez moi ?"
+
+# game/v2/scene28.rpy:140
+translate francais v2s28_96e3ef07:
+
+    # pe "Nothing! She's a real catch, [name]!"
+    pe "Rien ! Elle est parfaite, [name] !"
+
+# game/v2/scene28.rpy:145
+translate francais v2s28_39b2e878:
+
+    # jen "Oh my God... Was that sarcasm I heard? Bitch!"
+    jen "Oh, merde... C'est du sarcasme que je viens d'entendre ? Salope !"
+
+# game/v2/scene28.rpy:150
+translate francais v2s28_a0ebc2ac:
+
+    # u "Hey, ladies, no need to fight. Why don't I keep the peace with some drinks?"
+    u "Hé, les filles, vous disputez pas. Pourquoi pas maintenir la paix avec quelques boissons ?"
+
+# game/v2/scene28.rpy:155
+translate francais v2s28_41fcac14:
+
+    # pe "Hey, yeah... our glasses are empty!"
+    pe "Hey, ouais... Nos verres sont vides !"
+
+# game/v2/scene28.rpy:180
+translate francais v2s28_9f157f05:
+
+    # jen "Ha, dork!"
+    jen "Ho, abruti !"
+
+# game/v2/scene28.rpy:182
+translate francais v2s28_6f9d6659:
+
+    # pe "Libations, boy! Get 'em!"
+    pe "À boire, mon petit ! Prends les !"
+
+# game/v2/scene28.rpy:218
+translate francais v2s28_b96e3e65:
+
+    # u "It was a legendary cuddle."
+    u "C'était un câlin légendaire."
+
+# game/v2/scene28.rpy:223
+translate francais v2s28_23ded98c:
+
+    # pe "Stop it, you two..."
+    pe "Arrêtez, vous deux..."
+
+# game/v2/scene28.rpy:258
+translate francais v2s28_d5cb42d9:
+
+    # u "Yeah, looks like I've got some catching up to do..."
+    u "Ouais, on dirait que j'ai du retard à rattraper..."
+
+# game/v2/scene28.rpy:294
+translate francais v2s28_4a7df3dc:
+
+    # pe "Or wait, the blonde one? Ah... who knows."
+    pe "Ou attends... La blonde, non ? Ah... Qui sait."
+
+# game/v2/scene28.rpy:304
+translate francais v2s28_b27ffa0e:
+
+    # pe "These shots have gone straight to my head!"
+    pe "Je me souviens parfaitement de ces photos !"
+
+# game/v2/scene28.rpy:309
+translate francais v2s28_f8d2d9ce:
+
+    # jen "Me too! Ha..."
+    jen "Moi aussi !"
+
+# game/v2/scene28.rpy:324
+translate francais v2s28_d7ad3a0a:
+
+    # u "Excuse me?"
+    u "Hein ?"
+
+# game/v2/scene28.rpy:329
+translate francais v2s28_2ca9fc69:
+
+    # pe "Haven't you got a gazelle in your sights?"
+    pe "Tu n'as pas de gazelle en ligne de mire ?"
+
+# game/v2/scene28.rpy:334
+translate francais v2s28_934c92ce:
+
+    # u "Ha, umm... you know what?"
+    u "Humm... Vous savez quoi ?"
+
+# game/v2/scene28.rpy:336
+translate francais v2s28_026649b1:
+
+    # u "You ladies keep guessing, because a gentleman never tells."
+    u "Vous pouvez continuer à chercher, mesdemoiselles, un gentleman ne se dévoile jamais."
+
+# game/v2/scene28.rpy:351
+translate francais v2s28_307a3846:
+
+    # u "That's how it has to be!"
+    u "C'est comme ça que ça doit être !"
+
+# game/v2/scene28.rpy:361
+translate francais v2s28_30ea786e:
+
+    # u "Woooow. Okay, seems like you two have had enough."
+    u "Wooooow, haha. Bon, on dirait que vous deux avez suffisamment bu."
+
+# game/v2/scene28.rpy:440
+translate francais v2s28_3cf73e7c:
+
+    # u "(Wait, I think I recognize her... from the poetry thing?)"
+    u "(Attends, je la reconnais, je crois... Le truc de la poésie !?)"
+
+# game/v2/scene28.rpy:452
+translate francais v2s28_4b8697e9:
+
+    # u "No fucking way... I know Cameron."
+    u "Putain, sérieux...? Ouais, je connais Cameron."
+
+# game/v2/scene28.rpy:495
+translate francais v2s28_a3615aac:
+
+    # sa "You just watch, he'll probably bust through that door and start lecturing me any minute. You too, probably."
+    sa "Surveille la porte, je suis sûre que d'une minute à l'autre, il va débouler et commencer à me faire la morale. À toi aussi peut-être."
+
+# game/v2/scene28.rpy:505
+translate francais v2s28_76f0564a:
+
+    # u "I, uh, yeah. That sucks. Family can be tricky sometimes."
+    u "Je, euh, ouais. Ça craint. La famille est parfois difficile à gérer."
+
+# game/v2/scene28.rpy:541
+translate francais v2s28_c7c34de7:
+
+    # u "(I would hope not? What the hell?)"
+    u "(J'espère que non... Mais qu'est-ce qui se passe ?)"
+
+# game/v2/scene28.rpy:551
+translate francais v2s28_e71aab5b:
+
+    # u "Umm, I don't think it works like that. But good to know."
+    u "Hmm, je pense pas que ça fonctionne comme ça. Mais c'est bon à savoir."
+
+# game/v2/scene28.rpy:598
+translate francais v2s28_d4e8e65b:
+
+    # u "Oh, wow. Sorry, ha. That's awesome though, Sam."
+    u "Oh, wow... Désolé. C'est super, Sam."
+
+# game/v2/scene28.rpy:618
+translate francais v2s28_5bc421ae:
+
+    # sa "I can still go out. I just don't get fucked up, y'know?"
+    sa "Je sors toujours, comme ça j'me fais pas chier, tu vois ?"
+
+# game/v2/scene28.rpy:628
+translate francais v2s28_b4ccd545:
+
+    # sa "It's relaxing for a change. I'm making better choices with the guys I hook up with, too..."
+    sa "Et pour changer, c'est relaxant. Je choisis mieux les mecs avec qui je sors aussi..."
+
+# game/v2/scene28.rpy:633
+translate francais v2s28_749502d9:
+
+    # sa "No more beer goggles in the bedroom."
+    sa "Plus de bouteilles de bière dans ma chambre."
+
+# game/v2/scene28.rpy:638
+translate francais v2s28_15d6aec8:
+
+    # u "Ha, beer goggles have helped ugly guys get laid for generations."
+    u "Oh, la bière a aidé les mecs moches à pouvoir baiser depuis des générations."
+
+# game/v2/scene28.rpy:658
+translate francais v2s28_755b2c1f:
+
+    # sa "It's a relief, honestly."
+    sa "Franchement, c'est un soulagement."
+
+# game/v2/scene28.rpy:660
+translate francais v2s28_e6dbca32:
+
+    # u "Hell yeah."
+    u "Bien sûr que oui."
+
+# game/v2/scene28.rpy:680
+translate francais v2s28_c4c2a1cc:
+
+    # sa "So, thanks... again."
+    sa "Alors, merci... Encore..."
+
+# game/v2/scene28.rpy:685
+translate francais v2s28_dfc1f8ad:
+
+    # u "Anytime, honestly. For the third time, you're welcome."
+    u "Tu sais que je suis toujours là. Et pour la troisième fois, je t'en prie."
+
+# game/v2/scene28.rpy:701
+translate francais v2s28_312a38b6:
+
+    # u "Hey, Sam. Party for one, I see?"
+    u "Salut, Sam. Je vois que tu passes la soirée en tête-à-tête avec toi même ?"
+
+# game/v2/scene28.rpy:706
+translate francais v2s28_51a0fb49:
+
+    # sa "Ha, for now. Someone will try to swoop in soon enough; they always do."
+    sa "Pour l'instant, oui. Il y a bien quelqu'un qui va bientôt essayer de s'incruster, ça rate jamais."
+
+# game/v2/scene28.rpy:716
+translate francais v2s28_a16f4935:
+
+    # sa "Same old shit. You know it is."
+    sa "C'est toujours la même merde... Tu le sais bien."
+
+# game/v2/scene28.rpy:736
+translate francais v2s28_314db4b9:
+
+    # u "Yeah, of course. It's your choice, at the end of the day. I'll support you no matter what."
+    u "Ouais, bien sûr. Au bout du compte, c'est ton choix, je te soutiendrai toujours, quoi qu'il arrive."
+
+# game/v2/scene28.rpy:746
+translate francais v2s28_889e4c2d:
+
+    # sa "Cheers to that."
+    sa "Allez, on trinque à ça."
+
+# game/v2/scene28.rpy:762
+translate francais v2s28_a7e69cec:
+
+    # u "Oh, hey, Sam. Didn't see you there."
+    u "Oh, salut, Sam. J'avais pas vu que t'étais là."
+
+# game/v2/scene28.rpy:767
+translate francais v2s28_74fe01b2:
+
+    # sa "A guy fucks me and then acts like I don't exist anymore, what a shocker! Ha..."
+    sa "Un mec me baise et ensuite fait comme si j'existais plus, quel choc !"
+
+# game/v2/scene28.rpy:772
+translate francais v2s28_ef604ea3:
+
+    # u "Shit, Sam... I didn't mean it like that. Come on."
+    u "Putain, Sam... Je voulais pas dire ça comme ça, arrête."
+
+# game/v2/scene28.rpy:777
+translate francais v2s28_92bf6af7:
+
+    # sa "I know, I know. I'm kidding."
+    sa "Je sais, je sais, je déconne."
+
+# game/v2/scene28.rpy:863
+translate francais v2s28_9b0a229c:
+
+    # u "Six shots of water for the two wasted women in the corner..."
+    u "Et voilà les six verres d'eau pour les deux jeunes filles perdues du coin..."
+
+# game/v2/scene28.rpy:923
+translate francais v2s28_d90ec3a1:
+
+    # u "You two are crazy."
+    u "Vous êtes folles toutes les deux."
+
+# game/v2/scene28.rpy:963
+translate francais v2s28_7d1d4775:
+
+    # u "I don't know what came over me..."
+    u "Je sais pas ce qui m'a pris..."
+
+# game/v2/scene28.rpy:968
+translate francais v2s28_c5115572:
+
+    # u "I blame the tequila."
+    u "C'est à cause de la tequila."
+
+# game/v2/scene28.rpy:973
+translate francais v2s28_60ee54bb:
+
+    # pe "Why blame anything?"
+    pe "Pourquoi blâmer autre chose ?"
+
+# game/v2/scene28.rpy:985
+translate francais v2s28_087b6a97:
+
+    # jen "I can't believe I'm saying this, but... get a room."
+    jen "J'arrive pas à croire que je dise ça mais... Prenez une chambre."
+
+# game/v2/scene28.rpy:990
+translate francais v2s28_452705d4:
+
+    # u "Sorry... not."
+    u "Désolé... mais non."
+
+# game/v2/scene28.rpy:1018
+translate francais v2s28_b71885d2:
+
+    # pe "Okay, lovebirds!"
+    pe "Ok, les tourtereaux !"
+
+# game/v2/scene28.rpy:1023
+translate francais v2s28_d71776cc:
+
+    # pe "That was impulsive... I think someone's had enough to drink."
+    pe "C'était assez impulsif... Je crois que quelqu'un a suffisamment bu."
+
+# game/v2/scene28.rpy:1028
+translate francais v2s28_f05af4bf:
+
+    # jen "No, let him drink more. I might have to get you another one of those!"
+    jen "Non, laisse-le boire encore un peu. Je vais peut-être devoir t'en ramener d'autres !"
+
+# game/v2/scene28.rpy:1053
+translate francais v2s28_0aa27c02:
+
+    # u "(This tequila is getting the best of me. Must... resist...)"
+    u "(Cette tequila commence à prendre le dessus. Je dois... Résister...)"
+
+# game/v2/scene28.rpy:1087
+translate francais v2s28_79d0ae11:
+
+    # jen "Yeah, for sure. I'm ready for bed, though."
+    jen "Ouais, c'est clair. Mais j'ai envie d'aller me coucher."
+
+# game/v2/scene28.rpy:1097
+translate francais v2s28_5ec966a1:
+
+    # u "Let's get out of here, then, before you make the world's most uncomfortable bed out of this table."
+    u "Alors, allons-y, avant que cette table se transforme en lit le plus inconfortable du monde."
+
+# game/v2/scene28.rpy:1138
+translate francais v2s28_d4e2de5c:
+
+    # u "Thanks Penelope. Really. And, if I upset you in any way, I am sorry."
+    u "Merci Pénélope. Vraiment. Et si je t'ai blessé de quelque façon que ce soit, je suis vraiment désolé."
+
+# game/v2/scene28.rpy:1164
+translate francais v2s28_875ce590:
+
+    # u "Yes, thank you."
+    u "Oui, merci."
+
+# game/v2/scene28.rpy:1174
+translate francais v2s28_893e7a9d:
+
+    # jen "I promise you, if you keep doing whatever you're doing with her, she'll reward your dedication."
+    jen "Je t'assure que si tu continues à agir comme tu le fais avec elle, elle saura récompenser ton dévouement."
+
+# game/v2/scene28.rpy:1194
+translate francais v2s28_220ab4a9:
+
+    # u "Ha, I will."
+    u "Oh, je reste comme je suis."
+
+# game/v2/scene28.rpy:1234
+translate francais v2s28_a1053faf:
+
+    # pe "Go on, then!"
+    pe "Alors vas-y !"
+
+# game/v2/scene28.rpy:1256
+translate francais v2s28_0ca60e73:
+
+    # pe "Good one, grandpa!"
+    pe "Bien joué, papy !"
+
+# game/v2/scene28.rpy:1284
+translate francais v2s28_c48ae75c:
+
+    # u "I'm using my voice, aren't I?"
+    u "Pourtant, j'utilise ma voix, non ?"

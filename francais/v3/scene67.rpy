@@ -835,3 +835,166 @@ translate francais strings:
     # game/v3/scene67.rpy:407
     old "Not anymore"
     new "Non, plus maintenant"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene67.rpy:44
+translate francais v3s67_b860ea07:
+
+    # polly "Obviously, it sucks that we don't have power right now, but the show must go on, as they say."
+    polly "Évidemment, ça craint qu'on n'ait pas de courant pour le moment, mais le spectacle doit continuer, comme on dit."
+
+# game/v3/scene67.rpy:52
+translate francais v3s67_b918fbc1:
+
+    # polly "Before I play my first song, I just want to say a few words about a girl I met earlier. Her name is Lindsey..."
+    polly "Avant de vous interpréter ma première chanson, je voudrais vous dire quelques mots sur une fille que j'ai rencontré récemment. Elle s'appelle Lindsey..."
+
+# game/v3/scene67.rpy:57
+translate francais v3s67_cd889bcc:
+
+    # li "Oh my God! It's happening!"
+    li "Oh, làlàlà ! C'est en train de se produire !"
+
+# game/v3/scene67.rpy:63
+translate francais v3s67_ae5229a5:
+
+    # polly "I heard that she's running for president of her sorority, and I just wanted to say..."
+    polly "J'ai entendu dire qu'elle se présente à la présidence de sa sororité, et je voulais juste vous dire..."
+
+# game/v3/scene67.rpy:65
+translate francais v3s67_d504f731:
+
+    # polly "If I was a member of the Chicks, she'd have my vote. So, if you're eligible to vote for Lindsey, give her some love."
+    polly "Si j'étais membre des Chicks, elle aurait mon vote. Donc, si vous avez le droit de voter pour Lindsey, donnez-lui un peu d'amour."
+
+# game/v3/scene67.rpy:87
+translate francais v3s67_edfa25e3:
+
+    # u "Easy now, I don't think she said anything about loving you, specifically."
+    u "Doucement, je crois pas qu'elle ait dit quoi que ce soit sur le fait de t'aimer, spécifiquement."
+
+# game/v3/scene67.rpy:102
+translate francais v3s67_40117701:
+
+    # u "Okay, go ahead. I'm not much of a fan girl."
+    u "Bon, allez-y. Je suis pas vraiment un fan boy."
+
+# game/v3/scene67.rpy:128
+translate francais v3s67_292cb8ff:
+
+    # polly "So, Lindsey, if you're here tonight, please don't try to kidnap me. I have pepper spray. And a private security escort."
+    polly "Alors, Lindsey, si tu es là ce soir, n'essaie pas de me kidnapper. J'ai un spray au poivre. Et un garde du corps privé."
+
+# game/v3/scene67.rpy:155
+translate francais v3s67_a211cf0f:
+
+    # polly "But hey, no hard feelings. You must be a hardcore fan of mine if you can track me down at a private hotel and knock on my door uninvited."
+    polly "Mais bon, sans rancune. Vous devez être une de mes fans hardcore si vous arrivez à me traquer dans un hôtel privé et à frapper à ma porte sans y être invitée..."
+
+# game/v3/scene67.rpy:181
+translate francais v3s67_dde914d7:
+
+    # u "Okay. Have fun."
+    u "D'accord. Amusez-vous bien."
+
+# game/v3/scene67.rpy:195
+translate francais v3s67_e88a9050:
+
+    # polly "This one's called \"Sunshine\"."
+    polly "Celle-ci s'appelle \"Sunshine\"."
+
+# game/v3/scene67.rpy:248
+translate francais v3s67_29b458cf:
+
+    # u "Uh, really? She sounds fine to me."
+    u "Ha, vraiment ? Elle me paraît très bonne."
+
+# game/v3/scene67.rpy:314
+translate francais v3s67_1228fa56:
+
+    # u "Oh, yeah... Fourteen? You're doing pretty well."
+    u "Ah, oui... Quatorze ? T'en as énormément !"
+
+# game/v3/scene67.rpy:429
+translate francais v3s67_0e2a89f8:
+
+    # aut "Like, it doesn't have to be a big planned thing... But great!"
+    aut "Genre, ça n'a pas besoin d'être un gros truc planifié... Mais c'est génial !"
+
+# game/v3/scene67.rpy:477
+translate francais v3s67_5f1c9f25:
+
+    # polly "It's called \"Take Me Away\"."
+    polly "Elle s'appelle \"Take Me Away\"."
+
+# game/v3/scene67.rpy:495
+translate francais v3s67_0bcbb3a3:
+
+    # aut "Oh, amazing. Business has been booming! We're almost too busy."
+    aut "C'est incroyable. Les affaires sont en plein essor ! On est presque trop occupés."
+
+# game/v3/scene67.rpy:500
+translate francais v3s67_105a6cb4:
+
+    # u "Seeing a lot of the dean?"
+    u "Tu vois beaucoup la doyenne ?"
+
+# game/v3/scene67.rpy:505
+translate francais v3s67_74423214:
+
+    # aut "Yeah. How weird is that? I still can't get over it."
+    aut "Ouais. C'est bizarre, non ? Je n'arrive toujours pas à y croire."
+
+# game/v3/scene67.rpy:517
+translate francais v3s67_2834e11b:
+
+    # aut "She can be a bit cold, but she's a good person underneath."
+    aut "Elle peut être un peu froide, mais au fond, c'est une bonne personne."
+
+# game/v3/scene67.rpy:528
+translate francais v3s67_2e8c3a0a:
+
+    # aut "And thanks to Aubrey's Kiwii post, we pulled in a lot of donations too. It was way more than I ever thought possible."
+    aut "Et grâce au post Kiwii d'Aubrey, on a également récolté un grand nombre de dons. Ça a dépassé tout ce que j'aurais pu imaginer."
+
+# game/v3/scene67.rpy:538
+translate francais v3s67_d489020b:
+
+    # aut "Trying to take all the credit?"
+    aut "Tu veux te prendre tout le mérite ?"
+
+# game/v3/scene67.rpy:569
+translate francais v3s67_961df043:
+
+    # u "Aww, well, at least it's something. I hope the dogs appreciate it."
+    u "Ooh, bien, c'est déjà quelque chose. J'espère que les chiens apprécieront ça."
+
+# game/v3/scene67.rpy:601
+translate francais v3s67_4d565265:
+
+    # aut "Yup! Every cloud has a silver lining. I think that's... actually a line in this song."
+    aut "Ouaip ! Chaque nuage a son bon côté. Je crois en fait que c'est... une réplique dans cette chanson."
+
+# game/v3/scene67.rpy:643
+translate francais v3s67_e58caa4d:
+
+    # u "Right here? While Polly's singing?"
+    u "Là, maintenant ? ce quet que Polly chante ?"
+
+# game/v3/scene67.rpy:648
+translate francais v3s67_908695fd:
+
+    # ri "Keep it in your pants, tiger. Good things come to those who wait."
+    ri "Garde-le dans ton pantalon, mon tigre. Les meilleures choses arrivent à ceux qui savent attendre."
+
+# game/v3/scene67.rpy:674
+translate francais v3s67_5f1c9f25_1:
+
+    # polly "It's called \"Take Me Away\"."
+    polly "Elle s'appelle \"Take Me Away\"."
+
+# game/v3/scene67.rpy:729
+translate francais v3s67_0bbb7a67:
+
+    # u "Great idea."
+    u "Excellente idée."

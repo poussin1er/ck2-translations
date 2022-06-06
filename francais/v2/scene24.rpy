@@ -1581,3 +1581,466 @@ translate francais strings:
     # game/v2/scene24.rpy:1349
     old "Is that a good thing?"
     new "Est-ce une bonne chose ?"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene24.rpy:46
+translate francais v2s24_e58374aa:
+
+    # u "Right. So... what's the plan?"
+    u "Bien... Alors c'est quoi le plan ?"
+
+# game/v2/scene24.rpy:67
+translate francais v2s24_89f6ba09:
+
+    # u "Nice! My last one from Josh expired like a day after I got it."
+    u "Sympa ! La dernière que j'ai eue de Josh a expiré un jour après que l'ai reçue."
+
+# game/v2/scene24.rpy:69
+translate francais v2s24_c4bacd23:
+
+    # u "(Speaking of Josh, where the hell is he?)"
+    u "(En parlant de Josh... Il est où ce con ?)"
+
+# game/v2/scene24.rpy:108
+translate francais v2s24_bf6c5d09:
+
+    # u "In what country?"
+    u "Dans quel pays ?"
+
+# game/v2/scene24.rpy:113
+translate francais v2s24_b7fd21dc:
+
+    # li "Erm, somewhere in Europe?"
+    li "Euh, quelque part en Europe ?"
+
+# game/v2/scene24.rpy:123
+translate francais v2s24_df3b42b5:
+
+    # u "Who made these IDs?"
+    u "Qui a fait ces cartes ?"
+
+# game/v2/scene24.rpy:128
+translate francais v2s24_961e19fe:
+
+    # li "Trust me, these were the two best options."
+    li "Crois-moi, ce sont les deux meilleures options."
+
+# game/v2/scene24.rpy:160
+translate francais v2s24_a50701c6:
+
+    # li "What's wrong with Nancy?"
+    li "Qu'est-ce qui ne va pas avec Nancy ?"
+
+# game/v2/scene24.rpy:180
+translate francais v2s24_9d25e527:
+
+    # u "Twenty-nine, though? I still get ID'd for candy... I'm not sure if I can pass as almost 30 years old."
+    u "Vingt-neuf ans quand même ? On me demande encore ma carte d'identité pour acheter des bonbons... Je suis pas sûr de pouvoir passer pour une personne de presque 30 ans."
+
+# game/v2/scene24.rpy:185
+translate francais v2s24_139711ca:
+
+    # li "I could draw a beard on you, maybe."
+    li "Je pourrais peut-être te dessiner une barbe."
+
+# game/v2/scene24.rpy:190
+translate francais v2s24_6524282c:
+
+    # u "Has that ever worked?"
+    u "Ça a déjà marché ?"
+
+# game/v2/scene24.rpy:212
+translate francais v2s24_bf36f16d:
+
+    # u "Well, I may not be as fully grown as a thirty-year-old guy, but I guess I can at least act responsible...?"
+    u "Bon, je suis peut-être pas aussi mature qu'un trentenaire, mais je pense pouvoir au moins agir de façon responsable...?"
+
+# game/v2/scene24.rpy:222
+translate francais v2s24_e601124d:
+
+    # li "Here's some cash, too."
+    li "Tiens un peu d'argent, également."
+
+# game/v2/scene24.rpy:250
+translate francais v2s24_938cb495:
+
+    # li "Do well in there, and you just might have to."
+    li "Fais bien ton travail, et tu pourrais avoir à t'y habituer."
+
+# game/v2/scene24.rpy:276
+translate francais v2s24_fee5a0b3:
+
+    # u "Uh, nothing. Nothing at all. Let's, uh..."
+    u "Euh, rien. Rien du tout. Allez, euh..."
+
+# game/v2/scene24.rpy:291
+translate francais v2s24_7fd95436:
+
+    # li "Alright, you're all set. Go get 'em, tiger!"
+    li "Bon, tu es prêt. Va les chercher, mon tigre !"
+
+# game/v2/scene24.rpy:296
+translate francais v2s24_7867663f:
+
+    # u "Thanks. I shall return victorious!"
+    u "Merci. Je reviendrai victorieux !"
+
+# game/v2/scene24.rpy:301
+translate francais v2s24_bb65b1cc:
+
+    # li "Please do. Good luck!"
+    li "S'il te plaît, fais-le. Bonne chance !"
+
+# game/v2/scene24.rpy:356
+translate francais v2s24_f2814027:
+
+    # cashier "Hey, man. Did you find everything you wanted?"
+    cashier "Hé, jeune homme. Avez-vous trouvé ce que vous vouliez ?"
+
+# game/v2/scene24.rpy:373
+translate francais v2s24_8df02f9d:
+
+    # u "I'm used to not getting carded."
+    u "Je n'ai pas l'habitude de me faire contrôler."
+
+# game/v2/scene24.rpy:389
+translate francais v2s24_1c3a0a5e:
+
+    # cashier "Oh my God... are you serious?"
+    cashier "Oh mon Dieu... Vous êtes sérieux ?"
+
+# game/v2/scene24.rpy:409
+translate francais v2s24_a21993a9:
+
+    # u "Yes, that's my name. Why are you laughing?"
+    u "Oui, c'est mon prénom... Pourquoi riez-vous ?"
+
+# game/v2/scene24.rpy:414
+translate francais v2s24_60882d9e:
+
+    # cashier "Nancy Dick?!"
+    cashier "Nancy Bite ?!"
+
+# game/v2/scene24.rpy:434
+translate francais v2s24_d396b968:
+
+    # cashier "Eats?! Ha!"
+    cashier "Suce ?!"
+
+# game/v2/scene24.rpy:449
+translate francais v2s24_1479506e:
+
+    # u "I've heard that one, actually."
+    u "J'ai déjà entendu ça des milliers de fois."
+
+# game/v2/scene24.rpy:454
+translate francais v2s24_c903694f:
+
+    # cashier "Ha... oh, man. You're killing me..."
+    cashier "Ha... Oh, merde. Je vais mourir de rire..."
+
+# game/v2/scene24.rpy:456
+translate francais v2s24_2056c9f6:
+
+    # cashier "Phew..."
+    cashier "Pfiou..."
+
+# game/v2/scene24.rpy:486
+translate francais v2s24_914b0d5d:
+
+    # cashier "Pfft, whatever, man..."
+    cashier "Pfft, peu importe mec..."
+
+# game/v2/scene24.rpy:488
+translate francais v2s24_71802eb5:
+
+    # cashier "Nancy is a name for females and, well, you're clearly a dude."
+    cashier "Nancy est un prénom de femme et... Tu es clairement un mec."
+
+# game/v2/scene24.rpy:498
+translate francais v2s24_36e2fb5f:
+
+    # cashier "Listen kid, even if your name is Nancy, and you're a fucking loser..."
+    cashier "Écoute gamin, même si ton prénom est Nancy et que tu es un putain de loser..."
+
+# game/v2/scene24.rpy:507
+translate francais v2s24_7000e799:
+
+    # u "(Fuck this guy. Should I stick with the fake story or just come clean at this point?)"
+    u "(Quel fils de pute ce mec... Est-ce que je dois m'en tenir à la fausse histoire ou simplement dire la vérité maintenant ?)"
+
+# game/v2/scene24.rpy:533
+translate francais v2s24_8cbdc8d6:
+
+    # u "You know this type of behavior isn't acceptable in modern, progressive, polite society, correct?"
+    u "Tu te rends compte que ce type de comportement est inacceptable dans la société moderne, hein ?"
+
+# game/v2/scene24.rpy:535
+translate francais v2s24_950f6a62:
+
+    # u "Are you a bigoted Neanderthal? Because you're coming off like one."
+    u "T'es un Néanderthal ? Parce qu'on dirait vraiment."
+
+# game/v2/scene24.rpy:540
+translate francais v2s24_f9831951:
+
+    # cashier "I'm not a... wait, what did you call me...?"
+    cashier "Je ne suis pas un... Attendez, comment m'avez-vous appelé...?"
+
+# game/v2/scene24.rpy:550
+translate francais v2s24_19e6a89d:
+
+    # cashier "No, no, no... please, don't..."
+    cashier "Non, non, non... S'il vous plaît, ne..."
+
+# game/v2/scene24.rpy:557
+translate francais v2s24_69cac6a2:
+
+    # u "(Huge, even. Don't make Dick angry!)"
+    u "(C'est bien. Ne provoque pas la colère de Dick !)"
+
+# game/v2/scene24.rpy:574
+translate francais v2s24_c6c7178e:
+
+    # u "You're lucky I'm in a rush."
+    u "Tu as énormément de chance que je sois pressé."
+
+# game/v2/scene24.rpy:594
+translate francais v2s24_a6bf72bb:
+
+    # cashier "Yes... understood. I'm... I'm so sorry."
+    cashier "Oui... je comprends. Je... Je suis vraiment désolé."
+
+# game/v2/scene24.rpy:644
+translate francais v2s24_b0f27973:
+
+    # cashier "Yeah, no shit."
+    cashier "Ouais, sans blague."
+
+# game/v2/scene24.rpy:649
+translate francais v2s24_7f9d75e3:
+
+    # u "But, please... can you just let it slide this one time? I swear to you, nobody will ever find out about this."
+    u "Mais, s'il vous plaît... Pouvez-vous juste laisser passer cette fois-ci ? Je vous jure que personne ne saura jamais rien de tout ça."
+
+# game/v2/scene24.rpy:666
+translate francais v2s24_64bb6c64:
+
+    # cashier "All of your high school friends will copycat you and try to empty the shelves."
+    cashier "Tous tes amis du lycée vont t'imiter et chercher à vider les étagères."
+
+# game/v2/scene24.rpy:667
+translate francais v2s24_d9e30dd0:
+
+    # cashier "If you stick around you can probably get a ride home from them."
+    cashier "Si tu restes dans le coin, ils pourront peut-être te ramener chez toi."
+
+# game/v2/scene24.rpy:677
+translate francais v2s24_911c640a:
+
+    # cashier "Yeah, dude. Eighteen at most."
+    cashier "Ouais, mec. t'as 18 ans maxi."
+
+# game/v2/scene24.rpy:687
+translate francais v2s24_cc349b82:
+
+    # cashier "Tell that to your nonexistent facial hair."
+    cashier "Dis ça à ta pilosité faciale inexistante."
+
+# game/v2/scene24.rpy:694
+translate francais v2s24_d1663b0f:
+
+    # u "How about I, you know... give you a tip?"
+    u "Et si je, vous savez... Vous donnais un pourboire ?"
+
+# game/v2/scene24.rpy:786
+translate francais v2s24_2609eb58:
+
+    # cashier "Drink responsibly, Miss Dick!"
+    cashier "Bois raisonnablement, Miss Bite !"
+
+# game/v2/scene24.rpy:791
+translate francais v2s24_5d02055e:
+
+    # u "Will do."
+    u "C'est ce que je vais faire."
+
+# game/v2/scene24.rpy:822
+translate francais v2s24_5daf6428:
+
+    # u "Oh, ha. What a coincidence..."
+    u "Oh, ha. Quelle coïncidence."
+
+# game/v2/scene24.rpy:832
+translate francais v2s24_64e25cd6:
+
+    # u "Yep. Almost the big 30! Ha... *Clears throat*"
+    u "Ouaip... Presque la trentaine ! Ha... *Éclaircissement de gorge*"
+
+# game/v2/scene24.rpy:857
+translate francais v2s24_86e4a456:
+
+    # cashier "There's no way in hell that you're almost thirty, my guy. Have you looked in the mirror lately?"
+    cashier "Il n'y a aucune chance que tu aies presque trente ans, mon garçon. Tu t'es regardé dans le miroir dernièrement ?"
+
+# game/v2/scene24.rpy:887
+translate francais v2s24_aa389711:
+
+    # cashier "Yeah, okay. You have a medical condition that makes you look fifteen years old, and I have a bullshit detector. Take a hike!"
+    cashier "Ouais, d'accord. Tu as une condition médicale qui te fait paraître avoir quinze ans, et j'ai un détecteur de conneries. Va te faire voir !"
+
+# game/v2/scene24.rpy:906
+translate francais v2s24_bc173105:
+
+    # u "(Smart job, smart, smart job. What's a smart job?! C'mon!!)"
+    u "(Un travail intelligent, un travail intelligent, un travail intelligent... Qu'est-ce qu'il y a comme travail intelligent ?!)"
+
+# game/v2/scene24.rpy:911
+translate francais v2s24_8b9f3fa5:
+
+    # cashier "Yeah? Did you forget?"
+    cashier "Ah ouais ? Tu as oublié ?"
+
+# game/v2/scene24.rpy:941
+translate francais v2s24_ad774518:
+
+    # cashier "An astronaut? Are you kidding me???"
+    cashier "Un astronaute ? Tu te fous de moi ???"
+
+# game/v2/scene24.rpy:953
+translate francais v2s24_bb361f80:
+
+    # cashier "You're one of the funniest scumbags I've met in this place."
+    cashier "T'es l'une des ordures les plus drôles que j'ai rencontré ici."
+
+# game/v2/scene24.rpy:958
+translate francais v2s24_96fc26a4:
+
+    # u "(Fuck's sake, how do I get out of this?)"
+    u "(Putain de merde... Comment est-ce que je peux m'en sortir ?)"
+
+# game/v2/scene24.rpy:988
+translate francais v2s24_aa86ec0a:
+
+    # cashier "What?! What the fuck? Who are you even talking to?"
+    cashier "Quoi ?! C'est quoi ce bordel ? À qui tu parles ?"
+
+# game/v2/scene24.rpy:1008
+translate francais v2s24_d3a57d0c:
+
+    # u "They're connecting me to the department for hate crimes right now. We're on hold."
+    u "Ils me passent le département des crimes haineux pour le moment, je suis en attente."
+
+# game/v2/scene24.rpy:1013
+translate francais v2s24_7659caa7:
+
+    # cashier "No, listen, you have to stop. Please, hang up!"
+    cashier "Non, écoutez... Vous ne devez pas... S'il vous plaît, raccrochez !"
+
+# game/v2/scene24.rpy:1025
+translate francais v2s24_cb8b059b:
+
+    # cashier "Yes... yes. I'll do whatever, just..."
+    cashier "Oui... Oui. Je ferai tout ce que vous voulez, mais..."
+
+# game/v2/scene24.rpy:1055
+translate francais v2s24_407a25ad:
+
+    # cashier "Oh, uh, of course! Sorry..."
+    cashier "Oh, heu, Bien sûr ! Désolé..."
+
+# game/v2/scene24.rpy:1110
+translate francais v2s24_81d16606:
+
+    # cashier "Ha, wait, you're admitting it?"
+    cashier "Ha, attends, tu l'admets ?"
+
+# game/v2/scene24.rpy:1132
+translate francais v2s24_84eb9fba:
+
+    # cashier "Nobody needs alcohol, kid. The human body can survive just fine without it."
+    cashier "Personne n'a besoin d'alcool, petit. Le corps humain peut très bien survivre sans."
+
+# game/v2/scene24.rpy:1240
+translate francais v2s24_abb0330f:
+
+    # u "Thank you so much. This is great."
+    u "Merci beaucoup... C'est super."
+
+# game/v2/scene24.rpy:1250
+translate francais v2s24_ee01f9b9:
+
+    # u "Thanks."
+    u "Merci."
+
+# game/v2/scene24.rpy:1277
+translate francais v2s24_1c2949b7:
+
+    # li "Oh my God, it worked! You did it!"
+    li "Oh merde, ça a marché ! T'as réussi !"
+
+# game/v2/scene24.rpy:1301
+translate francais v2s24_efb19bbc:
+
+    # u "I did. Barely."
+    u "Oui, j'ai réussi. De justesse."
+
+# game/v2/scene24.rpy:1341
+translate francais v2s24_1b4db6ef:
+
+    # li "No, not yet..."
+    li "Non, pas encore..."
+
+# game/v2/scene24.rpy:1343
+translate francais v2s24_ca68f144:
+
+    # li "I've heard they can really fuck you up, though. They make you feel twenty different emotions all at once."
+    li "Mais j'ai entendu dire qu'ils peuvent vraiment te déchirer. Ils te font ressentir vingt émotions différentes en même temps."
+
+# game/v2/scene24.rpy:1355
+translate francais v2s24_ac609a07:
+
+    # li "And also kind of terrifying..."
+    li "Et aussi un peu terrifiant..."
+
+# game/v2/scene24.rpy:1357
+translate francais v2s24_f8185348:
+
+    # li "Can't wait."
+    li "Je peux plus attendre."
+
+# game/v2/scene24.rpy:1370
+translate francais v2s24_f8185348_1:
+
+    # li "Can't wait."
+    li "Je peux plus attendre."
+
+# game/v2/scene24.rpy:1402
+translate francais v2s24_4633788a:
+
+    # li "Really? Ugh. This sucks."
+    li "Vraiment ? Argh... Ça craint."
+
+# game/v2/scene24.rpy:1414
+translate francais v2s24_c44d369e:
+
+    # li "Cocktails without alcohol. Still fun, I guess, but no buzz."
+    li "Des cocktails sans alcool. Ça reste amusant quand même, mais il n'y aura pas de buzz."
+
+# game/v2/scene24.rpy:1419
+translate francais v2s24_88aec919:
+
+    # u "Damn. I'm sorry I let you down."
+    u "Merde, je suis désolé d'avoir foiré."
+
+# game/v2/scene24.rpy:1436
+translate francais v2s24_3fa3efd4:
+
+    # li "You're taking time out of your day to help me. I couldn't be upset that you tried."
+    li "Tu prends du temps sur ta journée pour m'aider, je ne pourrais pas être fâchée que tu aies essayé."
+
+# game/v2/scene24.rpy:1484
+translate francais v2s24_PhoneContinue_172fbb04:
+
+    # li "Are you being summoned?"
+    li "Tu es convoqué ?"

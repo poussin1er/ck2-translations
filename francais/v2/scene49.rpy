@@ -361,3 +361,64 @@ translate francais strings:
     # game/v2/scene49.rpy:189
     old "Get angry"
     new "Se mettre en colère"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene49.rpy:39
+translate francais v2s49_36869aa5:
+
+    # u "(What's going on? Is that... Tom?)"
+    u "(Qu'est-ce qui se passe ? C'est... Tom ?)"
+
+# game/v2/scene49.rpy:89
+translate francais v2s49_8dc70da0:
+
+    # tom "Ha! Shut the hell up and listen to me."
+    tom "Hah ! Ferme ta gueule et écoute moi bien."
+
+# game/v2/scene49.rpy:91
+translate francais v2s49_a07c7dab:
+
+    # tom "Someone has to take his place. And that person is going to be you from now on, you understand?"
+    tom "Quelqu'un doit prendre sa place. Et cette personne ça sera toi à partir de maintenant, t'as compris ?"
+
+# game/v2/scene49.rpy:116
+translate francais v2s49_0b56c320:
+
+    # ri "*Grunts* Let... go!"
+    ri "*Grogne* laisse moi... partir !"
+
+# game/v2/scene49.rpy:164
+translate francais v2s49_d9a32590:
+
+    # u "Riley! What the fuck. Are you okay?"
+    u "Riley ! Qu'est-ce qui se passe !? Tu vas bien ?"
+
+# game/v2/scene49.rpy:169
+translate francais v2s49_125d511b:
+
+    # ri "[name]? I'm... *grunts* I'm fine."
+    ri "[name] ? Je... *Grogne* Je vais bien."
+
+# game/v2/scene49.rpy:197
+translate francais v2s49_eb81d540:
+
+    # tom "Does it look like I give a fuck?! How about I drop your weak ass, too?"
+    tom "Tu crois que j'en ai quelque chose à foutre ? Et si je démontais ton p'tit cul à toi aussi ?"
+
+# game/v2/scene49.rpy:236
+translate francais v2s49_407dfad8:
+
+    # tom "The difference this time is that I train twice a week, so hopefully you don't wake up!"
+    tom "La seule différence cette fois, c'est que je m'entraîne deux fois par semaine, j'espère donc que tu te relèveras plus !"
+
+# game/v2/scene49.rpy:251
+translate francais v2s49_41e3b06c:
+
+    # u "Dude, like Riley said, it was only a matter of time before he got caught. He has no one to blame but himself."
+    u "Yo ! Comme l'as dit Riley, c'était qu'une question de temps avant qu'il se fasse prendre. Y a personne d'autre à qui en vouloir à part lui."
+
+# game/v2/scene49.rpy:253
+translate francais v2s49_6e6d5092:
+
+    # u "Why don't you go home now, huh? I think you've hurt enough people today."
+    u "Pourquoi tu rentres pas chez toi maintenant, hein ? Je crois que t'as fait assez de mal autour de toi pour aujourd'hui."

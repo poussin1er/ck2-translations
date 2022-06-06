@@ -1175,3 +1175,232 @@ translate francais strings:
     # game/v2/scene48.rpy:912
     old "I want you too"
     new "Je te veux aussi"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene48.rpy:109
+translate francais v2s48_74bc1344:
+
+    # no "Ha... did you miss me?"
+    no "Oh... Coucou. Je t'ai manqué ?"
+
+# game/v2/scene48.rpy:120
+translate francais v2s48_abb3cc1f:
+
+    # no "Oh, um... hey there."
+    no "Oh, hum... Salut toi."
+
+# game/v2/scene48.rpy:193
+translate francais v2s48_6eea74d2:
+
+    # no "Yeah... no, it's more about healing, you know?"
+    no "En fait... Non, c'est plus une histoire de guérison, tu comprends ?"
+
+# game/v2/scene48.rpy:265
+translate francais v2s48_5dae92f0:
+
+    # u "Plenty."
+    u "Ça fait beaucoup."
+
+# game/v2/scene48.rpy:302
+translate francais v2s48_234e932c:
+
+    # no "Right?"
+    no "Il te plait ?"
+
+# game/v2/scene48.rpy:344
+translate francais v2s48_847cd105:
+
+    # no "Ha! My dad would love to hear that. He hates this old thing. Only keeps it out here for me, I think."
+    no "Oh ! Mon père serait ravi d'entendre ça. Il déteste cette vieille baraque. À mon avis, il ne la garde que pour moi."
+
+# game/v2/scene48.rpy:356
+translate francais v2s48_4357fde4:
+
+    # no "I was so... unprioritized...?"
+    no "J'étais tellement... Sans importance..."
+
+# game/v2/scene48.rpy:385
+translate francais v2s48_246be4e4:
+
+    # no "I know. Thank you, but... let me finish."
+    no "Je sais. Merci, mais... Laisse-moi finir."
+
+# game/v2/scene48.rpy:430
+translate francais v2s48_1b1dba99:
+
+    # no "I just mean-"
+    no "Je disais juste que-"
+
+# game/v2/scene48.rpy:468
+translate francais v2s48_db4db822:
+
+    # no "Right, right... I have what I need."
+    no "C'est vrai, c'est vrai... J'ai retrouvé ce que je voulais."
+
+# game/v2/scene48.rpy:481
+translate francais v2s48_4d8be1be:
+
+    # no "Thank you."
+    no "Merci."
+
+# game/v2/scene48.rpy:491
+translate francais v2s48_e8d1eb4a:
+
+    # no "Who knows?"
+    no "Qui sait ?"
+
+# game/v2/scene48.rpy:533
+translate francais v2s48_d5de152f:
+
+    # u "Ha... maybe?"
+    u "Ha... Possible...?"
+
+# game/v2/scene48.rpy:547
+translate francais v2s48_95a863d5:
+
+    # no "Pfft, no. Not in the slightest."
+    no "Pfft, non. Pas du tout."
+
+# game/v2/scene48.rpy:554
+translate francais v2s48_8ba5f65a:
+
+    # u "(Gotta be careful here... should we nudge her in the right direction?)"
+    u "(Là, il faut faire attention... Est-ce que je devrais la pousser dans la bonne direction ?)"
+
+# game/v2/scene48.rpy:612
+translate francais v2s48_2f62d160:
+
+    # no "I've never given that a try, I guess..."
+    no "Je crois que je n'ai jamais essayé..."
+
+# game/v2/scene48.rpy:638
+translate francais v2s48_3ffaaa46:
+
+    # no "So done. Beyond done..."
+    no "Carrément. Plus que marre."
+
+# game/v2/scene48.rpy:656
+translate francais v2s48_44f47f9a:
+
+    # u "I know."
+    u "Je sais."
+
+# game/v2/scene48.rpy:669
+translate francais v2s48_4481f697:
+
+    # no "You're kidding."
+    no "Tu te moques de moi."
+
+# game/v2/scene48.rpy:687
+translate francais v2s48_3eb7cdfd:
+
+    # no "Both?! Oh my God..."
+    no "Les deux ?! Oh là là..."
+
+# game/v2/scene48.rpy:693
+translate francais v2s48_653740b4:
+
+    # no "Oh my God..."
+    no "Oh là là..."
+
+# game/v2/scene48.rpy:700
+translate francais v2s48_3ce6d79e:
+
+    # u "Ha, good!"
+    u "Ah, bon !"
+
+# game/v2/scene48.rpy:725
+translate francais v2s48_470e90da:
+
+    # no "I think we have wine. Be right back!"
+    no "Je crois qu'on a du vin... J'arrive tout de suite !"
+
+# game/v2/scene48.rpy:731
+translate francais v2s48_46abaaf3:
+
+    # no "Well, listening to the voices inside of our heads... cheers to that! Actually-"
+    no "Bon, écoutons les voix qui sont dans nos têtes... Et trinquons à celles-ci ! En fait-"
+
+# game/v2/scene48.rpy:733
+translate francais v2s48_470e90da_1:
+
+    # no "I think we have wine. Be right back!"
+    no "Je crois qu'on a du vin... J'arrive tout de suite !"
+
+# game/v2/scene48.rpy:742
+translate francais v2s48_f8d1dd27:
+
+    # no "Well, I guess I'm gonna follow my heart, then..."
+    no "Eh bien, alors je pense que je vais suivre mon cœur..."
+
+# game/v2/scene48.rpy:786
+translate francais v2s48_7dc02620:
+
+    # no "If only you were completely available."
+    no "Si seulement tu étais totalement libre..."
+
+# game/v2/scene48.rpy:791
+translate francais v2s48_39caeed6:
+
+    # u "Oh, your... it's me?"
+    u "Oh, tu... C'est moi ?"
+
+# game/v2/scene48.rpy:796
+translate francais v2s48_f83800d8:
+
+    # no "Kinda?"
+    no "Qui sait ?"
+
+# game/v2/scene48.rpy:798
+translate francais v2s48_fc1c78f2:
+
+    # no "You're a great guy, everyone can see that. And you obviously care about me."
+    no "Tu es un gars super, tout le monde le sait. Et il est évident que tu te soucies de moi."
+
+# game/v2/scene48.rpy:818
+translate francais v2s48_3895a20a:
+
+    # no "I think I need something stronger than this tea..."
+    no "Je crois que je vais avoir besoin de quelque chose de plus fort que ce thé..."
+
+# game/v2/scene48.rpy:823
+translate francais v2s48_8eb77ae4:
+
+    # u "Ha, getting all soft on me now?"
+    u "Tu te montres douce avec moi maintenant ?"
+
+# game/v2/scene48.rpy:917
+translate francais v2s48_norawine_ebb78639:
+
+    # u "The relationship that we have is so strong and fun... I think we should keep it that way."
+    u "La relation qu'on a est tellement forte et sympa... Je crois qu'on devrait la garder telle quelle."
+
+# game/v2/scene48.rpy:922
+translate francais v2s48_norawine_f214404b:
+
+    # no "Oh... yeah, okay."
+    no "Oh... Ouais, c'est vrai."
+
+# game/v2/scene48.rpy:964
+translate francais v2s48_norawine_92afe588:
+
+    # no "Well, I'm happy with that. Forever friends."
+    no "Bien, je suis heureuse avec ça. Amis pour la vie."
+
+# game/v2/scene48.rpy:989
+translate francais v2s48_norawine_132f392f:
+
+    # no "Ha, no, it's not. I'll be right back."
+    no "Non, pas vraiment. J'arrive tout de suite."
+
+# game/v2/scene48.rpy:1046
+translate francais v2s48_norawine_3ebef747:
+
+    # u "(My God, have I missed this...)"
+    u "(Merde, ça m'a manqué...)"
+
+# game/v2/scene48.rpy:1057
+translate francais v2s48_norawine_b49143ea:
+
+    # u "I think I can guess..."
+    u "J'ai tout de même une idée..."

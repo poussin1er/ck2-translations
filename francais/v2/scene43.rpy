@@ -1068,3 +1068,214 @@ translate francais v2s43_b3e16d09:
 
     # u "Right... We could be anybody."
     u "C'est vrai... On pourrait être n'importe qui."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene43.rpy:35
+translate francais v2s43_0ed50dd9:
+
+    # am "Ha, shhh... true detectives don't live in frats!"
+    am "Haha, chuuut... Les détectives ne vivent pas dans des fraternités !"
+
+# game/v2/scene43.rpy:40
+translate francais v2s43_86ece32b:
+
+    # u "Oh, of course."
+    u "Oh, bien sûr."
+
+# game/v2/scene43.rpy:68
+translate francais v2s43_3a7b852e:
+
+    # u "We really don't."
+    u "On en a pas vraiment."
+
+# game/v2/scene43.rpy:81
+translate francais v2s43_1e9128d5:
+
+    # u "I don't know. You're the lead detective on this case."
+    u "Je sais pas, c'est toi la détective principale sur cette affaire."
+
+# game/v2/scene43.rpy:91
+translate francais v2s43_83a91218:
+
+    # u "Climb up the house? Go right ahead. I'll watch."
+    u "Escalader la maison ? Vas-y, j'te regarde."
+
+# game/v2/scene43.rpy:134
+translate francais v2s43_34a93bbd:
+
+    # am "Yeah, but we're undercover detectives. Deep undercover. We don't even carry badges. *Giggles*"
+    am "Ouais, mais on est des détectives sous couverture. Sous couverture profonde. On porte même pas de badges. *Ricane*"
+
+# game/v2/scene43.rpy:139
+translate francais v2s43_497038d2:
+
+    # u "Right... we could be anybody."
+    u "C'est vrai... On pourrait être n'importe qui."
+
+# game/v2/scene43.rpy:144
+translate francais v2s43_e6fda7f7:
+
+    # am "Exactly. Hello, sir! We're selling insurance for your windows. And BAM! We're inside, interrogating that punk."
+    am "Exactement. \"Bonjour, monsieur ! Nous vendons une assurance pour vos fenêtres\". Et BAM ! On est à l'intérieur en train d'interroger ce voyou."
+
+# game/v2/scene43.rpy:159
+translate francais v2s43_173f2156:
+
+    # u "Anytime."
+    u "N'importe quand."
+
+# game/v2/scene43.rpy:176
+translate francais v2s43_d43fb8b9:
+
+    # am "I didn't think it would be that easy..."
+    am "Je pensais pas que ce serait aussi facile."
+
+# game/v2/scene43.rpy:192
+translate francais v2s43_0d4f9016:
+
+    # u "What could we want?"
+    u "Et qu'est-ce qu'on pourrait vouloir ?"
+
+# game/v2/scene43.rpy:199
+translate francais v2s43_9bc9e683:
+
+    # am "Okay, wow. You'd make a mean psychologist."
+    am "Ok, wow... Tu ferais un sacré psychologue."
+
+# game/v2/scene43.rpy:209
+translate francais v2s43_67d6b8ac:
+
+    # am "Is that really how that works? Anyway, let's just try the door."
+    am "C'est vraiment comme ça que ça marche ? Bref, essayons simplement la porte."
+
+# game/v2/scene43.rpy:221
+translate francais v2s43_002ace7f:
+
+    # u "He's already playing mind games with us. This isn't good."
+    u "Il joue déjà à des jeux d'esprit avec nous, c'est pas bon."
+
+# game/v2/scene43.rpy:227
+translate francais v2s43_42724342:
+
+    # u "Watch out! Back up."
+    u "Attention, recule."
+
+# game/v2/scene43.rpy:244
+translate francais v2s43_6c945734:
+
+    # am "Oh fuck, [name]! You weren't kidding about being a loose cannon."
+    am "Oh, putain [name] ! Tu plaisantais pas en disant que t'étais un électron libre."
+
+# game/v2/scene43.rpy:249
+translate francais v2s43_249a22fa:
+
+    # u "We're not locked in here with street punks, they're locked in here with us!"
+    u "On est pas bloqué ici avec les punks de la rue, ce sont eux qui sont bloqués ici avec nous !"
+
+# game/v2/scene43.rpy:254
+translate francais v2s43_b8591ff4:
+
+    # am "Woah there! Calm down, big guy, you're starting to turn green..."
+    am "Waouh, ok ! Calme-toi mon grand, tu commences à virer au vert..."
+
+# game/v2/scene43.rpy:322
+translate francais v2s43_cb8a02db:
+
+    # am "Ha, wait, what makes you say that?"
+    am "Oh, attends, pourquoi tu dis ça ?"
+
+# game/v2/scene43.rpy:338
+translate francais v2s43_c4881b2c:
+
+    # am "Eww, stop... you're creeping me out! Like he's in the walls or something."
+    am "Aaargh, arrête... Tu m'fais froid dans le dos ! C'est comme s'il était planqué dans les murs ou un truc comme ça."
+
+# game/v2/scene43.rpy:354
+translate francais v2s43_96f09c10:
+
+    # u "Come on out, Chris! You can play hide and seek on your own time!"
+    u "Sors de là, Chris ! Tu pourras jouer à cache-cache pendant ton temps libre !"
+
+# game/v2/scene43.rpy:466
+translate francais v2s43_d29940e0:
+
+    # u "One-word answers, huh? That's never convincing, is it, detective?"
+    u "Des réponses en un seul mot, Hein ? C'est jamais très probant, n'est-ce pas Miss détective ?"
+
+# game/v2/scene43.rpy:471
+translate francais v2s43_e401f087:
+
+    # am "Not at all, my protégé... not at all."
+    am "Pas du tout, mon petit protégé... Pas du tout."
+
+# game/v2/scene43.rpy:482
+translate francais v2s43_2a51a4cf:
+
+    # am "Yeah, Ms. Rose... she's Nora's stepmom."
+    am "Ouais, Mme Rose... Elle est la belle-mère de Nora."
+
+# game/v2/scene43.rpy:590
+translate francais v2s43_a8edf4a7:
+
+    # u "You're enjoying this, aren't you? Do you get joy out of withholding information from us? Does this get you off?"
+    u "Ça te plaît, n'est-ce pas ? Tu prends ton pied à nous dissimuler des informations !? Ça t'excite ?"
+
+# game/v2/scene43.rpy:595
+translate francais v2s43_e25ffe66:
+
+    # ch "What? No!"
+    ch "Quoi ? Non !"
+
+# game/v2/scene43.rpy:630
+translate francais v2s43_4a0686a7:
+
+    # u "The least you can do, as her ex-boyfriend for the last who the fuck cares how many years, is tell us where in the hell she is!"
+    u "Le moins que tu puisses faire, en tant qu'ex-petit ami depuis on se fout du nombre d'années, c'est de nous dire où elle se trouve, bordel !"
+
+# game/v2/scene43.rpy:657
+translate francais v2s43_dc436574:
+
+    # ch "Um... she has an aunt."
+    ch "Hum... Elle a une tante"
+
+# game/v2/scene43.rpy:697
+translate francais v2s43_b8b42eca:
+
+    # u "Yeah. If she exists... is Nora close to her?"
+    u "Ouais. Si elle existe... Nora est-elle proche d'elle ?"
+
+# game/v2/scene43.rpy:715
+translate francais v2s43_c3c54762:
+
+    # u "So you're sure that Nora's not with Mr. Rose, or... her dad, I mean?"
+    u "Alors t'es sûr que Nora n'est pas avec Mr Rose, ou... plutôt... son père "
+
+# game/v2/scene43.rpy:777
+translate francais v2s43_7c4ffcb9:
+
+    # u "Insecurity within oneself leads to a lack of connection to others. A lack of attentiveness... hmm. Why do you think that is, Chris?"
+    u "Le manque d'assurance en soi entraîne un manque de connexion avec les autres. Un manque de réceptivité... Pourquoi crois-tu que ça soit le cas, Chris ?"
+
+# game/v2/scene43.rpy:820
+translate francais v2s43_8221c93d:
+
+    # u "I can't believe what I'm hearing! Get a load of this fucking guy."
+    u "J'arrive pas à croire ce que j'entends ! Regarde ce putain de mec."
+
+# game/v2/scene43.rpy:911
+translate francais v2s43_d23f06f8:
+
+    # am "That was brilliant!"
+    am "C'était brillant !"
+
+# game/v2/scene43.rpy:913
+translate francais v2s43_d1fa13d7:
+
+    # am "Let's get back to the board. I think we have a few ideas now."
+    am "Revenons au tableau, je crois qu'on a quelques pistes maintenant."
+
+# game/v2/scene43.rpy:942
+translate francais v2s43_02f493c3:
+
+    # u "(I think I've done enough damage to this room already.)"
+    u "(Je pense avoir déjà fait assez de dégâts dans cette pièce.)"

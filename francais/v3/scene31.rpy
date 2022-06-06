@@ -351,3 +351,136 @@ translate francais strings:
     # game/v3/scene31.rpy:125
     old "Defend Samantha"
     new "Défendre Samantha"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene31.rpy:32
+translate francais v3s31_fc678441:
+
+    # u "Hey, what's going on in here?"
+    u "Hey, qu'est-ce qui se passe, ici ?"
+
+# game/v3/scene31.rpy:74
+translate francais v3s31_bd7d487f:
+
+    # gr "Always just fucking picking away at everything. Like, shut the fuck up."
+    gr "Toujours à chercher la merde sur tout. Vraiment, ferme ta gueule."
+
+# game/v3/scene31.rpy:79
+translate francais v3s31_b02816b2:
+
+    # sa "Jesus, I was teasing you! I didn't realize you were such a sensitive fucking babe."
+    sa "Putain, je me foutais de toi ! Je savais pas que t'étais un putain de mioche aussi sensible."
+
+# game/v3/scene31.rpy:84
+translate francais v3s31_36435d89:
+
+    # gr "Alright, you know what? This little arrangement with you living here? It needs to end."
+    gr "Bon, t'sais quoi ? Ce petit accord pour que tu vives ici !? Ça doit finir."
+
+# game/v3/scene31.rpy:89
+translate francais v3s31_baae9609:
+
+    # sa "What? Are you serious right now? Where's this coming from?"
+    sa "Quoi ? T'es sérieux là ? D'où ça sort ?"
+
+# game/v3/scene31.rpy:99
+translate francais v3s31_3e5257e5:
+
+    # sa "Ugh, tell that to my brother, meathead. I don't want to be here any longer than I have to!"
+    sa "Argh, dis ça à mon frère, abruti. J'ai pas envie d'rester là plus longtemps !"
+
+# game/v3/scene31.rpy:126
+translate francais v3s31_be0538c1:
+
+    # sa "I've been good lately, no drugs or alcohol. I'm hoping to be out soon."
+    sa "J'ai été sage récemment, pas de drogue, ni d'alcool. J'espère pouvoir me casser vite fait."
+
+# game/v3/scene31.rpy:136
+translate francais v3s31_5c6316d9:
+
+    # sa "*Scoffs*"
+    sa "*Rire moqueur*"
+
+# game/v3/scene31.rpy:154
+translate francais v3s31_98dc37c2:
+
+    # u "I mean, you gotta see where Grayson's coming from, Sam. Most frats don't have a girl living on their couch."
+    u "Il faut que tu comprennes où Grayson veut en venir, Sam. Y a pas de fille qui vit sur le canapé dans la plupart des fraternités."
+
+# game/v3/scene31.rpy:175
+translate francais v3s31_9084dcc4:
+
+    # sa "Both of you assholes feel free to talk to Cameron about it!"
+    sa "Vous deux, bande de connards, n'hésitez pas à aller dire ça à Cameron !"
+
+# game/v3/scene31.rpy:198
+translate francais v3s31_07cd6b38:
+
+    # sa "..."
+    sa "..."
+
+# game/v3/scene31.rpy:208
+translate francais v3s31_848a4f5c:
+
+    # gr "You sound like a fucking after school special, [name]. We're not a fucking charity."
+    gr "Tu parles comme un putain de cours du soir, [name]. On est pas une putain d'association caritative."
+
+# game/v3/scene31.rpy:213
+translate francais v3s31_d653b00c:
+
+    # u "(Okay...)"
+    u "(D'accord...)"
+
+# game/v3/scene31.rpy:224
+translate francais v3s31_b94c95d0:
+
+    # sa "*Whispers* Think he's angry because he wants to bang me? That's probably what this is."
+    sa "*Chuchote* Je crois qu'il est en colère parce qu'il veut me baiser. Ça doit être ça."
+
+# game/v3/scene31.rpy:240
+translate francais v3s31_b2a9edb8:
+
+    # gr "Fuckin' A! Something's finally sinking into that tiny fucking brain of yours!"
+    gr "Voilà, j'te donne un putain de A ! Y a enfin quelque chose qui rentre dans ta petite cervelle de merde !"
+
+# game/v3/scene31.rpy:250
+translate francais v3s31_9e220db7:
+
+    # gr "We need some fucking flashlights in case this power outage happens again."
+    gr "Va nous falloir des putains de lampes de poche, au cas où cette panne de courant recommencerait."
+
+# game/v3/scene31.rpy:260
+translate francais v3s31_2ec162ff:
+
+    # gr "Fuck right off, Sam!"
+    gr "Va t'faire foutre, Sam !"
+
+# game/v3/scene31.rpy:272
+translate francais v3s31_b7014502:
+
+    # u "Uh... yeah. He definitely lets you know when he's pissed off."
+    u "Heu... ouais. Quand il est en colère, il te le montre vraiment."
+
+# game/v3/scene31.rpy:279
+translate francais v3s31_e970720e:
+
+    # sa "Yup, a true Ape. Always angry and ready for a fight."
+    sa "Ouaip, un vrai Ape. Toujours en colère et prêt à se battre."
+
+# game/v3/scene31.rpy:294
+translate francais v3s31_c13d9b9e:
+
+    # sa "HA! Good one, you weirdo."
+    sa "OH ! Vas-y, espèce de taré."
+
+# game/v3/scene31.rpy:312
+translate francais v3s31_c8152cc7:
+
+    # sa "Oh yeah, my memory of us fucking... it's kinda fading. So, let's refresh that soon."
+    sa "Ah ouais, et mes souvenirs de nous en train de baiser... ils commencent à disparaître. Va falloir les rafraîchir très vite."
+
+# game/v3/scene31.rpy:327
+translate francais v3s31_750ae611:
+
+    # u "(I guess I can go study, not much else to do...)"
+    u "(J'imagine que je peux aller travailler, y a pas grand-chose d'autre à faire...)"

@@ -453,3 +453,40 @@ translate francais strings:
     # game/v2/scene2.rpy:177
     old "Laugh it off"
     new "En rire"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene2.rpy:186
+translate francais v2s2_88eff7b9:
+
+    # u "It was a bit extreme..."
+    u "C'était un peu excessif..."
+
+# game/v2/scene2.rpy:196
+translate francais v2s2_8db1dfda:
+
+    # u "Night, Cameron."
+    u "Bonne nuit, Cameron."
+
+# game/v2/scene2.rpy:204
+translate francais v2s2_8db1dfda_1:
+
+    # u "Night, Cameron."
+    u "Bonne nuit, Cameron."
+
+# game/v2/scene2.rpy:401
+translate francais v2s2_PhoneContinueAut_74b1820e:
+
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Habille-toi pour impressionner ton impératrice macabre...\")"
+
+# game/v2/scene2.rpy:404
+translate francais v2s2_PhoneContinueAut_92918464:
+
+    # u "(Maybe Autumn can give me ideas on what Lauren would like, or I can just get her some kind of gift card. She likes books, I think?)"
+    u "(Peut-être qu'Autumn pourrait me donner des idées sur ce que Lauren aimerait, ou alors je pourrais tout simplement lui offrir un chèque-cadeau. Il me semble qu'elle aime les livres.)"
+
+translate francais strings:
+
+    # game/v2/scene2.rpy:179
+    old "Shrug it off"
+    new "Fais-toi une raison"

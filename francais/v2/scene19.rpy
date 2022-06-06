@@ -245,3 +245,88 @@ translate francais strings:
     # game/v2/scene19.rpy:99
     old "Don't help"
     new "Ne pas l'aider"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene19.rpy:87
+translate francais v2s19_fdbb70bf:
+
+    # la "I officially regret not cleaning all of this up last night."
+    la "Je regrette vraiment de ne pas avoir nettoyé tout ça hier soir."
+
+# game/v2/scene19.rpy:97
+translate francais v2s19_5f978a57:
+
+    # la "No worries, though. It was worth it. I had a really good time."
+    la "Mais ne t'inquiète pas, ça en valait la peine. J'ai passé un très bon moment."
+
+# game/v2/scene19.rpy:106
+translate francais v2s19_cb40d7a1:
+
+    # u "Ha, that it was."
+    u "Ça c'est vrai."
+
+# game/v2/scene19.rpy:116
+translate francais v2s19_cc5df064:
+
+    # u "It's okay, Lauren. You don't have to clean up your own birthday party all by yourself."
+    u "C'est bon, Lauren. T'as pas à nettoyer ta propre fête d'anniversaire toute seule."
+
+# game/v2/scene19.rpy:126
+translate francais v2s19_e658f8b0:
+
+    # u "Of course. Where should I start?"
+    u "T'inquiètes. Bon, par où commencer, maintenant ?"
+
+# game/v2/scene19.rpy:131
+translate francais v2s19_b54e236a:
+
+    # la "Can you hold this bag open for me? And I'll put trash in it."
+    la "Tu peux tenir cette poubelle pour moi ? Je mettrais ces déchets dedans."
+
+# game/v2/scene19.rpy:169
+translate francais v2s19_37bae29d:
+
+    # la "Ugh. Gross!"
+    la "Beurk... Dégueu !"
+
+# game/v2/scene19.rpy:174
+translate francais v2s19_e377aead:
+
+    # u "It wasn't that bad."
+    u "C'était pas si terrible."
+
+# game/v2/scene19.rpy:179
+translate francais v2s19_0429e4af:
+
+    # la "I'm so glad that's done. You're the best."
+    la "Je suis vraiment contente que tout ça soit fait. Tu es le meilleur."
+
+# game/v2/scene19.rpy:318
+translate francais v2s19_PhoneContinueLindsey_889ca2d6:
+
+    # la "Yeah... that might be a good idea."
+    la "Ouais... c'est une bonne idée."
+
+# game/v2/scene19.rpy:328
+translate francais v2s19_PhoneContinueLindsey_ea5a90f2:
+
+    # la "I know it sounds crazy, but that might just draw more attention to you."
+    la "Je sais que ça semble insensé, mais ça pourrait attirer davantage l'attention sur toi."
+
+# game/v2/scene19.rpy:333
+translate francais v2s19_PhoneContinueLindsey_72eacebf:
+
+    # u "Ha, you're right."
+    u "T'as raison."
+
+# game/v2/scene19.rpy:345
+translate francais v2s19_PhoneContinueLindsey_46698d44:
+
+    # u "Exactly."
+    u "Exactement."
+
+# game/v2/scene19.rpy:350
+translate francais v2s19_PhoneContinueLindsey_fab48e58:
+
+    # la "I'll see you later. Good luck!"
+    la "Je te vois plus tard, bonne chance !"

@@ -831,3 +831,16 @@ translate francais v1s20_ee01f9b9:
 
     # u "Thanks."
     u "Merci."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene20.rpy:281
+translate francais v1s20_b3d992b1:
+
+    # aut "So... We're setting up for the re-opening next week, don't forget!"
+    aut "Bref... On est en train de tout préparer pour la réouverture la semaine prochaine, n'oublie pas !"
+
+# game/v1/scene20.rpy:469
+translate francais v1s20_bb2de1cc:
+
+    # aut "So, I might shoot you a text on Friday and see if you're free? To help at the shelter?"
+    aut "Je pourrais t'envoyer un SMS vendredi pour voir si tu es libre ? Pour aider au refuge ?"

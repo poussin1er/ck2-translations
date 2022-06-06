@@ -623,3 +623,64 @@ translate francais strings:
     # game/v2/scene44.rpy:141
     old "Leave it"
     new "Laisse tomber"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene44.rpy:148
+translate francais v2s44_continue_21e58b01:
+
+    # u "I need to get on your level..."
+    u "Il faut que je me mette à ton niveau..."
+
+# game/v2/scene44.rpy:210
+translate francais v2s44_continue_b5c40fe3:
+
+    # pe "Right, okay."
+    pe "Bon, d'accord."
+
+# game/v2/scene44.rpy:235
+translate francais v2s44_continue_db7243fa:
+
+    # u "Never mind. It sounded cooler in my head."
+    u "Une infiltration. Ça avait l'air plus cool dans ma tête."
+
+# game/v2/scene44.rpy:280
+translate francais v2s44_continue_e8871a3e:
+
+    # pe "Mhmm. Looks like she posted a photo on the day we got back from Europe."
+    pe "Mhmm. On dirait qu'elle a posté une photo le jour où on est rentrés d'Europe."
+
+# game/v2/scene44.rpy:289
+translate francais v2s44_continue_577b1acd:
+
+    # pe "\"Was so nice to see my baby niece today... she never stays for long, but it's always perfect <3 See you soon, Nora Bora!\""
+    pe "\"C'était si agréable de voir ma petite nièce aujourd'hui... Elle ne reste jamais longtemps, mais c'est toujours parfait <3 À bientôt, Nora Bora!\""
+
+# game/v2/scene44.rpy:308
+translate francais v2s44_continue_f8d85302:
+
+    # pe "I think her whole family are huge nature freaks. There's pictures of them camping, fishing, you name it."
+    pe "Je crois que toute sa famille est très attachée à la nature. Il y a des photos d'eux en train de camper, de pêcher, tout ce qu'on veut."
+
+# game/v2/scene44.rpy:338
+translate francais v2s44_continue_40f13441:
+
+    # pe "Sadly, not much."
+    pe "Malheureusement, pas beaucoup."
+
+# game/v2/scene44.rpy:344
+translate francais v2s44_continue_5614b205:
+
+    # pe "Oh... um... uh, no."
+    pe "Oh... hum... euh, non."
+
+# game/v2/scene44.rpy:410
+translate francais v2s44_continue_18628baa:
+
+    # pe "Anytime detectives. Good luck!"
+    pe "Je vous en prie, les détectives. Bonne chance !"
+
+# game/v2/scene44.rpy:470
+translate francais v2s44_continue2_774322d5:
+
+    # am "I mean... we've only interrogated one person so far. That's just not enough to make a final decision."
+    am "En fait... On a interrogé qu'une seule personne jusqu'à présent. C'est tout simplement pas suffisant pour prendre une décision finale."

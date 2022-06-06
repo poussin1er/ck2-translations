@@ -2902,3 +2902,922 @@ translate francais v2s18c_askhelp_3e1f5d40:
 
     # pe "Sorry, I just don't feel comfortable."
     pe "Désolée, je ne me sens pas à l'aise."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene18c.rpy:36
+translate francais v2s18c_riley_1e338b87:
+
+    # u "Uh, yeah... sounds familiar. Sorry."
+    u "Euh, ouais... Ça me dit vaguement quelque chose. Désolé."
+
+# game/v2/scene18c.rpy:41
+translate francais v2s18c_riley_8b921c69:
+
+    # ri "Ha, no worries. I was just checking my makeup."
+    ri "Ne t'inquiète pas. Je vérifiais juste mon maquillage."
+
+# game/v2/scene18c.rpy:47
+translate francais v2s18c_riley_6cd689cc:
+
+    # ri "So, fifty bucks on your girlfriend's big day, huh? What a sugar daddy..."
+    ri "Alors, 50$ pour le grand jour de ta petite amie, hein ? On aurait dit le cadeau d'un père à sa fille..."
+
+# game/v2/scene18c.rpy:66
+translate francais v2s18c_riley_08ebfe8e:
+
+    # u "Seriously? That would be great."
+    u "Vraiment ? Ça serait génial."
+
+# game/v2/scene18c.rpy:86
+translate francais v2s18c_riley_6f21685d:
+
+    # u "What? You can't shop for yourself. That ruins the surprise."
+    u "Quoi ? Tu peux pas faire des achats pour toi-même. Ça gâcherait la surprise."
+
+# game/v2/scene18c.rpy:92
+translate francais v2s18c_riley_c57b2cb8:
+
+    # ri "You better watch yourself, handsome."
+    ri "Tu devrais faire attention, mon beau."
+
+# game/v2/scene18c.rpy:98
+translate francais v2s18c_riley_bdb786d7:
+
+    # ri "Was that supposed to be a pick-up line? Wait, say it again?"
+    ri "C'était censé être une phrase de drague ? Attends, répète-la ?"
+
+# game/v2/scene18c.rpy:108
+translate francais v2s18c_riley_17411807:
+
+    # ri "Besides... after the stunt you pulled tonight, you need all the help you can get."
+    ri "En plus... Après la cascade que tu as fait ce soir, tu vas avoir besoin de toute l'aide que tu pourras avoir."
+
+# game/v2/scene18c.rpy:118
+translate francais v2s18c_riley_6b8a896c:
+
+    # ri "Oh, please. It'll be just fine, [name]. She's having a good time."
+    ri "Oh, je t'en prie. Tout ira bien, [name]. Elle passe un bon moment."
+
+# game/v2/scene18c.rpy:128
+translate francais v2s18c_riley_ecb43893:
+
+    # ri "Stop thinking about it and move on."
+    ri "Arrête d'y penser et passe à autre chose."
+
+# game/v2/scene18c.rpy:149
+translate francais v2s18c_riley_6c76b8c0:
+
+    # u "Yeah... neither can I, ha."
+    u "Ouais... Moi non plus."
+
+# game/v2/scene18c.rpy:156
+translate francais v2s18c_riley_288486eb:
+
+    # ri "I wouldn't worry about it. Some people are really difficult to shop for."
+    ri "Je ne me ferais pas de souci pour ça. Il est parfois très difficile de faire des achats pour certaines personnes."
+
+# game/v2/scene18c.rpy:167
+translate francais v2s18c_riley_00773ce0:
+
+    # u "Oh, thanks... yeah, shame I didn't buy the right color though, ha."
+    u "Oh, merci... Ouais, dommage que je n'aie pas acheté la bonne couleur."
+
+# game/v2/scene18c.rpy:193
+translate francais v2s18c_riley_eb848949:
+
+    # ri "Lauren is obsessed with that damn horse!"
+    ri "Lauren est obnubilée par ce satané cheval !"
+
+# game/v2/scene18c.rpy:198
+translate francais v2s18c_riley_62677e2f:
+
+    # u "Good! Thank God Autumn gave me that insider info."
+    u "C'est super ! Heureusement qu'Autumn m'a donné cette info perso."
+
+# game/v2/scene18c.rpy:218
+translate francais v2s18c_riley_49929591:
+
+    # u "Oh boy... you and Autumn in the same room together?"
+    u "Oh yeah... Toi et Autumn, dans la même pièce, ensemble ?"
+
+# game/v2/scene18c.rpy:223
+translate francais v2s18c_riley_845b2dc2:
+
+    # u "With your combined brainpower, you could take over the world."
+    u "Avec votre puissance cérébrale combinée, vous pourriez conquérir le monde."
+
+# game/v2/scene18c.rpy:233
+translate francais v2s18c_riley_469533c6:
+
+    # u "That sounds like an extremely healthy ambition. Good luck."
+    u "Ça semble être une ambition extrêmement saine. Bonne chance."
+
+# game/v2/scene18c.rpy:251
+translate francais v2s18c_riley_e4b04c78:
+
+    # u "Oh, phew... thanks."
+    u "Oh, Pfiou... Merci."
+
+# game/v2/scene18c.rpy:256
+translate francais v2s18c_riley_6019a9ce:
+
+    # ri "It was stunning and she's clearly very happy with it."
+    ri "C'était magnifique et elle en est visiblement très heureuse."
+
+# game/v2/scene18c.rpy:261
+translate francais v2s18c_riley_9717f5f8:
+
+    # u "I'm happy to hear that; it was pretty great to see how happy she was."
+    u "Je suis content de le savoir; c'était vraiment super de voir à quel point elle était heureuse."
+
+# game/v2/scene18c.rpy:282
+translate francais v2s18c_riley_96321123:
+
+    # u "Ha, yeah, hopefully."
+    u "Ha, ouais, j'espère."
+
+# game/v2/scene18c.rpy:300
+translate francais v2s18c_riley_20f939ed:
+
+    # u "And the sales guy was all \"she'll be a friend for life!\" if I got her jewelry... *Sighs"
+    u "Et le vendeur était tout sourire : \"Elle sera une amie pour la vie !\" si je lui offrais un bijou... *Soupirs*"
+
+# game/v2/scene18c.rpy:315
+translate francais v2s18c_riley_8c0834a2:
+
+    # ri "You mean the employee whose only goal is to make sure people spend money?"
+    ri "Tu veux dire l'employé dont le seul but est de s'assurer que les gens dépensent de l'argent ?"
+
+# game/v2/scene18c.rpy:330
+translate francais v2s18c_riley_ae0071bf:
+
+    # ri "He definitely did."
+    ri "Oui, il a vraiment bien travaillé."
+
+# game/v2/scene18c.rpy:340
+translate francais v2s18c_riley_82579852:
+
+    # ri "Riiiight... I wouldn't hate it either. Just a little creepy."
+    ri "C'est vraiiii... Moi non plus, je n'aurais pas détesté. C'est juste un peu bizarre."
+
+# game/v2/scene18c.rpy:355
+translate francais v2s18c_riley_67f12c35:
+
+    # ri "Okay! See you out there."
+    ri "Ok ! On se voit là-bas."
+
+# game/v2/scene18c.rpy:436
+translate francais v2s18c_imre_aubrey_615cbd0a:
+
+    # imre "No! I mean... yeah, I was just joking."
+    imre "Nan ! J'voulais dire... Ouais, j'déconnais c'est tout."
+
+# game/v2/scene18c.rpy:446
+translate francais v2s18c_imre_aubrey_fec7033b:
+
+    # u "Gift copier... good one."
+    u "Le photocopieur de cadeaux... Bien joué."
+
+# game/v2/scene18c.rpy:456
+translate francais v2s18c_imre_aubrey_9c35509c:
+
+    # au "I would hope so..."
+    au "Vaux mieux pour toi..."
+
+# game/v2/scene18c.rpy:471
+translate francais v2s18c_imre_aubrey_3adb6801:
+
+    # imre "Ohhh, okay... she gets to bully me about buying a gift card and I don't get to call her a bitch?"
+    imre "Ohhh, ok... Elle a l'droit de s'foutre de ma gueule parce que j'ai acheté un chèque-cadeau et j'ai pas l'droit d'la traiter de salope ?"
+
+# game/v2/scene18c.rpy:497
+translate francais v2s18c_imre_aubrey_dccfc27a:
+
+    # au "A good gift is whatever the fuck [name] got. It seemed to bring back some fun memories."
+    au "Le cadeau idéal, c'est celui que [name] lui a offert. Ça avait l'air de lui rappeler des souvenirs amusants."
+
+# game/v2/scene18c.rpy:502
+translate francais v2s18c_imre_aubrey_952a5c83:
+
+    # imre "Pfft... a toy?"
+    imre "Pfft... Un jouet ?"
+
+# game/v2/scene18c.rpy:507
+translate francais v2s18c_imre_aubrey_5e925fcd:
+
+    # u "Oh yeah, Autumn gave me the idea. I'm not sure what I would've gotten Lauren without her help."
+    u "Ouais, c'est Autumn qui m'a donné l'idée. Je suis pas sûr de la réaction de Lauren sans son aide."
+
+# game/v2/scene18c.rpy:517
+translate francais v2s18c_imre_aubrey_90422ad0:
+
+    # u "Oh, God no... of course not..."
+    u "Oh, putain non... Bien sûr que non..."
+
+# game/v2/scene18c.rpy:543
+translate francais v2s18c_imre_aubrey_c1648138:
+
+    # imre "Yeah, but still... with my gift card, she can go out and buy something even better than that."
+    imre "Ouais, mais quand même... Avec mon chèque cadeau, elle peut sortir et acheter quelque chose d'encore mieux que ça."
+
+# game/v2/scene18c.rpy:579
+translate francais v2s18c_imre_aubrey_fdbddd5b:
+
+    # imre "At least I didn't buy her a romantic piece of jewelry! That was so fucking awkward, dude."
+    imre "Au moins, j'lui ai pas acheté un bijou romantique ! C'était carrément gênant, mec."
+
+# game/v2/scene18c.rpy:601
+translate francais v2s18c_imre_aubrey_a51aaa7f:
+
+    # au "Ha!"
+    au "Oh !"
+
+# game/v2/scene18c.rpy:618
+translate francais v2s18c_imre_aubrey_3b33a619:
+
+    # au "Nice job! I've been trying to scare him away for years..."
+    au "Bien joué ! J'essaie de le dégager depuis des années..."
+
+# game/v2/scene18c.rpy:623
+translate francais v2s18c_imre_aubrey_13b9271d:
+
+    # u "Don't blame that on me! You're the one who got him fired up."
+    u "Rejette pas la faute sur moi ! C'est toi qui l'as enflammé."
+
+# game/v2/scene18c.rpy:628
+translate francais v2s18c_imre_aubrey_b7f3e4bc:
+
+    # au "Who cares? It's too easy."
+    au "On s'en fout. C'est trop facile de le chauffer."
+
+# game/v2/scene18c.rpy:661
+translate francais v2s18c_imre_aubrey_c47e6fce:
+
+    # au "Hmm... What kind of tasks?"
+    au "Hmm... Quel genre de défis ?"
+
+# game/v2/scene18c.rpy:676
+translate francais v2s18c_imre_aubrey_71909011:
+
+    # au "Oh! Ha..."
+    au "Oh! Ha..."
+
+# game/v2/scene18c.rpy:691
+translate francais v2s18c_imre_aubrey_ba1f545d:
+
+    # au "This might be shocking, but... I'm kind of ready to leave."
+    au "Ça va peut-être te choquer... Mais je vais bientôt partir."
+
+# game/v2/scene18c.rpy:696
+translate francais v2s18c_imre_aubrey_4810a42b:
+
+    # u "Wait, really? Since when do you get tired before midnight?"
+    u "Attends, c'est vrai ? Depuis quand t'es fatiguée avant minuit ?"
+
+# game/v2/scene18c.rpy:701
+translate francais v2s18c_imre_aubrey_9fe4cbf6:
+
+    # au "Right? I guess it's just been a lot lately, modelling and the wedding and all that."
+    au "Bizarre, hein ? Je crois qu'il y a eu beaucoup de choses ces derniers temps, le mannequinat, le mariage et tout ça."
+
+# game/v2/scene18c.rpy:708
+translate francais v2s18c_imre_aubrey_ec0421c1:
+
+    # u "You definitely need to get a good rest or else you'll be falling asleep during the vows."
+    u "Il faut vraiment que tu sois bien reposée, sinon tu vas t'endormir pendant les vœux."
+
+# game/v2/scene18c.rpy:713
+translate francais v2s18c_imre_aubrey_d766f963:
+
+    # au "Yeah, I'm going to."
+    au "Ouais, j'y vais."
+
+# game/v2/scene18c.rpy:743
+translate francais v2s18c_imre_aubrey_802b1e3d:
+
+    # au "So... do you still need some help with that list you mentioned earlier?"
+    au "Alors... T'as toujours besoin d'aide pour la liste dont tu m'as parlé tout à l'heure ?"
+
+# game/v2/scene18c.rpy:779
+translate francais v2s18c_aubreysg_6715cb8a:
+
+    # au "Yeah, so? What she doesn't know won't hurt her."
+    au "Et alors ? Ce qu'elle sait pas lui fera pas de mal."
+
+# game/v2/scene18c.rpy:807
+translate francais v2s18c_aubreysg_619fab1b:
+
+    # u "(Ha... damn...)"
+    u "(Ha... Merde...)"
+
+# game/v2/scene18c.rpy:867
+translate francais v2s18c_aubreysg_11e71c0b:
+
+    # au "Oh... shiiit... *Moans*"
+    au "Oh... meeeerde... *Gémis*"
+
+# game/v2/scene18c.rpy:871
+translate francais v2s18c_aubreysg_125f9078:
+
+    # au "Ha... *Panting* it feels amazing."
+    au "Ha... *Halète* Ça fait un bien fou."
+
+# game/v2/scene18c.rpy:913
+translate francais v2s18c_aubreysg_8f9dd420:
+
+    # u "Scream for me."
+    u "Hurle pour moi."
+
+# game/v2/scene18c.rpy:915
+translate francais v2s18c_aubreysg_6f3f6dcd:
+
+    # au "*Moans* You-"
+    au "*Gémis* Tu-"
+
+# game/v2/scene18c.rpy:917
+translate francais v2s18c_aubreysg_c1ce36ef:
+
+    # au "OH!"
+    au "OH !"
+
+# game/v2/scene18c.rpy:923
+translate francais v2s18c_aubreysg_6f372b8e:
+
+    # au "Fuck... you don't want that... *Moans*"
+    au "Putain... Tu veux pas que... *Gémis*"
+
+# game/v2/scene18c.rpy:925
+translate francais v2s18c_aubreysg_174d4484:
+
+    # u "(Maybe. But I definitely don't want anyone else to hear her. Hmm...)"
+    u "(Peut-être. Mais je veux surtout pas que quelqu'un d'autre l'entende. Hmm...)"
+
+# game/v2/scene18c.rpy:1022
+translate francais v2s18c_nsfwSkipLabelAub_ad586092:
+
+    # u "Looked like you enjoyed that."
+    u "On dirait que ça t'a plu."
+
+# game/v2/scene18c.rpy:1047
+translate francais v2s18c_nsfwSkipLabelAub_e3e15647:
+
+    # u "Well, I'm glad. And thank you."
+    u "Eh bien, je suis heureux. Et merci."
+
+# game/v2/scene18c.rpy:1089
+translate francais v2s18c_nsfwSkipLabelAub_02a43133:
+
+    # u "Yeah, good idea."
+    u "Ouais, bonne idée."
+
+# game/v2/scene18c.rpy:1184
+translate francais v2s18c_ryan_b8a616dc:
+
+    # u "Damn, dude... still not feeling well?"
+    u "Putain, mec... Ça va pas mieux ?"
+
+# game/v2/scene18c.rpy:1219
+translate francais v2s18c_ryan_34cf457d:
+
+    # ry "No... *sniffles* there's nothing anyone can do."
+    ry "Non... *Renifle* Il n'y a rien que quiconque puisse faire."
+
+# game/v2/scene18c.rpy:1287
+translate francais v2s18c_ryan_64461017:
+
+    # u "(This thing is definitely expired.)"
+    u "(Ce truc est carrément périmé.)"
+
+# game/v2/scene18c.rpy:1303
+translate francais v2s18c_ryan_f726dd1b:
+
+    # u "(He's probably had that thing for a few years; it'd be like stealing his best friend.)"
+    u "(Il a certainement ce truc depuis quelques années, ce serait comme voler son meilleur ami.)"
+
+# game/v2/scene18c.rpy:1337
+translate francais v2s18c_lauren_e2d57163:
+
+    # u "Hey, there you are. Hiding from your own party?"
+    u "Hey, t'es là. Tu te caches de ta propre fête ?"
+
+# game/v2/scene18c.rpy:1342
+translate francais v2s18c_lauren_75448f59:
+
+    # la "Oh, hey."
+    la "Oh, salut."
+
+# game/v2/scene18c.rpy:1344
+translate francais v2s18c_lauren_3d625104:
+
+    # la "No, I'm having a great time..."
+    la "Non, je m'amuse beaucoup..."
+
+# game/v2/scene18c.rpy:1346
+translate francais v2s18c_lauren_d828f987:
+
+    # la "Just taking a moment to soak it all in, you know?"
+    la "Je prends juste un instant pour faire le plein d'énergie, tu vois ?"
+
+# game/v2/scene18c.rpy:1368
+translate francais v2s18c_lauren_7806df45:
+
+    # la "Her room is even bigger than this one. Have you seen it?"
+    la "Sa chambre est encore plus grande que celle-là, tu l'as déjà vue ?"
+
+# game/v2/scene18c.rpy:1377
+translate francais v2s18c_lauren_dcbdc171:
+
+    # u "Eh, I like the balcony a lot better. I'd be out here all the time if I were you."
+    u "Je préfère de loin le balcon. Je serais tout le temps dehors si j'étais toi."
+
+# game/v2/scene18c.rpy:1382
+translate francais v2s18c_lauren_7ec1e741:
+
+    # la "I drop by here a lot. It's relaxing."
+    la "Je viens souvent ici, c'est très relaxant."
+
+# game/v2/scene18c.rpy:1390
+translate francais v2s18c_lauren_ff8b2c51:
+
+    # u "Yeah... having a small dorm room kind of sucks. The bigger the better, in my opinion."
+    u "Ouais... Le fait de vivre dans un petit dortoir craint un peu. Plus c'est grand, mieux c'est, selon moi."
+
+# game/v2/scene18c.rpy:1395
+translate francais v2s18c_lauren_a1159189:
+
+    # la "I mean, it does suck sometimes, but I don't need something massive."
+    la "Il est vrai que ça craint parfois, mais je n'ai pas besoin de quelque chose de gigantesque."
+
+# game/v2/scene18c.rpy:1410
+translate francais v2s18c_lauren_a0135ab4:
+
+    # la "It's all been perfect so far and everyone showed up!"
+    la "Tout a été parfait jusqu'à présent et tout le monde est venu !"
+
+# game/v2/scene18c.rpy:1415
+translate francais v2s18c_lauren_dbec4a25:
+
+    # u "Of course everyone showed up! You're a pretty popular girl, Lauren."
+    u "Bien sûr que tout le monde est venu ! T'es une fille assez populaire, Lauren."
+
+# game/v2/scene18c.rpy:1441
+translate francais v2s18c_lauren_f6973ae5:
+
+    # la "Ha! I know. Well... *sighs* I shouldn't be laughing..."
+    la "Je sais ! *Soupirs* Je ne devrais pas rire..."
+
+# game/v2/scene18c.rpy:1447
+translate francais v2s18c_lauren_3f19e68b:
+
+    # la "Besides Ryan! He's been getting sick all night. Something about eating too much. *Giggles*"
+    la "À part Ryan ! Il a été malade toute la soirée. Quelque chose à propos du fait d'avoir trop mangé. *Ricane*"
+
+# game/v2/scene18c.rpy:1452
+translate francais v2s18c_lauren_bf91f827:
+
+    # u "Did he arrive like that? What even happened to him?"
+    u "Il est arrivé dans cet état ? Qu'est-ce qui lui est arrivé ?"
+
+# game/v2/scene18c.rpy:1457
+translate francais v2s18c_lauren_b1300774:
+
+    # la "No idea."
+    la "Aucune idée."
+
+# game/v2/scene18c.rpy:1469
+translate francais v2s18c_lauren_1ed2610d:
+
+    # u "Jeez... poor Ryan."
+    u "Houu... Pauvre Ryan."
+
+# game/v2/scene18c.rpy:1479
+translate francais v2s18c_lauren_a68a7da7:
+
+    # u "Oof."
+    u "Ouuf."
+
+# game/v2/scene18c.rpy:1484
+translate francais v2s18c_lauren_9ba0d572:
+
+    # la "I mean, uh... hopefully he feels better soon..."
+    la "Euh, je voulais dire... J'espère qu'il se sentira bientôt mieux..."
+
+# game/v2/scene18c.rpy:1489
+translate francais v2s18c_lauren_9945103a:
+
+    # u "Yeah, I hope so too."
+    u "Ouais, j'espère aussi."
+
+# game/v2/scene18c.rpy:1527
+translate francais v2s18c_lauren_4eebb931:
+
+    # la "I don't know if I've ever felt happier..."
+    la "Je ne sais pas si je me suis jamais sentie aussi heureuse..."
+
+# game/v2/scene18c.rpy:1573
+translate francais v2s18c_autumn_amber_afa071db:
+
+    # aut "I swear! I have no idea what strain it is, I've never asked."
+    aut "Je te le jure ! Je ne sais pas du tout quelle est cette variété, je n'ai jamais demandé."
+
+# game/v2/scene18c.rpy:1593
+translate francais v2s18c_autumn_amber_b1c6be0b:
+
+    # aut "You think so?"
+    aut "Tu crois ?"
+
+# game/v2/scene18c.rpy:1613
+translate francais v2s18c_autumn_amber_b32eb889:
+
+    # am "Yes! It's exactly like coffee, you basic bitch."
+    am "Ouaip ! Exactement comme le café, cette petite salope ordinaire."
+
+# game/v2/scene18c.rpy:1618
+translate francais v2s18c_autumn_amber_c18179fa:
+
+    # aut "How dare you."
+    aut "Comment oses-tu ?"
+
+# game/v2/scene18c.rpy:1651
+translate francais v2s18c_autumn_amber_b0bdaa8c:
+
+    # aut "Don't worry about that. I can get us out of anything... usually."
+    aut "Ne t'inquiète pas pour ça, je suis capable de nous sortir de n'importe où, en général."
+
+# game/v2/scene18c.rpy:1656
+translate francais v2s18c_autumn_amber_f4d59416:
+
+    # am "Yes! That's my girl."
+    am "Oui ! On en profitera, chérie."
+
+# game/v2/scene18c.rpy:1666
+translate francais v2s18c_autumn_amber_e363ec99:
+
+    # am "I'll teach you a thing or two about weed, and you can show me your big brain power."
+    am "Je t'apprendrai une ou deux choses sur l'herbe, et tu pourras me montrer ta grande puissance cérébrale."
+
+# game/v2/scene18c.rpy:1671
+translate francais v2s18c_autumn_amber_8209324d:
+
+    # aut "Okay, ha. Fair."
+    aut "Ok. C'est juste."
+
+# game/v2/scene18c.rpy:1691
+translate francais v2s18c_autumn_amber_b86ecb34:
+
+    # aut "She's something."
+    aut "C'est vraiment une fille spéciale.c'est vraiment une fille spéciale."
+
+# game/v2/scene18c.rpy:1696
+translate francais v2s18c_autumn_amber_061a24ff:
+
+    # u "Yes. Yes, she is."
+    u "Oh oui, ça c'est sûr."
+
+# game/v2/scene18c.rpy:1716
+translate francais v2s18c_autumn_amber_a9bfd4db:
+
+    # aut "Yeah? I think I might have overheard something about that."
+    aut "Ouais ? Je crois que j'ai peut-être entendu quelque chose à ce sujet."
+
+# game/v2/scene18c.rpy:1721
+translate francais v2s18c_autumn_amber_fdbce207:
+
+    # u "Oh..."
+    u "Oh..."
+
+# game/v2/scene18c.rpy:1733
+translate francais v2s18c_autumn_amber_a3e1eb48:
+
+    # u "Honestly? I've just been making my rounds and trying to stay caught up with everyone."
+    u "Sincèrement ? J'ai juste fait mon tour et essayé de rester en contact avec tout le monde."
+
+# game/v2/scene18c.rpy:1773
+translate francais v2s18c_autumn_amber_09e9245a:
+
+    # u "You wanna shout a little louder?"
+    u "Tu veux bien crier un peu plus fort ?"
+
+# game/v2/scene18c.rpy:1817
+translate francais v2s18c_autumn_amber_b2ee5271:
+
+    # u "Ha, yeah. Some things are complete. Still have a few left, though."
+    u "Ouais. J'en ai déjà terminé certains, mais il en reste encore quelques-uns."
+
+# game/v2/scene18c.rpy:1835
+translate francais v2s18c_autumn_amber_58573d33:
+
+    # u "Actually, it's okay. Never mind."
+    u "En fait, c'est bon. T'en fais pas."
+
+# game/v2/scene18c.rpy:1845
+translate francais v2s18c_autumn_amber_d9353e8a:
+
+    # aut "Yeah, well... you did get it from Imre."
+    aut "Ouais, eh bien... En même temps, c'est Imre qui te l'a donné."
+
+# game/v2/scene18c.rpy:1850
+translate francais v2s18c_autumn_amber_f93a8ae8:
+
+    # u "Very true."
+    u "Très vrai."
+
+# game/v2/scene18c.rpy:1883
+translate francais v2s18c_autumn_amber_98b23d0f:
+
+    # aut "[name]! You're dating my sister. What are you-"
+    aut "[name] ! Tu sors avec ma sœur, qu'est-ce que tu-"
+
+# game/v2/scene18c.rpy:1926
+translate francais v2s18c_autumn_amber_82375792:
+
+    # aut "There's too much drama, I think... between you and Lauren."
+    aut "Je pense qu'il y a trop de scènes dramatiques... Entre toi et Lauren."
+
+# game/v2/scene18c.rpy:1940
+translate francais v2s18c_autumn_amber_0dd7fc70:
+
+    # aut "I'm gonna go force Amber out of the bathroom! I have to pee really bad..."
+    aut "Je vais aller obliger Amber à sortir des toilettes ! J'ai vraiment envie de faire pipi..."
+
+# game/v2/scene18c.rpy:1945
+translate francais v2s18c_autumn_amber_b645db82:
+
+    # u "Ha, okay. See you around."
+    u "Ok. À plus tard."
+
+# game/v2/scene18c.rpy:1966
+translate francais v2s18c_autumnsg_4ea05f33:
+
+    # aut "Ha! What?"
+    aut "Quoi ?"
+
+# game/v2/scene18c.rpy:1971
+translate francais v2s18c_autumnsg_2ab13b3b:
+
+    # u "I have to make out with someone."
+    u "Je dois embrasser quelqu'un."
+
+# game/v2/scene18c.rpy:1976
+translate francais v2s18c_autumnsg_41634883:
+
+    # aut "Oh... sure. That's easy."
+    aut "Oh... Bien sûr. C'est facile."
+
+# game/v2/scene18c.rpy:2007
+translate francais v2s18c_autumnsg_aa1b7352:
+
+    # u "Really, it's okay."
+    u "Tout va bien, vraiment."
+
+# game/v2/scene18c.rpy:2017
+translate francais v2s18c_autumnsg_0dd7fc70:
+
+    # aut "I'm gonna go force Amber out of the bathroom! I have to pee really bad..."
+    aut "Je vais aller obliger Amber à sortir des toilettes ! J'ai vraiment envie de faire pipi..."
+
+# game/v2/scene18c.rpy:2022
+translate francais v2s18c_autumnsg_921422e9:
+
+    # u "Gotcha. See you around."
+    u "Compris. À plus tard."
+
+# game/v2/scene18c.rpy:2070
+translate francais v2s18c_autumn_kiss_83b73476:
+
+    # u "Ha! Okay, no tongues."
+    u "Ok, pas de langues."
+
+# game/v2/scene18c.rpy:2104
+translate francais v2s18c_autumn_kiss_bf7776d2:
+
+    # u "Mhmm... yeah, all good."
+    u "Mhmm... Ouais, tout va bien."
+
+# game/v2/scene18c.rpy:2109
+translate francais v2s18c_autumn_kiss_4a968c12:
+
+    # aut "Then we're set."
+    aut "Alors on est fin prêt."
+
+# game/v2/scene18c.rpy:2119
+translate francais v2s18c_autumn_kiss_99250dd0:
+
+    # aut "Mhmm... now, go away."
+    aut "Mhmm... Maintenant, va-t-en."
+
+# game/v2/scene18c.rpy:2129
+translate francais v2s18c_autumn_kiss_3c8517fb:
+
+    # u "Sure thing."
+    u "Oui, bien sûr."
+
+# game/v2/scene18c.rpy:2146
+translate francais v2s18c_chris_penelope_bdfb9c2d:
+
+    # ch "Yeah, but... you know what it's like."
+    ch "Ouais, mais... Tu sais ce que c'est."
+
+# game/v2/scene18c.rpy:2173
+translate francais v2s18c_chris_penelope_4d823086:
+
+    # u "(Fuck's sake, Chris...)"
+    u "(Putain, Chris... Tu fais chier ton monde !)"
+
+# game/v2/scene18c.rpy:2183
+translate francais v2s18c_chris_penelope_0c407578:
+
+    # ch "Ha, sorry. I'm not really thinking straight."
+    ch "Désolé. Je n'ai vraiment pas les idées claires."
+
+# game/v2/scene18c.rpy:2185
+translate francais v2s18c_chris_penelope_359a3da6:
+
+    # ch "I'm such a lightweight these days!"
+    ch "Je me sens tellement libre ces jours-ci !"
+
+# game/v2/scene18c.rpy:2190
+translate francais v2s18c_chris_penelope_da5e1fb8:
+
+    # pe "Oh, ha... okay."
+    pe "Oh, ha... Ok."
+
+# game/v2/scene18c.rpy:2220
+translate francais v2s18c_chris_penelope_3beed5a2:
+
+    # u "I think Imre was looking for you. It sounded important."
+    u "Je crois qu'Imre te cherche, ça avait l'air important."
+
+# game/v2/scene18c.rpy:2222
+translate francais v2s18c_chris_penelope_dac7b969:
+
+    # u "Something about Wolves and fighting."
+    u "Quelque chose à propos des Wolves et des combats."
+
+# game/v2/scene18c.rpy:2227
+translate francais v2s18c_chris_penelope_5893d92a:
+
+    # ch "My whole life revolves around Wolves and fighting... well, now that Nora's gone..."
+    ch "Ma vie entière tourne autour des Wolves et des combats... Et maintenant que Nora est partie..."
+
+# game/v2/scene18c.rpy:2242
+translate francais v2s18c_chris_penelope_6f0fda28:
+
+    # pe "My hero! Thank you, [name]."
+    pe "Mon héros ! Merci, [name]."
+
+# game/v2/scene18c.rpy:2247
+translate francais v2s18c_chris_penelope_5c4e5a55:
+
+    # u "You're welcome. I could see the pain in your eyes."
+    u "Je t'en prie. Je pouvais voir la douleur dans tes yeux."
+
+# game/v2/scene18c.rpy:2259
+translate francais v2s18c_chris_penelope_682fbf25:
+
+    # u "Yeah. He's going through some stuff right now."
+    u "Ouais. Il traverse une phase difficile en ce moment."
+
+# game/v2/scene18c.rpy:2270
+translate francais v2s18c_chris_penelope_002088a4:
+
+    # pe "So, I heard about a list you've been working on..."
+    pe "Sinon, j'ai entendu parler de cette liste sur laquelle tu travailles..."
+
+# game/v2/scene18c.rpy:2280
+translate francais v2s18c_chris_penelope_f7793ca5:
+
+    # pe "Does it matter? Let me see."
+    pe "C'est important ? Laisse-moi voir."
+
+# game/v2/scene18c.rpy:2290
+translate francais v2s18c_chris_penelope_d934b260:
+
+    # pe "Oooooh, wow. Okay..."
+    pe "Oooooh, waouh. D'accord..."
+
+# game/v2/scene18c.rpy:2305
+translate francais v2s18c_chris_penelope_e782d475:
+
+    # pe "That makes complete sense."
+    pe "C'est tout à fait cohérent."
+
+# game/v2/scene18c.rpy:2316
+translate francais v2s18c_chris_penelope_65cf10b1:
+
+    # pe "Oh, yeah... that thing."
+    pe "Oh, ouais... Ce truc."
+
+# game/v2/scene18c.rpy:2336
+translate francais v2s18c_chris_penelope_d8dd28fe:
+
+    # pe "Yeah. But it might also get some people really lucky. If you know what I mean."
+    pe "Peut-être. Mais ça pourrait aussi rendre certaines personnes vraiment chanceuses. Si tu vois ce que je veux dire."
+
+# game/v2/scene18c.rpy:2341
+translate francais v2s18c_chris_penelope_c100709e:
+
+    # u "I think I do."
+    u "Je crois que oui."
+
+# game/v2/scene18c.rpy:2368
+translate francais v2s18c_penelopesg_708d7db0:
+
+    # pe "So... um... what exactly do you need help with, anyway?"
+    pe "Alors... hum... en quoi exactement as-tu besoin d'aide ?"
+
+# game/v2/scene18c.rpy:2392
+translate francais v2s18c_penelopesg_06ca135a:
+
+    # pe "And what would that be?"
+    pe "Et ça serait quoi ?"
+
+# game/v2/scene18c.rpy:2415
+translate francais v2s18c_penelopesg_7f2da20c:
+
+    # pe "Oh... oh my..."
+    pe "Oh... oh mon..."
+
+# game/v2/scene18c.rpy:2426
+translate francais v2s18c_penelopesg_06752751:
+
+    # pe "Mmm..."
+    pe "Mmm..."
+
+# game/v2/scene18c.rpy:2430
+translate francais v2s18c_penelopesg_46e686ff:
+
+    # pe "I couldn't have imagined..."
+    pe "Je ne pouvais pas imaginer..."
+
+# game/v2/scene18c.rpy:2434
+translate francais v2s18c_penelopesg_81bb48f1:
+
+    # pe "I... I really do, [name]..."
+    pe "Je... Je le veux vraiment, [name]..."
+
+# game/v2/scene18c.rpy:2443
+translate francais v2s18c_penelopesg_dd030910:
+
+    # pe "You really know what you're doing! Down there, I mean..."
+    pe "Tu sais vraiment ce que tu fais ! Par là..."
+
+# game/v2/scene18c.rpy:2451
+translate francais v2s18c_penelopesg_4fddcc39:
+
+    # u "(I can't believe how good you taste...)"
+    u "(J'arrive pas à croire que tu aies si bon goût.)"
+
+# game/v2/scene18c.rpy:2465
+translate francais v2s18c_penelopesg_26aaac98:
+
+    # pe "*Gasps*"
+    pe "*Soupire*"
+
+# game/v2/scene18c.rpy:2477
+translate francais v2s18c_penelopesg_3bab75dc:
+
+    # u "I could tell."
+    u "J'ai entendu ça."
+
+# game/v2/scene18c.rpy:2504
+translate francais v2s18c_penelopesg_1a5c75e1:
+
+    # u "I'm glad you enjoyed it. Thanks for your help."
+    u "Je suis heureux que ça t'ait plu. Merci de ton aide."
+
+# game/v2/scene18c.rpy:2516
+translate francais v2s18c_penelopesg_8c7b7c16:
+
+    # u "People might start to wonder where we are, but, same."
+    u "Je pense comme toi, mais les autres pourraient finir par se demander où on est."
+
+# game/v2/scene18c.rpy:2521
+translate francais v2s18c_penelopesg_69ff3af7:
+
+    # pe "You're right."
+    pe "Tu as raison."
+
+# game/v2/scene18c.rpy:2567
+translate francais v2s18c_nsfwSkipLabelP_722d8eae:
+
+    # pe "I think it would be weird if we did anything on this list together."
+    pe "Je trouve que ce serait un peu bizarre si on faisait ensemble quoi que ce soit de cette liste."
+
+# game/v2/scene18c.rpy:2579
+translate francais v2s18c_nsfwSkipLabelP_a50382cb:
+
+    # pe "Sorry."
+    pe "Désolée."
+
+# game/v2/scene18c.rpy:2603
+translate francais v2s18c_nsfwSkipLabelP_dfa1ec00:
+
+    # u "Trust me, don't worry about it."
+    u "T'inquiète pas pour ça, crois-moi."
+
+# game/v2/scene18c.rpy:2619
+translate francais v2s18c_backtoparty_6d702833:
+
+    # pe "Yes! So ready."
+    pe "Oui ! Totalement prête."

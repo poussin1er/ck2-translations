@@ -83,3 +83,22 @@ translate francais v2s37_72faf973:
 
     # u "(I'm so excited to spend more time with her.)"
     u "(Je suis tellement impatient de passer plus de temps avec elle.)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene37.rpy:47
+translate francais v2s37_1c079c54:
+
+    # u "(I think she was forgetting for a moment that I'm dating her sister. Or maybe she was testing me?)"
+    u "(Je crois qu'elle a oublié pendant un instant que je sors avec sa sœur. Ou peut-être qu'elle me testait ?)"
+
+# game/v2/scene37.rpy:51
+translate francais v2s37_81fc37d4:
+
+    # u "(That would be wrong on so many levels... right?)"
+    u "(Ce serait mauvais à bien des égards... Hein ?)"
+
+# game/v2/scene37.rpy:80
+translate francais v2s37_de48a22d:
+
+    # u "(You just never know what girls are really thinking, ha.)"
+    u "(On sait jamais ce que les filles ont vraiment en tête.)"

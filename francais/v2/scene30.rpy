@@ -77,3 +77,16 @@ translate francais v2s30_nsfwSkipLabel1_b4cb666c:
 
     # u "(Okay, time for sleep now.)"
     u "(Ok, c'est l'heure de dormir maintenant.)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene30.rpy:18
+translate francais v2s30_a264a9bf:
+
+    # u "(Jenny and Penelope are a real handful when they get together!...)"
+    u "(Jenny et Pénélope sont vraiment épuisantes quand elles sont ensemble !)"
+
+# game/v2/scene30.rpy:196
+translate francais v2s30_PhoneContinue3_791a5cc2:
+
+    # u "(Okay, now I'm super relaxed. Time for sleep.)"
+    u "(Ok, maintenant je suis très détendu... C'est l'heure de dormir.)"

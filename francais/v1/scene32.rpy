@@ -992,3 +992,10 @@ translate francais v1s32_1149beaf:
 
     # u "Oh... who?"
     u "Oh... Qui ?"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene32.rpy:214
+translate francais v1s32_c17bc93e:
+
+    # imre "Don't act brand new, you know how I am."
+    imre "Joue pas les novices, tu sais comment j'suis."

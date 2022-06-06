@@ -75,3 +75,22 @@ translate francais strings:
     # game/v2/scene29.rpy:74
     old "Don't sext her"
     new "Ne pas lui envoyer de sextos"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene29.rpy:18
+translate francais v2s29_a264a9bf:
+
+    # u "(Jenny and Penelope are a real handful when they get together!...)"
+    u "(Jenny et Pénélope sont vraiment épuisantes quand elles sont ensemble !)"
+
+# game/v2/scene29.rpy:25
+translate francais v2s29_e3f8ffa3:
+
+    # u "(And that Samantha girl I met at the bar... she sure was interesting.)"
+    u "(Et cette fille Samantha que j'ai rencontré au bar... Elle était vraiment intéressante.)"
+
+# game/v2/scene29.rpy:178
+translate francais v2s29_PhoneContinue3_791a5cc2:
+
+    # u "(Okay, now I'm super relaxed. Time for sleep.)"
+    u "(Ok, maintenant je suis très détendu.... C'est l'heure de dormir.)"

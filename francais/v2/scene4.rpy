@@ -1767,3 +1767,676 @@ translate francais strings:
     # game/v2/scene4.rpy:571
     old "Blue"
     new "Blue"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene4.rpy:42
+translate francais v2s4_44751553:
+
+    # aut "Who-"
+    aut "Qui-"
+
+# game/v2/scene4.rpy:44
+translate francais v2s4_3e67b102:
+
+    # aut "Oh! Hey, [name]!"
+    aut "Oh ! Salut, [name] !"
+
+# game/v2/scene4.rpy:46
+translate francais v2s4_af0f8176:
+
+    # aut "Yes, please... if you don't mind."
+    aut "Oui, s'il te plaît... si ça ne te dérange pas."
+
+# game/v2/scene4.rpy:51
+translate francais v2s4_f7966907:
+
+    # u "That's what I'm here for."
+    u "C'est pour ça que je suis là."
+
+# game/v2/scene4.rpy:56
+translate francais v2s4_aa633f12:
+
+    # aut "Thank you."
+    aut "Merci."
+
+# game/v2/scene4.rpy:58
+translate francais v2s4_60632443:
+
+    # aut "Just go ahead and take the top one. That's the heaviest, anyway."
+    aut "Contente-toi de prendre celui du haut. De toute façon, c'est le plus lourd."
+
+# game/v2/scene4.rpy:68
+translate francais v2s4_a92f8386:
+
+    # aut "Ahhh... so much better."
+    aut "Ahhhh... beaucoup mieux."
+
+# game/v2/scene4.rpy:100
+translate francais v2s4_23eee591:
+
+    # aut "Kidding. It's actually a ton of coffee mugs that we plan to sell at the re-opening."
+    aut "Je rigole. En fait, il s'agit d'une tonne de tasses à café que nous prévoyons de vendre lors de la réouverture."
+
+# game/v2/scene4.rpy:109
+translate francais v2s4_eff47ea9:
+
+    # u "Oh, you think you're funny, huh?"
+    u "Ah, et tu te crois drôle, hein ?"
+
+# game/v2/scene4.rpy:119
+translate francais v2s4_61cd9349:
+
+    # u "Ha! Confident."
+    u "Ha ! Confiance."
+
+# game/v2/scene4.rpy:128
+translate francais v2s4_690411eb:
+
+    # u "Oh, that makes sense."
+    u "Oh, c'est logique."
+
+# game/v2/scene4.rpy:135
+translate francais v2s4_ed2d41b4:
+
+    # aut "Ha, sure. Thirty bucks, though."
+    aut "Oui, bien sûr. C'est quand même 30 dollars."
+
+# game/v2/scene4.rpy:145
+translate francais v2s4_48ad1123:
+
+    # aut "Hey, it's not cheap to run a non-profit."
+    aut "Hé, ce n'est pas bon marché de gérer un organisme à but non lucratif."
+
+# game/v2/scene4.rpy:155
+translate francais v2s4_9fec9015:
+
+    # aut "I'll give you a mug at the re-opening. Promise."
+    aut "Je te donnerai une tasse lors de la réouverture. Promis."
+
+# game/v2/scene4.rpy:227
+translate francais v2s4_24941d40:
+
+    # aut "This has nothing to do with you. Thanks for being here."
+    aut "Ça n'a rien à voir avec toi. Merci d'être là."
+
+# game/v2/scene4.rpy:236
+translate francais v2s4_18b0cddf:
+
+    # u "Just take a deep breath, ha. It's not the end of the world."
+    u "Respire profondément. C'est pas la fin du monde."
+
+# game/v2/scene4.rpy:246
+translate francais v2s4_c69a3d3d:
+
+    # u "Oh... shit. Well, how much are they worth? Can you just-"
+    u "Oh... merde. Ils valent combien ? Tu pourrais pas..."
+
+# game/v2/scene4.rpy:251
+translate francais v2s4_a222d731:
+
+    # aut "Thirty bucks."
+    aut "Trente dollars."
+
+# game/v2/scene4.rpy:253
+translate francais v2s4_1c695b76:
+
+    # aut "But... yeah. I'll pay it off, don't worry."
+    aut "Mais... bon. Je vais rembourser, ne t'inquiète pas."
+
+# game/v2/scene4.rpy:275
+translate francais v2s4_63b606ab:
+
+    # aut "Our list..."
+    aut "Notre liste..."
+
+# game/v2/scene4.rpy:324
+translate francais v2s4_82c853eb:
+
+    # aut "Hi! Hello! Cutie..."
+    aut "Hé ! Salut ! Mon beau..."
+
+# game/v2/scene4.rpy:333
+translate francais v2s4_e2397797:
+
+    # u "He is adorable, not gonna lie."
+    u "Sans mentir, il est adorable."
+
+# game/v2/scene4.rpy:359
+translate francais v2s4_d2de9909:
+
+    # u "Yeah, for sure. She'd like that..."
+    u "Ouais, bien sûr. Elle aimerait ça..."
+
+# game/v2/scene4.rpy:375
+translate francais v2s4_b334e358:
+
+    # aut "Hopefully we can find you a good home."
+    aut "J'espère qu'on pourra te trouver un bon foyer."
+
+# game/v2/scene4.rpy:384
+translate francais v2s4_fa6e1da2:
+
+    # u "Pfft, good luck with that."
+    u "Pfft, bonne chance pour ça."
+
+# game/v2/scene4.rpy:394
+translate francais v2s4_84bb5982:
+
+    # u "Yeah, I can tell."
+    u "Ouais, ça se voit."
+
+# game/v2/scene4.rpy:417
+translate francais v2s4_03127902:
+
+    # aut "Yeah?"
+    aut "C'est vrai ?"
+
+# game/v2/scene4.rpy:444
+translate francais v2s4_8ae59ebf:
+
+    # aut "He already ate three servings of food through the night."
+    aut "Il a déjà mangé trois portions de nourriture rien que pendant la nuit."
+
+# game/v2/scene4.rpy:454
+translate francais v2s4_21877bb1:
+
+    # aut "I got you."
+    aut "Je t'ai eu."
+
+# game/v2/scene4.rpy:466
+translate francais v2s4_47767f62:
+
+    # aut "We might have to warn his future owner about that."
+    aut "On devrait peut-être avertir son futur propriétaire à ce sujet."
+
+# game/v2/scene4.rpy:471
+translate francais v2s4_f703b90c:
+
+    # u "Wow. Seems like he's a bit of a rebel."
+    u "Waouh. Il a l'air d'être un peu rebelle."
+
+# game/v2/scene4.rpy:486
+translate francais v2s4_c29e38c1:
+
+    # aut "Oh. I've just been calling him that today."
+    aut "Oh. Je l'ai appelé comme ça aujourd'hui."
+
+# game/v2/scene4.rpy:496
+translate francais v2s4_305e8f0f:
+
+    # aut "I mean, he was so sad when we found him. I instantly thought, like, he's got the blues."
+    aut "Tu vois, il était tellement triste quand on l'a trouvé. J'ai tout de suite pensé, disons, qu'il avait le blues."
+
+# game/v2/scene4.rpy:501
+translate francais v2s4_542373b8:
+
+    # u "Ha, wow."
+    u "Ha, wahou."
+
+# game/v2/scene4.rpy:506
+translate francais v2s4_95aeac1c:
+
+    # aut "What?"
+    aut "Quoi ?"
+
+# game/v2/scene4.rpy:511
+translate francais v2s4_cca0620f:
+
+    # u "He's got the blues? That's the reason?"
+    u "Il avait le blues ? C'est pour ça ?"
+
+# game/v2/scene4.rpy:521
+translate francais v2s4_26cd7f53:
+
+    # u "Okay, next time someone asks, just start with that."
+    u "Bon, la prochaine fois que quelqu'un te demande, commence directement par ça."
+
+# game/v2/scene4.rpy:526
+translate francais v2s4_26aea4de:
+
+    # aut "Okay, smartass."
+    aut "D'accord, petit malin."
+
+# game/v2/scene4.rpy:566
+translate francais v2s4_ff1d42ac:
+
+    # aut "Okay. What should we call him, then?"
+    aut "Bon. Et alors, comment est-ce qu'on pourrait l'appeler ?"
+
+# game/v2/scene4.rpy:592
+translate francais v2s4_dog_838f378b:
+
+    # aut "We already had one, I don't want to get confused."
+    aut "On en a déjà eu un, je ne veux pas m'embrouiller."
+
+# game/v2/scene4.rpy:604
+translate francais v2s4_dog_365f7553:
+
+    # aut "Well, you two do look a bit alike."
+    aut "C'est vrai que vous vous ressemblez un peu tous les deux."
+
+# game/v2/scene4.rpy:622
+translate francais v2s4_dog_b574930e:
+
+    # u "Guilty as charged."
+    u "Coupable d'avoir été accusé."
+
+# game/v2/scene4.rpy:638
+translate francais v2s4_dog_2e9c6bd7:
+
+    # aut "Clever!"
+    aut "Malin !"
+
+# game/v2/scene4.rpy:646
+translate francais v2s4_dog_728f4b79:
+
+    # aut "That's so original..."
+    aut "C'est vraiment original..."
+
+# game/v2/scene4.rpy:651
+translate francais v2s4_dog_3e5b255d:
+
+    # u "It is to the little fuzzbelly."
+    u "C'est pour le petit bout de chou."
+
+# game/v2/scene4.rpy:664
+translate francais v2s4_dog_5559650f:
+
+    # u "Try to keep up."
+    u "Essaie de suivre."
+
+# game/v2/scene4.rpy:677
+translate francais v2s4_dog_be5b18a9:
+
+    # u "Right?"
+    u "D'accord ?"
+
+# game/v2/scene4.rpy:751
+translate francais v2s4_dog_01763330:
+
+    # aut "You owe me for having to listen to that."
+    aut "Tu me dois bien ça pour avoir dû écouter ça."
+
+# game/v2/scene4.rpy:771
+translate francais v2s4_dog_d0c7bb6b:
+
+    # u "Well, you did it. I just held a ladder."
+    u "C'est toi qui l'as fait. Moi, j'ai juste tenu une échelle."
+
+# game/v2/scene4.rpy:776
+translate francais v2s4_dog_00a92d77:
+
+    # aut "Exactly, we did great. Good job."
+    aut "C'est vrai, on s'en est bien sortis. Bon travail."
+
+# game/v2/scene4.rpy:823
+translate francais v2s4_dog_ee02749d:
+
+    # aut "I hope you don't act like this around my sister."
+    aut "J'espère que tu n'agis pas comme ça devant ma sœur."
+
+# game/v2/scene4.rpy:888
+translate francais v2s4_dog_37dc02cf:
+
+    # u "Okay... *panting* now I'm sweating."
+    u "C'est bon... *Halète* Je transpire maintenant."
+
+# game/v2/scene4.rpy:893
+translate francais v2s4_dog_eef71c9d:
+
+    # aut "You can relax a little. I saved the least physical task for last..."
+    aut "Tu vas pouvoir te détendre un peu. J'ai gardé la tâche la moins physique pour la fin..."
+
+# game/v2/scene4.rpy:903
+translate francais v2s4_dog_c65ab12b:
+
+    # aut "No, ha. It's the lightest thing ever, actually..."
+    aut "Oh non. En fait, c'est la chose la plus légère qui soit..."
+
+# game/v2/scene4.rpy:918
+translate francais v2s4_dog_17e910b2:
+
+    # u "That works. I can do balloons."
+    u "Ça marche. Les ballons, ça me va."
+
+# game/v2/scene4.rpy:964
+translate francais v2s4_dog_e095c0ac:
+
+    # aut "You fucker!"
+    aut "Enfoiré !"
+
+# game/v2/scene4.rpy:969
+translate francais v2s4_dog_61c2b483:
+
+    # u "That was too easy."
+    u "C'était trop facile."
+
+# game/v2/scene4.rpy:974
+translate francais v2s4_dog_112daca5:
+
+    # aut "Oh, okay... go ahead."
+    aut "Oh, d'accord... vas-y."
+
+# game/v2/scene4.rpy:981
+translate francais v2s4_dog_a95454e3:
+
+    # u "I always sleep with one eye open."
+    u "Je dors toujours avec un œil ouvert."
+
+# game/v2/scene4.rpy:986
+translate francais v2s4_dog_dadb1403:
+
+    # aut "You're so annoying."
+    aut "Tu es vraiment pénible."
+
+# game/v2/scene4.rpy:1013
+translate francais v2s4_dog_a51368bf:
+
+    # aut "Ha! That was the saddest scream I've ever heard!"
+    aut "Oh ! C'était le cri le plus pathétique que j'aie jamais entendu !"
+
+# game/v2/scene4.rpy:1018
+translate francais v2s4_dog_8cfe61c9:
+
+    # u "You little... shit. You're dead to me."
+    u "Petite... merde. Pour moi, t'es morte."
+
+# game/v2/scene4.rpy:1023
+translate francais v2s4_dog_2339d4fe:
+
+    # aut "That's fine. I can die happy after witnessing that. Ha!"
+    aut "Ça me va. Je peux mourir heureuse après avoir vu ça."
+
+# game/v2/scene4.rpy:1063
+translate francais v2s4_dog_930a31ed:
+
+    # aut "Thank you. I appreciate your help."
+    aut "Merci. Je te suis très reconnaissante de m'avoir aidé."
+
+# game/v2/scene4.rpy:1068
+translate francais v2s4_dog_b95c8563:
+
+    # u "I can see why you're president of the Deer."
+    u "Je comprends pourquoi tu es la présidente des Deers."
+
+# game/v2/scene4.rpy:1078
+translate francais v2s4_dog_790c37ee:
+
+    # u "It looks super stressful."
+    u "Ça a l'air vraiment stressant."
+
+# game/v2/scene4.rpy:1083
+translate francais v2s4_dog_f6d938c0:
+
+    # aut "It definitely can be, but not as stressful as the Chicks make it seem."
+    aut "Ça peut vraiment l'être, mais pas aussi stressant que les Chicks le font croire."
+
+# game/v2/scene4.rpy:1088
+translate francais v2s4_dog_6bb90d3c:
+
+    # u "Ha, that's good to hear. It's crazy out there right now. Who do you think will win?"
+    u "Ça fait plaisir d'entendre ça. En ce moment, c'est la folie là-bas. À ton avis, qui va gagner ?"
+
+# game/v2/scene4.rpy:1093
+translate francais v2s4_dog_d7dc63ee:
+
+    # aut "The strongest candidate. That seems like such a shit answer, but honestly..."
+    aut "La candidate la plus forte. On dirait une réponse de merde, mais franchement..."
+
+# game/v2/scene4.rpy:1095
+translate francais v2s4_dog_edefee53:
+
+    # aut "Whoever deserves it the most will end up being president. Let the voters speak!"
+    aut "Celle qui le mérite le plus finira par être présidente. Il faut laisser les électrices s'exprimer !"
+
+# game/v2/scene4.rpy:1100
+translate francais v2s4_dog_80a8566e:
+
+    # u "Yeah! Shout-out democracy! You dork."
+    u "OUAIS ! C'est ça la démocratie ! Bande de cons."
+
+# game/v2/scene4.rpy:1110
+translate francais v2s4_dog_d1849edb:
+
+    # u "I can see that. It just makes me wonder what you're really thinking."
+    u "Je comprends bien. Je voulais juste savoir quel était ton avis."
+
+# game/v2/scene4.rpy:1115
+translate francais v2s4_dog_ec7f44fe:
+
+    # aut "Maybe you'll find out one day."
+    aut "Peut-être que tu le découvriras un jour."
+
+# game/v2/scene4.rpy:1120
+translate francais v2s4_dog_71119bcf:
+
+    # u "Hmm... maybe..."
+    u "Hmm... peut-être..."
+
+# game/v2/scene4.rpy:1151
+translate francais v2s4_dog_f6a597bb:
+
+    # aut "I think he remembers you! Ha, that's so cute..."
+    aut "Apparemment, il se souvient de toi ! Oh, c'est trop mignon..."
+
+# game/v2/scene4.rpy:1162
+translate francais v2s4_dog_142e9531:
+
+    # u "How are you, buddy? Good?"
+    u "Comment ça va, mon pote ? Bien ?"
+
+# game/v2/scene4.rpy:1179
+translate francais v2s4_dog_402310c5:
+
+    # aut "What? Give back?! I don't... why?"
+    aut "Quoi ? Le rendre ?! Je ne... pourquoi ?"
+
+# game/v2/scene4.rpy:1193
+translate francais v2s4_dog_666cee5f:
+
+    # u "What do you mean? A farm is one the most ideal places for a dog to live... right?"
+    u "Qu'est-ce que vous racontez ? Une ferme est l'un des endroits les plus adaptés pour qu'un chien y vive... Pas vrai ?"
+
+# game/v2/scene4.rpy:1218
+translate francais v2s4_dog_0ddb0658:
+
+    # aut "What do you mean he... how do you... huh?"
+    aut "Que voulez-vous dire par il... Comment vous... Hein ?"
+
+# game/v2/scene4.rpy:1228
+translate francais v2s4_dog_f12ad7af:
+
+    # oscars_owner "I didn't exactly give it to him, no... uh... it was an accident."
+    oscars_owner "Je ne lui en ai pas vraiment donné, non... heu... c'était un accident."
+
+# game/v2/scene4.rpy:1271
+translate francais v2s4_dog_cf827ee5:
+
+    # u "You know, he was probably lying about that whole weed farm story. I can catch up with him and fuck him up if you-"
+    u "Tu sais, il était sûrement en train de mentir sur toute cette histoire de ferme d'herbe. Je peux le rattraper et le démolir si tu..."
+
+# game/v2/scene4.rpy:1276
+translate francais v2s4_dog_3a87b639:
+
+    # aut "No, no... please don't do that, ha. It's okay."
+    aut "Non, non... S'il te plaît, ne fais pas ça. C'est bon."
+
+# game/v2/scene4.rpy:1305
+translate francais v2s4_dog_f7a2637d:
+
+    # u "You're honestly better off without that guy, bud. You'll find your forever home soon."
+    u "Sincèrement, t'es mieux sans ce type, mon pote. Tu trouveras bientôt une maison où vivre toute ta vie."
+
+# game/v2/scene4.rpy:1324
+translate francais v2s4_dog_4a7d6da9:
+
+    # u "Too bad I can't take you back to campus with me."
+    u "Dommage que je puisse pas te ramener sur le campus avec moi."
+
+# game/v2/scene4.rpy:1329
+translate francais v2s4_dog_357f4dad:
+
+    # aut "Ugh, I know, right? That's the only downside of working here."
+    aut "Argh, je sais bien. C'est le seul inconvénient qu'il y a à travailler ici."
+
+# game/v2/scene4.rpy:1367
+translate francais v2s4_dog_9399bda7:
+
+    # u "(Got a pretty good workout this morning. Almost as good as the gym.)"
+    u "(Cette matinée, m'a fait faire une bonne séance d'entraînement. Presque aussi bien qu'en salle de gym.)"
+
+# game/v2/scene4.rpy:1394
+translate francais v2s4_dog_ba57cfc3:
+
+    # aut "Nowhere. Just getting some peace and quiet..."
+    aut "Nulle part. Je voulais juste avoir un peu de paix et de tranquillité..."
+
+# game/v2/scene4.rpy:1404
+translate francais v2s4_dog_1fe2b388:
+
+    # u "Oh, I see. That's kinda surprising."
+    u "Oh, je vois. Wow, ça me surprend un peu."
+
+# game/v2/scene4.rpy:1414
+translate francais v2s4_dog_67520fb9:
+
+    # u "I had no idea you were a stoner."
+    u "Je savais pas que t'étais une droguée."
+
+# game/v2/scene4.rpy:1419
+translate francais v2s4_dog_17f7246f:
+
+    # aut "Yeah... no one has any idea what I am."
+    aut "Ouais... Personne n'a la moindre idée de qui je suis vraiment."
+
+# game/v2/scene4.rpy:1474
+translate francais v2s4_dog_1be7b1cb:
+
+    # u "*Inhaling* This is a nice bonding experience..."
+    u "*Inhale* C'est une bonne expérience pour créer des liens..."
+
+# game/v2/scene4.rpy:1489
+translate francais v2s4_dog_a8cb7fc8:
+
+    # aut "You said it yourself, [name]. Being president is stressful."
+    aut "Tu l'as dit toi-même, [name]. Être présidente est stressant."
+
+# game/v2/scene4.rpy:1494
+translate francais v2s4_dog_a31e251b:
+
+    # u "Ahhh... so, the key to being the perfect president is marijuana?"
+    u "Ahhh... Donc, la clé pour être la Présidente parfaite est la marijuana ?"
+
+# game/v2/scene4.rpy:1499
+translate francais v2s4_dog_515fba86:
+
+    # aut "Sure, yeah. Let's go with that..."
+    aut "C'est ça, ouais. On va dire ça..."
+
+# game/v2/scene4.rpy:1557
+translate francais v2s4_dog_6a8dfebb:
+
+    # aut "Hey, no judgment here. More for me!"
+    aut "Hey, on ne juge pas ici. Ça en fera plus pour moi !"
+
+# game/v2/scene4.rpy:1572
+translate francais v2s4_dog_a8cb7fc8_1:
+
+    # aut "You said it yourself, [name]. Being president is stressful."
+    aut "Tu l'as dit toi-même, [name]. Être présidente est stressant."
+
+# game/v2/scene4.rpy:1577
+translate francais v2s4_dog_a31e251b_1:
+
+    # u "Ahhh... so, the key to being the perfect president is marijuana?"
+    u "Ahhh... Donc, la clé pour être la Présidente parfaite est la marijuana ?"
+
+# game/v2/scene4.rpy:1582
+translate francais v2s4_dog_515fba86_1:
+
+    # aut "Sure, yeah. Let's go with that..."
+    aut "C'est ça, ouais. On va dire ça..."
+
+# game/v2/scene4.rpy:1607
+translate francais v2s4_dog_d628b315:
+
+    # aut "Me too. I need a fun night."
+    aut "Moi aussi, j'ai bien besoin de me divertir."
+
+# game/v2/scene4.rpy:1617
+translate francais v2s4_dog_dbd92c0f:
+
+    # aut "Well, after today I definitely owe you one, so, what is it?"
+    aut "Eh bien, après cette journée, je t'en dois définitivement une... Alors, que veux-tu ?"
+
+# game/v2/scene4.rpy:1627
+translate francais v2s4_dog_0cdb950f:
+
+    # aut "Hmm... good question."
+    aut "Hmm... Bonne question."
+
+# game/v2/scene4.rpy:1638
+translate francais v2s4_dog_4cc6f6f6:
+
+    # aut "I don't think we have any family photos where she isn't holding it..."
+    aut "Je ne pense pas qu'on ait la moindre photo de famille où elle ne le tient pas..."
+
+# game/v2/scene4.rpy:1643
+translate francais v2s4_dog_925d6944:
+
+    # u "That's cute."
+    u "C'est mignon."
+
+# game/v2/scene4.rpy:1658
+translate francais v2s4_dog_04857533:
+
+    # aut "What? Is that impossible or something?"
+    aut "Quoi ? C'est impossible ?"
+
+# game/v2/scene4.rpy:1668
+translate francais v2s4_dog_823fc4b7:
+
+    # aut "I'm kidding. No, not a real horse, a toy one."
+    aut "Je rigole. Non, pas un vrai cheval, un jouet."
+
+# game/v2/scene4.rpy:1672
+translate francais v2s4_dog_25c323a9:
+
+    # aut "So, if you found something similar to that, she'd probably die."
+    aut "Donc, si tu trouvais quelque chose de similaire, elle aurait certainement une crise cardiaque."
+
+# game/v2/scene4.rpy:1675
+translate francais v2s4_dog_0555ef9e:
+
+    # aut "But she's never gotten jewelry from a boyfriend before, and she's always mentioning that. So, either way, I think you're good."
+    aut "Mais elle n'a jamais reçu de bijoux de la part d'un petit ami auparavant, et elle ne cesse de le mentionner. Donc, dans les deux cas, je crois que ça sera parfait."
+
+# game/v2/scene4.rpy:1685
+translate francais v2s4_dog_82e90351:
+
+    # aut "For sure. I've enjoyed spending time with you more than I thought I would."
+    aut "En tout cas. J'ai vraiment aimé passer du temps avec toi, bien plus que je ne le pensais."
+
+# game/v2/scene4.rpy:1690
+translate francais v2s4_dog_ff242813:
+
+    # u "Ha, thank you... I think."
+    u "Haha, merci."
+
+# game/v2/scene4.rpy:1695
+translate francais v2s4_dog_217e7503:
+
+    # aut "You're so welcome."
+    aut "Je t'en prie."
+
+# game/v2/scene4.rpy:1721
+translate francais v2s4_dog_1955d4d3:
+
+    # aut "Alright, I better get him fed and bathed before I go on break. I'm due for some \"me time.\""
+    aut "Et moi, je vais le nourrir et le baigner avant de partir. Que je puisse enfin profiter d'un peu de \"temps pour moi\"."
+
+# game/v2/scene4.rpy:1726
+translate francais v2s4_dog_9bd30be3:
+
+    # u "Yeah, you deserve a break at the very least."
+    u "Ouais, tu mérites vraiment une petite pause."

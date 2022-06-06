@@ -394,3 +394,10 @@ translate francais v1s19a_8dedfa2c:
 
     # u "Ha, just like in the movies."
     u "Haha. Comme dans les films."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene19a.rpy:85
+translate francais v1s19a_e26437cb:
+
+    # u "Yeah, makes sense. The Wolves are very much about loyalty."
+    u "Ouais, c'est logique. Les Wolves sont très impliqués dans la loyauté."

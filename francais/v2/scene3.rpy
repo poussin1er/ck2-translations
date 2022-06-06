@@ -281,3 +281,46 @@ translate francais strings:
     # game/v2/scene3.rpy:237
     old "It's not my fault"
     new "C'est pas ma faute"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene3.rpy:27
+translate francais v2s3_6153f748:
+
+    # u "(Oh, shit... too late to turn around and run, I guess.)"
+    u "(Oh, merde... j'imagine qu'il est trop tard pour faire demi-tour et m'enfuir.)"
+
+# game/v2/scene3.rpy:37
+translate francais v2s3_d426228d:
+
+    # de "I was just saying to Grayson here that this fraternity is his responsibility."
+    de "J'étais justement en train de dire à Grayson que cette fraternité était sous sa responsabilité."
+
+# game/v2/scene3.rpy:47
+translate francais v2s3_a78bbe81:
+
+    # de "And posting indecent photos of female students is certainly something that this whole house will be punished for."
+    de "Et que le fait de poster des photos indécentes d'étudiantes est assurément une raison pour laquelle toute cette maison sera punie."
+
+# game/v2/scene3.rpy:82
+translate francais v2s3_82a15b5f:
+
+    # gr "Again, I'm sorry. I... we obviously didn't think this through and sadly we made a bad decision as a group."
+    gr "Encore une fois, je suis désolé. Je... on a pas réfléchi à tout ça et malheureusement, on a pris une mauvaise décision en tant que groupe."
+
+# game/v2/scene3.rpy:94
+translate francais v2s3_c37b6a68:
+
+    # de "What I need from you all, right now, is to delete the posts and the photos from your phones."
+    de "Ce que j'attends de vous tous, maintenant, c'est que vous supprimiez les messages et les photos de vos téléphones."
+
+# game/v2/scene3.rpy:198
+translate francais v2s3_0b947256:
+
+    # gr "Our reputation is exactly where it needs to be!"
+    gr "Notre réputation est là où elle doit être !"
+
+# game/v2/scene3.rpy:228
+translate francais v2s3_15a36259:
+
+    # u "This is what we get for joining the Apes."
+    u "C'est ce qu'on gagne à faire partie des Apes."

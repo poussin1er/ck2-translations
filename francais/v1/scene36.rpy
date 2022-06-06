@@ -2006,3 +2006,10 @@ translate francais v1s36_nsfwSkipLabel1_e9edbbe5:
 
     # u "Wow. What a fuckin' night."
     u "Wow. Quelle putain de nuit."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene36.rpy:1349
+translate francais v1s36_nsfwSkipLabel1_e5e7cf3b:
+
+    # la "Some positions make it easier to get pregnant, others make it almost impossible. There's a whole art to it."
+    la "Certaines positions permettent de tomber enceinte plus facilement, d'autres rendent la chose presque impossible. C'est tout un art de le faire."

@@ -786,3 +786,292 @@ translate francais v2s18e_nsfwSkipLabel1_abc5a6a4:
 
     # u "(What a fucking party...) *Laughs*"
     u "(Quelle putain de fête...) *Rire*"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene18e.rpy:55
+translate francais v2s18e_sg_bb320c69:
+
+    # u "(Hmm... where should I start?)"
+    u "(Hmm... Par où commencer ?)"
+
+# game/v2/scene18e.rpy:71
+translate francais v2s18e_neck_6e0fcec5:
+
+    # la "Ooh... that feels nice."
+    la "Ooh... Ça fait du bien."
+
+# game/v2/scene18e.rpy:87
+translate francais v2s18e_neck_4f7a3ae5:
+
+    # la "Sorry, it kinda tickles, but..."
+    la "Désolée, ça chatouille un peu, mais..."
+
+# game/v2/scene18e.rpy:89
+translate francais v2s18e_neck_f5514948:
+
+    # la "It's turning me on."
+    la "C'est surtout que ça m'excite."
+
+# game/v2/scene18e.rpy:122
+translate francais v2s18e_neck_b0b60c3c:
+
+    # la "Yeah... I just wasn't expecting it."
+    la "Ouais... Je ne m'y attendais pas."
+
+# game/v2/scene18e.rpy:142
+translate francais v2s18e_neck_45abbc46:
+
+    # la "Oh, wow..."
+    la "Oh, wow..."
+
+# game/v2/scene18e.rpy:151
+translate francais v2s18e_neck_6f4be0af:
+
+    # u "Well... do you?"
+    u "Alors... Tu aimes ?"
+
+# game/v2/scene18e.rpy:163
+translate francais v2s18e_neck_145180e5:
+
+    # u "Me too."
+    u "Moi aussi."
+
+# game/v2/scene18e.rpy:182
+translate francais v2s18e_boobs_d7cdb875:
+
+    # u "You have the most amazing body, Lauren."
+    u "T'as les seins les plus incroyables, Lauren."
+
+# game/v2/scene18e.rpy:187
+translate francais v2s18e_boobs_7fd1dbf0:
+
+    # la "T-thank you... *Moans*"
+    la " M-merci... *Gémis*"
+
+# game/v2/scene18e.rpy:192
+translate francais v2s18e_boobs_ecff91b9:
+
+    # u "You're incredible."
+    u "T'es incroyable."
+
+# game/v2/scene18e.rpy:197
+translate francais v2s18e_boobs_0ff91788:
+
+    # la "Your hands feel so good on me."
+    la "Tes mains sont si douces sur moi."
+
+# game/v2/scene18e.rpy:207
+translate francais v2s18e_boobs_47a093a3:
+
+    # la "I wouldn't have a problem with that."
+    la "Je n'aurais pas le moindre problème avec ça."
+
+# game/v2/scene18e.rpy:218
+translate francais v2s18e_boobs_488195e4:
+
+    # la "Holy-"
+    la "Merde..."
+
+# game/v2/scene18e.rpy:274
+translate francais v2s18e_feet_5adc38a2:
+
+    # la "Oooh... okay..."
+    la "Oooh... Ok..."
+
+# game/v2/scene18e.rpy:286
+translate francais v2s18e_feet_9e41f65d:
+
+    # la "But... is it supposed to be arousing?"
+    la "Mais... c'est censé être excitant ?"
+
+# game/v2/scene18e.rpy:291
+translate francais v2s18e_feet_ea2e285e:
+
+    # u "You like some foot attention, huh?"
+    u "Tu aimes avoir de l'attention sur les pieds, hein ?"
+
+# game/v2/scene18e.rpy:298
+translate francais v2s18e_feet_399eb531:
+
+    # la "Wherever you touch me... it's just... magical..."
+    la "Peu importe où tu me touches... c'est tout simplement... magique..."
+
+# game/v2/scene18e.rpy:303
+translate francais v2s18e_feet_2ca9fab5:
+
+    # u "Perfect."
+    u "Parfait."
+
+# game/v2/scene18e.rpy:321
+translate francais v2s18e_feet_ee5fc758:
+
+    # la "Ah! What are you-"
+    la "Ah ! Qu'est-ce que tu..."
+
+# game/v2/scene18e.rpy:328
+translate francais v2s18e_feet_26d2b484:
+
+    # la "Wow..."
+    la "Wow..."
+
+# game/v2/scene18e.rpy:330
+translate francais v2s18e_feet_bd86f31d:
+
+    # la "That was a nice surprise."
+    la "C'était une belle surprise."
+
+# game/v2/scene18e.rpy:352
+translate francais v2s18e_feet_dd9f991a:
+
+    # la "Ha, sorry... it-"
+    la "Oh, désolée... C'est-"
+
+# game/v2/scene18e.rpy:357
+translate francais v2s18e_feet_b0626861:
+
+    # u "Tickles?"
+    u "Chatouilleuses ?"
+
+# game/v2/scene18e.rpy:376
+translate francais v2s18e_vagina_d582ba9c:
+
+    # u "(The best for last.)"
+    u "(Le meilleur pour la fin.)"
+
+# game/v2/scene18e.rpy:387
+translate francais v2s18e_end_776dbe72:
+
+    # u "Just kick back and relax, birthday girl."
+    u "Recule et détends-toi, fille à l'anniversaire."
+
+# game/v2/scene18e.rpy:402
+translate francais v2s18e_end_073722ad:
+
+    # la "*Whispers* Oh..."
+    la "*Chuchote* Oh..."
+
+# game/v2/scene18e.rpy:414
+translate francais v2s18e_end_84ca8271:
+
+    # la "This is... this feels..."
+    la "C'est... C'est comme..."
+
+# game/v2/scene18e.rpy:418
+translate francais v2s18e_end_8f29462d:
+
+    # la "*Panting* Mmm..."
+    la "*Halète* Mmm..."
+
+# game/v2/scene18e.rpy:455
+translate francais v2s18e_end_daaba5f0:
+
+    # u "*Moans* Whoa! (She took it so deep straight away...)"
+    u "*Gémis* Wouah ! (Elle l'a pris si profondément directement...)"
+
+# game/v2/scene18e.rpy:479
+translate francais v2s18e_end_fb6874ee:
+
+    # u "Lauren... *Moans*"
+    u "Lauren... *Gémis*"
+
+# game/v2/scene18e.rpy:481
+translate francais v2s18e_end_77c06e23:
+
+    # u "You... you're going to make me-"
+    u "Tu... Tu vas me faire..."
+
+# game/v2/scene18e.rpy:498
+translate francais v2s18e_end_f32d3887:
+
+    # u "You're gonna make me cum."
+    u "Tu vas me faire jouir."
+
+# game/v2/scene18e.rpy:503
+translate francais v2s18e_end_3ae7c7c4:
+
+    # la "Oh... well, then, get in me already, would you?"
+    la "Oh... Eh bien alors, pénètre moi, veux-tu ?"
+
+# game/v2/scene18e.rpy:525
+translate francais v2s18e_end_321f57fd:
+
+    # la "You're so... deep inside of me..."
+    la "Tu es tellement... profond en moi..."
+
+# game/v2/scene18e.rpy:531
+translate francais v2s18e_end_6cdc621a:
+
+    # la "*Whispers* I can barely take it..."
+    la "*Chuchote* J'ai du mal à me contrôler..."
+
+# game/v2/scene18e.rpy:533
+translate francais v2s18e_end_a9d7e8d2:
+
+    # u "You're so wet, you're doing great..."
+    u "T'es si mouillée, tu te sens bien..."
+
+# game/v2/scene18e.rpy:564
+translate francais v2s18e_end_3f2bff1c:
+
+    # la "Ha... mmm..."
+    la "Ha... mmm..."
+
+# game/v2/scene18e.rpy:597
+translate francais v2s18e_end_6f2571e4:
+
+    # la "[name]..."
+    la "[name]..."
+
+# game/v2/scene18e.rpy:606
+translate francais v2s18e_end_bd815925:
+
+    # la "It's-"
+    la "C'est-"
+
+# game/v2/scene18e.rpy:608
+translate francais v2s18e_end_7072b15d:
+
+    # u "(She's so tight, it's insane...)"
+    u "(Elle est si serrée, c'est de la folie...)"
+
+# game/v2/scene18e.rpy:616
+translate francais v2s18e_end_e992f977:
+
+    # la "Keep going! Please, please don't stop!"
+    la "Encore ! Je t'en prie, je t'en prie, continue !"
+
+# game/v2/scene18e.rpy:667
+translate francais v2s18e_end_e4e567a2:
+
+    # la "*Gasps* Yes, [name]... yes! *Moans*"
+    la "*Soupirs* Oui, [name]... Oui ! *Gémis*"
+
+# game/v2/scene18e.rpy:689
+translate francais v2s18e_end_5100e324:
+
+    # la "Oh my-"
+    la "Oh mon-"
+
+# game/v2/scene18e.rpy:694
+translate francais v2s18e_end_8c5c8d09:
+
+    # u "Whew."
+    u "Pfiou."
+
+# game/v2/scene18e.rpy:704
+translate francais v2s18e_end_489878ad:
+
+    # u "Agreed."
+    u "Validé."
+
+# game/v2/scene18e.rpy:709
+translate francais v2s18e_end_93090859:
+
+    # la "I'm gonna go clean up. I'll meet you under the sheets?"
+    la "Je vais aller me nettoyer, je te retrouve sous les draps ?"
+
+# game/v2/scene18e.rpy:740
+translate francais v2s18e_nsfwSkipLabel1_22691a11:
+
+    # u "(What a fucking party...)"
+    u "(Quelle putain de fête...)"

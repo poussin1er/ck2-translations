@@ -732,3 +732,70 @@ translate francais v3s7_did_not_sabotage_lindsey_fe5f5197:
 
     # u "Never a dull moment for you presidents, huh? Bye, Autumn."
     u "Il y a jamais de temps mort pour vous, les Présidents, hein !? Ciao, Autumn."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene7.rpy:34
+translate francais v3s7_ee383d3f:
+
+    # u "(Oh my fucking God, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:92
+translate francais v3s7_ee383d3f_1:
+
+    # u "(Oh my fucking God, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:168
+translate francais v3s7_phoneContinue_ee383d3f:
+
+    # u "(Oh my fucking God, it's happening.)"
+    u "(Oh, putain de merde, ça commence !)"
+
+# game/v3/scene7.rpy:432
+translate francais v3s7_phoneContinue_7c63195c:
+
+    # aut "Well, I'm gonna have a smoke before class if you need to take the edge off."
+    aut "Bon, si tu as besoin de te défouler, je vais aller me fumer une clope avant le cours."
+
+# game/v3/scene7.rpy:434
+translate francais v3s7_phoneContinue_80130d0c:
+
+    # aut "Tree by the front steps."
+    aut "Sous l'arbre près des marches de l'entrée."
+
+# game/v3/scene7.rpy:439
+translate francais v3s7_phoneContinue_af514c39:
+
+    # u "Knowing what's probably about to go down, I'll take you up on that."
+    u "Sachant ce qui va sûrement se passer, je te prends au mot."
+
+# game/v3/scene7.rpy:476
+translate francais v3s7_did_not_sabotage_lindsey_fbbba6ef:
+
+    # u "Oh, yeah? I am well sought after."
+    u "Ah, oui ? Je suis très demandé."
+
+# game/v3/scene7.rpy:498
+translate francais v3s7_did_not_sabotage_lindsey_794a900a:
+
+    # u "Between you and me? Let's get all those little doggos homes."
+    u "Entre toi et moi ? Ramenons tous ces petits chiens à la maison."
+
+# game/v3/scene7.rpy:575
+translate francais v3s7_did_not_sabotage_lindsey_1037720f:
+
+    # aut "Hey, I just need to run and print something off, but I was gonna have a smoke after."
+    aut "Hé, il faut juste que j'aille vite fait imprimer un truc, mais j'allais fumer juste après."
+
+# game/v3/scene7.rpy:577
+translate francais v3s7_did_not_sabotage_lindsey_e087ffe4:
+
+    # aut "Wanna join me?"
+    aut "Tu viens avec moi ?"
+
+# game/v3/scene7.rpy:582
+translate francais v3s7_did_not_sabotage_lindsey_4cfca50a:
+
+    # u "Yeah, I have a few minutes before class. See you out there!"
+    u "Pourquoi pas ? J'ai quelques instants avant le cours. On se retrouve là-bas !"

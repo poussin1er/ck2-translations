@@ -809,3 +809,214 @@ translate francais strings:
     # game/v3/scene63.rpy:690
     old "Don't mask"
     new "Pas de masque"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene63.rpy:25
+translate francais v3s63_4cfc937d:
+
+    # jen "Hey, handsome... Surprised to see me?"
+    jen "Hey, mon beau... T'es surpris de me voir ?"
+
+# game/v3/scene63.rpy:31
+translate francais v3s63_ae9b633a:
+
+    # jen "Surprised to see me, [name]?"
+    jen "T'es surpris de me voir, [name] ?"
+
+# game/v3/scene63.rpy:46
+translate francais v3s63_f94d9b4f:
+
+    # u "Yeah, of course. I'm not complaining."
+    u "Ouais, bien sûr. Je me plains pas du tout."
+
+# game/v3/scene63.rpy:68
+translate francais v3s63_f93a8ae8:
+
+    # u "Very true."
+    u "T'as tout à fait raison."
+
+# game/v3/scene63.rpy:116
+translate francais v3s63_1f6200d4:
+
+    # cl "Ooh, looks like our spa assistant has arrived."
+    cl "Ooh, on dirait que notre assistant spa est arrivé."
+
+# game/v3/scene63.rpy:124
+translate francais v3s63_e15d8a6c:
+
+    # cl "The one night I'll share him with the rest of you."
+    cl "La seule soirée au cours de laquelle je le partagerai avec vous toutes."
+
+# game/v3/scene63.rpy:150
+translate francais v3s63_f46dd890:
+
+    # jen "Share him? Wait-"
+    jen "Tu le partages ? Attends-"
+
+# game/v3/scene63.rpy:172
+translate francais v3s63_8577a0d9:
+
+    # jen "Oh, yeah! You're dating, holy shit! I just remembered. Oops, sorry."
+    jen "Ah, oui ! Putain de merde, vous sortez ensemble ! Je viens de m'en souvenir. Oups, désolée."
+
+# game/v3/scene63.rpy:177
+translate francais v3s63_edb780ff:
+
+    # cl "It's okay, babe."
+    cl "Tout va bien, bébé."
+
+# game/v3/scene63.rpy:194
+translate francais v3s63_59643944:
+
+    # jen "I was hoping he'd be wearing cute little booty shorts."
+    jen "J'espérais qu'il porterait un joli petit short moulant."
+
+# game/v3/scene63.rpy:199
+translate francais v3s63_10e55673:
+
+    # au "You should've seen him at Lauren's Halloween birthday. Basically a stripper-gram."
+    au "Vous auriez dû le voir à l'anniversaire de Lauren à Halloween. En gros, un programme de striptease."
+
+# game/v3/scene63.rpy:208
+translate francais v3s63_e47551cd:
+
+    # u "Damn, pouncing on me as soon as I'm through the door, ladies? Maybe later, if you're lucky."
+    u "Ouah, les filles, vous vous jetez sur moi à peine passé la porte ? On verra plus tard, si vous avez de la chance."
+
+# game/v3/scene63.rpy:241
+translate francais v3s63_4d2fb668:
+
+    # no "Drink tickets. Except you're no old enough to drink, so maybe twenty bucks to go see a movie?"
+    no "Des tickets boissons. Sauf que tu n'as pas l'âge de boire, alors peut-être vingt dollars pour aller voir un film ?"
+
+# game/v3/scene63.rpy:246
+translate francais v3s63_06548bf1:
+
+    # au "Harsh, Nora!"
+    au "C'est sévère, Nora !"
+
+# game/v3/scene63.rpy:253
+translate francais v3s63_af128525:
+
+    # li "Hope you're ready to work hard, we're needy."
+    li "J'espère que tu es prêt à travailler dur, on en a vraiment besoin."
+
+# game/v3/scene63.rpy:338
+translate francais v3s63_889f3a5a:
+
+    # li "Ooh! Are you?"
+    li "Ooh ! T'es sérieux ?"
+
+# game/v3/scene63.rpy:343
+translate francais v3s63_9cb3dc35:
+
+    # au "Damn, at least take us out to dinner first."
+    au "Merde, invite-nous au moins à dîner avant ça."
+
+# game/v3/scene63.rpy:348
+translate francais v3s63_f3b6af82:
+
+    # cl "Come onm ladies... Quit pestering!"
+    cl "Allez les filles... Arrêtez de l'embêter !"
+
+# game/v3/scene63.rpy:358
+translate francais v3s63_6bba9159:
+
+    # u "Got it, I'll get to pampering you ladies."
+    u "Compris, je vais me charger de vous dorloter mesdames."
+
+# game/v3/scene63.rpy:417
+translate francais v3s63_755cc2af:
+
+    # u "(I'm feeling like a shit disturber. I'll say Chloe's boobs are too big and suggest a reduction. She'll be pissed and will probably think it was Nora or Lindsey.)"
+    u "(Je me sens comme un fouteur de merde. Je vais dire que les seins de Chloé sont trop gros et suggérer une réduction. Elle sera furieuse et pensera sûrement que ça vient de Nora ou Lindsey.)"
+
+# game/v3/scene63.rpy:423
+translate francais v3s63_72b25ea8:
+
+    # u "(Nah, I've got no reason to meddle any more than I already have.)"
+    u "(Nan, j'ai aucune raison de vouloir intervenir plus que je l'ai déjà fait.)"
+
+# game/v3/scene63.rpy:451
+translate francais v3s63_f7af8155:
+
+    # cl "It's easy, you goofball. Just open the packet and spread the gooey side on our faces."
+    cl "Imbécile, c'est facile. Il suffit d'ouvrir le paquet et de répandre le côté gluant sur nos visages."
+
+# game/v3/scene63.rpy:456
+translate francais v3s63_878cf0d3:
+
+    # au "*Snorts*"
+    au "*Renifle*"
+
+# game/v3/scene63.rpy:471
+translate francais v3s63_6f744b18:
+
+    # li "Yeah, [name]... *Fake moaning* Just spread it all over our faces. Mmm..."
+    li "Vas-y, [name]... *Faux gémissements* Il suffit de l'étaler ça sur tous nos visages. Mmm..."
+
+# game/v3/scene63.rpy:476
+translate francais v3s63_c424203a:
+
+    # u "*Gulps*"
+    u "*Goups*"
+
+# game/v3/scene63.rpy:629
+translate francais v3s63_db8064cc:
+
+    # au "No, it feels fine to me. They're overreacting, I like a little burn, anyways."
+    au "Non, j'me sens bien. Elles réagissent de manière excessive, de toute façon, j'aime bien quand ça brûle un peu."
+
+# game/v3/scene63.rpy:634
+translate francais v3s63_33152d04:
+
+    # u "You're so hardcore."
+    u "T'es une vraie dure à cuire."
+
+# game/v3/scene63.rpy:639
+translate francais v3s63_f711a8bf:
+
+    # au "Always have been, always will be."
+    au "Je l'ai toujours été et je le serai toujours."
+
+# game/v3/scene63.rpy:657
+translate francais v3s63_26bfb87f:
+
+    # li "I wouldn't go that far."
+    li "Je n'irais pas si loin."
+
+# game/v3/scene63.rpy:682
+translate francais v3s63_ecf96dcc:
+
+    # no "Aubrey's going to be spreading it on her toast in the morning."
+    no "Aubrey va en mettre sur ses toasts le matin."
+
+# game/v3/scene63.rpy:731
+translate francais v3s63_4c500064:
+
+    # au "Now I can say I've given you a facial, too."
+    au "Maintenant, je pourrai dire que je t'ai également fait une faciale."
+
+# game/v3/scene63.rpy:747
+translate francais v3s63_07384f32:
+
+    # au "Fine! More for me."
+    au "Parfait ! Un peu plus pour moi."
+
+# game/v3/scene63.rpy:762
+translate francais v3s63_88622d80:
+
+    # cl "Okay. Off you go then. Behave yourselves."
+    cl "D'accord. Tu peux commencer. Soyez sages."
+
+# game/v3/scene63.rpy:792
+translate francais v3s63_53df3f75:
+
+    # cl "Aw, love you too, Jen."
+    cl "Oh, moi aussi je t'aime, Jen."
+
+# game/v3/scene63.rpy:818
+translate francais v3s63_deaee854:
+
+    # jen "We're making no promises. Let's do a shot!"
+    jen "On fait aucune promesse."

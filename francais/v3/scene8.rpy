@@ -383,3 +383,58 @@ translate francais strings:
     # game/v3/scene8.rpy:195
     old "Let it continue"
     new "La laisser continuer"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene8.rpy:90
+translate francais v3s8_05d32835:
+
+    # cl "I've never been so humiliated. *Cries*"
+    cl "J'ai jamais été aussi humiliée. *Pleure*"
+
+# game/v3/scene8.rpy:107
+translate francais v3s8_05801a70:
+
+    # u "I mean, I can... I've felt..."
+    u "Je comprends, je peux... J'ai ressenti..."
+
+# game/v3/scene8.rpy:109
+translate francais v3s8_a79c7c23:
+
+    # u "Nevermind."
+    u "Oublie ça."
+
+# game/v3/scene8.rpy:182
+translate francais v3s8_0ac976f9:
+
+    # li "I was just talking shit, sue me!"
+    li "J'étais juste en train de dire des conneries ! Vas-y, fais-moi un procès !"
+
+# game/v3/scene8.rpy:226
+translate francais v3s8_85611280:
+
+    # u "Seriously you two, calm down before this gets ugly."
+    u "Sérieusement les filles, calmez-vous avant que ça dégénère."
+
+# game/v3/scene8.rpy:269
+translate francais v3s8_b549c54c:
+
+    # li "And you're a scheming psychopath! You've got no respect for my privacy or for me as a Chick."
+    li "Et toi, tu es une psychopathe sournoise ! Tu n'as aucun respect pour ma vie privée ou pour moi en tant que Chick."
+
+# game/v3/scene8.rpy:345
+translate francais v3s8_61020afe:
+
+    # lee "Ladies, this is not the type of behavior I expect from two sorority leaders."
+    lee "Mesdames, ce n'est pas le type de comportement que j'attends de la part de deux responsables de sororité."
+
+# game/v3/scene8.rpy:375
+translate francais v3s8_55ce8766:
+
+    # u "(Damn, I can't tell if that was a win or a loss for Chloe. Either way, I'm in the clear, I think.)"
+    u "(Merde, je peux pas dire si c'était une victoire ou une défaite pour Chloé. Dans les deux cas, je suis hors de cause, je crois.)"
+
+# game/v3/scene8.rpy:377
+translate francais v3s8_f6171484:
+
+    # u "(I should go say hi to Autumn.)"
+    u "(Il faut que j'aille saluer Autumn.)"

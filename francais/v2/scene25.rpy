@@ -952,3 +952,268 @@ translate francais v2s25_9467257c:
 
     # u "Okay... I'm sure I can get the money back after we resolve this confusion."
     u "Ok... De toute façon, je vais pouvoir récupérer mon argent une fois que nous aurons résolu cette confusion."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene25.rpy:29
+translate francais v2s25_df84d6fa:
+
+    # u "(Okay, now that I'm in my office, time to make some business calls.)"
+    u "(Bon, maintenant je suis dans mon bureau, c'est l'heure de passer des appels professionnels.)"
+
+# game/v2/scene25.rpy:65
+translate francais v2s25_8eb0b487:
+
+    # u "Hi, yeah, can I book the VIP party package, please?"
+    u "Bonjour, oui. Puis-je réserver le forfait fête VIP, s'il vous plaît ?"
+
+# game/v2/scene25.rpy:70
+translate francais v2s25_6a839dc3:
+
+    # admin "That's a lot of Ps, isn't it? *Giggles*"
+    admin "Ah, une petite soirée entre amis prévue ? *Rire*"
+
+# game/v2/scene25.rpy:75
+translate francais v2s25_38d71acf:
+
+    # u "Ha, it sure is."
+    u "C'est ça."
+
+# game/v2/scene25.rpy:100
+translate francais v2s25_a9997c21:
+
+    # admin "Perfect. I've reserved a VIP area for you, and we'll send our finest limo so you can all arrive in style."
+    admin "Très bien. J'ai réservé un espace VIP pour vous, nous enverrons notre meilleure limousine afin que vous puissiez venir en toute élégance."
+
+# game/v2/scene25.rpy:110
+translate francais v2s25_a58c3caa:
+
+    # admin "I also need to ask: How old are the people in your group?"
+    admin "Je dois également vous demander, quel âge ont les autres participants ?"
+
+# game/v2/scene25.rpy:131
+translate francais v2s25_46ced01d:
+
+    # admin "Ooh. Well, in that case, we can't serve you alcohol."
+    admin "Ooh... Bien, dans ce cas, nous ne pourrons pas vous servir d'alcool."
+
+# game/v2/scene25.rpy:144
+translate francais v2s25_4ffab0d1:
+
+    # admin "Great! I must point out that even if one of you is underage, we won't be allowed to serve alcohol."
+    admin "Formidable ! Je dois cependant préciser que même si seulement l'un d'entre vous est mineur, nous n'aurons pas le droit de servir l'alcool."
+
+# game/v2/scene25.rpy:151
+translate francais v2s25_6e12ef10:
+
+    # u "(Yes... right...)"
+    u "(Oui... C'est ça...)"
+
+# game/v2/scene25.rpy:156
+translate francais v2s25_66aa66ff:
+
+    # admin "To note, we'll be checking your IDs when you arrive."
+    admin "Bien entendu, nous vérifierons vos pièces d'identité dès votre arrivée."
+
+# game/v2/scene25.rpy:161
+translate francais v2s25_cab2a430:
+
+    # u "Oh?"
+    u "Ah ?"
+
+# game/v2/scene25.rpy:166
+translate francais v2s25_af4debb2:
+
+    # admin "Yes. It's standard procedure."
+    admin "En effet, c'est une procédure standard."
+
+# game/v2/scene25.rpy:171
+translate francais v2s25_91aa81b0:
+
+    # u "(Fuck... there's no way everyone has a fake ID.)"
+    u "(Putain... Impossible de faire en sorte que tout le monde ait une fausse carte d'identité.)"
+
+# game/v2/scene25.rpy:191
+translate francais v2s25_c2a3af91:
+
+    # admin "Okay... well, if you're underage, then we won't be able to serve you alcohol."
+    admin "Très bien... Si vous êtes mineurs, nous ne pourrons pas vous servir d'alcool."
+
+# game/v2/scene25.rpy:198
+translate francais v2s25_e9016496:
+
+    # u "Is there any way at all we can get alcohol?"
+    u "Y a-t-il un moyen quelconque d'obtenir de l'alcool ?"
+
+# game/v2/scene25.rpy:234
+translate francais v2s25_8381da7b:
+
+    # admin "That sounds great, honey. But if you're underage, we can't serve you alcohol. It's as simple as that."
+    admin "Ça a l'air super, chéri. Mais si vous êtes mineurs, nous ne pourrons pas vous servir d'alcool. C'est aussi simple que ça."
+
+# game/v2/scene25.rpy:243
+translate francais v2s25_986d17e8:
+
+    # u "She really deserves to be president. She could really elevate the lives of everyone in her sorority."
+    u "Elle mérite vraiment d'être Présidente, elle pourrait vraiment améliorer la vie de toutes les filles de sa sororité."
+
+# game/v2/scene25.rpy:263
+translate francais v2s25_4fe8ad14:
+
+    # u "It's like she's doing it all for her mom, you know? And I don't want to let her down..."
+    u "C'est comme si elle faisait tout ça pour sa mère, vous voyez. Et je ne veux pas la laisser tomber..."
+
+# game/v2/scene25.rpy:268
+translate francais v2s25_781fcd02:
+
+    # admin "Oh, that's so sweet. *Sniffles* Bless her heart."
+    admin "Oh... C'est si gentil. *Renifle* Bénis soit son coeur."
+
+# game/v2/scene25.rpy:275
+translate francais v2s25_d1cfd869:
+
+    # u "I'm sorry for your loss."
+    u "Oh, je suis désolé pour cette épreuve."
+
+# game/v2/scene25.rpy:298
+translate francais v2s25_bcedf10b:
+
+    # admin "I'll just leave this little tick box unchecked so that you guys get some alcohol and nobody checks your IDs, okay?"
+    admin "Je vais simplement laisser vierge la petite case à cocher... Afin que vous puissiez avoir de l'alcool, et que personne ne vérifie vos identités, d'accord ?"
+
+# game/v2/scene25.rpy:313
+translate francais v2s25_4bc7182c:
+
+    # u "Don't worry, we're all mature for our age, relatively speaking."
+    u "Ne vous inquiétez pas, nous sommes tous très matures pour notre âge."
+
+# game/v2/scene25.rpy:323
+translate francais v2s25_d178dd42:
+
+    # u "You can, I promise. Thank you so much, you're incredible."
+    u "Vous pouvez, je vous le promets. Merci beaucoup, vous êtes géniale."
+
+# game/v2/scene25.rpy:328
+translate francais v2s25_e402a748:
+
+    # admin "Let's just call it my good deed for the day."
+    admin "Appelons ça ma bonne action de la journée."
+
+# game/v2/scene25.rpy:363
+translate francais v2s25_c89f406d:
+
+    # admin "It sounds illegal, sir. And the internet isn't a trustworthy source of information. I'm sorry."
+    admin "Ça semble illégal, monsieur. Et internet n'est pas une source d'information fiable, je suis désolée."
+
+# game/v2/scene25.rpy:377
+translate francais v2s25_37c4b22c:
+
+    # admin "Maybe you should do some more research so you fully understand the law."
+    admin "Vous devriez peut-être approfondir vos recherches, afin de bien comprendre la loi."
+
+# game/v2/scene25.rpy:406
+translate francais v2s25_bf7f9df1:
+
+    # admin "Yep, that's right. It's the full VIP party package."
+    admin "Ouais, c'est ça. Il s'agit de l'ensemble du forfait fête VIP."
+
+# game/v2/scene25.rpy:460
+translate francais v2s25_1cda71f7:
+
+    # admin "What about a 50% discount?"
+    admin "Que diriez-vous d'une remise de 50%% ?"
+
+# game/v2/scene25.rpy:492
+translate francais v2s25_21b0366b:
+
+    # admin "Lovely. If business is settled here, then, goodbye."
+    admin "Adorable. Alors, si tout est réglé, je vous dis au revoir."
+
+# game/v2/scene25.rpy:526
+translate francais v2s25_83234274:
+
+    # u "Yeah. So, can you just waive the fee?"
+    u "Oui. Donc, pouvez-vous simplement... Vous savez, renoncer aux frais ?"
+
+# game/v2/scene25.rpy:555
+translate francais v2s25_149260ae:
+
+    # admin "I'm glad we got there in the end. Thank you for being a customer."
+    admin "Je suis heureuse de constater que nous y sommes finalement arrivés. Merci de votre confiance."
+
+# game/v2/scene25.rpy:593
+translate francais v2s25_9af61382:
+
+    # admin "Yep. We can't serve you any alcohol, but you still get a range of mocktails, sodas and juices all included."
+    admin "Tout à fait. Nous ne pouvons pas vous servir d'alcool, mais vous bénéficiez d'une gamme de mocktails, de sodas et de jus de fruits inclus dans le prix du forfait."
+
+# game/v2/scene25.rpy:610
+translate francais v2s25_6ec2b0aa:
+
+    # u "Ha, okay, message received."
+    u "D'accord, c'est compris."
+
+# game/v2/scene25.rpy:615
+translate francais v2s25_5cb1fb61:
+
+    # admin "So, that's everything confirmed?"
+    admin "Bien, tout est bon pour vous ?"
+
+# game/v2/scene25.rpy:693
+translate francais v2s25_d1af96b0:
+
+    # admin "Let's see... well, I think I can help you out a little bit."
+    admin "Voyons voir... Je crois pouvoir vous aider un peu."
+
+# game/v2/scene25.rpy:695
+translate francais v2s25_a0425314:
+
+    # admin "I can give you a 25% discount. That brings the price down to $600."
+    admin "Je peux vous accorder une remise de 25%%. Ce qui ramène le prix total à 600$."
+
+# game/v2/scene25.rpy:717
+translate francais v2s25_02be77ed:
+
+    # admin "Ha, I'm sorry, that ship has sailed. I'm sure you'll have a great time regardless."
+    admin "Je suis désolée mais ça sera impossible. Je suis sûre que vous passerez tout de même un excellent moment."
+
+# game/v2/scene25.rpy:722
+translate francais v2s25_ec35a575:
+
+    # u "Worth a try! Thanks anyway."
+    u "Ça valait le coup d'essayer. Merci tout de même."
+
+# game/v2/scene25.rpy:746
+translate francais v2s25_dcefc3d0:
+
+    # admin "We're a lounge; we don't get many students."
+    admin "Nous sommes un salon; nous n'avons pas beaucoup d'étudiants."
+
+# game/v2/scene25.rpy:751
+translate francais v2s25_d48c9514:
+
+    # u "Well that's probably 'cause of your lack of discounts."
+    u "C'est certainement dû à votre \"absence de remises\"."
+
+# game/v2/scene25.rpy:756
+translate francais v2s25_b6b7d572:
+
+    # admin "Sadly, I can't just create new discounts out of thin air. You're going to have to pay full price."
+    admin "Malheureusement, je ne peux pas créer de nouvelles remises de toutes pièces. Vous allez devoir payer le prix fort."
+
+# game/v2/scene25.rpy:763
+translate francais v2s25_05757b77:
+
+    # u "We'll pay seven hundred."
+    u "On va payer sept cents."
+
+# game/v2/scene25.rpy:773
+translate francais v2s25_e53e5c02:
+
+    # u "Yeah... bye."
+    u "Ouais... Au revoir."
+
+translate francais strings:
+
+    # game/v2/scene25.rpy:241
+    old "She deserves to be president"
+    new "Elle mérite d'être présidente"

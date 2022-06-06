@@ -2682,3 +2682,706 @@ translate francais v2s33_1de5ab46:
 
     # u "Mmm... That hit the spot, ha."
     u "Mmm... Ça a fait du bien."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene33.rpy:55
+translate francais v2s33_77f4a6ea:
+
+    # au "I wonder what else you're hiding from me."
+    au "Je me demande bien ce que tu me caches d'autre."
+
+# game/v2/scene33.rpy:60
+translate francais v2s33_81afb332:
+
+    # u "Who knows? I'm very mysterious."
+    u "Qui sait ? Je suis très mystérieux."
+
+# game/v2/scene33.rpy:67
+translate francais v2s33_250e3090:
+
+    # u "If not, I have a bunch of awful jokes that are guaranteed to cheer you up."
+    u "Si c'est pas le cas, j'ai un tas de blagues nulles qui te remonteront le moral à coup sûr."
+
+# game/v2/scene33.rpy:87
+translate francais v2s33_f07f6a4a:
+
+    # na "Hey, I recognize you two! You're that cute couple from Paris, right?"
+    na "Hé, je vous reconnais tous les deux ! Vous êtes le mignon petit couple de Paris, non ?"
+
+# game/v2/scene33.rpy:98
+translate francais v2s33_8f61a6d9:
+
+    # au "Ha, shut up."
+    au "Oh, tais-toi."
+
+# game/v2/scene33.rpy:146
+translate francais v2s33_a2b78b22:
+
+    # na "I'm a little drunk, hehe. You guys have some catching up to do!"
+    na "Je suis un peu pompette... Vous avez du retard à rattraper !"
+
+# game/v2/scene33.rpy:151
+translate francais v2s33_00421994:
+
+    # au "Oh, trust me, we'll get right on that."
+    au "Oh, crois-moi, on va s'y mettre."
+
+# game/v2/scene33.rpy:153
+translate francais v2s33_fa69f3ac:
+
+    # au "Where's mom? How does she look? Does she need-"
+    au "Où est maman ? Comment est-elle ? A-t-elle besoin de-"
+
+# game/v2/scene33.rpy:158
+translate francais v2s33_1ebd6286:
+
+    # na "Aubrey! Mom is fine, she looks fine, everything is fine..."
+    na "Aubrey ! Maman va bien, elle est très belle, tout va bien..."
+
+# game/v2/scene33.rpy:165
+translate francais v2s33_cd7c8516:
+
+    # au "Oh, ha. Thanks. You do, too."
+    au "Oh, ha. Merci. Toi aussi tu l'es."
+
+# game/v2/scene33.rpy:180
+translate francais v2s33_7eb56a47:
+
+    # u "(Wow, arrogant much? I mean, she's obviously hot, but still...)"
+    u "(Wow, quelle arrogance ! Elle est évidemment sexy mais quand même...)"
+
+# game/v2/scene33.rpy:190
+translate francais v2s33_606d2e46:
+
+    # u "Thanks... I didn't do much, but at least I'm not wearing a stripper costume."
+    u "Merci... J'ai pas fait grand-chose mais, au moins, je porte pas de costume de stripteaseur."
+
+# game/v2/scene33.rpy:195
+translate francais v2s33_59950c89:
+
+    # au "True."
+    au "C'est vrai."
+
+# game/v2/scene33.rpy:215
+translate francais v2s33_4cf4f938:
+
+    # u "Ha, wow. Thanks for the compliment?"
+    u "Wow. Heu... Merci pour le compliment..."
+
+# game/v2/scene33.rpy:220
+translate francais v2s33_382f09da:
+
+    # au "So, seriously... where's mom and dad?"
+    au "Bon, sérieusement... Où sont papa et maman ?"
+
+# game/v2/scene33.rpy:235
+translate francais v2s33_f2e89bdd:
+
+    # na "Everything is fine. It's just flowers, Aubbie."
+    na "Tout est parfait. Ce ne sont que des fleurs, Aubbie."
+
+# game/v2/scene33.rpy:260
+translate francais v2s33_cda21324:
+
+    # u "Um, okay... do I have a choice?"
+    u "Hum, ok... Est-ce que j'ai le choix ?"
+
+# game/v2/scene33.rpy:312
+translate francais v2s33_161cd6fb:
+
+    # na "Not a fan?"
+    na "T'es pas fan ?"
+
+# game/v2/scene33.rpy:350
+translate francais v2s33_24273832:
+
+    # u "Mmm... delicious."
+    u "Mmm... Délicieux."
+
+# game/v2/scene33.rpy:370
+translate francais v2s33_718a8141:
+
+    # u "Having this many weddings?"
+    u "Faire autant de mariages ?"
+
+# game/v2/scene33.rpy:375
+translate francais v2s33_791fa676:
+
+    # na "Ha! Okay, besides that..."
+    na "Ouais, à part ça..."
+
+# game/v2/scene33.rpy:392
+translate francais v2s33_345ae9e9:
+
+    # na "We'll see how lucky you are later."
+    na "On verra plus tard si tu as de la chance."
+
+# game/v2/scene33.rpy:410
+translate francais v2s33_89097dd3:
+
+    # u "Oh... okay, good to know."
+    u "Oh... Ok, bon à savoir."
+
+# game/v2/scene33.rpy:427
+translate francais v2s33_7f4f3864:
+
+    # na "Ugh, okay... good luck with that!"
+    na "Argh, ok... Bonne chance à toi !"
+
+# game/v2/scene33.rpy:467
+translate francais v2s33_5530f158:
+
+    # audad "Don't you think you should just focus on your studies right now and plan on going for something more secure?"
+    audad "Ne penses-tu pas que tu devrais te concentrer sur tes études pour l'instant, et prévoir d'aller vers quelque chose de plus sûr ?"
+
+# game/v2/scene33.rpy:477
+translate francais v2s33_1c72c522:
+
+    # au "I can do modeling though. I'm good at modeling. They hired me on the spot when-"
+    au "Mais je peux faire du mannequinat. Je suis douée pour ça. De plus, ils m'ont engagée sur le champ quand..."
+
+# game/v2/scene33.rpy:507
+translate francais v2s33_5021e655:
+
+    # u "Ha, yeah. Barely..."
+    u "Ouais. À peine..."
+
+# game/v2/scene33.rpy:536
+translate francais v2s33_cb879803:
+
+    # aumom "I'm happy with the arrangements and all, but I must say, we had much better flowers at our first wedding."
+    aumom "Je suis contente des aménagements et de tout, mais je dois dire que nous avions de bien meilleures fleurs lors de notre premier mariage."
+
+# game/v2/scene33.rpy:565
+translate francais v2s33_95d5647a:
+
+    # u "(Damn, we've got a bridezilla over here! Ha... yikes.)"
+    u "(Bon sang, on a une mariéezilla par ici ! Ha... Beurk.)"
+
+# game/v2/scene33.rpy:600
+translate francais v2s33_b4b776b8:
+
+    # aumom "True. So, how I ended up with you, no idea."
+    aumom "C'est vrai. Alors, comment j'ai pu finir avec toi, j'en ai aucune idée."
+
+# game/v2/scene33.rpy:605
+translate francais v2s33_345f5d68:
+
+    # audad "I should know better after all these years than to go fishing for a compliment."
+    audad "Je devrais être mieux informé, après toutes ces années passées à aller à la pêche aux compliments."
+
+# game/v2/scene33.rpy:610
+translate francais v2s33_c9e99ee7:
+
+    # aumom "My silly man."
+    aumom "Mon grand fou."
+
+# game/v2/scene33.rpy:639
+translate francais v2s33_adaaf1fb:
+
+    # au "Let's have a shot. I need one after that!"
+    au "Allons prendre un verre. J'en ai bien besoin, après ça."
+
+# game/v2/scene33.rpy:644
+translate francais v2s33_c54cce3b:
+
+    # u "Okay, fair."
+    u "Ok, ça marche."
+
+# game/v2/scene33.rpy:684
+translate francais v2s33_7c76f3e8:
+
+    # au "Years of practice."
+    au "Des années de pratique."
+
+# game/v2/scene33.rpy:702
+translate francais v2s33_2fe2e913:
+
+    # u "Mmm... that hit the spot."
+    u "Mmm... Ça a fait du bien."
+
+# game/v2/scene33.rpy:783
+translate francais v2s33_998bf662:
+
+    # u "Thank you! I appreciate it. I hope she keeps me..."
+    u "Merci. J'apprécie. J'espère qu'elle me gardera..."
+
+# game/v2/scene33.rpy:801
+translate francais v2s33_7d47ee1c:
+
+    # u "I like to think so."
+    u "J'aime à le croire."
+
+# game/v2/scene33.rpy:811
+translate francais v2s33_0cd40b28:
+
+    # au "We see you, princess. Don't cry."
+    au "On t'a vu princesse. Pleure pas."
+
+# game/v2/scene33.rpy:813
+translate francais v2s33_9834cffb:
+
+    # u "(So, he's the second black sheep of the family, I assume?)"
+    u "(Donc, j'imagine que c'est le deuxième mouton noir de la famille ?)"
+
+# game/v2/scene33.rpy:823
+translate francais v2s33_26b8e5b2:
+
+    # u "Interesting."
+    u "C'est intéressant."
+
+# game/v2/scene33.rpy:839
+translate francais v2s33_d50af4dc:
+
+    # u "(*Sighs* They're most dangerous when they're together...)"
+    u "(*Soupirs* Elles sont encore plus dangereuses quand elles sont ensemble...)"
+
+# game/v2/scene33.rpy:860
+translate francais v2s33_551d6215:
+
+    # rick "Ha! You're pulling my leg, right?"
+    rick "Oh ! Tu t'moques de moi, c'est ça ?"
+
+# game/v2/scene33.rpy:867
+translate francais v2s33_1d975819:
+
+    # u "Well... uh, economics and history? Things like that."
+    u "Ben... Euh, l'économie et l'histoire ? Des trucs comme ça."
+
+# game/v2/scene33.rpy:877
+translate francais v2s33_ec9bd923:
+
+    # u "(You know what? I like this guy.)"
+    u "(Vous savez quoi ? J'aime bien ce mec.)"
+
+# game/v2/scene33.rpy:894
+translate francais v2s33_9f027014:
+
+    # u "Ha, thanks..."
+    u "Oh, merci..."
+
+# game/v2/scene33.rpy:904
+translate francais v2s33_67aa58cb:
+
+    # u "Oh, uh... (Am I about to eat cheese out of a grown man's hands?)"
+    u "Oh, Euh... (Suis-je sur le point de manger du fromage dans les mains d'un homme ?)"
+
+# game/v2/scene33.rpy:936
+translate francais v2s33_ba776d44:
+
+    # u "Ugh, I feel... something... *Coughs*"
+    u "Argh, je ressens... Quelque chose... *Tousse*"
+
+# game/v2/scene33.rpy:946
+translate francais v2s33_a5b8e36c:
+
+    # u "(It smells like ass, dude. What the fuck?)"
+    u "(Ça sent le cul, mec... C'est quoi cette merde ?)"
+
+# game/v2/scene33.rpy:948
+translate francais v2s33_bff8235d:
+
+    # u "I can really taste the... (ugh, fuck...) the quality."
+    u "Je peux vraiment ressentir la... (Argh, putain...) la qualité."
+
+# game/v2/scene33.rpy:965
+translate francais v2s33_ab72b12e:
+
+    # u "You know what, uh... thanks, but I'm not feeling hungry right now."
+    u "Vous savez quoi, euh... Merci, mais pour le moment, j'ai pas faim."
+
+# game/v2/scene33.rpy:977
+translate francais v2s33_29c7ab1f:
+
+    # u "Wow, that's... interesting."
+    u "Wow, c'est... Intéressant."
+
+# game/v2/scene33.rpy:979
+translate francais v2s33_0bd07763:
+
+    # u "(Why the fuck does it smell so... wrong?)"
+    u "(Pourquoi ça sent si... Mauvais ?)"
+
+# game/v2/scene33.rpy:986
+translate francais v2s33_328e004c:
+
+    # rick "Well, your loss. Make sure you try some before you go. I want to know what you think."
+    rick "Eh bien, dommage pour toi. Assure-toi d'y goûter avant d'partir, j'veux savoir c'que t'en penses."
+
+# game/v2/scene33.rpy:996
+translate francais v2s33_93f3bf8f:
+
+    # rick "But hurry up before I eat it all!"
+    rick "Mais dépêche-toi avant qu'je n'mange tout !"
+
+# game/v2/scene33.rpy:1007
+translate francais v2s33_676f94b2:
+
+    # u "Brey as in Aubrey, right?"
+    u "Brey comme Aubrey, c'est ça ?"
+
+# game/v2/scene33.rpy:1017
+translate francais v2s33_6db618c6:
+
+    # u "Ha, no worries. She seems to have smiled the most so far when speaking to you, so..."
+    u "Ha, vous inquiétez pas. Pour l'instant, c'est en vous parlant qu'elle semble avoir le plus souri, alors..."
+
+# game/v2/scene33.rpy:1019
+translate francais v2s33_ff9e34db:
+
+    # u "But, uh, yeah... we go to college together. Just met this year."
+    u "Sinon, euh, c'est ça... On va à l'université ensemble, on s'est rencontrés cette année."
+
+# game/v2/scene33.rpy:1029
+translate francais v2s33_59af4589:
+
+    # u "(No shit. But we should play this topic safely.)"
+    u "(Sans déconner... Je devrais quand même jouer la sécurité.)"
+
+# game/v2/scene33.rpy:1036
+translate francais v2s33_48dc96c3:
+
+    # rick "Naomi is clearly the favorite; everyone can see it. You don't have to act all \"good\" around me, kid. Neither of you do."
+    rick "Naomi est clairement la préférée; tout l'monde peut l'voir. Et t'as pas b'soin d'faire semblant pour t'sentir \"bien\" avec moi, p'tit. Personne ne l'fait."
+
+# game/v2/scene33.rpy:1068
+translate francais v2s33_e3f8ebce:
+
+    # rick "They had to pull the plug on a big business venture they had planned. And this business plan had been the goal for... years."
+    rick "Ils ont dû arrêter la création d'une grande entreprise qu'ils avaient planifié. C'plan d'affaires était leur objectif depuis... des années."
+
+# game/v2/scene33.rpy:1076
+translate francais v2s33_75c7b713:
+
+    # rick "Doing everything to ensure that your child has a solid start in life is always the plan."
+    rick "Tout faire pour qu'ton enfant ait un bon départ dans la vie est toujours l'but recherché."
+
+# game/v2/scene33.rpy:1107
+translate francais v2s33_052170d2:
+
+    # u "Yeah, I don't know. It's strange."
+    u "Hum, je sais pas. C'est bizarre."
+
+# game/v2/scene33.rpy:1112
+translate francais v2s33_dc6b3c39:
+
+    # rick "Whether you end up being just a friend or... something more..."
+    rick "Qu'au final, tu n'sois qu'un ami ou... plus."
+
+# game/v2/scene33.rpy:1121
+translate francais v2s33_14359edb:
+
+    # u "Thanks a lot. For sharing that with me."
+    u "Merci beaucoup. D'avoir partagé tout ça avec moi."
+
+# game/v2/scene33.rpy:1126
+translate francais v2s33_ddae80b4:
+
+    # rick "That's okay. It's the cheese talking! Our little secret, alright?"
+    rick "Tout va bien. C'est l'fromage qui parle ! Ça reste notre p'tit secret, d'accord ?"
+
+# game/v2/scene33.rpy:1170
+translate francais v2s33_8b38e094:
+
+    # u "(Wait... what was that? I just felt something touch my leg...)"
+    u "(Attends... C'était quoi ça ? Je viens de sentir un truc me toucher la jambe...)"
+
+# game/v2/scene33.rpy:1175
+translate francais v2s33_7bce1480:
+
+    # u "(Holy sh-)"
+    u "(Putain de mer-)"
+
+# game/v2/scene33.rpy:1185
+translate francais v2s33_edfd27eb:
+
+    # u "(Oh... shit...)"
+    u "(Oh... Merde...)"
+
+# game/v2/scene33.rpy:1190
+translate francais v2s33_32f796d5:
+
+    # u "(*Moans* Okay, what the fuck... is she really doing this while she's eating right now?)"
+    u "(*Gémis* Ok, c'est quoi ce bordel... Elle fait vraiment ça pendant qu'elle est en train de manger ?)"
+
+# game/v2/scene33.rpy:1199
+translate francais v2s33_8c0305f6:
+
+    # u "(This is definitely not a good idea. I'm eating lunch with her family, for fuck's sake...)"
+    u "(C'est vraiment pas une bonne idée. Je déjeune avec sa famille, bordel de merde...)"
+
+# game/v2/scene33.rpy:1209
+translate francais v2s33_ca40b0cb:
+
+    # u "(What... back again? She's being relentless...)"
+    u "(Quoi... Encore ? Elle s'acharne...)"
+
+# game/v2/scene33.rpy:1214
+translate francais v2s33_28bfe8a2:
+
+    # u "(No harm in enjoying it, right?... *Moans*)"
+    u "(Y a pas de mal à en profiter, hein ?... *Gémis*)"
+
+# game/v2/scene33.rpy:1234
+translate francais v2s33_be99203a:
+
+    # u "Um, yeah. I, uh... please excuse me... I just need to use the bathroom."
+    u "Hum, ouais. Je, euh... Excusez-moi... Je dois aller aux toilettes."
+
+# game/v2/scene33.rpy:1277
+translate francais v2s33_ac1d26ef:
+
+    # u "(I didn't think she'd do something like that during the fancy lunch!)"
+    u "(Je pensais pas qu'elle ferait un truc comme ça pendant le déjeuner chic !)"
+
+# game/v2/scene33.rpy:1295
+translate francais v2s33_faa8f781:
+
+    # u "(And Aubrey was just sitting right there. Her entire family, too...)"
+    u "(Et Aubrey était assise juste là... Toute sa famille, également...)"
+
+# game/v2/scene33.rpy:1314
+translate francais v2s33_1a0aff21:
+
+    # na "Creative thinking, cutie! Glad you picked up what I was putting down."
+    na "Une pensée très créative, mon mignon ! Content que tu aies compris ce que j'avais en tête."
+
+# game/v2/scene33.rpy:1343
+translate francais v2s35_naomisg_fbf56528:
+
+    # u "(Okay, [name]. Use your head here...)"
+    u "(Ok, [name]. Sers-toi de ta tête, maintenant...)"
+
+# game/v2/scene33.rpy:1375
+translate francais v2s35_naomisg_2fe6601b:
+
+    # na "But you... huh? Earlier, we-"
+    na "Mais tu... heu ? Tout à l'heure, on-"
+
+# game/v2/scene33.rpy:1397
+translate francais v2s35_naomisg_52e45075:
+
+    # na "Oh, come on... like that means anything."
+    na "Oh, arrête... Comme si ça voulait dire quelque chose."
+
+# game/v2/scene33.rpy:1407
+translate francais v2s35_naomisg_e75e7bea:
+
+    # na "She dates all the time. It means nothing to her! All of her exes know that. That's why they hook up with me... *Giggles*"
+    na "Elle sort tout le temps avec du monde, ça ne veut rien dire pour elle ! Tous ses ex le savent, c'est pour ça qu'ils sortent tous avec moi... *Ricane*"
+
+# game/v2/scene33.rpy:1544
+translate francais v2s35_naomisg_0ff9f310:
+
+    # u "(Phew... let's hope no one noticed any of that.)"
+    u "(Pfiou... Espérons que personne remarque rien de tout ça.)"
+
+# game/v2/scene33.rpy:1610
+translate francais v2s35_naomisg_90bb4256:
+
+    # u "(But it feels so... right...)"
+    u "(Mais ça fait tellement de... bien...)"
+
+# game/v2/scene33.rpy:1622
+translate francais v2s35_naomisg_d817a1e7:
+
+    # na "*Mumbling* Mmm?"
+    na "*Murmure* Mmm ?"
+
+# game/v2/scene33.rpy:1627
+translate francais v2s35_naomisg_805e2a4e:
+
+    # na "You like it when supermodels suck your cock? *Giggles*"
+    na "Tu aimes quand les top-modèles te sucent la queue ? *Ricane*"
+
+# game/v2/scene33.rpy:1687
+translate francais v2s33_nsfwSkipLabel1_9d4a7995:
+
+    # na "*Whispers* I mean, probably."
+    na "*Chuchote* Je pense, Peut-être."
+
+# game/v2/scene33.rpy:1722
+translate francais v2s33_nsfwSkipLabel1_a3786e6f:
+
+    # au "Don't... don't even try to talk yourself out of this."
+    au "Ne... N'essaie même pas de t'en sortir en discutant."
+
+# game/v2/scene33.rpy:1734
+translate francais v2s33_nsfwSkipLabel1_d9700c74:
+
+    # au "Unbelievable."
+    au "Incroyable."
+
+# game/v2/scene33.rpy:1744
+translate francais v2s33_nsfwSkipLabel1_ff0fbb68:
+
+    # u "(What... the fuck... is wrong with this girl? What's wrong with me?!)"
+    u "(Qu'est-ce qui va pas avec cette fille ? Qu'est-ce qui va pas chez moi ?!)"
+
+# game/v2/scene33.rpy:1798
+translate francais v2s33_nsfwSkipLabel1_0d871eaa:
+
+    # na "Well, I guess we got busted..."
+    na "Eh bien, je crois qu'on s'est fait chopper."
+
+# game/v2/scene33.rpy:1886
+translate francais v2s33_nsfwSkipLabel1_859a2c3e:
+
+    # u "(I'd better get back out there.)"
+    u "(Je ferais mieux d'y retourner.)"
+
+# game/v2/scene33.rpy:1917
+translate francais v2s33_nsfwSkipLabel1_e3ea5373:
+
+    # u "(I'll just leave her alone for now. Hopefully she'll calm down and I can talk to her later.)"
+    u "(Pour l'instant, je vais la laisser tranquille. Avec un peu de chance, elle va se calmer et je pourrai lui parler plus tard.)"
+
+# game/v2/scene33.rpy:1942
+translate francais v2s33_nsfwSkipLabel1_0345cf44:
+
+    # u "(I don't feel good about talking to her right now...)"
+    u "(Je me sens pas à l'aise pour lui parler... pour l'instant...)"
+
+# game/v2/scene33.rpy:1947
+translate francais v2s33_nsfwSkipLabel1_a4126f07:
+
+    # na "I'll take that as a no."
+    na "Je vais prendre ça pour un non."
+
+# game/v2/scene33.rpy:1962
+translate francais v2s33_nsfwSkipLabel1_21e7217f:
+
+    # na "I've had a few offers already, in fact! Turned them all down so far, of course. I'm way too young for marriage wrinkles..."
+    na "J'ai déjà reçu quelques demandes, ha ! Je les ai toutes refusées jusqu'à présent, bien sûr. Je suis bien trop jeune pour les rides du mariage..."
+
+# game/v2/scene33.rpy:1988
+translate francais v2s33_nsfwSkipLabel1_1a5c052d:
+
+    # au "Yeah, they look so happy..."
+    au "Ouais, ils ont l'air si heureux..."
+
+# game/v2/scene33.rpy:2009
+translate francais v2s33_nsfwSkipLabel1_d31df0fa:
+
+    # u "I'm just saying! I mean, good luck."
+    u "Je dis ça comme ça ! Je voulais te souhaiter bonne chance."
+
+# game/v2/scene33.rpy:2029
+translate francais v2s33_nsfwSkipLabel1_ed1afc25:
+
+    # u "(That face... mmm. Irresistible.)"
+    u "(Ce visage est... hummm. Irrésistible.)"
+
+# game/v2/scene33.rpy:2059
+translate francais v2s33_nsfwSkipLabel1_f4689b5e:
+
+    # u "Gladly."
+    u "Avec plaisir."
+
+# game/v2/scene33.rpy:2104
+translate francais v2s33_nsfwSkipLabel1_660c1bc5:
+
+    # u "Yeah, yeah. Where did I go wrong?"
+    u "Ouais, ouais... Je me suis trompé quelque part ?"
+
+# game/v2/scene33.rpy:2109
+translate francais v2s33_nsfwSkipLabel1_7b35c262:
+
+    # au "Oh jeez. Okay, here. How about: If we're both still single when we're forty, then maybe you can propose."
+    au "Oh merde... Bon, écoute. Si on est tous les deux encore célibataires à quarante ans, tu pourras alors peut-être me demander en mariage."
+
+# game/v2/scene33.rpy:2114
+translate francais v2s33_nsfwSkipLabel1_1609e7e7:
+
+    # u "Ha, a pact?"
+    u "Oh, c'est un accord ?"
+
+# game/v2/scene33.rpy:2129
+translate francais v2s33_nsfwSkipLabel1_c32435b8:
+
+    # au "Bingo."
+    au "Bingo."
+
+# game/v2/scene33.rpy:2182
+translate francais v2s33_nsfwSkipLabel1_6676917a:
+
+    # wedoff "You may now kiss the bride... again."
+    wedoff "Vous pouvez maintenant embrasser la mariée... De nouveau."
+
+# game/v2/scene33.rpy:2243
+translate francais v2s33_nsfwSkipLabel1_e5e0456b:
+
+    # au "Ha, you did great."
+    au "Vous vous êtes bien débrouillés."
+
+# game/v2/scene33.rpy:2248
+translate francais v2s33_nsfwSkipLabel1_e3a6af56:
+
+    # aumom "Naomi. Come over here! Let's take a photo of all of us. Please?"
+    aumom "Naomi. Viens par ici ! Nous allons prendre une photo de nous tous. S'il te plaît ?"
+
+# game/v2/scene33.rpy:2278
+translate francais v2s33_nsfwSkipLabel1_aa4198a4:
+
+    # au "You want... me? To take the photo?"
+    au "Vous voulez que ce soit... moi ? Qui prenne la photo ?"
+
+# game/v2/scene33.rpy:2288
+translate francais v2s33_nsfwSkipLabel1_1f190e2e:
+
+    # au "Uh, yes. Ready to go."
+    au "Euh, ouais. C'est prêt."
+
+# game/v2/scene33.rpy:2335
+translate francais v2s33_nsfwSkipLabel1_99c71554:
+
+    # au "Oh... really?"
+    au "Oh... c'est vrai ?"
+
+# game/v2/scene33.rpy:2393
+translate francais v2s33_nsfwSkipLabel1_3c151af3:
+
+    # u "Hey... are you okay?"
+    u "Hé... Tu vas bien ?"
+
+# game/v2/scene33.rpy:2420
+translate francais v2s33_nsfwSkipLabel1_e772b25e:
+
+    # au "Can you just give me a few minutes? Please...?"
+    au "Tu pourrais juste... me donner quelques minutes ? S'il te plaît...?"
+
+# game/v2/scene33.rpy:2515
+translate francais v2s33_nsfwSkipLabel1_11e086d9:
+
+    # u "I'll be here for you, complete with awful jokes."
+    u "Je serai là pour toi, avec des blagues nulles."
+
+# game/v2/scene33.rpy:2525
+translate francais v2s33_nsfwSkipLabel1_8a18b3eb:
+
+    # u "Okay, okay... are you ready?"
+    u "Ok, ok... T'es prête ?"
+
+# game/v2/scene33.rpy:2563
+translate francais v2s33_nsfwSkipLabel1_610da19b:
+
+    # au "I don't know, why?"
+    au "Je sais pas... Pourquoi ?"
+
+# game/v2/scene33.rpy:2568
+translate francais v2s33_nsfwSkipLabel1_8cadbd04:
+
+    # u "Well, because monkeys like bananas. Didn't you know that?"
+    u "Ben, parce que les singes aiment les bananes... Tu le savais pas ?"
+
+# game/v2/scene33.rpy:2573
+translate francais v2s33_nsfwSkipLabel1_9311db96:
+
+    # au "Ha! That was awful, [name]."
+    au "Oh ! C'était nul, [name]."
+
+# game/v2/scene33.rpy:2578
+translate francais v2s33_nsfwSkipLabel1_47baef59:
+
+    # u "I'm a man of my word."
+    u "Je suis un homme de parole."

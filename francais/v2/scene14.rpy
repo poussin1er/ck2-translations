@@ -117,3 +117,34 @@ translate francais strings:
     # game/v2/scene14.rpy:75
     old "Let's go"
     new "Allons-y"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene14.rpy:54
+translate francais v2s14_26cac6e2:
+
+    # ro "You have every right to be angry, but let me at least try to make it up to you."
+    ro "Tu as le droit d'être en colère, mais laisse-moi au moins essayer de me faire pardonner."
+
+# game/v2/scene14.rpy:64
+translate francais v2s14_6275d453:
+
+    # ro "I can start by making you dinner. Come on."
+    ro "Je peux commencer par te préparer un bon dîner. Viens."
+
+# game/v2/scene14.rpy:66
+translate francais v2s14_cbf472e4:
+
+    # ro "I'll take you to my place. You can sit back, relax, and have a home-cooked meal."
+    ro "Je t'invite chez moi, tu pourras t'asseoir, te détendre et prendre un bon repas maison."
+
+# game/v2/scene14.rpy:68
+translate francais v2s14_e94b0490:
+
+    # ro "When was the last time you had a decent meal? Boys your age aren't known for cooking."
+    ro "Quand as-tu mangé un repas décent pour la dernière fois ? Les garçons de ton âge ne sont pas réputés pour savoir cuisiner."
+
+# game/v2/scene14.rpy:87
+translate francais v2s14_e6baa2db:
+
+    # ro "Understood, [name]. I'll do whatever you say."
+    ro "Compris, [name]. Je ferai tout ce que tu souhaites."

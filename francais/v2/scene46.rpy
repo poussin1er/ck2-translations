@@ -585,3 +585,70 @@ translate francais strings:
     # game/v2/scene46.rpy:140
     old "Yeah, of course"
     new "Ouais, bien sûr."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene46.rpy:33
+translate francais v2s46_303bbaa8:
+
+    # u "No pressure, then!"
+    u "Alors pas de pression !"
+
+# game/v2/scene46.rpy:179
+translate francais v2s46_nocabin_2bb991cb:
+
+    # am "Yeah! It makes sense because that's the answer!"
+    am "Oui ! C'est tout à fait logique !"
+
+# game/v2/scene46.rpy:269
+translate francais v2s46_nocabin_5bd68b39:
+
+    # am "Sure, she probably borrowed a twinkie or two, ha. But her aunt had something more important."
+    am "Bien sûr, elle a sûrement dû emprunter un ou deux petits gâteaux. Mais sa tante avait quelque chose de plus important en sa possession."
+
+# game/v2/scene46.rpy:306
+translate francais v2s46_nocabin_e2e5731c:
+
+    # am "Ding, ding, ding! We have a winner."
+    am "Ding, ding, ding ! Et nous avons un gagnant."
+
+# game/v2/scene46.rpy:337
+translate francais v2s46_choosecabin_8f5bcd31:
+
+    # u "Right. That's all correct."
+    u "Oui. C'est bien ça."
+
+# game/v2/scene46.rpy:394
+translate francais v2s46_afterchoice_86b0d199:
+
+    # u "Yeah, she really is the best. Not a lot of people realize it, though."
+    u "Ouais, c'est vraiment la meilleure. Il n'y a malheureusement pas grand-monde qui s'en rend compte."
+
+# game/v2/scene46.rpy:399
+translate francais v2s46_afterchoice_257f1b8e:
+
+    # am "Good! More for us."
+    am "Tant mieux ! On a pas à la partager."
+
+# game/v2/scene46.rpy:404
+translate francais v2s46_afterchoice_d0aa81a9:
+
+    # u "True."
+    u "C'est vrai."
+
+# game/v2/scene46.rpy:456
+translate francais v2s46_afterchoice_37b7d8f2:
+
+    # u "Yeah. Kinda scary, but..."
+    u "C'est vrai, elle fait limite flipper, mais..."
+
+# game/v2/scene46.rpy:495
+translate francais v2s46_afterchoice_1aca688b:
+
+    # u "You should probably get some sleep, yeah?"
+    u "Tu crois pas que tu devrais dormir un peu ?"
+
+# game/v2/scene46.rpy:534
+translate francais v2s46_afterchoice_282e2e8f:
+
+    # u "Ha, stop it! I'll see you on the next case."
+    u "Arrête ! On se retrouve sur la prochaine affaire."

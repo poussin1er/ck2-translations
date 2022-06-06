@@ -72,3 +72,16 @@ translate francais v3s70_a_d5a69355:
 
     # u "I'm sure it'll find a new father in about a day or two."
     u "Je suis sûr qu'il trouvera un nouveau père dans un jour ou deux."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene70.rpy:45
+translate francais v3s70_b_4a16d905:
+
+    # pe "I know, but this is the dean's dog. We can't fuck it up."
+    pe "Je sais, mais c'est le chien de la Doyenne. On ne peut pas le bousiller."
+
+# game/v3/scene70.rpy:50
+translate francais v3s70_b_c1c8acd6:
+
+    # u "Yeah, yeah, I get it. We can't kill the dean's new dog. Noted."
+    u "Ouais, ouais, j'ai compris. On peut pas tuer le nouveau chien de la Doyenne. C'est noté."

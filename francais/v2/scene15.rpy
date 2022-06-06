@@ -533,3 +533,208 @@ translate francais strings:
     # game/v2/scene15.rpy:566
     old "Still angry"
     new "Toujours en colère"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene15.rpy:31
+translate francais v2s15_78b1122e:
+
+    # u "Sounds like I'm getting a three-course meal? I'm looking forward to it."
+    u "On dirait que je vais avoir droit à un repas à trois plats. J'ai hâte de commencer."
+
+# game/v2/scene15.rpy:75
+translate francais v2s15sg_0434df91:
+
+    # u "(Oh... wow. That is not what I was expecting!)"
+    u "(Oh... Wow... C'est pas ce à quoi je m'attendais !)"
+
+# game/v2/scene15.rpy:95
+translate francais v2s15sg_b224c598:
+
+    # u "Y-yeah, you look good, but-"
+    u "Ou-Ouais, tu es jolie, mais-"
+
+# game/v2/scene15.rpy:113
+translate francais v2s15sg_77354868:
+
+    # ro "I'm serving you supple, delicious pancakes..."
+    ro "Je te propose des pancakes tendres et délicieux..."
+
+# game/v2/scene15.rpy:135
+translate francais v2s15sg_d7876c9c:
+
+    # ro "Yes, and I'm the meal. Don't you like it?"
+    ro "Oui, et je serai ton repas... Tu n'aimes pas ça ?"
+
+# game/v2/scene15.rpy:150
+translate francais v2s15sg_b12fadce:
+
+    # u "Damn right I'm not in the mood. I'm hungry."
+    u "Bien sûr que non, je suis pas d'humeur. J'ai faim."
+
+# game/v2/scene15.rpy:169
+translate francais v2s15_nsfwSkipLabel1_81d5ffe2:
+
+    # u "(I know she was trying, but... seriously???)"
+    u "(Je sais qu'elle essayait, mais... Sérieux ???)"
+
+# game/v2/scene15.rpy:184
+translate francais v2s15_nsfwSkipLabel1_797a234c:
+
+    # u "*Sighs* (Now it's time for Lauren's party... uuugh. Game face on, [name].)"
+    u "*Soupirs* (C'est l'heure de la fête de Lauren, là... aaargh. Prends un air enjoué, [name].)"
+
+# game/v2/scene15.rpy:203
+translate francais v2s15_nsfwSkipLabel1_05504a9e:
+
+    # ro "Mmm... bon appetit, [name]."
+    ro "Mmm... Bon appétit, [name]."
+
+# game/v2/scene15.rpy:233
+translate francais v2s15_nsfwSkipLabel1_44b3523f:
+
+    # ro "*Moans* Oh... yes... you ARE a hungry boy!"
+    ro "*Gémis* Oh... Oui... Tu es un jeune homme AFFAMÉ !"
+
+# game/v2/scene15.rpy:235
+translate francais v2s15_nsfwSkipLabel1_844270cb:
+
+    # ro "Does it taste good, baby? Do you love it?"
+    ro "Est-ce que ça a bon goût, bébé ? Est-ce que tu aimes ça ?"
+
+# game/v2/scene15.rpy:244
+translate francais v2s15_nsfwSkipLabel1_e4e2afea:
+
+    # ro "I'm so... *gasps* happy to hear you say that..."
+    ro "Je suis tellement... *Soupirs* Heureuse de t'entendre dire ça..."
+
+# game/v2/scene15.rpy:246
+translate francais v2s15_nsfwSkipLabel1_c78ccdc3:
+
+    # ro "I think it's time you flip this pancake over and fill it."
+    ro "Je pense qu'il est temps de retourner ce pancake et le combler."
+
+# game/v2/scene15.rpy:313
+translate francais v2s15_nsfwSkipLabel1_5ad9c84b:
+
+    # ro "I'm so sorry... *moans* I'm so bad..."
+    ro "Je suis tellement désolée... *Gémis* Je suis si mauvaise..."
+
+# game/v2/scene15.rpy:323
+translate francais v2s15_nsfwSkipLabel1_6470ee07:
+
+    # ro "*Moans* Yes, punish me, [name]..."
+    ro "*Gémis* Oui, punis-moi, [name]..."
+
+# game/v2/scene15.rpy:335
+translate francais v2s15_nsfwSkipLabel1_0ccdb4f5:
+
+    # ro "Ah... ah..."
+    ro "Ah... ah..."
+
+# game/v2/scene15.rpy:340
+translate francais v2s15_nsfwSkipLabel1_0059c99c:
+
+    # u "This... is how fucking angry I am..."
+    u "Ça... C'est pour te montrer à quel point je suis en colère..."
+
+# game/v2/scene15.rpy:345
+translate francais v2s15_nsfwSkipLabel1_57227f19:
+
+    # u "You like me when I'm angry?"
+    u "Tu aimes quand je suis en colère ?"
+
+# game/v2/scene15.rpy:350
+translate francais v2s15_nsfwSkipLabel1_fabbb69e:
+
+    # ro "I... *panting* mmm, yes... I do."
+    ro "Je... *Halète* Mmm, oui... J'aime ça."
+
+# game/v2/scene15.rpy:370
+translate francais v2s15_nsfwSkipLabel1_7f6af24e:
+
+    # ro "*Moans* Oh, [name]!"
+    ro "*Gémis* Oh, [name] !"
+
+# game/v2/scene15.rpy:375
+translate francais v2s15_nsfwSkipLabel1_f3eb9648:
+
+    # u "If you're my dinner, then I'll fuck you in the kitchen, too..."
+    u "Si t'es mon dîner, il est logique de te baiser également dans la cuisine..."
+
+# game/v2/scene15.rpy:380
+translate francais v2s15_nsfwSkipLabel1_150633d3:
+
+    # ro "Oh, of course! Please, [name]."
+    ro "Oh, bien sûr ! Vas-y, [name]."
+
+# game/v2/scene15.rpy:416
+translate francais v2s15_nsfwSkipLabel1_4b0d9014:
+
+    # ro "Against the refrigerator before... *moans*"
+    ro "D'abord contre le réfrigérateur... *Gémis*"
+
+# game/v2/scene15.rpy:437
+translate francais v2s15_nsfwSkipLabel1_b4d94c32:
+
+    # u "I'm... about to... nnngh.... where do you want dessert?"
+    u "Je suis... sur le point de... Où est-ce que tu veux ton dessert ?"
+
+# game/v2/scene15.rpy:447
+translate francais v2s15_nsfwSkipLabel1_ce05891c:
+
+    # ro "Yes... [name], please, give it to me."
+    ro "Oui... [name], s'il te plaît... Donne toi... à moi."
+
+# game/v2/scene15.rpy:483
+translate francais v2s15_nsfwSkipLabel1_992196f4:
+
+    # ro "Mmmfff, good boy, keep going! I'm cumming, I'm cu-"
+    ro "Mmmfff, c'est bien, continue ! Je jouiiis, je jou-"
+
+# game/v2/scene15.rpy:490
+translate francais v2s15_nsfwSkipLabel1_f71ce1e4:
+
+    # ro "*Moans* Oh, [name]... oh, honey..."
+    ro "*Gémis* Oh, [name]... Oh, chéri..."
+
+# game/v2/scene15.rpy:509
+translate francais v2s15_nsfwSkipLabel1_8c79fd37:
+
+    # u "Now you're covered in cream."
+    u "Maintenant t'es couverte de crème."
+
+# game/v2/scene15.rpy:514
+translate francais v2s15_nsfwSkipLabel1_81ea4ded:
+
+    # ro "Wow... that was incredible."
+    ro "Waouh... c'était incroyable."
+
+# game/v2/scene15.rpy:516
+translate francais v2s15_nsfwSkipLabel1_62b7781d:
+
+    # ro "Let me go clean up. Be back in a bit."
+    ro "Laisse-moi aller me nettoyer, je reviens dans un instant."
+
+# game/v2/scene15.rpy:525
+translate francais v2s15_nsfwSkipLabel1_9e15be27:
+
+    # u "*Sighs* (Well, the make-up sex is always great, huh?)"
+    u "*Soupirs* (Eh bien, le sexe de réconciliation est toujours génial, hein ?)"
+
+# game/v2/scene15.rpy:547
+translate francais v2s15_nsfwSkipLabel1_8b6c3da7:
+
+    # u "I enjoyed it a lot more than I thought I would, actually. It might just be my new favorite meal."
+    u "En fait, je l'ai bien plus apprécié que je pensais. Il se pourrait que ce soit mon nouveau menu préféré."
+
+# game/v2/scene15.rpy:583
+translate francais v2s15_nsfwSkipLabel1_6f133142:
+
+    # u "(Phew! She drives me absolutely wild...)"
+    u "(Pfiou ! Elle me rend vraiment dingue...)"
+
+# game/v2/scene15.rpy:603
+translate francais v2s15_nsfwSkipLabel1_a7ca0480:
+
+    # u "(And a gift to buy. Fuck.)"
+    u "(Et un cadeau à acheter... Putain.)"

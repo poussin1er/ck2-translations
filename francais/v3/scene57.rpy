@@ -399,3 +399,142 @@ translate francais strings:
     # game/v3/scene57.rpy:226
     old "Agree with Cameron"
     new "Être d'accord avec Cameron"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene57.rpy:32
+translate francais v3s57_159265b4:
+
+    # sa "Fuck you, they're not dirty!"
+    sa "Va t'faire foutre, ils sont pas sales !"
+
+# game/v3/scene57.rpy:52
+translate francais v3s57_e50713e0:
+
+    # sa "Jesus, I'm not! He's just looking for reasons to get pissed off at me like always."
+    sa "J'le fait pas exprès ! C'est lui qui cherche toujours des excuses pour s'énerver contre moi."
+
+# game/v3/scene57.rpy:72
+translate francais v3s57_74026e35:
+
+    # sa "Good one, fucking asshole."
+    sa "Très drôle, connard."
+
+# game/v3/scene57.rpy:92
+translate francais v3s57_771f3b80:
+
+    # sa "There! Satisfied you whiny little bitch?"
+    sa "Là ! T'es satisfait, petite salope pleurnicharde ?"
+
+# game/v3/scene57.rpy:102
+translate francais v3s57_5c633a9d:
+
+    # sa "You're such a fucking psycho, I swear."
+    sa "T'es une putain de psycho, j'te jure."
+
+# game/v3/scene57.rpy:107
+translate francais v3s57_446c18a8:
+
+    # gr "You think I'm fucking around?"
+    gr "Tu crois qu'je déconne ?"
+
+# game/v3/scene57.rpy:109
+translate francais v3s57_577d8986:
+
+    # gr "The college has a big anti-frat hardon right now."
+    gr "L'université a une grosse rage anti-fraternité en ce moment."
+
+# game/v3/scene57.rpy:115
+translate francais v3s57_34a82020:
+
+    # gr "That fucking bitch dean has been watching us since that Chloe bullshit. Post one fucking picture of that skank..."
+    gr "Cette putain de salope de Doyenne nous guette depuis cette connerie avec Chloé. Tout ça pour un post d'une putain de photo de cette salope..."
+
+# game/v3/scene57.rpy:120
+translate francais v3s57_ef0d905d:
+
+    # gr "Imagine they come by and find some random junkie girl stoned off her ass."
+    gr "Imagine qu'ils débarquent et voient une camée complètement défoncée."
+
+# game/v3/scene57.rpy:123
+translate francais v3s57_73604052:
+
+    # sa "Fuck off, Grayson. I've been clean-"
+    sa "Va t'faire foutre, Grayson. Je suis clean."
+
+# game/v3/scene57.rpy:128
+translate francais v3s57_7a9d7c54:
+
+    # gr "Okay Cameron, I'm serious. I'm done with this. I want her out of here."
+    gr "Ok Cameron, je suis sérieux. J'en ai marre de tout ça. Je veux qu'elle dégage."
+
+# game/v3/scene57.rpy:138
+translate francais v3s57_46ec4a99:
+
+    # gr "This is a fucking frat! I'm done putting up with her shit."
+    gr "C'est une putain de fraternité ! J'en ai marre de subir ses conneries."
+
+# game/v3/scene57.rpy:142
+translate francais v3s57_363205e2:
+
+    # gr "She doesn't even clean up after herself. She just leeches off us."
+    gr "Elle nettoie même pas derrière elle. Elle est juste là pour nous tirer du fric."
+
+# game/v3/scene57.rpy:159
+translate francais v3s57_ba164b25:
+
+    # sa "Oh, wow. Now he's talking about himself in the third-person. Fucking crazy."
+    sa "Oh, waouh. Maintenant il parle de lui à la troisième personne. C'est de la folie."
+
+# game/v3/scene57.rpy:166
+translate francais v3s57_1bf7c019:
+
+    # gr "Cameron! Do something. Fuckin' now."
+    gr "Cameron ! Fais quelque chose. Et maintenant, putain."
+
+# game/v3/scene57.rpy:182
+translate francais v3s57_24fdfe59:
+
+    # sa "Oh God. Here we go..."
+    sa "Oh merde. C'est parti..."
+
+# game/v3/scene57.rpy:208
+translate francais v3s57_444a001a:
+
+    # sa "Yeah. I am. I tried to tell that assole. I've been trying."
+    sa "Ouais. Je le suis. J'ai essayé d'le dire à ce bâtard. J'ai essayé."
+
+# game/v3/scene57.rpy:293
+translate francais v3s57_e934e78c:
+
+    # sa "But Grayson's a complete dick!"
+    sa "Mais Grayson est un vrai con !"
+
+# game/v3/scene57.rpy:316
+translate francais v3s57_abcc32b5:
+
+    # ca "Once I'm sure I can trust you again, I'll be the one helping you pack your bags. I promise, Sam."
+    ca "Une fois que j'serai sûr de pouvoir te refaire confiance, c'est moi qui vais t'aider à faire tes valises. J'te l'promets, Sam."
+
+# game/v3/scene57.rpy:321
+translate francais v3s57_796f863e:
+
+    # sa "Okay, okay. I'll do my best to prove that I can be independent."
+    sa "Ouais, ouais. J'vais faire de mon mieux pour te prouver que je peux être indépendante."
+
+# game/v3/scene57.rpy:338
+translate francais v3s57_811390f6:
+
+    # u "Not that this hasn't been fun, but I'm going to leave you guys to it. Enjoy your bonding experience, kids. Catch you later."
+    u "Non pas que c'était pas amusant, mais je préfère vous laisser. Profitez de votre expérience de rapprochement, les enfants. On se voit plus tard."
+
+# game/v3/scene57.rpy:369
+translate francais v3s57_0731d88a:
+
+    # sa "Oh Cam, I think you're seeing things."
+    sa "Oh Cam, Je crois que tu vois des choses."
+
+# game/v3/scene57.rpy:384
+translate francais v3s57_2e70f4d2:
+
+    # u "(Gotte head out to meet Lindsey.)"
+    u "(Il faut que j'aille retrouver Lindsey.)"

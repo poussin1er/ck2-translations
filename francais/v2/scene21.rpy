@@ -2483,3 +2483,10 @@ translate francais strings:
     # game/v2/scene21.rpy:1561
     old "Consider it"
     new "Y réfléchir"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene21.rpy:819
+translate francais v2s21_303b4b52:
+
+    # lee "You weren't 100% convincing throughout the meeting..."
+    lee "Vous n'avez pas été convaincant à 100%% au cours de la réunion..."

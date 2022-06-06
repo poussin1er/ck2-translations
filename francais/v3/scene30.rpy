@@ -495,3 +495,142 @@ translate francais strings:
     # game/v3/scene30.rpy:309
     old "Stop Imre"
     new "Stopper Imre"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene30.rpy:22
+translate francais v3s30_12a75166:
+
+    # u "Uh, am I late for something?"
+    u "Je suis en retard pour un truc ?"
+
+# game/v3/scene30.rpy:32
+translate francais v3s30_24053909:
+
+    # se "Until we can go back online and ignore each other again, right?"
+    se "Jusqu'à ce qu'on puisse retourner en ligne et s'ignorer à nouveau."
+
+# game/v3/scene30.rpy:191
+translate francais v3s30_5826057a:
+
+    # imre "For fuck's sake... I've always looked up to you, Chris."
+    imre "Putain d'merde... J't'ai toujours admiré, Chris."
+
+# game/v3/scene30.rpy:206
+translate francais v3s30_db09cf0e:
+
+    # imre "That's where you're fucking wrong. This changes everything."
+    imre "Et c'est là qu'tu t'trompes, putain. Ça change tout."
+
+# game/v3/scene30.rpy:211
+translate francais v3s30_f1601404:
+
+    # se "Imre, dude, it was a year ago."
+    se "Imre, mec, c'était il y a un an."
+
+# game/v3/scene30.rpy:226
+translate francais v3s30_2e3bc5c0:
+
+    # imre "What happened to loyalty?! Because right now, all I can think about is how lucky she is to have left your ass already, you fucking hypocrite!"
+    imre "Et elle est où la loyauté ?! Parce que là, tout ce à quoi j'peux penser, c'est à la chance qu'elle a de t'avoir déjà quitté, espèce d'hypocrite !"
+
+# game/v3/scene30.rpy:233
+translate francais v3s30_f6cf3b34:
+
+    # ch "Don't fucking talk to me like that, Imre. I'm still your president, and until that changes you need to show me some fucking respect!"
+    ch "Ne me parle pas comme ça, Imre. Je suis toujours ton Président, et jusqu'à ce que ça change, tu dois me montrer un peu de respect !"
+
+# game/v3/scene30.rpy:278
+translate francais v3s30_1c7de253:
+
+    # imre "No fucking way, you're not my leader anymore. You're a cheating, lying, backstabbing dick-"
+    imre "Pas moyen, t'es plus mon chef. T'es qu'un trompeur, un menteur, un traître qui poignarde dans le dos..."
+
+# game/v3/scene30.rpy:304
+translate francais v3s30_dc24e67f:
+
+    # imre "Is this what you do when people don't listen? Fuck... nice."
+    imre "C'est ça qu'tu fais quand les autres t'écoutent pas ? Putain, c'est super."
+
+# game/v3/scene30.rpy:309
+translate francais v3s30_8902c812:
+
+    # ch "Do you need another one, huh?!"
+    ch "Tu en veux un autre ?"
+
+# game/v3/scene30.rpy:321
+translate francais v3s30_edcc59ab:
+
+    # u "*Grunts* Hey! What the hell is wrong with you?!"
+    u "*Grogne* Hey ! Mais qu'est-ce qui va pas chez vous ?!"
+
+# game/v3/scene30.rpy:336
+translate francais v3s30_e0125372:
+
+    # ch "Oh shit... I'm... I'm sorry, Imre."
+    ch "Oh merde... Je suis... Je suis désolé, Imre."
+
+# game/v3/scene30.rpy:341
+translate francais v3s30_41478a48:
+
+    # se "Seriously Chris, you just hit your own Wolf! What the fuck is going on with you?"
+    se "Sérieusement Chris, tu viens de frapper un de tes propres Wolf ! C'est quoi ton putain de problème ?"
+
+# game/v3/scene30.rpy:363
+translate francais v3s30_47c10875:
+
+    # u "Imre, for once in your life, shut the fuck up."
+    u "Imre, pour une fois dans ta vie, ferme ta putain de gueule."
+
+# game/v3/scene30.rpy:378
+translate francais v3s30_53dc3468:
+
+    # imre "Easy for you to say, this is the worst it can possibly get. My own friend is a dishonest cheater!"
+    imre "Facile à dire, c'est le pire qui peut arriver. Mon propre ami est un infidèle malhonnête !"
+
+# game/v3/scene30.rpy:383
+translate francais v3s30_4d7c53dd:
+
+    # ch "You've talked enough bullshit already, Imre. Shut the fuck up, already."
+    ch "Tu as déjà dit assez de conneries, Imre. maintenant, ferme-l.a"
+
+# game/v3/scene30.rpy:388
+translate francais v3s30_362fb3cc:
+
+    # se "What the fuck Chris? Stop! He's one of us."
+    se "C'est quoi ce bordel Chris ? Arrête ! Il est l'un des nôtres."
+
+# game/v3/scene30.rpy:405
+translate francais v3s30_58b6d741:
+
+    # ch "Goddamnit... I'm sorry I reacted like that."
+    ch "Merde... Je suis désolé d'avoir réagi comme ça."
+
+# game/v3/scene30.rpy:430
+translate francais v3s30_93f66837:
+
+    # imre "No, Seb. I'm not going to be fucking _nice_ right now, you know what he did is fucked up. Both of you do."
+    imre "Non, Seb. J'vais pas être putain de \"gentil\" là, tu sais bien que c'qu'il a fait est merdique. Vous l'savez tous les deux."
+
+# game/v3/scene30.rpy:445
+translate francais v3s30_d1e36051:
+
+    # se "So... I'm gonna go meditate."
+    se "Bon... Je vais aller méditer."
+
+# game/v3/scene30.rpy:450
+translate francais v3s30_aeb20613:
+
+    # u "(I knwq Chris was going through shit, but what the fuck is up with Imre? And they clearly don't know how to handle whatever's going on.)"
+    u "(Je sais que Chris traverse une période difficile, mais qu'est-ce qui se passe avec Imre ? Et ils savent clairement pas gérer la situation.)"
+
+# game/v3/scene30.rpy:455
+translate francais v3s30_9ddaeb7a:
+
+    # u "(Hopefully we can come back from this. I can't believe Chris punched him...)"
+    u "(J'espère qu'on pourra s'en remettre. J'arrive pas à réaliser que Chris l'ait frappé...)"
+
+# game/v3/scene30.rpy:460
+translate francais v3s30_6a540db3:
+
+    # u "(I guess I should get out of here too.)"
+    u "(Je crois que je devrais moi aussi sortir de là.)"

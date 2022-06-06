@@ -45,3 +45,10 @@ translate francais strings:
     # game/v2/scene47.rpy:21
     old "Don't call Nora"
     new "Ne pas appeler Nora"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene47.rpy:50
+translate francais v2s47_9d2f780d:
+
+    # u "(No reason to call. I'm almost there anyway. Plus, I doubt she's gonna answer.)"
+    u "(Aucune raison d'appeler. De toute façon, je suis presque arrivé... En plus, ça m'étonnerait qu'elle réponde.)"

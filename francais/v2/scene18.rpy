@@ -244,7 +244,7 @@ translate francais v2s18_a42963c4:
 translate francais v2s18_7cfd5556:
 
     # u "Okay, I get it... There was no thinking behind it, though. It just happened."
-    u "Ok, c'est bons... Mais il n'y avait aucune intention derrière tout ça. Ça s'est fait tout seul."
+    u "Ok, c'est bon... Mais il n'y avait aucune intention derrière tout ça. Ça s'est fait tout seul."
 
 # game/v2/scene18.rpy:339
 translate francais v2s18_b7af96e5:
@@ -381,3 +381,184 @@ translate francais strings:
     # game/v2/scene18.rpy:417
     old "Looks easy"
     new "Ça a l'air facile"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene18.rpy:39
+translate francais v2s18_38342de9:
+
+    # la "Oh... Wow, [name]! That is quite the outfit."
+    la "Oh... Wow, [name] ! C'est une sacrée tenue."
+
+# game/v2/scene18.rpy:44
+translate francais v2s18_d266a07c:
+
+    # u "Ha, yeah... it was the only costume they had left..."
+    u "Oh, ouais... Hum, c'était le seul costume qu'il leur restait..."
+
+# game/v2/scene18.rpy:49
+translate francais v2s18_22314adf:
+
+    # la "It's not a surprise that nobody wanted to buy that thing!"
+    la "Je ne suis pas surprise que personne n'ait voulu acheter cette chose."
+
+# game/v2/scene18.rpy:56
+translate francais v2s18_171bf2bb:
+
+    # u "Okay, okay..."
+    u "Ouais, ouais..."
+
+# game/v2/scene18.rpy:58
+translate francais v2s18_f743255b:
+
+    # u "You've completely roasted me and I'm not even inside yet."
+    u "Tu m'as totalement cramé alors que je suis même pas encore à l'intérieur."
+
+# game/v2/scene18.rpy:95
+translate francais v2s18_a4329b95:
+
+    # u "Really. It's epic. And happy birthday."
+    u "En vrai. C'est super. Et joyeux anniversaire."
+
+# game/v2/scene18.rpy:141
+translate francais v2s18_222ce2ae:
+
+    # la "Oh! You didn't have to... *sighs* I have to quit saying that..."
+    la "Oh ! Tu n'avais pas à... *Soupirs* Je dois arrêter de dire ça..."
+
+# game/v2/scene18.rpy:146
+translate francais v2s18_fc6d1d10:
+
+    # u "Ha, I kinda did have to..."
+    u "Je me suis un peu senti obligé de..."
+
+# game/v2/scene18.rpy:156
+translate francais v2s18_5163dc79:
+
+    # u "I'm kidding! I hope you like it."
+    u "Je plaisante ! J'espère que tu vas aimer."
+
+# game/v2/scene18.rpy:211
+translate francais v2s18_080deda7:
+
+    # u "It's a stripper costume, can't you tell?"
+    u "C'est un costume de stripteaseur, tu vois pas ?"
+
+# game/v2/scene18.rpy:221
+translate francais v2s18_b5a90bb4:
+
+    # u "Ha, umm... yeah, sorry. I uh, I made an error in judgment."
+    u "Ha, humm... Ouais, désolé. Je, euh, j'ai fait une erreur de jugement."
+
+# game/v2/scene18.rpy:237
+translate francais v2s18_ef6925d1:
+
+    # u "It looked exactly like yours, actually... is that-"
+    u "Il ressemblait exactement au tien... C'est..."
+
+# game/v2/scene18.rpy:247
+translate francais v2s18_ea4bc8f6:
+
+    # u "Hmm... okay, if you say so..."
+    u "Hmm... Ok, si tu le dis..."
+
+# game/v2/scene18.rpy:252
+translate francais v2s18_7caf4212:
+
+    # imre "I know you're just trying to change the subject from that awful thing you've got on."
+    imre "J'vois, t'essaies de changer d'sujet pour oublier c'truc dégueux que t'as sur toi."
+
+# game/v2/scene18.rpy:313
+translate francais v2s18_949562f3:
+
+    # u "You're right. Maybe I'll just act like it was planned, not a last-minute decision."
+    u "T'as raison... Je vais faire comme si ce costume était prévu et non une décision de dernière minute."
+
+# game/v2/scene18.rpy:318
+translate francais v2s18_f151fbb9:
+
+    # imre "That's how I live my whole life!"
+    imre "C'est comme ça qu'je mène toute ma vie."
+
+# game/v2/scene18.rpy:323
+translate francais v2s18_82089347:
+
+    # u "Ha! Nice."
+    u "Pas mal."
+
+# game/v2/scene18.rpy:331
+translate francais v2s18_3155af46:
+
+    # imre "\"Is it that bad?\""
+    imre "\"C'est vraiment si moche ?\""
+
+# game/v2/scene18.rpy:336
+translate francais v2s18_a238c38a:
+
+    # u "Okay, I get it..."
+    u "Ok, c'est bon..."
+
+# game/v2/scene18.rpy:338
+translate francais v2s18_86587517:
+
+    # u "There was no thinking behind it, though. It just happened."
+    u "Mais il n'y avait aucune intention derrière tout ça. Ça s'est fait tout seul."
+
+# game/v2/scene18.rpy:343
+translate francais v2s18_170ae9d0:
+
+    # imre "What needs to just happen is you putting on a coat!"
+    imre "En fait, tu devrais mettre un manteau..."
+
+# game/v2/scene18.rpy:358
+translate francais v2s18_efc3b3c1:
+
+    # imre "It's this stupid list of challenges I've been trying to do at a couple of parties this week."
+    imre "C'est une liste de défis à la con que j'tente de faire à plusieurs soirées, cette semaine."
+
+# game/v2/scene18.rpy:365
+translate francais v2s18_4862f771:
+
+    # u "Ha, come on. It can't be that hard... What kind of things are on the list?"
+    u "Allez. Ça doit pas être si difficile... Quel genre de trucs sont sur la liste ?"
+
+# game/v2/scene18.rpy:399
+translate francais v2s18_bbcd1a9a:
+
+    # u "Well, shit, that looks fun."
+    u "Merde, ça a l'air marrant."
+
+# game/v2/scene18.rpy:404
+translate francais v2s18_6d090aa8:
+
+    # imre "Yeah, fun as fuck if you're good with girls. Let's see you try it!"
+    imre "Ouais, c'est marrant si t'es doué avec les filles. On va voir si t'y arrives !"
+
+# game/v2/scene18.rpy:435
+translate francais v2s18_46f731be:
+
+    # u "Maybe..."
+    u "Peut-être..."
+
+# game/v2/scene18.rpy:440
+translate francais v2s18_c95923c9:
+
+    # u "It looks too easy. Is there a longer list?"
+    u "Ça a l'air trop facile... T'as pas une liste plus longue ?"
+
+# game/v2/scene18.rpy:445
+translate francais v2s18_be531d06:
+
+    # imre "Ha... you might be funny, [name]. But like I said, I've been trying this for weeks now."
+    imre "T'es un vrai comique, [name]. Mais comme j'ai dit, j'essaie de faire ça depuis des semaines."
+
+# game/v2/scene18.rpy:452
+translate francais v2s18_80b52a8b:
+
+    # u "Hope you like being impressed! (Easy.)"
+    u "J'espère que tu kiffes être impressionné ! (Facile.)"
+
+# game/v2/scene18.rpy:462
+translate francais v2s18_d548af5c:
+
+    # u "(Hmm, I guess if I want to play Imre's little game I can... otherwise, I'm just here to have a good night and celebrate Lauren.)"
+    u "(Hmm, je crois que si je veux jouer au petit jeu d'Imre, je peux... À part ça, je suis juste là pour passer une bonne soirée et faire la fête pour Lauren.)"

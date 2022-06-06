@@ -605,3 +605,208 @@ translate francais strings:
     # game/v2/scene18b.rpy:193
     old "Get offended"
     new "Sois offensé"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene18b.rpy:64
+translate francais v2s18b_b99fd722:
+
+    # la "Ha, smart idea."
+    la "Bonne idée."
+
+# game/v2/scene18b.rpy:81
+translate francais v2s18b_123075c8:
+
+    # u "Nah, I don't think so."
+    u "Nan, ça m'étonnerait."
+
+# game/v2/scene18b.rpy:86
+translate francais v2s18b_f2e3f8cf:
+
+    # am "He isn't far off, actually."
+    am "Il est pas loin, en fait."
+
+# game/v2/scene18b.rpy:96
+translate francais v2s18b_d0a06da4:
+
+    # la "Oh! Thanks, Amber."
+    la "Oh ! Merci, Amber."
+
+# game/v2/scene18b.rpy:101
+translate francais v2s18b_0bec9728:
+
+    # am "You'll either be using those on someone later or you'll be asking someone to use them on you. Whatever you prefer."
+    am "Soit tu les utilises plus tard sur quelqu'un, soit tu demandes à quelqu'un de les utiliser sur toi. C'est comme tu veux."
+
+# game/v2/scene18b.rpy:134
+translate francais v2s18b_1cc5718e:
+
+    # aut "The moment of truth!"
+    aut "Le moment de vérité !"
+
+# game/v2/scene18b.rpy:145
+translate francais v2s18b_c70bb9d8:
+
+    # la "Oh, it's another $50 gift card. Did you go shopping with Imre?"
+    la "Oh, un autre chèque-cadeau de 50$. Tu as fait du shopping avec Imre ?"
+
+# game/v2/scene18b.rpy:155
+translate francais v2s18b_79bd986a:
+
+    # u "No, ha. I just thought, what do you get the girl who already has everything?"
+    u "Non. Je me suis juste dit : \"que peut-on offrir à la fille qui a déjà tout ?\"."
+
+# game/v2/scene18b.rpy:163
+translate francais v2s18b_f6f34e04:
+
+    # la "Yeah. That's true."
+    la "Ouais. C'est vrai."
+
+# game/v2/scene18b.rpy:230
+translate francais v2s18b_4de13c16:
+
+    # ch "We can tell, ha."
+    ch "Ça se voit."
+
+# game/v2/scene18b.rpy:262
+translate francais v2s18b_a5ab7ca8:
+
+    # la "This reminds me of a toy I had when I was a kid. I was obsessed with that thing!"
+    la "Ça me rappelle un jouet que j'avais quand j'étais enfant, j'étais obsédée par ce truc !"
+
+# game/v2/scene18b.rpy:267
+translate francais v2s18b_67d3f34e:
+
+    # u "Ha, yeah. Autumn mentioned it to me, and I thought I'd get you one."
+    u "Ouais. Autumn m'en a parlé et je me suis dit que j'allais t'en offrir un."
+
+# game/v2/scene18b.rpy:281
+translate francais v2s18b_4b7ff36b:
+
+    # u "You're welcome. I'm happy you like it."
+    u "De rien, je suis content que ça te plaise."
+
+# game/v2/scene18b.rpy:292
+translate francais v2s18b_5b60f355:
+
+    # la "I can't believe it. How did you know?!"
+    la "Je n'arrive pas à le croire, comment as-tu su ?!"
+
+# game/v2/scene18b.rpy:302
+translate francais v2s18b_f1478ac9:
+
+    # u "I have my methods."
+    u "J'ai mes sources."
+
+# game/v2/scene18b.rpy:312
+translate francais v2s18b_68dfd837:
+
+    # la "It's a little horse. A toy. But it looks exactly the same as the one I had when I was a kid."
+    la "C'est juste un cheval. Un jouet. Mais il ressemble exactement à celui que j'avais quand j'étais enfant."
+
+# game/v2/scene18b.rpy:322
+translate francais v2s18b_46c40b21:
+
+    # aut "Oh, trust me. I remember."
+    aut "Oh, crois-moi. Je me souviens."
+
+# game/v2/scene18b.rpy:332
+translate francais v2s18b_6a2564e4:
+
+    # aut "It really does look the same. Good job, [name]."
+    aut "Il est vraiment identique, bon travail [name]."
+
+# game/v2/scene18b.rpy:456
+translate francais v2s18b_c85cf1ea:
+
+    # la "I'll keep it safe here. Don't want my spidey to scratch it."
+    la "Je vais le garder en sécurité ici. Je ne veux pas que mon araignée l'abime."
+
+# game/v2/scene18b.rpy:459
+translate francais v2s18b_ff8c7a40:
+
+    # la "I'll keep it here because this isn't really the outfit for it."
+    la "Je vais le laisser là, je n'ai pas vraiment la tenue adaptée."
+
+# game/v2/scene18b.rpy:493
+translate francais v2s18b_f0092d67:
+
+    # u "Wow, I should buy you jewelry more often."
+    u "Wow, je devrais t'acheter des bijoux plus souvent."
+
+# game/v2/scene18b.rpy:498
+translate francais v2s18b_bbd9f3c3:
+
+    # la "You don't have to buy me more..."
+    la "Tu n'as pas besoin de m'en acheter d'autres..."
+
+# game/v2/scene18b.rpy:500
+translate francais v2s18b_cd4f88f7:
+
+    # la "But I won't stop you if you want to!"
+    la "Mais si tu le veux vraiment, je ne t'en empêcherai pas."
+
+# game/v2/scene18b.rpy:505
+translate francais v2s18b_38e2d107:
+
+    # am "That's my girl."
+    am "Bravo, ma chérie."
+
+# game/v2/scene18b.rpy:521
+translate francais v2s18b_f7718af9:
+
+    # la "Jewelry!? [name]... this is too much, ha."
+    la "Un bijou !? [name]... C'est trop !"
+
+# game/v2/scene18b.rpy:531
+translate francais v2s18b_b9544413:
+
+    # la "But this looks really expensive and romantic."
+    la "Mais il a l'air vraiment cher et si romantique."
+
+# game/v2/scene18b.rpy:546
+translate francais v2s18b_a78af38c:
+
+    # am "Yeah, cause you're not, like, dating."
+    am "Ouais, tu sors pas avec elle."
+
+# game/v2/scene18b.rpy:556
+translate francais v2s18b_660c9942:
+
+    # ri "Kinda, Yeah. That's not a gift that you give to a friend."
+    ri "En gros, ouais. C'est pas un cadeau qu'on offre à une amie."
+
+# game/v2/scene18b.rpy:561
+translate francais v2s18b_73cf0989:
+
+    # u "Well, fuck. I'm sorry for making it weird. I don't think-"
+    u "Ben, merde. Je suis désolé d'avoir fait que ça soit bizarre, je pensais pas..."
+
+# game/v2/scene18b.rpy:566
+translate francais v2s18b_f411ff70:
+
+    # aut "Don't worry about it, I'll wear it if she doesn't."
+    aut "Ne t'inquiète pas, je le porterai si elle ne le fait pas."
+
+# game/v2/scene18b.rpy:571
+translate francais v2s18b_da4fd971:
+
+    # la "Ha, It's okay. I appreciate it nonetheless."
+    la "C'est bon. Je te remercie quand même."
+
+# game/v2/scene18b.rpy:581
+translate francais v2s18b_13bf860a:
+
+    # la "Okay, I think that's enough gifts for now. I'll open the rest later, after everyone leaves. Let's get back to the party!"
+    la "Ok, je crois que ça suffit avec les cadeaux pour le moment. J'ouvrirai le reste plus tard, après le départ de tout le monde, haha. Retournons à la fête !"
+
+# game/v2/scene18b.rpy:591
+translate francais v2s18b_876e9e37:
+
+    # aut "Imre, please. You're already the source of the Deer's first noise complaint. Don't be the second one, too."
+    aut "Imre, s'il te plaît. Tu es déjà à l'origine de la première plainte pour nuisances sonores adressée aux Deers. Ne sois pas également la deuxième."
+
+# game/v2/scene18b.rpy:601
+translate francais v2s18b_6195828b:
+
+    # aut "Better."
+    aut "Mieux."

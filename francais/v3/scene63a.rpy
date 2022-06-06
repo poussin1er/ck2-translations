@@ -1981,3 +1981,10 @@ translate francais v3s63a_nsfwSkipLabel3_73094213:
 
     # li "Sadly. Come on, let's go."
     li "C'est triste. Allez, on y va."
+# TODO: Translation updated at 2022-06-04 17:08
+
+translate francais strings:
+
+    # game/v3/scene63a.rpy:1018
+    old "We both want this"
+    new "On le veut tous les deux"

@@ -603,3 +603,136 @@ translate francais strings:
     # game/v2/scene17.rpy:57
     old "God, I miss Paris..."
     new "Oh putain, Paris me manque..."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene17.rpy:44
+translate francais v2s17_1e7426d2:
+
+    # u "(I don't know what he means by that, but...) Ha, yeah."
+    u "(Je sais pas ce qu'il entend par là, mais...) Ha, bien sûr."
+
+# game/v2/scene17.rpy:95
+translate francais v2s17_81886929:
+
+    # u "Okay, so what do you recommend, then?"
+    u "Ok, alors que me recommandez-vous ?"
+
+# game/v2/scene17.rpy:153
+translate francais v2s17_620062ac:
+
+    # clerk "Ah... I'm surprised Lauren's name isn't Summer! Ha!"
+    clerk "Ah... Je suis surpris que le nom de Lauren ne soit pas Summer !"
+
+# game/v2/scene17.rpy:158
+translate francais v2s17_e6939812:
+
+    # u "Ha... good one."
+    u "Ha... Elle est bonne."
+
+# game/v2/scene17.rpy:169
+translate francais v2s17_52a47d72:
+
+    # clerk "Yes, sir, it is!"
+    clerk "Oui, monsieur, c'est le cas !"
+
+# game/v2/scene17.rpy:190
+translate francais v2s17_6c24c8d8:
+
+    # u "Yeah, sorry. I was just lost in my thoughts."
+    u "Ouais, désolé. J'étais juste perdu dans mes pensées."
+
+# game/v2/scene17.rpy:265
+translate francais v2s17_d9d52b1d:
+
+    # u "Autumn told me about a little toy horse. She said it would be a good gift if I could find it."
+    u "Autumn m'a parlé d'un petit cheval de bois... Elle a dit que ce serait un excellent cadeau si je pouvais en trouver un."
+
+# game/v2/scene17.rpy:280
+translate francais v2s17_53088e6c:
+
+    # u "No, it's a sentimental item. She won't be expecting it."
+    u "Non, c'est un objet de nature sentimentale. Elle s'y attendra pas."
+
+# game/v2/scene17.rpy:301
+translate francais v2s17_184f3b63:
+
+    # clerk "But, of course, it might not be the best gift for an adult..."
+    clerk "Mais bien sûr, ce n'est peut-être pas le meilleur cadeau pour une jeune fille..."
+
+# game/v2/scene17.rpy:306
+translate francais v2s17_e85e1a46:
+
+    # u "Could I see them anyway?"
+    u "Je pourrais les voir quand même ?"
+
+# game/v2/scene17.rpy:331
+translate francais v2s17_49082a14:
+
+    # clerk "There are only two different colors, it seems. Hopefully one of these will suit your needs."
+    clerk "Il n'y a que deux couleurs différentes, apparemment. Espérons que l'une d'entre elles répondra à vos besoins."
+
+# game/v2/scene17.rpy:357
+translate francais v2s17_gift_choice_b4b80a0c:
+
+    # clerk "Here you are: One $50 gift card! I hope you don't regret going for the safe option."
+    clerk "Voilà pour vous : Un chèque cadeau de 50$ ! J'espère que vous ne regretterez pas d'avoir choisi l'option la plus simple."
+
+# game/v2/scene17.rpy:362
+translate francais v2s17_gift_choice_8b045747:
+
+    # u "It's fine. The party is really soon, so I didn't have a lot of time to think about it."
+    u "C'est bon. La fête est imminente, donc j'ai pas vraiment le temps de réfléchir à tout ça."
+
+# game/v2/scene17.rpy:415
+translate francais v2s17_gift_choice_3e775e31:
+
+    # clerk "Jewelry! She IS going to love it, young man."
+    clerk "Le bijou ! Elle VA l'adorer, jeune homme."
+
+# game/v2/scene17.rpy:433
+translate francais v2s17_gift_choice_e196a302:
+
+    # clerk "The sentimental horse! It's perfect."
+    clerk "Le petit cheval sentimental ! C'est parfait."
+
+# game/v2/scene17.rpy:466
+translate francais v2s17_gift_choice_e196a302_1:
+
+    # clerk "The sentimental horse! It's perfect."
+    clerk "Le petit cheval sentimental ! C'est parfait."
+
+# game/v2/scene17.rpy:500
+translate francais v2s17_giftwrap_58afe92b:
+
+    # u "Ha, it's great."
+    u "C'est génial."
+
+# game/v2/scene17.rpy:510
+translate francais v2s17_giftwrap_c2528d8c:
+
+    # u "I don't think so... oh, wait. There is."
+    u "Je crois que non... oh, si attendez. Il y a quelque chose."
+
+# game/v2/scene17.rpy:512
+translate francais v2s17_giftwrap_a9c0061d:
+
+    # u "It's a costume party."
+    u "C'est une fête costumée."
+
+# game/v2/scene17.rpy:522
+translate francais v2s17_giftwrap_698d51da:
+
+    # u "Really? Damn. I guess I'll take it."
+    u "Vraiment ? Merd... Je crois que je vais le prendre."
+
+# game/v2/scene17.rpy:532
+translate francais v2s17_giftwrap_9621050e:
+
+    # u "There's really no point if it's the only one you have. I don't have time to stop anywhere else."
+    u "Ça sert à rien si c'est le seul que vous avez. J'ai pas le temps d'aller ailleurs."
+
+# game/v2/scene17.rpy:537
+translate francais v2s17_giftwrap_11479446:
+
+    # clerk "Very well, then..."
+    clerk "Bon, très bien."

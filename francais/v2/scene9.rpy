@@ -425,3 +425,172 @@ translate francais strings:
     # game/v2/scene9.rpy:94
     old "As friends"
     new "En tant qu'amis"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene9.rpy:28
+translate francais v2s9_c80ad1e8:
+
+    # au "Hi! You're just the guy I wanted to see."
+    au "Salut ! T'es justement celui que je voulais voir."
+
+# game/v2/scene9.rpy:38
+translate francais v2s9_43f5c0e1:
+
+    # au "Yeah. I kind of have a weird favor to ask, but it should be fun... I hope."
+    au "Ouais. J'ai en quelque sorte une faveur bizarre à demander, mais ça devrait être amusant... J'espère."
+
+# game/v2/scene9.rpy:43
+translate francais v2s9_fd3ace49:
+
+    # u "Okay... so far you don't sound very convincing, but I'll give you a chance."
+    u "Bon... Pour l'instant, ça n'a pas l'air très convaincant, mais je te laisse une chance."
+
+# game/v2/scene9.rpy:48
+translate francais v2s9_3658a2aa:
+
+    # au "Ha, shut up! Just hear me out."
+    au "Oh, tais-toi ! Laisse-moi parler."
+
+# game/v2/scene9.rpy:58
+translate francais v2s9_70bcf183:
+
+    # u "Oooh, fun..."
+    u "Oooh, amusant..."
+
+# game/v2/scene9.rpy:75
+translate francais v2s9_4340b71c:
+
+    # au "Yeah, so... I was kind of hoping you'd accompany me for the night."
+    au "Ouais, bon... J'espérais plus ou moins que tu m'accompagnerais pour cette soirée."
+
+# game/v2/scene9.rpy:80
+translate francais v2s9_410d08f3:
+
+    # u "You want me to come to your parent's vow renewal ceremony?"
+    u "Tu veux que je vienne à la cérémonie de renouvellement des vœux de tes parents ?"
+
+# game/v2/scene9.rpy:85
+translate francais v2s9_585c7e08:
+
+    # au "I know, it doesn't sound like a very fun night. But we can have fun together. We always do, yeah?"
+    au "Je sais, ça n'a pas l'air d'être une soirée très drôle. Mais on pourra s'amuser tous les deux, comme toujours, hein ?"
+
+# game/v2/scene9.rpy:104
+translate francais v2s9_318dae42:
+
+    # u "It's just as friends, right? Or do I have to pretend to be your boyfriend?"
+    u "C'est juste en tant qu'amis ? Ou est-ce que je dois faire semblant d'être ton petit ami ?"
+
+# game/v2/scene9.rpy:118
+translate francais v2s9_609b4533:
+
+    # au "Well, no... you don't have to pretend. If you want to go as friends, that sounds fine."
+    au "Eh bien, non... t'auras pas à faire semblant. Si tu veux y aller en tant qu'ami, c'est parfait."
+
+# game/v2/scene9.rpy:123
+translate francais v2s9_0a6fa03d:
+
+    # u "Good. I'm not the best actor so that would've been a disaster."
+    u "Tant mieux. Je suis pas vraiment bon acteur, ça aurait été un désastre."
+
+# game/v2/scene9.rpy:139
+translate francais v2s9_8e8ec8fe:
+
+    # au "Ha! No, no, no... no acting, just casual friends having a good time at an old couple's second wedding."
+    au "Non, non, non... Pas de jeu d'acteur, juste des amis qui passent un bon moment au second mariage d'un couple de vieux."
+
+# game/v2/scene9.rpy:144
+translate francais v2s9_3f75246b:
+
+    # u "Perfect. That sounds like a plan."
+    u "Parfait. Ça me va parfaitement."
+
+# game/v2/scene9.rpy:165
+translate francais v2s9_665acb37:
+
+    # u "I'd like to come as your date, if that's okay."
+    u "J'aimerais venir en étant ton petit ami, si ça te va."
+
+# game/v2/scene9.rpy:179
+translate francais v2s9_b69b0c28:
+
+    # au "It's more than okay."
+    au "Ça serait encore mieux..."
+
+# game/v2/scene9.rpy:189
+translate francais v2s9_c9731a43:
+
+    # au "Don't let it get to your head! Slow down, big guy..."
+    au "Ok, laisse pas ça te monter à la tête ! Reste tranquille, mon grand..."
+
+# game/v2/scene9.rpy:214
+translate francais v2s9_b6531e41:
+
+    # au "That's a strong word..."
+    au "Le mot est un peu fort..."
+
+# game/v2/scene9.rpy:247
+translate francais v2s9_36921567:
+
+    # au "But I just need a friend right now."
+    au "Mais j'ai simplement besoin d'un ami, pour l'instant."
+
+# game/v2/scene9.rpy:252
+translate francais v2s9_56117dab:
+
+    # u "Ouch... I just got stabbed with the friendzone knife, didn't I..."
+    u "Aïe... Je viens de me faire poignarder par la lame de la friendzone, c'est ça ?"
+
+# game/v2/scene9.rpy:262
+translate francais v2s9_404c2941:
+
+    # u "Ha... *Sighs*"
+    u "Ha... *Soupirs*"
+
+# game/v2/scene9.rpy:304
+translate francais v2s9_3e9ac92f:
+
+    # u "Fuck's sake. Okay..."
+    u "Bordel de merde. Ok..."
+
+# game/v2/scene9.rpy:319
+translate francais v2s9_a781b3d6:
+
+    # u "Sunday... don't be late... dress nice..."
+    u "Dimanche... Sois pas en retard... Habille-toi bien..."
+
+# game/v2/scene9.rpy:324
+translate francais v2s9_949c23d9:
+
+    # au "Are you done?"
+    au "T'as fini ?"
+
+# game/v2/scene9.rpy:352
+translate francais v2s9_d918c9ee:
+
+    # u "Agreed. I haven't seen her since the airport either. I sent her a text last night, but nothing... I'll let you know if I hear anything."
+    u "Je suis d'accord, je l'ai pas vu non plus depuis l'aéroport. Je lui ai même envoyé un SMS hier soir, mais rien... Je te tiens au courant si j'ai des nouvelles."
+
+# game/v2/scene9.rpy:358
+translate francais v2s9_321d120e:
+
+    # u "Well, shit... the last time I saw her was at the airport too. I hope she's okay."
+    u "Eh bien, merde... la dernière fois que je l'ai vu, c'était aussi à l'aéroport. J'espère qu'elle va bien."
+
+# game/v2/scene9.rpy:385
+translate francais v2s9_4721f78d:
+
+    # au "It's worth a try, right? I should get going, though. Thanks again for coming on Sunday."
+    au "Ça vaut le coup d'essayer, non ? Je devrais quand même aller le voir. Et encore merci de venir dimanche."
+
+# game/v2/scene9.rpy:400
+translate francais v2s9_5fd219f4:
+
+    # u "(Maybe I'll try Nora one more time. Let's see if she picks up the phone.)"
+    u "(Peut-être que je devrais essayer de joindre Nora encore une fois... On va voir si elle décroche le téléphone.)"
+
+# game/v2/scene9.rpy:515
+translate francais v2s9_b621a4c2:
+
+    # u "(Damn, I thought we did a decent job of pricing that thing. Hindsight's a bitch.)"
+    u "(Merde, je croyais qu'on avait fait du bon travail pour évaluer le prix de ce truc... La réflexion est une salope.)"

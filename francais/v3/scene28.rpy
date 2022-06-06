@@ -272,3 +272,58 @@ translate francais strings:
     # game/v3/scene28.rpy:181
     old "Failing is a possibility"
     new "L'échec reste envisageable"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene28.rpy:143
+translate francais v3s28_3cd298bd:
+
+    # u "I can help prepare you to the best of my ability, right?"
+    u "Je vais t'aider à te préparer du mieux que je peux."
+
+# game/v3/scene28.rpy:164
+translate francais v3s28_9a2e29b7:
+
+    # li "Exactly, I like your confidence. I sure hope so."
+    li "Exactement, j'aime ta confiance. J'espère bien."
+
+# game/v3/scene28.rpy:169
+translate francais v3s28_a0b43b00:
+
+    # u "There are quite a few hoops to jump through to get her on board, but it's actually do-able."
+    u "Il y aura pas mal d'obstacles à franchir pour qu'elle accepte de se joindre à nous, mais c'est tout à fait faisable."
+
+# game/v3/scene28.rpy:174
+translate francais v3s28_bf031cd0:
+
+    # li "Yeah, and she seems super friendly, especially for being a beautiful pop princess."
+    li "J'espère, et elle a l'air super sympa, surtout en étant une belle princesse de la pop."
+
+# game/v3/scene28.rpy:208
+translate francais v3s28_3ad686f2:
+
+    # u "Okay, okay. I guess I could be a little more optimistic."
+    u "D'accord, d'accord. Je crois que je peux être un peu plus optimiste."
+
+# game/v3/scene28.rpy:228
+translate francais v3s28_2c7c691f:
+
+    # u "Oh yeah, I wouldn't be here if I didn't want to be."
+    u "Ouais, je serais pas là si je voulais pas l'être."
+
+# game/v3/scene28.rpy:265
+translate francais v3s28_33972af4:
+
+    # li "Ugh, you're the best. You go ahead, I'll catch up with you later."
+    li "Tu es la meilleure. Vas-y, je te rejoindrai plus tard."
+
+# game/v3/scene28.rpy:270
+translate francais v3s28_a9400d3c:
+
+    # u "Okay. Have a good day, Linds!"
+    u "Ok. Passe une bonne journée, Linds !"
+
+translate francais strings:
+
+    # game/v3/scene28.rpy:181
+    old "It might be tough"
+    new "Ça pourrait être difficile"

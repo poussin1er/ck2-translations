@@ -189,3 +189,40 @@ translate francais strings:
     # game/v2/scene48b.rpy:207
     old "You're welcome"
     new "Je t'en prie"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene48b.rpy:45
+translate francais v2s48b_70295d23:
+
+    # u "It really was. I hate to break it to you, but I don't think it'll be the last time, either."
+    u "Oh oui, c'est vrai. Je suis désolé de te le dire, mais je pense pas que ça sera la dernière fois."
+
+# game/v2/scene48b.rpy:114
+translate francais v2s48b_344a3a8b:
+
+    # u "You really don't have to thank me, Nora. I'd do it all over again a million times. You know that."
+    u "T'as vraiment pas besoin de me remercier, Nora. Tu sais que je le referais un million de fois."
+
+# game/v2/scene48b.rpy:130
+translate francais v2s48b_f122a67d:
+
+    # no "Ha, good idea."
+    no "Oh, bonne idée."
+
+# game/v2/scene48b.rpy:165
+translate francais v2s48bnosex_cdfac132:
+
+    # no "Oh, okay... if you're sure."
+    no "Oh, d'accord... Si tu veux."
+
+# game/v2/scene48b.rpy:211
+translate francais v2s48bnosex_fd7a948f:
+
+    # u "Ha, it's not shit. It's important to talk through your feelings with someone. Helps you figure things out."
+    u "Y a rien de mal. C'est essentiel de pouvoir parler de tes sentiments avec quelqu'un. Ça permet de comprendre certaines choses."
+
+# game/v2/scene48b.rpy:216
+translate francais v2s48bnosex_cc33559c:
+
+    # u "You're welcome. Any time, Nora."
+    u "Je t'en prie. Je serais toujours là pour toi, Nora."

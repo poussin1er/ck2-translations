@@ -478,3 +478,10 @@ translate francais v1s44_b62243d0:
 
     # u "Okay, bud. Then tell me another truth, what did you send-"
     u "C'est ça, mon pote. Sinon, sérieux, dis-moi, t'as envoyé quoi à-"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v1/scene44.rpy:423
+translate francais v1s44_9b2bc0c3:
+
+    # imre "Mommy milkers or bust, bro. In fact, make that \"AND bust.\" I'm not ashamed, it's the truth."
+    imre "Lait maternel ou poitrine, mon frère. On pourrait même dire : \"ET poitrine\". J'ai pas honte, c'est vrai."

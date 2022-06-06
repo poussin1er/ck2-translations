@@ -63,3 +63,22 @@ translate francais strings:
     # game/v2/scene23.rpy:42
     old "Draw a dick"
     new "Dessiner une bite"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene23.rpy:30
+translate francais v2s23_977fb4da:
+
+    # u "(Well, Halloween was a success. Thankfully, I'll never have to wear that costume ever again.)"
+    u "(Eh bien, Halloween a été un succès.... Heureusement, j'aurai plus jamais à porter ce costume.)"
+
+# game/v2/scene23.rpy:54
+translate francais v2s23_7dabf636:
+
+    # u "(Maybe I should take art next semester...)"
+    u "(Peut-être que je devrais prendre des cours d'art le prochain semestre...)"
+
+# game/v2/scene23.rpy:68
+translate francais v2s23_7dabf636_1:
+
+    # u "(Maybe I should take art next semester...)"
+    u "(Peut-être que je devrais prendre des cours d'art le prochain semestre...)"

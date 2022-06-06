@@ -465,3 +465,160 @@ translate francais strings:
     # game/v2/scene18d.rpy:222
     old "Don't try"
     new "Ne pas essayer"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene18d.rpy:81
+translate francais v2s18d_447aea95:
+
+    # imre "I bet it is! I still haven't found out exactly how much fun... but one day I hope to."
+    imre "Je parie que tu t'es amusé ! J'ai pas encore pu voir à quel point c'est marrant... Mais j'espère y arriver un jour."
+
+# game/v2/scene18d.rpy:119
+translate francais v2s18d_cc9fe208:
+
+    # u "Thanks, Imre..."
+    u "Merci, Imre..."
+
+# game/v2/scene18d.rpy:130
+translate francais v2s18d_6563a267:
+
+    # imre "What? Nothing?!"
+    imre "Quoi ? Que dalle ?!"
+
+# game/v2/scene18d.rpy:145
+translate francais v2s18d_6a7f2c34:
+
+    # u "Yeah. What can I say? Maybe I should've tried harder..."
+    u "Ouais, comment dire ? Peut-être que j'aurais pu faire un effort..."
+
+# game/v2/scene18d.rpy:168
+translate francais v2s18d_5b072879:
+
+    # imre "Oh, shit! Hi, Lauren. You really snuck up on us there."
+    imre "Oh, merde ! Salut, Lauren. T'étais vraiment bien cachée derrière nous."
+
+# game/v2/scene18d.rpy:170
+translate francais v2s18d_ed286188:
+
+    # imre "Hey, uh... it was a great party! I'll see you later, tomorrow... happy birthday!"
+    imre "Hé, euh... C'était une super fête ! J'te verrai plus tard... Demain... Joyeux anniversaire !"
+
+# game/v2/scene18d.rpy:175
+translate francais v2s18d_d42d9cb9:
+
+    # la "Uh, thank you?"
+    la "Euh, merci ?"
+
+# game/v2/scene18d.rpy:200
+translate francais v2s18d_fadd8cc9:
+
+    # u "Ha, ah... You know Imre, always saying ridiculous things."
+    u "Oh... Tu connais Imre : \"l'homme qui raconte toujours des conneries\"."
+
+# game/v2/scene18d.rpy:220
+translate francais v2s18d_ee70f16e:
+
+    # u "(Fuck.) Um, yeah. That's basically what he was suggesting."
+    u "(Merde) Hum, ouais. C'est en gros ce qu'il disait."
+
+# game/v2/scene18d.rpy:239
+translate francais v2s18d_7893095b:
+
+    # la "This proposition coming from the guy who got me a gift card for my birthday."
+    la "Cette proposition vient du mec qui m'a offert une carte cadeau pour mon anniversaire."
+
+# game/v2/scene18d.rpy:249
+translate francais v2s18d_06dda97c:
+
+    # la "Not the classiest of moves, wouldn't you agree?"
+    la "Ce geste n'est pas le plus classe, tu ne crois pas ?"
+
+# game/v2/scene18d.rpy:254
+translate francais v2s18d_03ce299b:
+
+    # u "I was in the store for ages, for what it's worth."
+    u "Je suis resté dans le magasin pendant des heures, pour ce que ça vaut."
+
+# game/v2/scene18d.rpy:293
+translate francais v2s18d_58cd02cf:
+
+    # la "Maybe... maybe you've earned a little relief."
+    la "Peut-être... et tu as peut-être mérité un petit réconfort."
+
+# game/v2/scene18d.rpy:303
+translate francais v2s18d_9726b955:
+
+    # la "After the gift you gave me, which makes you the best boyfriend ever? Yeah."
+    la "Après le cadeau que tu m'as offert, ça fait de toi le meilleur petit ami du monde ? C'est vrai."
+
+# game/v2/scene18d.rpy:339
+translate francais v2s18d_a0be4925:
+
+    # la "You know... I still haven't even had sex."
+    la "Tu sais... Je n'ai encore jamais fait l'amour."
+
+# game/v2/scene18d.rpy:344
+translate francais v2s18d_2146dc80:
+
+    # u "Well, there's no rush."
+    u "Y a pas urgence."
+
+# game/v2/scene18d.rpy:354
+translate francais v2s18d_2261512d:
+
+    # u "I guess I spoke too soon about that \"no rush\" thing. You think it's time?"
+    u "On dirait que j'ai parlé trop vite de cette histoire de \"pas d'urgence\". Tu te sens prête ?"
+
+# game/v2/scene18d.rpy:359
+translate francais v2s18d_00ecb2a1:
+
+    # la "Yes. And I think you're the right person to share the experience with. You know, for my first time."
+    la "Oui. Et je sens que tu es la bonne personne avec qui le faire... Tu sais, pour la première fois ?"
+
+# game/v2/scene18d.rpy:364
+translate francais v2s18d_a11d55ea:
+
+    # u "Wait, really?"
+    u "Attends, vraiment ?"
+
+# game/v2/scene18d.rpy:371
+translate francais v2s18d_0d846e07:
+
+    # la "Come on, before I change my mind."
+    la "Allons-y, avant que je ne change d'avis."
+
+# game/v2/scene18d.rpy:445
+translate francais v2s18d_121916aa:
+
+    # u "But I don't want to do that to you. Just ignore him. He's trying to get me to play this stupid game."
+    u "Mais je veux pas te faire ça, ignore-le. Il essaie de me faire jouer à un jeu débile."
+
+# game/v2/scene18d.rpy:459
+translate francais v2s18d_aed3a205:
+
+    # la "Yeah... I figured that's what you were going to say."
+    la "Ouais... j'étais sûre que tu allais dire ça."
+
+# game/v2/scene18d.rpy:464
+translate francais v2s18d_7623927a:
+
+    # u "I'm kind of struggling to keep my eyes open right now."
+    u "J'ai un peu de mal à garder les yeux ouverts, là."
+
+# game/v2/scene18d.rpy:469
+translate francais v2s18d_72a78f67:
+
+    # la "Ah, okay."
+    la "Ah, ok."
+
+# game/v2/scene18d.rpy:486
+translate francais v2s18d_27e8228b:
+
+    # la "Let's head to bed now, yeah? I'm ready for a cozy birthday sleep. You can be the big spoon."
+    la "Allons au lit maintenant, tu veux bien ? Je suis déjà prête pour un agréable sommeil d'anniversaire... Tu pourras être mon gros doudou."
+
+# game/v2/scene18d.rpy:491
+translate francais v2s18d_211832e6:
+
+    # u "Okay, little spoon. Let's go."
+    u "Ok, jeune fille. Allons-y."

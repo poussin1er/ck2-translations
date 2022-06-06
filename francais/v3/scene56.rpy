@@ -262,3 +262,94 @@ translate francais v3s56_384a8bb1:
 
     # ch "Hey, [name]. Could you please come to the living room for a minute?"
     ch "Salut, [name]. Tu peux venir dans le salon une minute, s'il te plaît ?"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene56.rpy:27
+translate francais v3s56_3fd97644:
+
+    # u "Uh... Okay, sure."
+    u "Hum... Oui, bien sûr."
+
+# game/v3/scene56.rpy:37
+translate francais v3s56_5274f205:
+
+    # u "(Goddamnit. What now?)"
+    u "(Putain. Quoi encore ?)"
+
+# game/v3/scene56.rpy:49
+translate francais v3s56_c1972851:
+
+    # ch "Imre, I hit you and I totally in the wrong. You're my brother and no matter what you said to me, I should've controlled myself."
+    ch "Imre, je t'ai frappé et j'ai eu tort de faire ça. T'es mon frère et peu importe ce que tu m'as dit, j'aurais dû me contrôler."
+
+# game/v3/scene56.rpy:74
+translate francais v3s56_3b71daab:
+
+    # ch "It's no excuse, there's just a lot going on right now, like, beyond the... you know, Nora stuff."
+    ch "Ce n'est pas une excuse, il y a beaucoup de choses qui se passent en ce moment, genre, en dehors de... tu sais, les trucs de Nora."
+
+# game/v3/scene56.rpy:80
+translate francais v3s56_93ed9a95:
+
+    # ch "The college has been breathing down our necks after the Apes posted those pics of Chloe."
+    ch "L'université nous a mis la pression, suite aux photos de Chloé que les Apes ont postés."
+
+# game/v3/scene56.rpy:85
+translate francais v3s56_a7d2a505:
+
+    # ch "But that's no reason to take it out on your guys. I promise you, I'm working on it."
+    ch "Mais ce n'est pas une raison pour que je m'en prendre à vous. Je vous promets que j'y travaille."
+
+# game/v3/scene56.rpy:95
+translate francais v3s56_e30525eb:
+
+    # imre "'Kay. Is that it? Can we go now?"
+    imre "Ok. C'est fini ? On peut bouger maintenant ?"
+
+# game/v3/scene56.rpy:139
+translate francais v3s56_f3fa0aa1:
+
+    # u "Dude, that's not what I'm saying, I-"
+    u "Mon pote, c'est pas ce que je dis, je-"
+
+# game/v3/scene56.rpy:149
+translate francais v3s56_87293c07:
+
+    # u "Come on, Imre, holding a grudge won't do us any favors."
+    u "Allez, Imre ! Rester rancunier nous rendra pas service."
+
+# game/v3/scene56.rpy:167
+translate francais v3s56_5a97046c:
+
+    # ch "Fuck guys... I know, I just-"
+    ch "Putain les mecs... Je le sais, j'ai juste-"
+
+# game/v3/scene56.rpy:182
+translate francais v3s56_98241a5e:
+
+    # imre "How about never."
+    imre "Et pourquoi pas jamais ?"
+
+# game/v3/scene56.rpy:192
+translate francais v3s56_2addce62:
+
+    # se "You'll always be my brother, Chris, but I know you've been dealing with shit. You've changed."
+    se "Tu seras toujours mon frère, Chris, et je sais que tu as eu des problèmes. Tu as changé."
+
+# game/v3/scene56.rpy:227
+translate francais v3s56_993f4b45:
+
+    # se "Let's just ride this thing out and see what happens. Chris is working through shit, he can do it without anyone having to yell at him."
+    se "Laissons faire les choses et voyons ce qui se passe. Chris pourrait faire des changements de son propre chef, sans que personne n'ait à lui faire de reproches."
+
+# game/v3/scene56.rpy:237
+translate francais v3s56_9a21006c:
+
+    # se "And he's not kidding about the school. They've been coming for the frats non-stop, we're both stressed about it."
+    se "Et il ne déconne pas à propos de l'école. Ils n'arrêtent pas de venir dans les fraternités, on est tous les deux très stressés par cette situation."
+
+# game/v3/scene56.rpy:265
+translate francais v3s56_35b42fbc:
+
+    # u "(Gotta head out to meet Lindsey.)"
+    u "(Il faut que j'aille retrouver Lindsey.)"

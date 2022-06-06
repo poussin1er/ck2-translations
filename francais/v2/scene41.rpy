@@ -47,3 +47,16 @@ translate francais v2s41_37e8cb43_1:
 
     # u "SON OF A BITCH!"
     u "PUTAIN DE MERDE !"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene41.rpy:56
+translate francais v2s41_aa3d0d75:
+
+    # u "(What the fuck? I didn't set an alarm... ugh. How many texts did I just get?)"
+    u "(Putain, j'ai pas mis d'alarme... argh. Combien de textos est-ce que je viens de recevoir ?)"
+
+# game/v2/scene41.rpy:167
+translate francais v2s41_aa3d0d75_1:
+
+    # u "(What the fuck? I didn't set an alarm... ugh. How many texts did I just get?)"
+    u "(Putain, j'ai pas mis d'alarme... argh. Combien de textos est-ce que je viens de recevoir ?)"

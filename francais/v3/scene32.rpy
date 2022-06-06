@@ -298,3 +298,10 @@ translate francais v3s32_phoneContinue1_b6868e7f:
 
     # u "(Oh shit, I need to get started on shopping... Chloe would kick my ass if she knew what I was doing right now.)"
     u "(Oh merde, je dois aller faire du shopping.... Chloé me botterait le cul, si elle savait ce que je suis en train de faire maintenant.)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+translate francais strings:
+
+    # game/v3/scene32.rpy:119
+    old "Cab/flower combo"
+    new "Combo Taxi/Fleurs"

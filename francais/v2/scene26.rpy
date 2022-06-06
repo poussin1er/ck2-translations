@@ -1180,3 +1180,358 @@ translate francais v2s26_27054cf4:
 
     # u "I mean, I've never tried it, so... I wouldn't know for sure, haha. But I don't see any problems with it personally."
     u "J'ai jamais essayé, alors... je pourrais pas en être sûr, haha. Mais personnellement, je vois aucun problème avec ça."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene26.rpy:25
+translate francais v2s26_e5cb38a8:
+
+    # u "Wait, are you a Chick now?"
+    u "Attends, t'es une Chick maintenant ?"
+
+# game/v2/scene26.rpy:30
+translate francais v2s26_eeef6829:
+
+    # ri "Ha, not officially. I'm an honorary Chick for now, I guess."
+    ri "Oh, pas officiellement. Je suis une Chick d'honneur pour l'instant, on va dire."
+
+# game/v2/scene26.rpy:40
+translate francais v2s26_2f0f681e:
+
+    # ri "Just without the sweaty costume."
+    ri "Mais sans le costume qui fait transpirer."
+
+# game/v2/scene26.rpy:50
+translate francais v2s26_e1f4dd3f:
+
+    # u "I think so..."
+    u "On va dire que oui..."
+
+# game/v2/scene26.rpy:55
+translate francais v2s26_7c268d17:
+
+    # au "Follow me!"
+    au "Suis-moi !"
+
+# game/v2/scene26.rpy:93
+translate francais v2s26_a3405d56:
+
+    # ri "You have to say the magic words."
+    ri "Tu dois dire les mots magiques."
+
+# game/v2/scene26.rpy:113
+translate francais v2s26_4026ce47:
+
+    # ri "That's against the rules. You don't want to break a rule."
+    ri "C'est contraire aux règles, tu n'as pas envie d'enfreindre une règle."
+
+# game/v2/scene26.rpy:129
+translate francais v2s26_817af1b4:
+
+    # ri "That was it! You did it!"
+    ri "C'était ça ! Tu as réussi !"
+
+# game/v2/scene26.rpy:139
+translate francais v2s26_952bbf3d:
+
+    # u "What did I... what?"
+    u "Qu'est-ce que j'ai... Hein ?"
+
+# game/v2/scene26.rpy:159
+translate francais v2s26_ea17fdf0:
+
+    # u "Damn... a theater room?"
+    u "Merde... Une salle cinéma ?"
+
+# game/v2/scene26.rpy:183
+translate francais v2s26_84fab9f2:
+
+    # au "Oh, ha... there's no magic word, you goober. You actually fell for that?"
+    au "Oh, ha... Y a pas de mot magique, gros bêta. T'es vraiment tombé dans le panneau ?"
+
+# game/v2/scene26.rpy:193
+translate francais v2s26_d3bd727c:
+
+    # ri "Really though, you're a lucky guy, [name]. Barely anyone has been here, let alone known of its existence."
+    ri "Mais, tu as vraiment de la chance, [name]. Presque personne n'est venu ici, et encore moins ne connaît son existence."
+
+# game/v2/scene26.rpy:208
+translate francais v2s26_61ce52df:
+
+    # u "(Hmm... okay?)"
+    u "(Hmm... D'accord ?)"
+
+# game/v2/scene26.rpy:233
+translate francais v2s26_2374dc78:
+
+    # u "Sounds like it'll be funny."
+    u "Ça a l'air marrant."
+
+# game/v2/scene26.rpy:238
+translate francais v2s26_ebcbaac0:
+
+    # ri "Well, it's more of a serious drama, actually..."
+    ri "En fait, c'est plutôt un drame sérieux..."
+
+# game/v2/scene26.rpy:258
+translate francais v2s26_bfe40b5d:
+
+    # au "That's one hell of a commitment."
+    au "C'est assez long."
+
+# game/v2/scene26.rpy:288
+translate francais v2s26_84880e12:
+
+    # ri "Ha, thank you..."
+    ri "Oh, merci..."
+
+# game/v2/scene26.rpy:307
+translate francais v2s26_9229667b:
+
+    # au "Saaaame. I just hope it's worth my time."
+    au "Pareiiiil. J'espère juste que ça vaudra le coup de passer du temps avec moi."
+
+# game/v2/scene26.rpy:325
+translate francais v2s26_490dea62:
+
+    # u "We could just pretend like we did."
+    u "On pourrait juste faire semblant de le faire."
+
+# game/v2/scene26.rpy:330
+translate francais v2s26_1f434702:
+
+    # au "Ha! Actually, that's a good idea..."
+    au "En voilà une bonne idée..."
+
+# game/v2/scene26.rpy:355
+translate francais v2s26_1a497fb7:
+
+    # u "Right... it was just a joke..."
+    u "Bien sûr... C'était juste une blague..."
+
+# game/v2/scene26.rpy:360
+translate francais v2s26_98849195:
+
+    # au "It better be worth our time. That's all."
+    au "Il vaut mieux qu'il vaille la peine qu'on passe du temps à le regarder, c'est tout."
+
+# game/v2/scene26.rpy:365
+translate francais v2s26_58b34223:
+
+    # ri "Okay... no pressure, Riley! Ha."
+    ri "Ok... Pas de pression, Riley !"
+
+# game/v2/scene26.rpy:370
+translate francais v2s26_ff6f5441:
+
+    # u "Let's start it."
+    u "C'est parti."
+
+# game/v2/scene26.rpy:465
+translate francais v2s26_a4334272:
+
+    # factor "Yes, and now that a third wife is being brought into the mix... I'm feeling less important to you."
+    factor "Oui, et maintenant qu'une troisième femme entre en jeu... J'ai l'impression d'être moins importante pour toi."
+
+# game/v2/scene26.rpy:485
+translate francais v2s26_251b86e4:
+
+    # ri "Why did you pause? It was just getting super dramatic... *Sighs*"
+    ri "Pourquoi t'as mis sur pause ? Ça devenait vraiment dramatique... *Soupir*"
+
+# game/v2/scene26.rpy:510
+translate francais v2s26_1d9b5ee8:
+
+    # u "I'm sure the men in those relationships are really happy about it..."
+    u "Je suis sûr que les hommes qui vivent ce type de relation en sont très heureux..."
+
+# game/v2/scene26.rpy:515
+translate francais v2s26_a8b9e44a:
+
+    # au "Yeah, I bet they are!"
+    au "Ouais, j'en suis même sûre !"
+
+# game/v2/scene26.rpy:553
+translate francais v2s26_4cff1688:
+
+    # ri "Wouldn't that be, like... amazing? Ha..."
+    ri "Est-ce que ce ne serait pas, disons... Fantastique ?"
+
+# game/v2/scene26.rpy:558
+translate francais v2s26_eac4f47e:
+
+    # au "Not a serious relationship, Riley... no."
+    au "Pas dans une relation sérieuse, Riley... Non."
+
+# game/v2/scene26.rpy:573
+translate francais v2s26_b19198bb:
+
+    # ri "I don't understand. Why?"
+    ri "Je ne comprends pas... Pourquoi ?"
+
+# game/v2/scene26.rpy:588
+translate francais v2s26_fc78abf2:
+
+    # au "For fun, though."
+    au "Pour s'amuser, bien sûr."
+
+# game/v2/scene26.rpy:658
+translate francais v2s26_89c767ff:
+
+    # au "Short-term, this is amazing, and I'm loving it... but a serious relationship?"
+    au "À court terme, c'est génial, et j'adore ça... mais une relation sérieuse ?"
+
+# game/v2/scene26.rpy:668
+translate francais v2s26_981c6c51:
+
+    # au "Sorry, Riley... it's just not for me."
+    au "Désolé, Riley... C'est tout simplement pas pour moi."
+
+# game/v2/scene26.rpy:673
+translate francais v2s26_89865d50:
+
+    # ri "Yeah... well, okay."
+    ri "Ouais... bon, d'accord."
+
+# game/v2/scene26.rpy:678
+translate francais v2s26_d3a8e375:
+
+    # ri "What about you, [name]? I mean, for what it's worth, would you have wanted something like this?"
+    ri "Et toi, [name] ? Pour ce que ça vaut, aurais-tu voulu quelque chose comme ça ?"
+
+# game/v2/scene26.rpy:689
+translate francais v2s26_b691e000:
+
+    # u "I've never tried it, so... I wouldn't know for sure. But I don't see any problems with it, personally."
+    u "J'ai jamais essayé, alors... je pourrais pas en être sûr, haha. Mais personnellement, je vois aucun problème avec ça."
+
+# game/v2/scene26.rpy:694
+translate francais v2s26_432e6512:
+
+    # u "Plus, you know... fun can turn into love."
+    u "En plus, tu sais... L'amusement peut finir par devenir de l'amour."
+
+# game/v2/scene26.rpy:714
+translate francais v2s26_2dab270f:
+
+    # au "Okay, then I guess I'm just wired differently than you guys are."
+    au "Ok, alors j'imagine que je suis juste connectée différemment de vous."
+
+# game/v2/scene26.rpy:760
+translate francais v2s26_1a80cf29:
+
+    # ri "Can I ask, though... why do you guys think it won't work?"
+    ri "Mais si je peux vous demander... Pourquoi pensez-vous que ça ne pourrait pas fonctionner ?"
+
+# game/v2/scene26.rpy:780
+translate francais v2s26_9c8d5cec:
+
+    # u "I can see how it might look great, especially to men."
+    u "Je peux imaginer à quel point ça pourrait être génial, surtout pour les hommes."
+
+# game/v2/scene26.rpy:785
+translate francais v2s26_c7b7cdef:
+
+    # u "But, Riley... the more people involved, the more emotions there are to balance."
+    u "Mais, Riley... Plus il y a de personnes impliquées, plus il y a d'émotions à équilibrer."
+
+# game/v2/scene26.rpy:857
+translate francais v2s26_6f5b78fe:
+
+    # ri "I guess I have to be okay with it. I can respect your opinions."
+    ri "J'imagine que je dois être d'accord avec ça. Je respecte vos opinions."
+
+# game/v2/scene26.rpy:862
+translate francais v2s26_65fa3548:
+
+    # u "We're all still friends having good times together. Let's not rock the boat."
+    u "On reste tous des amis qui partageons de très bons moments ensemble. Ne faisons pas de vagues."
+
+# game/v2/scene26.rpy:867
+translate francais v2s26_69251bba:
+
+    # ri "Yeah..."
+    ri "Ouais..."
+
+# game/v2/scene26.rpy:902
+translate francais v2s26_89febb36:
+
+    # u "That's like... getting the cake and then eating it too, you know."
+    u "C'est comme... Avoir le gâteau et puis le manger également, vous voyez."
+
+# game/v2/scene26.rpy:907
+translate francais v2s26_4996be6c:
+
+    # ri "Ha! See?"
+    ri "Voilà."
+
+# game/v2/scene26.rpy:940
+translate francais v2s26_1ef15a8f:
+
+    # au "There you have it."
+    au "Voilà, c'est tout."
+
+# game/v2/scene26.rpy:950
+translate francais v2s26_8105f56e:
+
+    # u "Anything more and it'd just get too messy and people would get hurt."
+    u "Si d'avantage de personnes étaient impliquées, ça deviendrait trop compliqué et des personnes seraient blessées."
+
+# game/v2/scene26.rpy:970
+translate francais v2s26_9ff750fe:
+
+    # au "Were you planning a big proposal tonight?"
+    au "T'avais prévu une grande demande en mariage ce soir ?"
+
+# game/v2/scene26.rpy:975
+translate francais v2s26_ff2a3c54:
+
+    # ri "Maybe I was!"
+    ri "Peut-être que oui !"
+
+# game/v2/scene26.rpy:980
+translate francais v2s26_41cec018:
+
+    # u "RIP."
+    u "RIP."
+
+# game/v2/scene26.rpy:1007
+translate francais v2s26_5f96bfb8:
+
+    # u "No... I think she was just bored of your b-tier movie."
+    u "Non... Je crois qu'elle en avait juste marre de ton film de merde."
+
+# game/v2/scene26.rpy:1012
+translate francais v2s26_977e30d6:
+
+    # ri "Hey! Fucker..."
+    ri "Hey ! Enfoiré..."
+
+# game/v2/scene26.rpy:1017
+translate francais v2s26_c5b35145:
+
+    # ri "I was really looking forward to watching this, too. I guess two hours really is too much of a commitment for her..."
+    ri "J'avais vraiment hâte de le regarder, aussi. Je pense que deux heures de film, c'était trop pour elle..."
+
+# game/v2/scene26.rpy:1054
+translate francais v2s26_a54e7417:
+
+    # u "Oof, all right."
+    u "Oof, c'est bon."
+
+# game/v2/scene26.rpy:1059
+translate francais v2s26_0c07252c:
+
+    # u "(Damn, she's actually upset that the conversation didn't go the way she wanted it to...)"
+    u "(Mince, en fait elle est contrariée que la conversation se soit pas déroulée comme elle le voulait...)"
+
+# game/v2/scene26.rpy:1105
+translate francais v2s26_13fec21f:
+
+    # u "Yeah, it feels like we've been here for a week."
+    u "Ouais, j'ai l'impression que ça fait une semaine qu'on est là."
+
+# game/v2/scene26.rpy:1110
+translate francais v2s26_3d85ff1d:
+
+    # ri "You two are awful. We're only an hour in!"
+    ri "Vous êtes horribles tous les deux. On n'en est qu'à une heure !"

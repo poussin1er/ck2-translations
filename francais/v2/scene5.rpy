@@ -275,3 +275,70 @@ translate francais strings:
     # game/v2/scene5.rpy:112
     old "Be calm"
     new "Rester calme"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene5.rpy:50
+translate francais v2s5_adb040f9:
+
+    # u "Um, I'm good. How are you?"
+    u "Hum, ça va. Et toi, comment va ?"
+
+# game/v2/scene5.rpy:105
+translate francais v2s5_ee191deb:
+
+    # ro "I'm not sure how long it can stay in your system but... they might detect traces of it, since these tests are sophisticated."
+    ro "Je ne sais pas combien de temps elle peut rester dans ton organisme mais... Ils pourraient en détecter des traces car ces tests sont très sophistiqués."
+
+# game/v2/scene5.rpy:123
+translate francais v2s5_5e64b4a1:
+
+    # u "I'll just drink loads of water or something to make sure it's all flushed out of my system."
+    u "Je vais juste boire beaucoup d'eau ou autre chose pour m'assurer que tout soit évacué de mon organisme."
+
+# game/v2/scene5.rpy:128
+translate francais v2s5_f2ae4a12:
+
+    # ro "That's my boy..."
+    ro "C'est bien mon chér-..."
+
+# game/v2/scene5.rpy:140
+translate francais v2s5_225d05a2:
+
+    # ro "I thought so, too."
+    ro "C'est ce que j'ai pensé aussi."
+
+# game/v2/scene5.rpy:145
+translate francais v2s5_e6930013:
+
+    # u "I... uh, I better go before your class starts showing up."
+    u "Je... euh, je ferais mieux d'y aller avant que ta classe commence à arriver."
+
+# game/v2/scene5.rpy:150
+translate francais v2s5_f6346c6c:
+
+    # ro "If they ever do..."
+    ro "Si jamais ils arrivent..."
+
+# game/v2/scene5.rpy:155
+translate francais v2s5_bcf04164:
+
+    # u "Ha. Later."
+    u "À plus tard."
+
+# game/v2/scene5.rpy:242
+translate francais v2s5_17fd3732:
+
+    # u "Well, not for me. Even if my body liked it, being drugged wasn't a cool experience, and..."
+    u "Eh ben, pas pour moi. Même si mon corps a aimé ça, être drogué n'était pas vraiment une expérience agréable, et..."
+
+# game/v2/scene5.rpy:244
+translate francais v2s5_b35f8c31:
+
+    # u "The sex is not worth losing everything I've worked for."
+    u "Les expériences sexuelles valent pas la peine de risquer de perdre tout ce pour quoi j'ai travaillé."
+
+# game/v2/scene5.rpy:254
+translate francais v2s5_0993957e:
+
+    # u "How can you make it up to me? Are you going to take the drug test for me? I don't think that'll work."
+    u "Comment tu pourrais te faire pardonner ? Tu vas faire le contrôle anti-drogue à ma place ? Je suis pas sûr que ça marche comme ça."

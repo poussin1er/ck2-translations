@@ -1101,3 +1101,328 @@ translate francais strings:
     # game/v3/scene59.rpy:733
     old "Let her talk"
     new "La laisser parler"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene59.rpy:43
+translate francais v3s59_e360611d:
+
+    # u "Crazy that your friend lent us these uniforms, but fuck, they're itchy."
+    u "C'est fou que ton ami ait pu nous prêter ces uniformes, mais putain, ils grattent."
+
+# game/v3/scene59.rpy:48
+translate francais v3s59_6bc82d78:
+
+    # li "Yeah, I know, they don't breathe at all. They feel like they're made out of wet wool."
+    li "Ouais, je sais, ils n'ont aucune aération. On dirait qu'ils sont faits en carton."
+
+# game/v3/scene59.rpy:53
+translate francais v3s59_8e5146bf:
+
+    # u "More like wet pubes."
+    u "Plutôt à des pubis humides."
+
+# game/v3/scene59.rpy:58
+translate francais v3s59_241cfa2b:
+
+    # li "*Shudders* Ew, I can't even imagine what that would feel like."
+    li "*Frissonne* Beurk, j'imagine même pas ce que ça pourrait faire."
+
+# game/v3/scene59.rpy:65
+translate francais v3s59_fb27f523:
+
+    # li "Oh my God. I can't believe I'm about to meet Polly."
+    li "Oh, làlà. Je n'arrive pas à croire que je suis sur le point de rencontrer Polly."
+
+# game/v3/scene59.rpy:80
+translate francais v3s59_ec8a6f92:
+
+    # li "I know. It's just a big deal for me, you know?"
+    li "C'est vrai. C'est juste un grand événement pour moi, tu sais ?"
+
+# game/v3/scene59.rpy:97
+translate francais v3s59_895fc4d3:
+
+    # li "Well, I can't say that did anything."
+    li "Eh bien, je ne peux pas dire que ça ait fait quelque chose."
+
+# game/v3/scene59.rpy:102
+translate francais v3s59_a5790b89:
+
+    # u "Oh well, worth a try, I'm just gonna knock now."
+    u "Ah bon, ça valait le coup d'essayer, je vais frapper maintenant."
+
+# game/v3/scene59.rpy:152
+translate francais v3s59_55f90a66:
+
+    # u "Woah, you remember me? I'm... so touched!"
+    u "Wouah, vous vous souvenez de moi ? Je suis... vraiment touché !"
+
+# game/v3/scene59.rpy:159
+translate francais v3s59_9578384e:
+
+    # polly "Uh, is this just some kind of weird coincidence? I guess you work here?"
+    polly "Euh, est ce que ce serait une sorte de coïncidence bizarre ? J'imagine que vous travaillez ici ?"
+
+# game/v3/scene59.rpy:171
+translate francais v3s59_8d6bc4f5:
+
+    # u "Yeah, just a coincidence, I guess."
+    u "Ouais, juste une coïncidence."
+
+# game/v3/scene59.rpy:176
+translate francais v3s59_9484aff3:
+
+    # polly "That's wild! Life can be so serendipitous sometimes!"
+    polly "C'est fou ! La vie peut être si fortuite parfois !"
+
+# game/v3/scene59.rpy:189
+translate francais v3s59_aa7eb01a:
+
+    # polly "Oh, okay. Well, I have to say, that sounds a bit creepy..."
+    polly "Oh, d'accord. En fait, je dirais que ça a l'air un peu flippant..."
+
+# game/v3/scene59.rpy:195
+translate francais v3s59_a0907613:
+
+    # polly "..."
+    polly "..."
+
+# game/v3/scene59.rpy:197
+translate francais v3s59_2e7d90db:
+
+    # polly "Soooooo, can I... help you guys with something?"
+    polly "Alooooors, je peux... vous aider pour quelque chose ?"
+
+# game/v3/scene59.rpy:203
+translate francais v3s59_5f82ac95:
+
+    # li "OH! We're here to deliver your meal!"
+    li "OH ! Nous sommes là pour livrer votre repas !"
+
+# game/v3/scene59.rpy:209
+translate francais v3s59_d896de44:
+
+    # polly "You work here?"
+    polly "Vous travaillez ici ?"
+
+# game/v3/scene59.rpy:299
+translate francais v3s59_04a88f1e:
+
+    # polly "Oh, come on! I get this all the time. An autograph? A selfie? What do you want?"
+    polly "Oh, allez ! Je vois ça tout le temps. Que voulez-vous ? Un autographe ? Un selfie ?"
+
+# game/v3/scene59.rpy:314
+translate francais v3s59_52333ca2:
+
+    # u "Yeah, we know."
+    u "Ouais, on le sait."
+
+# game/v3/scene59.rpy:328
+translate francais v3s59_7f39a093:
+
+    # polly "What?"
+    polly "Quoi ?"
+
+# game/v3/scene59.rpy:330
+translate francais v3s59_a015803c:
+
+    # polly "An endorsement, huh? What would I have to do?"
+    polly "Un soutien, hein ? Que faudrait-il que je fasse ?"
+
+# game/v3/scene59.rpy:347
+translate francais v3s59_ded8a373:
+
+    # li "*Freaking out*"
+    li "*Panique*"
+
+# game/v3/scene59.rpy:362
+translate francais v3s59_f98d7243:
+
+    # polly "But I'll give you the benefit of the doubt."
+    polly "Mais je vais t'accorder le bénéfice du doute."
+
+# game/v3/scene59.rpy:374
+translate francais v3s59_06fd9cc9:
+
+    # li "Oh, my God. Thank you so fucking much! I didn't think I could love you any more than I already do!"
+    li "Oh, Làlàlàlàààà. Putain, merci beaucoup ! Je ne pensais pas pouvoir vous aimer encore plus que je vous aime déjà !"
+
+# game/v3/scene59.rpy:379
+translate francais v3s59_dd6b910a:
+
+    # polly "Alirght, let's tone it down. It's no problem at all. Just don't make me regret it."
+    polly "D'accord, on va se calmer. Ce n'est pas un problème du tout. Mais ne me le faites pas regretter."
+
+# game/v3/scene59.rpy:407
+translate francais v3s59_64c36983:
+
+    # polly "Okay, I'll see you later, guys! And thanks again for the delivery."
+    polly "Bien, on se voit plus tard, les amis ! Et merci encore pour la livraison."
+
+# game/v3/scene59.rpy:467
+translate francais v3s59_1cf8ac03:
+
+    # li "Right, but I went ahead and sliced it for you, and I've already had a piece to check for poison. *Awkward giggle* It's delicious, and safe!"
+    li "C'est vrai, mais j'ai pris les devants et je l'ai coupé en tranches pour vous, et j'en ai déjà pris un morceau pour vérifier s'il n'était pas empoisonné. *Rire gêné* C'est délicieux, et sans danger !"
+
+# game/v3/scene59.rpy:472
+translate francais v3s59_625a5dc5:
+
+    # polly "That's very nice of you, to check. But I'm doing a no sugar thing, so..."
+    polly "C'était très gentil de ta part, de vérifier. Mais je n'ai pas très faim en ce moment, alors..."
+
+# game/v3/scene59.rpy:489
+translate francais v3s59_b4ee801c:
+
+    # polly "Do I owe you something? Money?"
+    polly "Je te dois quelque chose ? De l'argent ?"
+
+# game/v3/scene59.rpy:505
+translate francais v3s59_9deaca55:
+
+    # li "And a little birdie told us that you're performing at our college tonight, SVC?"
+    li "Et un petit oiseau nous a dit que vous vous produisez dans notre université ce soir, le SVC..."
+
+# game/v3/scene59.rpy:556
+translate francais v3s59_4463bae3:
+
+    # li "Well, you still have a few hours before you perform. You could write a song about a girl named Lindsey who-"
+    li "Il vous reste quelques heures avant de vous produire. Vous pourriez écrire une chanson sur une fille nommée Lindsey qui..."
+
+# game/v3/scene59.rpy:561
+translate francais v3s59_2e20ff11:
+
+    # polly "Uh. No, I won't be doing that."
+    polly "Heu, non, je ne ferai pas ça."
+
+# game/v3/scene59.rpy:614
+translate francais v3s59_c5954a0d:
+
+    # polly "It is this time, yes. Funny enough, this is my private hotel room. Emphasis on private."
+    polly "C'est comme ça que ça marche, oui. C'est assez drôle, il s'agit de ma chambre d'hôtel privée. Et je souligne l'aspect privé."
+
+# game/v3/scene59.rpy:624
+translate francais v3s59_d9df044e:
+
+    # polly "Yeah, not gonna happen. Sorry guys. This has been cute. Good luck on your campaign, though!"
+    polly "Ouais, ça ne va pas être possible. Désolée les amis. C'était mignon. Mais bonne chance pour votre campagne !"
+
+# game/v3/scene59.rpy:668
+translate francais v3s59_6f04a352:
+
+    # u "(Hoo boy. At least we're still leaving with some dignity. *Sighs*)"
+    u "(Au moins, on part quand même avec un peu de dignité. *Soupirs*)"
+
+# game/v3/scene59.rpy:686
+translate francais v3s59_943fb204:
+
+    # polly "Yeah, it's very strange. But please, go on. This'll make a hilarious Kiwii post."
+    polly "Ouais, c'est très étrange. Mais je vous en prie, continuez. Ça fera un post Kiwii hilarant."
+
+# game/v3/scene59.rpy:701
+translate francais v3s59_63f1c654:
+
+    # polly "A favor? What do you want, autographs?"
+    polly "Une faveur ? Vous voulez quoi, des autographes ?"
+
+# game/v3/scene59.rpy:721
+translate francais v3s59_1a0342e7:
+
+    # li "Yes. Hi, I'm Lindsey. *Awkward giggle*"
+    li "Oui. Bonjour, je m'appelle Lindsey. *Gloussement gêné*"
+
+# game/v3/scene59.rpy:747
+translate francais v3s59_f8750bde:
+
+    # u "HAHA! She's joking of course."
+    u "HAHA ! Elle rigole, bien sûr."
+
+# game/v3/scene59.rpy:767
+translate francais v3s59_f8193ed5:
+
+    # li "YEAH! Obviously. Of course. That'd be insane."
+    li "OUI ! Bien sûr. Évidemment. Ça serait une folie."
+
+# game/v3/scene59.rpy:772
+translate francais v3s59_40a32a1e:
+
+    # u "But seriously, a small endorsement just saying Lindsey's campaign has your support would help us out tremendously."
+    u "Mais sincèrement, un petit soutien, juste pour dire que la campagne de Lindsey a votre soutien, nous aiderait énormément."
+
+# game/v3/scene59.rpy:794
+translate francais v3s59_1fafbaff:
+
+    # polly "*Calm down there, tiger. I'm already going to be there tonight so it's not such a huge hassle to say a few words about you."
+    polly "Calmez-vous, les tigres. Je serai déjà présente ce soir, alors ce n'est pas très compliqué de dire quelques mots sur toi."
+
+# game/v3/scene59.rpy:796
+translate francais v3s59_b276ae5d:
+
+    # polly "Just promise me you're not going to turn out to be some totalitarian dictator sorority president. It'd be bad for my image. I'm very into democracy right now."
+    polly "Promets-moi juste que tu ne deviendras pas une présidente de sororité dictatrice et totalitariste. Ça serait mauvais pour mon image. Je suis très à cheval sur la démocratie en ce moment."
+
+# game/v3/scene59.rpy:801
+translate francais v3s59_16993b66:
+
+    # li "Me too!! I love democracy!"
+    li "Moi aussi ! J'aime la démocratie !"
+
+# game/v3/scene59.rpy:803
+translate francais v3s59_e6f1e280:
+
+    # u "(Wow, they have so much in common...)"
+    u "(Waouh, elles ont tellement de choses en commun...)"
+
+# game/v3/scene59.rpy:826
+translate francais v3s59_e8252074:
+
+    # u "Yeah, sorry again for bothering you."
+    u "Ouais, encore désolé de vous avoir dérangé."
+
+# game/v3/scene59.rpy:836
+translate francais v3s59_36ebdf35:
+
+    # li "Aw, I could just stay here and hangout with you all day..."
+    li "Oh, je pourrais bien rester ici et traîner avec vous toute la journée..."
+
+# game/v3/scene59.rpy:841
+translate francais v3s59_ec780e5d:
+
+    # u "Don't think that's an option, Linds. Let's go."
+    u "Je crois que c'est pas envisageable, Linds. On y va."
+
+# game/v3/scene59.rpy:936
+translate francais v3s59_e80ffe98:
+
+    # polly "Oh, thanks. That's very generous of you."
+    polly "Oh, merci. C'est très généreux de votre part."
+
+# game/v3/scene59.rpy:961
+translate francais v3s59_c4d389c1:
+
+    # polly "No, that actually sounds not fun."
+    polly "Non, en fait, ça ne m'a pas l'air très amusant."
+
+# game/v3/scene59.rpy:984
+translate francais v3s59_4ab2e3d9:
+
+    # polly "I'm being annoyed. Can you talk to the hotel about security?"
+    polly "Je suis ennuyée. Pourriez-vous parler de la sécurité à l'hôtel ?"
+
+# game/v3/scene59.rpy:986
+translate francais v3s59_fab897ef:
+
+    # polly "After helping these two find the elevator or whatever."
+    polly "Après avoir aidé ces deux-là à retrouver l'ascenseur ou autre."
+
+# game/v3/scene59.rpy:996
+translate francais v3s59_a726ffca:
+
+    # bdygd "I think it's time for the two of you to leave. The building."
+    bdygd "Je crois qu'il est temps pour vous deux de quitter les lieux."
+
+# game/v3/scene59.rpy:1008
+translate francais v3s59_b02bd828:
+
+    # li "I didn't get to hug you! Polly!!"
+    li "J'ai pas pu te faire un câlin ! Polly !!!"

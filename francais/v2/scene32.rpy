@@ -569,3 +569,189 @@ translate francais strings:
     # game/v2/scene32.rpy:62
     old "Right window"
     new "Fenêtre de droite"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene32.rpy:94
+translate francais v2s32_8ce7acc3:
+
+    # u "Oh, shit! Sorry Chloe, wrong window!"
+    u "Oh, merde ! Désolé Chloé, mauvaise fenêtre !"
+
+# game/v2/scene32.rpy:109
+translate francais v2s32_16db915c:
+
+    # u "Not exactly... just trying out those smooth rom-com moves."
+    u "Pas vraiment... J'essayais juste de jouer ces douces scènes de film romantique."
+
+# game/v2/scene32.rpy:183
+translate francais v2s32_right_window_d52afc9a:
+
+    # au "Ha, doing the old pebble throwing thing, are we?"
+    au "On fait le vieux truc du lancer de cailloux, hein ?"
+
+# game/v2/scene32.rpy:192
+translate francais v2s32_right_window_4de2c479:
+
+    # u "Pale... moon...? Um... something."
+    u "Clair... de lune... ? Hum... un truc comme ça."
+
+# game/v2/scene32.rpy:197
+translate francais v2s32_right_window_dfaa0409:
+
+    # au "What the hell are you even saying?"
+    au "Mais qu'est-ce que tu racontes ?"
+
+# game/v2/scene32.rpy:207
+translate francais v2s32_right_window_3aec08de:
+
+    # au "I know Shakespeare, handsome. Whatever you're doing right now is definitely not Shakespeare."
+    au "Je connais Shakespeare, mon chou. Par contre, ce que t'es en train de me faire, c'est certainement pas du Shakespeare."
+
+# game/v2/scene32.rpy:209
+translate francais v2s32_right_window_e48d8f19:
+
+    # au "Nice try, though!"
+    au "Bien essayé tout de même !"
+
+# game/v2/scene32.rpy:257
+translate francais v2s32_right_window_7abc4dfb:
+
+    # u "Ha, that's a scary thought... I'm way too young to get married."
+    u "Au secours... Je suis bien trop jeune pour me marier."
+
+# game/v2/scene32.rpy:264
+translate francais v2s32_right_window_4693e0ca:
+
+    # ri "I've been helping Aubrey get ready. And I've done a pretty good job, if I do say so myself!"
+    ri "J'ai aidé Aubrey à se préparer. Et j'ai fait un assez bon travail si je puis dire !"
+
+# game/v2/scene32.rpy:275
+translate francais v2s32_right_window_17ccce18:
+
+    # ri "You look amazing, by the way."
+    ri "Au fait, tu es superbe."
+
+# game/v2/scene32.rpy:340
+translate francais v2s32_right_window_67640015:
+
+    # u "Wow, she looks... incredible."
+    u "Waouh, elle est... Magnifique."
+
+# game/v2/scene32.rpy:350
+translate francais v2s32_right_window_711c297b:
+
+    # u "Ha, I know."
+    u "Je sais."
+# game/v2/scene32.rpy:363
+translate francais v2s32_right_window_06e73946:
+
+    # au "Aww, thanks, babe."
+    au "Oooh, merci bébé."
+
+# game/v2/scene32.rpy:374
+translate francais v2s32_right_window_5bb4f522:
+
+    # u "Yeah, seriously... it was like seeing an actual princess coming down the stairs."
+    u "Oui, sérieusement... C'était comme voir une vraie princesse descendre les escaliers."
+
+# game/v2/scene32.rpy:382
+translate francais v2s32_right_window_a480b762:
+
+    # au "Okay, stop it, you two. I'm already wearing too much blush."
+    au "Bon... Arrêtez tous les deux, j'ai déjà trop de fard à joues, il va rougir de plus en plus."
+
+# game/v2/scene32.rpy:388
+translate francais v2s32_right_window_0fa343e6:
+
+    # au "And you... you look very handsome today, [name]."
+    au "Et toi... T'es très beau aujourd'hui, [name]."
+
+# game/v2/scene32.rpy:393
+translate francais v2s32_right_window_272b8030:
+
+    # u "Thank you very much. I thought I'd make the effort."
+    u "Merci beaucoup. Je me suis dit qu'il fallait que je fasse un effort."
+
+# game/v2/scene32.rpy:398
+translate francais v2s32_right_window_6ada6d25:
+
+    # au "I'm grateful that you did."
+    au "Je te suis reconnaissante d'en avoir fait un."
+
+# game/v2/scene32.rpy:402
+translate francais v2s32_right_window_cf30c911:
+
+    # au "It certainly beats your Halloween costume!"
+    au "C'est définitivement mieux que ton costume d'Halloween !"
+
+# game/v2/scene32.rpy:412
+translate francais v2s32_right_window_1494edb2:
+
+    # ri "That costume will go down in history!"
+    ri "Cette tenue entrera dans l'histoire !"
+
+# game/v2/scene32.rpy:424
+translate francais v2s32_right_window_6ff1fafb:
+
+    # au "I didn't realize the car was already here! Let's get in before it drives away without us."
+    au "Oh ! J'avais pas réalisé que la voiture était déjà arrivée ! Montons avant qu'elle s'en aille sans nous."
+
+# game/v2/scene32.rpy:434
+translate francais v2s32_right_window_56304e7f:
+
+    # ri "For now..."
+    ri "Pour l'instant..."
+
+# game/v2/scene32.rpy:497
+translate francais v2s32_right_window_d6c8fb2c:
+
+    # ri "I still like the concept, but... it's not as good as the original."
+    ri "J'aime toujours le concept, mais... Il n'est pas aussi bon que l'original."
+
+# game/v2/scene32.rpy:502
+translate francais v2s32_right_window_2cb9ba1a:
+
+    # u "They never are."
+    u "Ils le sont jamais."
+
+# game/v2/scene32.rpy:517
+translate francais v2s32_right_window_10de4192:
+
+    # ri "You're looking very handsome..."
+    ri "Tu es très beau..."
+
+# game/v2/scene32.rpy:532
+translate francais v2s32_right_window_f9157f24:
+
+    # u "Ouch!"
+    u "Aïe !"
+
+# game/v2/scene32.rpy:537
+translate francais v2s32_right_window_fe85f7b9:
+
+    # ri "Ha! Gotcha."
+    ri "Je t'ai eu."
+
+# game/v2/scene32.rpy:567
+translate francais v2s32_right_window_37dd6bac:
+
+    # au "Aw! Thanks, [name]."
+    au "Ooh ! Merci, [name]."
+
+# game/v2/scene32.rpy:594
+translate francais v2s32_right_window_af200782:
+
+    # au "You're looking pretty great yourself."
+    au "T'es très beau, toi aussi."
+
+# game/v2/scene32.rpy:611
+translate francais v2s32_right_window_0b53c488:
+
+    # ri "Have a great time, you guys."
+    ri "Amusez-vous bien."
+
+# game/v2/scene32.rpy:638
+translate francais v2s32_right_window_95f05155:
+
+    # u "Oh shit. The poor driver's probably dying of boredom watching us stand here."
+    u "Oh merde. Le pauvre conducteur doit mourir d'ennui en nous regardant rester là."

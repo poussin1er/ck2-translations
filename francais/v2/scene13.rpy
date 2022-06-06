@@ -285,3 +285,112 @@ translate francais strings:
     # game/v2/scene13.rpy:270
     old "You don't eat donuts?"
     new "Tu manges pas de donuts ?"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene13.rpy:18
+translate francais v2s13_da695a4b:
+
+    # u "(Lauren's party isn't for a while, so maybe I should get some studying in. It's not fun, but neither is failing.)"
+    u "(La fête de Lauren a pas lieu avant un moment alors je devrais peut-être étudier un peu.... C'est pas marrant, mais échouer non plus.)"
+
+# game/v2/scene13.rpy:76
+translate francais v2s13_f3549920:
+
+    # u "Ha, you did. Thanks."
+    u "C'est vrai. Merci."
+
+# game/v2/scene13.rpy:99
+translate francais v2s13_d6224755:
+
+    # u "I will."
+    u "J'en profite, j'en profite."
+
+# game/v2/scene13.rpy:137
+translate francais v2s13_PhoneContinue_28de7ae5:
+
+    # u "(I'll just do an extra gym session this week to even things out.)"
+    u "(Je ferai tout de même une séance de sport supplémentaire cette semaine pour rétablir les choses)"
+
+# game/v2/scene13.rpy:167
+translate francais v2s13_PhoneContinue_0c36c190:
+
+    # u "(Lauren's party isn't for a while so maybe I should get some studying in. It's not fun, but neither is failing.)"
+    u "(La fête de Lauren a pas lieu avant un moment alors je devrais peut-être étudier un peu.... C'est pas marrant, mais échouer non plus.)"
+
+# game/v2/scene13.rpy:216
+translate francais v2s13_PhoneContinue_9c094e90:
+
+    # gr "If you keep eating like that, you're gonna end up looking like the bubblegum girl from that chocolate factory movie..."
+    gr "Si tu continues à bouffer comme ça, tu vas finir par ressembler à la fille au chewing-gum de ce film sur une chocolaterie..."
+
+# game/v2/scene13.rpy:230
+translate francais v2s13_PhoneContinue_5a912399:
+
+    # gr "Nah, dude. They turn you into fat balloons, and I don't wanna be rolling your ass to the gym."
+    gr "Nan, mec. Ils te transforment en gros ballons, et j'ai pas envie de faire rouler ton cul jusqu'à la salle de sport."
+
+# game/v2/scene13.rpy:235
+translate francais v2s13_PhoneContinue_4e5285d0:
+
+    # u "Ha! Nice one, dude. I actually laughed at that."
+    u "Bien vu, mec. Tu m'as bien fait marrer."
+
+# game/v2/scene13.rpy:247
+translate francais v2s13_PhoneContinue_9662275f:
+
+    # u "Chocolate factory movie? Are you feeling okay?"
+    u "Un film sur une chocolaterie ? Ça va bien ?"
+
+# game/v2/scene13.rpy:252
+translate francais v2s13_PhoneContinue_73589d52:
+
+    # gr "Yeah, you prick, I feel great. Not my fault you're a boomer."
+    gr "Ouais espèce de con, ça va très bien. Pas ma faute si t'es un boomer."
+
+# game/v2/scene13.rpy:257
+translate francais v2s13_PhoneContinue_c5a72ced:
+
+    # u "Ha, whatever you say, man."
+    u "Si tu le dis mec."
+
+# game/v2/scene13.rpy:271
+translate francais v2s13_PhoneContinue_3bdd0da1:
+
+    # u "I know, I will. This is only my first, just so you know."
+    u "Oui, je sais, je vais m'en occuper. C'est que mon premier, juste pour que tu saches."
+
+# game/v2/scene13.rpy:276
+translate francais v2s13_PhoneContinue_ad23f517:
+
+    # gr "Well, keep it that way. Unless you want frat boy to turn into fat boy!"
+    gr "Eh bien, reste comme ça. Sauf si tu veux que le frat boy se transforme en fat boy."
+
+# game/v2/scene13.rpy:281
+translate francais v2s13_PhoneContinue_776ca709:
+
+    # u "Ha, wow. You're on fire today with these jokes, huh?"
+    u "Wow... T'es en forme avec tes blagues aujourd'hui, hein ?"
+
+# game/v2/scene13.rpy:286
+translate francais v2s13_PhoneContinue_04a98a0d:
+
+    # gr "Whatever, I didn't come here to amuse you. Tubby bitch."
+    gr "On s'en fout, j'suis pas venu ici pour t'amuser. Petite salope."
+
+# game/v2/scene13.rpy:311
+translate francais v2s13_PhoneContinue_a1d8f708:
+
+    # gr "You think I got to be the fight king by eating that shit?"
+    gr "T'as cru que j'étais devenu le Fight King en mangeant ces merdes ?"
+
+# game/v2/scene13.rpy:316
+translate francais v2s13_PhoneContinue_7f69e796:
+
+    # u "I know for a fact that you eat this shit, Grayson. Get off my back. It's a donut."
+    u "Je sais très bien que tu manges \"ces merdes\", Grayson. Lâche-moi la grappe, c'est qu'un donut."
+
+# game/v2/scene13.rpy:364
+translate francais v2s13_PhoneContinue2_28de7ae5:
+
+    # u "(I'll just do an extra gym session this week to even things out.)"
+    u "(Je ferai tout de même une séance de sport supplémentaire cette semaine pour rétablir les choses)"

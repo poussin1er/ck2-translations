@@ -599,3 +599,148 @@ translate francais strings:
     # game/v2/scene42.rpy:67
     old "Let it go"
     new "Laisse tomber"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene42.rpy:42
+translate francais v2s42_2bfe79a4:
+
+    # am "Grab a coffee. We've got a lot of work to do."
+    am "Prends un café, on a beaucoup de travail devant nous."
+
+# game/v2/scene42.rpy:47
+translate francais v2s42_b6675ea0:
+
+    # u "What is this place?"
+    u "C'est quoi cet endroit ?"
+
+# game/v2/scene42.rpy:74
+translate francais v2s42_5e0030b2:
+
+    # u "I wanna know where I am first, Amber."
+    u "Je voudrais d'abord savoir où je suis, Amber."
+
+# game/v2/scene42.rpy:99
+translate francais v2s42_8298afa9:
+
+    # am "I have the only key. They think the door is busted, and they don't care about fixing it. Any other questions?"
+    am "J'ai la seule clé, ils croient que la porte est cassée et ils s'en foutent de la réparer. T'as d'autres questions ?"
+
+# game/v2/scene42.rpy:104
+translate francais v2s42_dd448273:
+
+    # u "Ha..."
+    u "Ha..."
+
+# game/v2/scene42.rpy:119
+translate francais v2s42_330bc0ea:
+
+    # am "Whatever you say, [name]. Welcome to my office."
+    am "Si tu le dis, [name]. Bienvenue dans mon bureau."
+
+# game/v2/scene42.rpy:124
+translate francais v2s42_e621f74e:
+
+    # u "Thank you. So, why are we here?"
+    u "Merci. Alors, pourquoi on est là ?"
+
+# game/v2/scene42.rpy:175
+translate francais v2s42_514cc2b0:
+
+    # am "Damn straight!"
+    am "Bien vu !"
+
+# game/v2/scene42.rpy:180
+translate francais v2s42_ef2f1671:
+
+    # u "What?"
+    u "Hein ?"
+
+# game/v2/scene42.rpy:185
+translate francais v2s42_8b62cc0c:
+
+    # am "Oh, ha. Sorry..."
+    am "Oh... Désolée..."
+
+# game/v2/scene42.rpy:198
+translate francais v2s42_ae386291:
+
+    # am "Ha! It's kind of amazing what you're capable of when you're not trying to get high all time..."
+    am "C'est fou ce que tu peux faire quand t'essaies pas de te défoncer tout le temps..."
+
+# game/v2/scene42.rpy:223
+translate francais v2s42_742890a5:
+
+    # u "But then again, everything looks great on you, so..."
+    u "Mais bon, tout est superbe sur toi, alors..."
+
+# game/v2/scene42.rpy:262
+translate francais v2s42_268dc96e:
+
+    # am "Oh, pfft. I don't really get tired anymore."
+    am "Oh, pfft. Je suis jamais fatiguée."
+
+# game/v2/scene42.rpy:269
+translate francais v2s42_e6c242ae:
+
+    # u "Oh, that sounds... good."
+    u "Oh, c'est... bien."
+
+# game/v2/scene42.rpy:274
+translate francais v2s42_55abf90c:
+
+    # am "Last night, I started watching this classic noir movie, like, y'know, the old black and white ones? I'm learning a lot!"
+    am "Hier soir, j'ai commencé à regarder ce film noir classique, comme, tu sais, ces vieux films en noir et blanc ? J'apprends beaucoup de choses !"
+
+# game/v2/scene42.rpy:279
+translate francais v2s42_164d72ad:
+
+    # u "I mean, that's great! It explains the hat."
+    u "C'est génial ! Ça explique le chapeau."
+
+# game/v2/scene42.rpy:294
+translate francais v2s42_80c7ab3d:
+
+    # am "Yes, it's true! A dependable outfit is key; your hat has to fit your attitude."
+    am "Oui, c'est vrai ! Une tenue fiable est essentielle; ton chapeau doit correspondre à ton style."
+
+# game/v2/scene42.rpy:310
+translate francais v2s42_7c9d5c0c:
+
+    # am "Well, yeah, I am. But you have to really like... feel the role."
+    am "En fait, ouais, je le suis. Mais il faut vraiment que tu kiffes... que tu ressentes le rôle."
+
+# game/v2/scene42.rpy:353
+translate francais v2s42_bed28d77:
+
+    # am "Okay, fair. Yeah! I can see this."
+    am "Ok c'est correct. Ouais ! Je vois ça, aussi."
+
+# game/v2/scene42.rpy:406
+translate francais v2s42_1f4888cb:
+
+    # am "Let's try not to kill anyone, though, okay?"
+    am "Mais on va essayer de tuer personne, d'accord ?"
+
+# game/v2/scene42.rpy:423
+translate francais v2s42_992596f3:
+
+    # am "There's a shit ton of clues. We just have to find them."
+    am "Il y a une tonne d'indices, on doit les découvrir."
+
+# game/v2/scene42.rpy:425
+translate francais v2s42_77b7a906:
+
+    # am "But remember, not all clues we find are accurate. People might lie or misremember. You can't trust everything we hear."
+    am "Mais n'oublie pas que les indices qu'on trouvera ne seront pas forcément fiables. Les gens peuvent mentir ou mal se souvenir, tu peux pas faire confiance à tout ce qu'on entends."
+
+# game/v2/scene42.rpy:528
+translate francais v2s42_fb0d8848:
+
+    # u "Ha, no, of course not. But, maybe, like, a private investigator."
+    u "Non, pas du tout. Mais pourquoi pas détective privée ?"
+
+# game/v2/scene42.rpy:533
+translate francais v2s42_4edf9e5c:
+
+    # am "Hmm, maybe. Let's see how we do today and I might think about it."
+    am "Hmm, peut-être. On va d'abord voir comment on s'en sort aujourd'hui, et j'y réfléchirai peut-être."

@@ -1210,3 +1210,340 @@ translate francais v2s10_555305c7:
 
     # female_buyer "I am. It's an honest price for an honest seller. I'm happy to pay $[v1s48_car_price]."
     female_buyer "Oui, en effet. C'est un prix honnête pour un vendeur honnête. Je suis heureuse de payer $[v1s48_car_price]."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene10.rpy:40
+translate francais v2s10_53a921f1:
+
+    # li "Hey! Thanks for coming. I'm going to let you be the sales negotiator. I think you'll be better at it than me."
+    li "Hé ! Merci d'être venu. Je vais te laisser être le négociateur des ventes. Je crois que tu vas être plus efficace que moi."
+
+# game/v2/scene10.rpy:45
+translate francais v2s10_e97ebaec:
+
+    # u "No pressure, then."
+    u "Alors, pas de pression."
+
+# game/v2/scene10.rpy:61
+translate francais v2s10_cf4ce1d7:
+
+    # male_buyer "Hey, pretty lady! I recognize you from the photos. Honestly, that's the only reason I'm here."
+    male_buyer "Salut, jolie demoiselle ! Je t'ai reconnu grâce aux photos. En fait, c'est la seule raison pour laquelle je suis là."
+
+# game/v2/scene10.rpy:66
+translate francais v2s10_7071fd02:
+
+    # li "Oh... well, that's nice..."
+    li "Ah... et bien, c'est sympa..."
+
+# game/v2/scene10.rpy:83
+translate francais v2s10_4454c8b2:
+
+    # u "You haven't even looked at it yet."
+    u "Vous ne l'avez même pas encore regardé."
+
+# game/v2/scene10.rpy:103
+translate francais v2s10_02fa6866:
+
+    # male_buyer "Okay, so give me her number. *Whispers* I'll slip you an extra fifty bucks."
+    male_buyer "Ok, donne-moi son numéro. *Chuchote* Et je te filerai 50 dollars de plus."
+
+# game/v2/scene10.rpy:113
+translate francais v2s10_e394a3fd:
+
+    # male_buyer "Dude what the fu-"
+    male_buyer "Putain, qu'est-ce que..."
+
+# game/v2/scene10.rpy:115
+translate francais v2s10_f91c3de6:
+
+    # male_buyer "*Whispers* Not. Cool."
+    male_buyer "*Chuchote* Pas. Cool."
+
+# game/v2/scene10.rpy:120
+translate francais v2s10_fb407857:
+
+    # li "Um... sorry, I... I already have a boyfriend."
+    li "Hum... désolée, je... J'ai déjà un petit ami."
+
+# game/v2/scene10.rpy:141
+translate francais v2s10_ba576921:
+
+    # u "Ha, no, he's actually an MMA fighter. In New York this week, right?"
+    u "Ha, non, en fait c'est un combattant de MMA. Cette semaine, il est à New York, hein ?"
+
+# game/v2/scene10.rpy:146
+translate francais v2s10_2e877b6a:
+
+    # li "Oh, yeah. He's really fit... like, super fit, you know. Like, muscles and... all of that."
+    li "Ah, ouais. Il est très musclé... genre, super musclé, vous voyez. Du genre, des muscles et... tout ça."
+
+# game/v2/scene10.rpy:151
+translate francais v2s10_3d0756c3:
+
+    # u "Mmhmm."
+    u "Mmhmm."
+
+# game/v2/scene10.rpy:162
+translate francais v2s10_559d18ca:
+
+    # u "Brawny as hell."
+    u "Un vrai casse-cou."
+
+# game/v2/scene10.rpy:167
+translate francais v2s10_d5069664:
+
+    # male_buyer "Oh, shit. Well, I gotta respect that. Don't want to be messing with a fighter's girl... not after last time."
+    male_buyer "Oh, merde. Bon, je dois respecter ça. J'ai pas envie de me farcir la meuf d'un combattant... surtout après ce qui c'est passé la dernière fois."
+
+# game/v2/scene10.rpy:172
+translate francais v2s10_0eaa8d4a:
+
+    # male_buyer "You know, you don't even have to try... you can just stand pretty right there all day, just like in the photos."
+    male_buyer "Tu sais, t'as même pas besoin de faire des efforts... t'as juste à rester là, jolie, toute la journée, comme sur les photos."
+
+# game/v2/scene10.rpy:177
+translate francais v2s10_5133df72:
+
+    # li "Um... thanks."
+    li "Hum... merci."
+
+# game/v2/scene10.rpy:211
+translate francais v2s10_e56a7579:
+
+    # male_buyer "Let me take a look at this piece of junk, then."
+    male_buyer "Bon, alors, laisse-moi jeter un œil à ce tas de ferraille."
+
+# game/v2/scene10.rpy:261
+translate francais v2s10_1f0b9138:
+
+    # u "Sexy man?"
+    u "Un mec sexy ?"
+
+# game/v2/scene10.rpy:308
+translate francais v2s10_a10b4448:
+
+    # male_buyer "Okay, umm... this still isn't the car I thought I was coming to see, I mean..."
+    male_buyer "Bon, humm... En fait, c'est pas vraiment la voiture que je pensais venir voir..."
+
+# game/v2/scene10.rpy:332
+translate francais v2s10_049c3eaa:
+
+    # u "(That's a bit less than what we asked for. Hmm, what should I do here?)"
+    u "(C'est un peu moins que ce qu'on a demandé. Hmm, qu'est-ce que je devrais faire ?)"
+
+# game/v2/scene10.rpy:341
+translate francais v2s10_f93624ac:
+
+    # u "I'm sorry, but... we need more than that."
+    u "Je suis désolé, mais... on a besoin de plus que ça."
+
+# game/v2/scene10.rpy:470
+translate francais v2s10_a1dd4898:
+
+    # li "Yeah, and they're the only boobs you'll be getting from me. Enjoy your car!"
+    li "Ouais, et ce sont les seuls seins que tu auras de ma part. Profite de ta voiture !"
+
+# game/v2/scene10.rpy:537
+translate francais v2s10_03e92f6d:
+
+    # li "Ha, thanks. I can't help feeling a little sad that we just sold my grandpa's car, though."
+    li "Merci. Mais je ne peux pas m'empêcher d'être un peu triste... On vient de vendre la voiture de mon grand-père."
+
+# game/v2/scene10.rpy:557
+translate francais v2s10_89876a5a:
+
+    # li "Such a lazy boy!"
+    li "Quel paresseux !"
+
+# game/v2/scene10.rpy:569
+translate francais v2s10_2be4ff53:
+
+    # li "We'll see about that nap."
+    li "On verra pour cette sieste."
+
+# game/v2/scene10.rpy:593
+translate francais v2s10_a0782b5e:
+
+    # male_buyer "Damn, son... you weren't lying in the advert about this thing needing some TLC."
+    male_buyer "Putain, fils... tu mentais pas dans l'annonce sur le fait que cette chose avait besoin d'un peu de retouches."
+
+# game/v2/scene10.rpy:618
+translate francais v2s10_d4c3a079:
+
+    # male_buyer "I can take it to my cousin's workshop and get it pimped out. Then we'll be good to go!"
+    male_buyer "Je pourrai l'emmener à l'atelier de mon cousin et la retaper. Ensuite, on pourra partir !"
+
+# game/v2/scene10.rpy:628
+translate francais v2s10_65ba9dbd:
+
+    # male_buyer "You have to be a visionary, a true genius, to see the potential in a car like this. Lucky for you, I am one."
+    male_buyer "Il faut être un visionnaire, un vrai génie, pour voir le potentiel d'une voiture comme celle-ci. Heureusement pour vous, j'en suis un."
+
+# game/v2/scene10.rpy:782
+translate francais v2s10_5c71bcb0:
+
+    # li "It's bittersweet to see grandpa's old car driving away."
+    li "Ça fait un peu mal au cœur de voir la vieille voiture de grand-père s'éloigner."
+
+# game/v2/scene10.rpy:794
+translate francais v2s10_bc3f7d1a:
+
+    # li "*Sighs* Somebody's full of wisdom today."
+    li "*Soupirs* Quelqu'un est empreint de sagesse aujourd'hui."
+
+# game/v2/scene10.rpy:804
+translate francais v2s10_9aba7c9f:
+
+    # li "Ha, you're a loser."
+    li "Ha, tu es un loser."
+
+# game/v2/scene10.rpy:816
+translate francais v2s10_d711449d:
+
+    # li "Yes, back to Lindsey's super-secret presidential office."
+    li "Oui, retour au bureau présidentiel super-secret de Lindsey."
+
+# game/v2/scene10.rpy:846
+translate francais v2s10_91365fca:
+
+    # li "Hello. Are you here to look at the car?"
+    li "Bonjour. Êtes-vous venue pour voir la voiture ?"
+
+# game/v2/scene10.rpy:866
+translate francais v2s10_a2f43d0e:
+
+    # u "(She seems like a really nice person. This should be easy.)"
+    u "(Elle a l'air d'être une personne très gentille. Ça devrait être facile.)"
+
+# game/v2/scene10.rpy:872
+translate francais v2s10_494a5b71:
+
+    # female_buyer "I really loved the photos you took... especially the one with the bird on the car."
+    female_buyer "J'ai vraiment aimé les photos que vous avez prises... surtout celle avec l'oiseau sur la voiture."
+
+# game/v2/scene10.rpy:877
+translate francais v2s10_fda99da4:
+
+    # li "Oh, yeah! It was a cute little bird."
+    li "Ah, oui ! Un petit oiseau mignon."
+
+# game/v2/scene10.rpy:884
+translate francais v2s10_9836a1aa:
+
+    # female_buyer "I remember thinking if the bird likes the car, then it's the right car for me..."
+    female_buyer "Je me souviens m'être dit que si l'oiseau aimait la voiture, alors celle-ci était la bonne pour moi..."
+
+# game/v2/scene10.rpy:914
+translate francais v2s10_7c9b7275:
+
+    # u "Just run your hand across that bodywork. They don't make them like this anymore."
+    u "Passez la main sur cette carrosserie. On n'en fait plus des comme ça."
+
+# game/v2/scene10.rpy:919
+translate francais v2s10_b65dad88:
+
+    # li "It's true."
+    li "C'est vrai."
+
+# game/v2/scene10.rpy:941
+translate francais v2s10_c4b482f9:
+
+    # u "I... I am being honest."
+    u "Je... Je suis honnête."
+
+# game/v2/scene10.rpy:971
+translate francais v2s10_02ec6bdd:
+
+    # female_buyer "That's what I do on the bus... I go from stop A to stop B. How ironic."
+    female_buyer "C'est ce que je fais dans le bus... Je vais de l'arrêt A à l'arrêt B. Quelle ironie."
+
+# game/v2/scene10.rpy:976
+translate francais v2s10_3b6cfa01:
+
+    # u "Uh, yeah! Exactly. But you can do it in the comfort of your own car from now on with this purchase."
+    u "Euh, ouais ! C'est vrai. Mais avec cet achat, vous pourrez le faire dans le confort de votre propre voiture à partir de maintenant."
+
+# game/v2/scene10.rpy:981
+translate francais v2s10_bb30ce78:
+
+    # li "Don't you find the bus, kind of... stinky, sometimes?"
+    li "Ne trouvez-vous pas le bus, un peu... malodorant, parfois ?"
+
+# game/v2/scene10.rpy:991
+translate francais v2s10_386ce1b4:
+
+    # u "Well, there we go, then. You can drive your own car in comfort. No stinky people."
+    u "C'est vrai. Vous pourrez conduire votre propre voiture en toute commodité. Sans personnes malodorantes."
+
+# game/v2/scene10.rpy:998
+translate francais v2s10_b74de083:
+
+    # female_buyer "I hadn't thought of that. An air freshener would be amazing. What scents do they make?"
+    female_buyer "Je n'y avais pas pensé. Un désodorisant pourrait être formidable. Quels parfums font-ils ?"
+
+# game/v2/scene10.rpy:1052
+translate francais v2s10_3537939e:
+
+    # u "(That's a bit less than what we asked for. What should I do here?)"
+    u "(C'est un peu moins que ce qu'on avait demandé. Que faire ?)"
+
+# game/v2/scene10.rpy:1061
+translate francais v2s10_efde1401:
+
+    # u "We can't accept that. I'm sorry. Can you go any higher?"
+    u "On ne peut pas accepter ça. Je suis désolé. Pourriez-vous monter davantage ?"
+
+# game/v2/scene10.rpy:1076
+translate francais v2s10_bfb2c0e2:
+
+    # li "Let's take it. It's a fair price."
+    li "Acceptons. Le prix est raisonnable."
+
+# game/v2/scene10.rpy:1163
+translate francais v2s10_dadc5513:
+
+    # li "I'm kind of sad to see it go. Poor grandpa's car."
+    li "Je suis un peu triste de la voir partir. C'est tout de même la voiture de mon pauvre grand-père."
+
+# game/v2/scene10.rpy:1178
+translate francais v2s10_483b1500:
+
+    # u "The greater good."
+    u "Le bien de tous."
+
+# game/v2/scene10.rpy:1206
+translate francais v2s10_6e4da9d3:
+
+    # female_buyer "The advert was right. This is a nice, old car in need of some tough love and major attention."
+    female_buyer "L'annonce avait raison. C'est une vieille et belle voiture qui a besoin d'un peu d'amour et d'attention."
+
+# game/v2/scene10.rpy:1241
+translate francais v2s10_503c3b8d:
+
+    # u "I'm sorry, but, uh, we need a little more than that."
+    u "Je suis désolé, mais, euh, nous avons besoin d'un peu plus que ça."
+
+# game/v2/scene10.rpy:1334
+translate francais v2s10_bb25a59e:
+
+    # li "It's a bittersweet moment, seeing grandpa's car go."
+    li "C'est un sentiment aigre-doux, de voir la voiture de mon grand-père partir."
+
+# game/v2/scene10.rpy:1344
+translate francais v2s10_12fed464:
+
+    # li "Ha, true."
+    li "Ah, c'est vrai."
+
+# game/v2/scene10.rpy:1354
+translate francais v2s10_4c2c68f0:
+
+    # li "Fred! That's so funny. I can't wait to tell grandpa about that..."
+    li "Fred ! C'est vraiment drôle. J'ai hâte de raconter ça à grand-père..."
+
+# game/v2/scene10.rpy:1359
+translate francais v2s10_7641a2a3:
+
+    # u "It's charming, really."
+    u "C'est vraiment charmant."

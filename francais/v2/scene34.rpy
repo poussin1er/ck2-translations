@@ -83,3 +83,16 @@ translate francais v2s34_PhoneContinueL_a438b453:
 
     # u "(Just got home and now I'm heading out again... There's never a dull moment, haha.)"
     u "(Je viens à peine de rentrer à la maison, qu'il faut que je ressorte... J'ai jamais le temps de m'ennuyer, haha.)"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v2/scene34.rpy:104
+translate francais v2s34_PhoneContinue_0f487927:
+
+    # u "(Just got home and now I'm heading out again. There's never a dull moment!)"
+    u "(Je viens à peine de rentrer à la maison, qu'il faut que je ressorte... J'ai jamais le temps de m'ennuyer !)"
+
+# game/v2/scene34.rpy:221
+translate francais v2s34_PhoneContinueL_0f487927:
+
+    # u "(Just got home and now I'm heading out again. There's never a dull moment!)"
+    u "(Je viens à peine de rentrer à la maison, qu'il faut que je ressorte... J'ai jamais le temps de m'ennuyer !)"

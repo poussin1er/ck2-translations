@@ -222,3 +222,10 @@ translate francais v3s68_543cb088:
 
     # pe "*Laughs* Let's get out here, then."
     pe "*Rire* Alors, allons-y."
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene68.rpy:187
+translate francais v3s68_64327245:
+
+    # pe "Let's get out here, then."
+    pe "Alors, allons-y."

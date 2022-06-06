@@ -101,3 +101,16 @@ translate francais strings:
     # game/v3/scene35.rpy:50
     old "Basic line"
     new "Gamme basique"
+# TODO: Translation updated at 2022-06-04 17:08
+
+# game/v3/scene35.rpy:42
+translate francais v3s35_f88787c5:
+
+    # u "(Calming citrus. Can't go wrong with a name like that.)"
+    u "(Des agrumes calmants. Avec un nom comme ça, on peut pas se tromper.)"
+
+# game/v3/scene35.rpy:57
+translate francais v3s35_b5ec5614:
+
+    # u "(Masks all do the same thing anyway, right? Beside, \"recycled\" sounds like it's good for the environment, right?)"
+    u "(Les masques font tous la même chose de toute façon, non ? En plus, ils sont \"recyclés\", c'est plutôt bon pour l'environnement, non ?)"
