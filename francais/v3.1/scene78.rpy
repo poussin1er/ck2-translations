@@ -585,3 +585,268 @@ translate francais strings:
     # game/v3.1/scene78.rpy:342
     old "Probably not"
     new "Peut-être pas"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3.1/scene78.rpy:36
+translate francais v3_1s78_d02b3a3e:
+
+    # ro "Why, thank you. You look very handsome, yourself."
+    ro "Mais merci beaucoup... Toi aussi, tu es très beau."
+
+# game/v3.1/scene78.rpy:46
+translate francais v3_1s78_3b4091d1:
+
+    # u "(That one's from Ryan.)"
+    u "(Celle-là vient de Ryan.)"
+
+# game/v3.1/scene78.rpy:51
+translate francais v3_1s78_ef3c2da1:
+
+    # ro "You clean up well."
+    ro "Tu es vraiment bien habillé."
+
+# game/v3.1/scene78.rpy:56
+translate francais v3_1s78_4477a8e5:
+
+    # u "That was a longer ride than I had expected."
+    u "Le trajet était plus long que prévu."
+
+# game/v3.1/scene78.rpy:61
+translate francais v3_1s78_a6a98512:
+
+    # ro "It had to be built far outside of town due to the land requirements."
+    ro "Il a dû être construit loin de la ville en raison des exigences foncières."
+
+# game/v3.1/scene78.rpy:66
+translate francais v3_1s78_5e3b13d4:
+
+    # ro "It's an incredible building, no? It more than warrants the trip, I feel."
+    ro "C'est un bâtiment incroyable, non ? Je pense qu'il mérite amplement le déplacement."
+
+# game/v3.1/scene78.rpy:83
+translate francais v3_1s78_f7b8eac8:
+
+    # u "I feel fancy when you say that."
+    u "Je me sens chic quand tu dis ça."
+
+# game/v3.1/scene78.rpy:88
+translate francais v3_1s78_df19e66d:
+
+    # ro "We are fancy! Well, for tonight, at least."
+    ro "Nous sommes chics ! En tout cas, ce soir."
+
+# game/v3.1/scene78.rpy:113
+translate francais v3_1s78_71318b27:
+
+    # u "(Oh, fuck. She thinks Lorraine is my mother?!)"
+    u "(Oh Putain. Elle croit que Lorraine est ma mère ?!)"
+
+# game/v3.1/scene78.rpy:138
+translate francais v3_1s78_86b47f34:
+
+    # u "(Well, this is awkward, but... should I say something?)"
+    u "(C'est gênant... Est-ce que je devrais dire quelque chose ?)"
+
+# game/v3.1/scene78.rpy:145
+translate francais v3_1s78_506c485c:
+
+    # u "She must need glasses."
+    u "Elle doit avoir besoin de lunettes..."
+
+# game/v3.1/scene78.rpy:150
+translate francais v3_1s78_91294835:
+
+    # ro "Maybe."
+    ro "Sans doute."
+
+# game/v3.1/scene78.rpy:155
+translate francais v3_1s78_06172208:
+
+    # u "(Fuck off, grandma, you've upset my date!)"
+    u "(Va te faire foutre Mamie, t'as contrarié mon rencard !)"
+
+# game/v3.1/scene78.rpy:165
+translate francais v3_1s78_65d1a940:
+
+    # ro "I'm okay. It was just a bit of a shock, I suppose. Hearing someone say that."
+    ro "Je vais bien. Ça a juste été un léger choc, je crois. Le fait d'entendre quelqu'un dire ça."
+
+# game/v3.1/scene78.rpy:207
+translate francais v3_1s78_dd110d54:
+
+    # ro "Italian. I can speak a little, but I have no idea what he's saying."
+    ro "De l'italien. Je le parle un peu, mais je n'ai aucune idée de ce qu'il dit."
+
+# game/v3.1/scene78.rpy:217
+translate francais v3_1s78_a8402c37:
+
+    # ro "Somehow, I doubt that, [name]. But, then again, who knows."
+    ro "Bizarrement, j'en doute, [name]. Mais, là encore, qui sait ?"
+
+# game/v3.1/scene78.rpy:222
+translate francais v3_1s78_4e53f00c:
+
+    # u "Ha, true."
+    u "C'est pas faux."
+
+# game/v3.1/scene78.rpy:232
+translate francais v3_1s78_d365ef4f:
+
+    # ro "It's about enjoying the artistry. The aesthetics. The ambiance. And sharing all of that with those around you."
+    ro "C'est surtout une question de pouvoir apprécier l'art. L'esthétique. L'ambiance. Et de partager tout ça avec ton entourage."
+
+# game/v3.1/scene78.rpy:237
+translate francais v3_1s78_66e6b55e:
+
+    # ro "Let his voice wash over you and enjoy the purity of its sound."
+    ro "Laisse sa voix te submerger et profite de la pureté de son chant."
+
+# game/v3.1/scene78.rpy:307
+translate francais v3_1s78_a2a3859f:
+
+    # ro "What that woman said earlier, it's... it's true, isn't it?"
+    ro "Ce que la dame disait tout à l'heure... C'est vrai, n'est-ce pas ?"
+
+# game/v3.1/scene78.rpy:312
+translate francais v3_1s78_0f9e6442:
+
+    # u "What do you mean? You're definitely not my mother."
+    u "Comment ça ? T'es pas du tout ma mère."
+
+# game/v3.1/scene78.rpy:317
+translate francais v3_1s78_c7c1eb5d:
+
+    # ro "Our age difference, [name]."
+    ro "Notre différence d'âge, [name]."
+
+# game/v3.1/scene78.rpy:332
+translate francais v3_1s78_ac84a326:
+
+    # ro "All the other couples here don't have an age gap like we do."
+    ro "Tous les autres couples ici présents n'ont pas la même différence d'âge que nous."
+
+# game/v3.1/scene78.rpy:354
+translate francais v3_1s78_a0d5068c:
+
+    # u "Look at me."
+    u "Regarde-moi."
+
+# game/v3.1/scene78.rpy:366
+translate francais v3_1s78_4bdf17fd:
+
+    # u "We don't even know if they're happy. Is being miserable but the same age better than being happy but different?"
+    u "On sait même pas s'ils sont heureux. Est-ce qu'être malheureux mais du même âge est mieux qu'être heureux avec une certaine différence ?"
+
+# game/v3.1/scene78.rpy:371
+translate francais v3_1s78_58bdd4c0:
+
+    # u "You just need to ask yourself if you're happy being with me. I know I am, being with you."
+    u "Tu dois juste te demander si tu es heureuse d'être avec moi. Je sais que moi, je suis heureux d'être avec toi."
+
+# game/v3.1/scene78.rpy:386
+translate francais v3_1s78_969f1f7b:
+
+        # ro "You always know exactly what to say. You're sharper than you look."
+    ro "Tu sais toujours précisément ce qu'il faut dire. Tu es bien plus intelligent que tu n'en as l'air."
+
+# game/v3.1/scene78.rpy:399
+translate francais v3_1s78_52447b84:
+
+    # u "Honestly? Probably not. We're far from being an average couple."
+    u "Franchement ? J'en sais rien. On est loin d'être un couple ordinaire."
+
+# game/v3.1/scene78.rpy:406
+translate francais v3_1s78_7e4123a5:
+
+    # u "(What? How did I fuck up? What did I say?!)"
+    u "(Quoi ? Qu'est-ce que j'ai fait ? Qu'est-ce que j'ai dit ?!)"
+
+# game/v3.1/scene78.rpy:431
+translate francais v3_1s78_d3fcb271:
+
+    # ro "That was amazing! Their voices were incredible. My, oh my..."
+    ro "C'était incroyable ! Leurs voix étaient superbes. Oh mon..."
+
+# game/v3.1/scene78.rpy:436
+translate francais v3_1s78_ad1702eb:
+
+    # u "That was a fun experience! I'm glad I lost my opera virginity with you tonight."
+    u "C'était vraiment une expérience agréable. Ce soir, je suis heureux d'avoir perdu ma virginité de l'opéra avec toi."
+
+# game/v3.1/scene78.rpy:441
+translate francais v3_1s78_815c5b23:
+
+    # ro "I'm honored to be your first."
+    ro "Je suis honorée d'avoir été ta première."
+
+# game/v3.1/scene78.rpy:451
+translate francais v3_1s78_41be73ef:
+
+    # ro "I was thinking ice cream? There's a place nearby, if you're up for a walk."
+    ro "Je pensais à une crème glacée !? Il y a un endroit tout près d'ici, si tu es d'accord pour une petite promenade."
+
+# game/v3.1/scene78.rpy:468
+translate francais v3_1s78_604dde52:
+
+    # u "I think I'll enjoy it more once it's over."
+    u "J'imagine que je l'apprécierai davantage quand il sera terminé."
+
+# game/v3.1/scene78.rpy:473
+translate francais v3_1s78_37e105d8:
+
+    # ro "I was the same way. Hence why I have a stepdaughter but no biological children."
+    ro "J'étais exactement comme toi. C'est aussi pour ça que j'ai une belle-fille, et pas de fille biologique."
+
+# game/v3.1/scene78.rpy:483
+translate francais v3_1s78_5e46453d:
+
+    # ro "Why do you ask? Do you?"
+    ro "Pourquoi demandes-tu ? Est-ce que tu..."
+
+# game/v3.1/scene78.rpy:516
+translate francais v3_1s78_9d32f622:
+
+    # u "I'm up for ice cream, and if that includes a walk then... *Sighs* Let's go..."
+    u "Pour une glace, je suis partant, et si du coup, ça inclut une promenade... *Soupirs* Allons-y..."
+
+# game/v3.1/scene78.rpy:521
+translate francais v3_1s78_d37c3333:
+
+    # ro "Haha, so whiney..."
+    ro "Haha, tu es tellement pleurnichard..."
+
+# game/v3.1/scene78.rpy:539
+translate francais v3_1s78_6ed3a687:
+
+    # ro "Well, thanks for coming. I'm going to head home."
+    ro "Merci d'être venu avec moi. Je vais rentrer chez moi."
+
+# game/v3.1/scene78.rpy:544
+translate francais v3_1s78_14a2fd01:
+
+    # u "Oh, okay... you don't want me to come?"
+    u "Ah, d'accord... T'as pas envie que je vienne ?"
+
+# game/v3.1/scene78.rpy:549
+translate francais v3_1s78_b06d53ab:
+
+    # ro "Um, no, not tonight. I just want to be alone."
+    ro "Hum, non, pas ce soir. J'ai besoin d'être seule."
+
+# game/v3.1/scene78.rpy:554
+translate francais v3_1s78_800dcdf5:
+
+    # u "Okay. Is everything all right? I'm sorry if I said something off."
+    u "Hey, tout va bien ? Je suis vraiment désolé si j'ai pu dire quelque chose de déplacé."
+
+# game/v3.1/scene78.rpy:559
+translate francais v3_1s78_7504adef:
+
+    # ro "No... no, it's not about what you said."
+    ro "Non, non, le problème ne vient pas de ce que tu as ou aurais pu dire."
+
+# game/v3.1/scene78.rpy:576
+translate francais v3_1s78_7ce48932:
+
+    # u "Yeah. Okay."
+    u "Ouais. D'accord."

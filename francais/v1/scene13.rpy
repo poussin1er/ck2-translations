@@ -241,3 +241,10 @@ translate francais v1s13_cdd8c6ba:
 
     # u "(Jet lag recovery begins in five... four... three... two...)"
     u "(Récupération du décalage horaire, mise à feu dans cinq... quatre... trois... deux...)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene13.rpy:87
+translate francais v1s13_68f8388e:
+
+    # u "Yeah, man. Whatever you say. But a President is still the boss."
+    u "C'est possible, mec. Si tu veux. Mais un président reste toujours le chef."

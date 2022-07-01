@@ -3531,3 +3531,16 @@ translate francais v2s18a_Pumpkin_b63ff9b5:
 
     # u "(Ha, it looks too cute for a Halloween pumpkin. I'm guessing Lauren made this one.)"
     u "(Oh, elle a l'air trop mignonne pour une citrouille d'Halloween. Je parie que c'est Lauren qui l'a faite.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene18a.rpy:874
+translate francais v2s18a_AutumPenelope_84c4d24c:
+
+    # aut "The frat Presidents would each choose one freshman on Halloween — a virgin, obviously — and they were given the list to complete by midnight."
+    aut "Les présidents des fraternités choisissaient chacun un nouveau à Halloween, \"un puceau évidemment\", et leur donnait la liste à compléter avant minuit."
+
+# game/v2/scene18a.rpy:1166
+translate francais v2s18a_ImreLauren_402e5211:
+
+    # la "Ha... *Whispers* there are better places for that behavior."
+    la "Ha... *chuchote* il y a de meilleurs endroits pour ce type de comportement."

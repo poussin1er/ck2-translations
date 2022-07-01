@@ -1171,3 +1171,10 @@ translate francais v1_start_bacbb66e:
 
     # u "Exactly. So go enjoy yourself while you figure out what you wanna do."
     u "C'est ça. Va donc t'amuser, le temps de savoir ce que tu veux réellement faire."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene1.rpy:108
+translate francais v1_start_42018225:
+
+    # lee "Right, well, I need to be on my way! It's essential that I attend Charli's meeting with the Dean."
+    lee "Bon, il est temps pour moi d'y aller ! Il est indispensable que j'assiste à la rencontre entre Charli et la doyenne."

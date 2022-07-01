@@ -1217,3 +1217,10 @@ translate francais strings:
     # game/v2/scene25.rpy:241
     old "She deserves to be president"
     new "Elle mérite d'être présidente"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene25.rpy:243
+translate francais v2s25_d15b214b:
+
+    # u "She really deserves to be President. She could really elevate the lives of everyone in her sorority."
+    u "Elle mérite vraiment d'être Présidente, elle pourrait vraiment améliorer la vie de toutes les filles de sa sororité."

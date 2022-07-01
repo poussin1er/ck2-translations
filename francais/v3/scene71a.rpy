@@ -652,3 +652,10 @@ translate francais v3s71a_continue_3a50ba01:
 
     # pe "Oh NO! The door is open!"
     pe "Oh, NON ! La porte est ouverte !"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene71a.rpy:363
+translate francais v3s71a_continue_42b7a77f:
+
+    # pe "Take me on the Dean's chair..."
+    pe "Prends-moi sur la chaise de la doyenne..."

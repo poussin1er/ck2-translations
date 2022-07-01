@@ -2809,3 +2809,556 @@ translate francais strings:
     # game/v2/scene35.rpy:35
     old "Be funny"
     new "Être drôle"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene35.rpy:30
+translate francais v2s35_73ea2922:
+
+    # li "Hey, [name], you're right on time. We're about to get started!"
+    li "Salut, [name], tu es pile à l'heure. On est sur le point de commencer !"
+
+# game/v2/scene35.rpy:75
+translate francais v2s35_1b1129cb:
+
+    # u "So cheating is completely fair tonight. Got it."
+    u "Donc si tricher est possible ce soir. Vous allez voir."
+
+# game/v2/scene35.rpy:80
+translate francais v2s35_629d9150:
+
+    # li "We shouldn't need to cheat tonight, but... Whatever happens, happens."
+    li "On ne devrait pas avoir besoin de tricher ce soir, mais... Ce qui arrivera, arrivera."
+
+# game/v2/scene35.rpy:112
+translate francais v2s35_b023bcc0:
+
+    # aut "They're virgin Sangrias. They taste great. You don't even realize that it's a mocktail."
+    aut "Ce sont des Sangrias vierges. Elles ont un goût génial. Tu ne te rends même pas compte que c'est un mocktail."
+
+# game/v2/scene35.rpy:148
+translate francais v2s35_98ec279f:
+
+    # au "Can we skip the awkward shit tonight?"
+    au "On peut éviter les trucs gênants ce soir ?"
+
+# game/v2/scene35.rpy:150
+translate francais v2s35_050b0838:
+
+    # au "I'm still pissed about what you did with Naomi, but I'll try to act as normal as I can."
+    au "Je suis toujours en train de digérer ce que t'as fait avec Naomi, mais je vais essayer d'agir aussi normalement que possible."
+
+# game/v2/scene35.rpy:162
+translate francais v2s35_b00853d4:
+
+    # au "Yeah, well, lets see how that goes."
+    au "Bon, alors, voyons comment ça se passe."
+
+# game/v2/scene35.rpy:183
+translate francais v2s35_f426427e:
+
+    # u "You're welcome. And if they want a third wedding, I'll come to that with you too."
+    u "Je t'en prie. Et s'ils veulent un troisième mariage, je serai toujours présent pour toi."
+
+# game/v2/scene35.rpy:188
+translate francais v2s35_ea17f256:
+
+    # au "Oh God, If they end up wanting a third wedding, I might die."
+    au "Oh merde, s'ils veulent un troisième mariage, je risque de mourir."
+
+# game/v2/scene35.rpy:193
+translate francais v2s35_bd7b34d7:
+
+    # u "Hey. Whatever uncomfortable family gathering you might have in the future; I'll be there for you. I promise."
+    u "T'inquiète. Quelle que soit la réunion familiale inconfortable que tu pourrais avoir à l'avenir ; je serai là pour toi. Je te le promets."
+
+# game/v2/scene35.rpy:382
+translate francais v2s35_wyr1_charity_0bb4ef47:
+
+    # aut "I guess yeah. I just think there's lots of great causes out there."
+    aut "Je crois que oui. Je me dis tout simplement qu'il y a un tas de bonnes causes à défendre."
+
+# game/v2/scene35.rpy:392
+translate francais v2s35_wyr1_charity_d9534048:
+
+    # au "It's almost gross how pure... Teasing, Autumn. You know I love ya."
+    au "C'est presque dégoûtant de voir le degré de pureté... Je te taquine, Autumn. Tu sais bien que je t'aime."
+
+# game/v2/scene35.rpy:422
+translate francais v2s35_wyr1_me_51e5152d:
+
+    # u "Boob group?"
+    u "Un groupe de boobs ?"
+
+# game/v2/scene35.rpy:488
+translate francais v2s35_wyr1_end_3b343eb1:
+
+    # au "No way, that's an easy one."
+    au "Pas moyen, celle-là est trop facile."
+
+# game/v2/scene35.rpy:508
+translate francais v2s35_wyr1_end_de3e0dea:
+
+    # aut "Murdering based on favorites... This is getting scary."
+    aut "Des meurtres basés sur les favoris... Ça devient effrayant."
+
+# game/v2/scene35.rpy:595
+translate francais v2s35_wyr2_santa_68fc0e3e:
+
+    # li "The Easter giraffe!"
+    li "La girafe de Pâques !"
+
+# game/v2/scene35.rpy:672
+translate francais v2s35_wyr2_easter_5a57dd13:
+
+    # li "Christmas is ruined forever... *Fake sobbing*"
+    li "Noël est ruiné pour toujours... *Faux sanglots*"
+
+# game/v2/scene35.rpy:692
+translate francais v2s35_wyr2_easter_ef4967f2:
+
+    # au "At least we can eat the Easter bunny. I wouldn't want to chew on Santa."
+    au "Au moins, on peut le manger, le lapin de Pâques. J'ai pas envie d'avoir le Père Noël dans mon assiette."
+
+# game/v2/scene35.rpy:775
+translate francais v2s35_wyr2_end_75eb9e12:
+
+    # u "These are getting really out there, Lindsey."
+    u "Lindsey, tes questions deviennent vraiment chelou."
+
+# game/v2/scene35.rpy:790
+translate francais v2s35_wyr2_end_72ba1d3a:
+
+    # u "Oh really? Let's see..."
+    u "Ah oui ? Alors, voyons voir..."
+
+# game/v2/scene35.rpy:834
+translate francais v2s35_wyr3_frogbody_f7151fa8:
+
+    # au "Yeah, actually! It sounds great."
+    au "Ouais, en fait. Ça a l'air génial."
+
+# game/v2/scene35.rpy:982
+translate francais v2s35_wyr3_humanbody_fae13c02:
+
+    # au "Aha."
+    au "Aha."
+
+# game/v2/scene35.rpy:988
+translate francais v2s35_wyr3_humanbody_589e4ea0:
+
+    # au "Yeah, okay! Sounds like a plan."
+    au "Ouais, d'accord ! Ça me va."
+
+# game/v2/scene35.rpy:998
+translate francais v2s35_wyr3_humanbody_5901bb9f:
+
+    # li "I feel so protected..."
+    li "Je me sens si bien protégée..."
+
+# game/v2/scene35.rpy:1145
+translate francais v2s35_wyr4_nosex_9cae0aa3:
+
+    # au "Yeah, I guess that's true."
+    au "Ouais, ça doit être vrai."
+
+# game/v2/scene35.rpy:1155
+translate francais v2s35_wyr4_nosex_8d7d3cd2:
+
+    # li "But I still think I would choose the orgy because I can't imagine life without sex. That would be torture."
+    li "Mais je crois que je choisirais quand même l'orgie parce que je ne peux pas imaginer la vie sans sexe. Ça serait une véritable torture."
+
+# game/v2/scene35.rpy:1162
+translate francais v2s35_wyr4_nosex_52b8de8d:
+
+    # u "I can always play pocket pool."
+    u "Je pourrais toujours jouer avec ma queue de billard perso."
+
+# game/v2/scene35.rpy:1179
+translate francais v2s35_wyr4_orgy_d209bb2f:
+
+    # li "Looks like I'll be seeing [name] and Aubrey at the orgy."
+    li "On dirait que je retrouverai [name] et Aubrey à l'orgie."
+
+# game/v2/scene35.rpy:1310
+translate francais v2s35_wyr4_end_191fba13:
+
+    # aut "I'm already used to not having sex, actually. I'm asexual."
+    aut "En fait, je suis déjà habituée à ne pas avoir de rapports sexuels. Je suis asexuée."
+
+# game/v2/scene35.rpy:1325
+translate francais v2s35_wyr4_end_12362926:
+
+    # aut "Yeah, so... It was an easy answer for me."
+    aut "Ouais, donc... C'était une réponse très facile pour moi."
+
+# game/v2/scene35.rpy:1330
+translate francais v2s35_wyr4_end_bef13ffb:
+
+    # au "Wait, but I've heard you talking about-"
+    au "Attends, mais je t'ai entendu parler de-"
+
+# game/v2/scene35.rpy:1335
+translate francais v2s35_wyr4_end_0b2db7a6:
+
+    # aut "I've fooled around with guys a little before just to try it."
+    aut "J'ai déjà eu des relations avec des mecs, rien que pour essayer."
+
+# game/v2/scene35.rpy:1337
+translate francais v2s35_wyr4_end_523f6771:
+
+    # aut "Sex doesn't gross me out. I've just never had any interest in going all the way, you know?"
+    aut "Le sexe ne me dégoûte pas. Je n'ai tout simplement jamais eu envie d'aller jusqu'au bout, vous voyez ?"
+
+# game/v2/scene35.rpy:1454
+translate francais v2s35_wml1_lin_ea0a7f6a:
+
+    # au "I voted for you because I think you'd try to be friends with them."
+    au "J'ai voté pour toi parce que je me dis que tu essaierais d'être amie avec eux."
+
+# game/v2/scene35.rpy:1474
+translate francais v2s35_wml1_lin_22d38267:
+
+    # u "Zombie sisters."
+    u "Les sœurs zombies."
+
+# game/v2/scene35.rpy:1507
+translate francais v2s35_wml1_aub_326c42c9:
+
+    # u "I think you got the most votes because you're kind natured..."
+    u "Je crois que t'as eu le plus de votes parce que t'es une personne très gentille..."
+
+# game/v2/scene35.rpy:1524
+translate francais v2s35_wml1_aub_1dc6effc:
+
+    # au "See, I knew you would embrace the zombie life."
+    au "Tu vois, j'étais sûre que tu allais choisir la vie de zombie."
+
+# game/v2/scene35.rpy:1539
+translate francais v2s35_wml1_aub_c7c0b99b:
+
+    # aut "You'd be safe, [name]. Don't worry."
+    aut "Tu serais en sécurité, [name]. Rassure-toi."
+
+# game/v2/scene35.rpy:1544
+translate francais v2s35_wml1_aub_9cda31da:
+
+    # u "Damn, what are you saying? I'm brainless?"
+    u "Wow ! Ça veut dire quoi ? Que j'ai pas de cerveau ?"
+
+# game/v2/scene35.rpy:1559
+translate francais v2s35_wml1_aub_f690a2b8:
+
+    # u "Damn, I need to go to the hospital to get this burn treated, ouch!"
+    u "Merde, je vais devoir aller à l'hôpital pour faire soigner cette brûlure, outch !"
+
+# game/v2/scene35.rpy:1564
+translate francais v2s35_wml1_aub_99b8341e:
+
+    # aut "I call it like I see it!"
+    aut "Je dis ce que je vois !"
+
+# game/v2/scene35.rpy:1578
+translate francais v2s35_wml1_end_844eb48c:
+
+    # u "How do you vote for all of us?"
+    u "Comment on fait pour voter pour tout le monde ?"
+
+# game/v2/scene35.rpy:1583
+translate francais v2s35_wml1_end_736854da:
+
+    # au "Yeah, it's bound to happen at some point, right?"
+    au "Ouais, ça va forcément arriver à un moment donné, non ?"
+
+# game/v2/scene35.rpy:1593
+translate francais v2s35_wml1_end_b0f0f047:
+
+    # u "We'll have to get you shit-faced drunk and find out."
+    u "Il faudra que tu te soûles comme une malade pour le découvrir."
+
+# game/v2/scene35.rpy:1632
+translate francais v2s35_wml2_f26027df:
+
+    # li "Was it ever in doubt? [name], let us know where you end up."
+    li "Est-ce que tu en as vraiment douté ? [name], dis-nous où tu finis."
+
+# game/v2/scene35.rpy:1647
+translate francais v2s35_wml2_32c85e31:
+
+    # aut "Yeah, it's only a matter of time before you get shit-faced and end up on a random bus ride across country."
+    aut "Ouais, ce n'est qu'une question de temps avant que tu ne te défonces et que tu te retrouves dans un bus voyageant au hasard à travers le pays."
+
+# game/v2/scene35.rpy:1652
+translate francais v2s35_wml2_a0693171:
+
+    # li "Waking up in Alaska or something, and surprise: you're curled up in the arms of a burly fisherwoman."
+    li "Tu te réveilles en Alaska ou quelque chose comme ça, et surprise : tu te retrouves pelotonné dans les bras d'une grosse pêcheuse."
+
+# game/v2/scene35.rpy:1657
+translate francais v2s35_wml2_1764ec92:
+
+    # au "Hot. I ship [name] and the burly fisherwoman."
+    au "C'est chaud. Je choisis [name] et la grosse pêcheuse."
+
+# game/v2/scene35.rpy:1662
+translate francais v2s35_wml2_3df90123:
+
+    # u "To be honest, that does sound like something that would happen to me. And I love my new burly wife."
+    u "Franchement, ça ressemble à un truc qui pourrait m'arriver. Et moi, j'adore ma nouvelle grosse femme."
+
+# game/v2/scene35.rpy:1667
+translate francais v2s35_wml2_306c7d41:
+
+    # u "Still, I hope drunk me will choose somewhere nice though, like a tropical island."
+    u "Mais j'espère tout de même que l'ivrogne que je suis choisira un endroit agréable, comme une île tropicale."
+
+# game/v2/scene35.rpy:1672
+translate francais v2s35_wml2_e180aa4e:
+
+    # aut "Well, just be sure to send us a postcard when you get there and sober up."
+    aut "N'oublie pas de nous envoyer une carte postale quand tu y seras et que tu seras sobre."
+
+# game/v2/scene35.rpy:1773
+translate francais v2s35_wml2_e02233c0:
+
+    # li "Too bad, you can't!"
+    li "Dommage, c'est impossible !"
+
+# game/v2/scene35.rpy:1894
+translate francais v2s35_wml3_d885ec32:
+
+    # li "Not in any of the movies I've seen."
+    li "Dans aucun des films que j'ai vus."
+
+# game/v2/scene35.rpy:1904
+translate francais v2s35_wml3_96d509d6:
+
+    # au "Money... Moneypussy?! You're killing me Autumn... Phew."
+    au "Argent... Chatte d'argent ?! Tu me tues Autumn... Pfiou."
+
+# game/v2/scene35.rpy:1906
+translate francais v2s35_wml3_520e9616:
+
+    # au "Now I know what my spy name is going to be."
+    au "Maintenant, je sais quel sera mon nom d'espionne."
+
+# game/v2/scene35.rpy:1911
+translate francais v2s35_wml3_16f68a8b:
+
+    # aut "Oh my God, sorry! I thought that's what his name was..."
+    aut "Oh làlà, désolée ! Je croyais que c'était son nom..."
+
+# game/v2/scene35.rpy:1932
+translate francais v2s35_wml3_bb338b72:
+
+    # au "Uh oh."
+    au "Oh oh."
+
+# game/v2/scene35.rpy:1937
+translate francais v2s35_wml3_73c45aaa:
+
+    # li "Judging by that, I'm guessing someone already did it."
+    li "À en juger par tout ça, j'imagine que c'est déjà arrivé à quelqu'un."
+
+# game/v2/scene35.rpy:1944
+translate francais v2s35_wml3_2ca15f60:
+
+    # u "(I'm not sure I want everyone knowing about us on the plane.)"
+    u "(Je suis pas sûr de vouloir que tout le monde sache pour nous dans l'avion.)"
+
+# game/v2/scene35.rpy:1991
+translate francais v2s35_wml3_c5086476:
+
+    # au "There's always next time."
+    au "Il y aura une autre occasion."
+
+# game/v2/scene35.rpy:2011
+translate francais v2s35_wml3_b2320eb5:
+
+    # u "Very hesitant there, Autumn..."
+    u "Tu hésites beaucoup, Autumn..."
+
+# game/v2/scene35.rpy:2068
+translate francais v2s35_wml4_aub_0bbd4fa1:
+
+    # aut "Just another one of Aubrey's sexual adventures."
+    aut "Encore une autre des aventures sexuelles d'Aubrey."
+
+# game/v2/scene35.rpy:2102
+translate francais v2s35_wml4_aut_757050bc:
+
+    # aut "Not happening!"
+    aut "Ça n'arrivera jamais pour moi !"
+
+# game/v2/scene35.rpy:2110
+translate francais v2s35_wml4_lin_f818de55:
+
+    # li "Me? No way."
+    li "Moi ? Pas moyen."
+
+# game/v2/scene35.rpy:2130
+translate francais v2s35_wml4_lin_d8bfbefb:
+
+    # li "Stooooop! I mean, I'm not going to lie, it sounds hot..."
+    li "Stooooop !Je ne vais pas mentir, ça a l'air chaud..."
+
+# game/v2/scene35.rpy:2132
+translate francais v2s35_wml4_lin_d476d77e:
+
+    # li "But airplane bathrooms are so gross, and I would just hate to get caught."
+    li "Mais les toilettes des avions sont vraiment dégoûtantes, et je ne voudrais pas me faire choper."
+
+# game/v2/scene35.rpy:2137
+translate francais v2s35_wml4_lin_5a1c9ad4:
+
+    # u "Yeah, I think in all the excitement you'd forget to lock the door."
+    u "Ouais, j'imagine qu'en pleine excitation, tu oublierais de verrouiller la porte."
+
+# game/v2/scene35.rpy:2180
+translate francais v2s35_wml4_end_8926488b:
+
+    # aut "I haven't really talked about it, but there's something I want to share with you guys, I think."
+    aut "J'en ai jamais vraiment parlé, mais je crois qu'il y a quelque chose que je voudrais partager avec vous."
+
+# game/v2/scene35.rpy:2205
+translate francais v2s35_wml4_end_33fe4983:
+
+    # aut "So it's fairly easy for me to say no... Especially to airplane sex where you're guaranteed to get caught."
+    aut "C'est donc assez facile pour moi de dire non... Surtout en ce qui concerne les relations sexuelles dans les avions, là où tu es sûre de te faire prendre."
+
+# game/v2/scene35.rpy:2220
+translate francais v2s35_wml4_end_bef13ffb:
+
+    # au "Wait, but I've heard you talking about-"
+    au "Attends, mais je t'ai entendu parler de-"
+
+# game/v2/scene35.rpy:2225
+translate francais v2s35_wml4_end_e3ced68a:
+
+    # aut "Yeah, I've fooled around with guys a little before just to try it."
+    aut "Oui, j'ai déjà eu des relations avec des mecs, rien que pour essayer."
+
+# game/v2/scene35.rpy:2227
+translate francais v2s35_wml4_end_523f6771:
+
+    # aut "Sex doesn't gross me out. I've just never had any interest in going all the way, you know?"
+    aut "Le sexe ne me dégoûte pas. Je n'ai tout simplement jamais eu envie d'aller jusqu'au bout, vous voyez ?"
+
+# game/v2/scene35.rpy:2232
+translate francais v2s35_wml4_end_2185ee13:
+
+    # au "So wait, I'm still... What exactly does that mean?"
+    au "Alors attends, je ne... Qu'est-ce que ça veut dire exactement ?"
+
+# game/v2/scene35.rpy:2240
+translate francais v2s35_autumn_reveal_f79ab15c:
+
+    # aut "I just don't desire sex. I don't get those, like, undeniable urges that you all have."
+    aut "Je n'ai tout simplement pas de désir sexuel. Je ne ressens aucune des pulsions que vous avez tous."
+
+# game/v2/scene35.rpy:2250
+translate francais v2s35_autumn_reveal_58d654ec:
+
+    # aut "Nope, I've never felt the need to. Kissing's fun, I guess? But it doesn't turn me on."
+    aut "Nan, je n'en ai jamais ressenti le besoin. On va dire qu'embrasser est amusant... Mais ça ne m'excite pas du tout."
+
+# game/v2/scene35.rpy:2296
+translate francais v2s35_autumn_reveal_43bc8577:
+
+    # u "So, shall we move on? Maybe interrogate Autumn some other time, huh?"
+    u "Bon, on passe à autre chose ? On pourrait peut-être poser des questions à Autumn une prochaine fois, hein ?"
+
+# game/v2/scene35.rpy:2311
+translate francais v2s35_autumn_reveal_36ae43ee:
+
+    # aut "It's okay. I... I chose to bring it up. But yeah, let's have another drink?"
+    aut "C'est bon. Je... j'ai voulu en parler. Mais ouais, on prend un autre verre ?"
+
+# game/v2/scene35.rpy:2371
+translate francais v2s35_autumn_reveal_f49223c7:
+
+    # aut "No worries. I brought it up."
+    aut "Ne t'en fais pas. C'est moi qui ai commencé à en parler..."
+
+# game/v2/scene35.rpy:2426
+translate francais v2s35_autumn_reveal_afec62b1:
+
+    # li "Yup! It's about supporting me."
+    li "Ouaip ! C'est à propos du fait de me soutenir."
+
+# game/v2/scene35.rpy:2474
+translate francais v2s35_autumn_reveal_63791f8e:
+
+    # au "She is the type of person who makes a lot of promises. She's always good at saying the right thing."
+    au "Cest le genre de personne qui fait beaucoup de promesses. Elle est douée pour toujours dire ce qu'il faut."
+
+# game/v2/scene35.rpy:2499
+translate francais v2s35_autumn_reveal_01259ce1:
+
+    # au "*Muttering* I mean... it's a lot of work... She's always..."
+    au "*Marmonne* C'est vrai... c'est beaucoup de travail... Elle est toujours..."
+
+# game/v2/scene35.rpy:2544
+translate francais v2s35_autumn_reveal_9ad29628:
+
+    # au "I've been trying to stay out of this whole thing as much as possible... But I guess I agree with what you're saying, Lindsey."
+    au "J'ai essayé de rester en dehors de tout ça autant que possible... Mais oui, je suis du même avis que toi, Lindsey."
+
+# game/v2/scene35.rpy:2644
+translate francais v2s35_autumn_reveal_2c15c70b:
+
+    # li "I'm already buzzed, though. I don't think I can handle a shot."
+    li "Mais je suis déjà bien faite. Je pense pas pouvoir encaisser une nouvelle tournée."
+
+# game/v2/scene35.rpy:2716
+translate francais v2s35_let_it_happen_0ed89d53:
+
+    # li "*Drunk* Just please think about what I've said and consider supporting me. Please?"
+    li "*Bourrée* Z'il de plaît, pense à z'que j'ai dit et envisage de m'soutenir. Z'il de plaît !?"
+
+# game/v2/scene35.rpy:2736
+translate francais v2s35_let_it_happen_16da2813:
+
+    # li "*Drunk* We should probably end the night here before I pass out on you guys!"
+    li "*Bourrée* On d'vrait beut-être derminer la zoirée zur zes pelles baroles, avant qu'je m'égroule zur vous !"
+
+# game/v2/scene35.rpy:2741
+translate francais v2s35_let_it_happen_9209fe2e:
+
+    # aut "Aww, well I had a great time. I'm so glad I came."
+    aut "Oooh, j'ai passé un très bon moment. Je suis vraiment contente d'être venue."
+
+# game/v2/scene35.rpy:2788
+translate francais v2s35_bring_up_chloe_daf766b4:
+
+    # li "*Drunk* Do you want a list? I mean, where do I start?"
+    li "*Bourrée* *Ricane* Du veux une liste ? WHOOOO !!! Bon... Je gommence par quoi ?"
+
+# game/v2/scene35.rpy:2843
+translate francais v2s35_stop_lindsey_241ec9f4:
+
+    # u "Yeah, maybe stop talking now..."
+    u "Ouais, peut-être que maintenant, tu devrais arrêter de parler..."
+
+# game/v2/scene35.rpy:2881
+translate francais v2s35_say_nothing_51d23122:
+
+    # li "*Drunk* She'd have to sell a good chunk of her body back to the surgeons in order to pay for school, ha!"
+    li "*Bourrée* Elle devrait revendre une bonne bartie d'zon corps aux chirurgiens bour bouvoir bayer ses édudes !"
+
+# game/v2/scene35.rpy:3002
+translate francais v2s35_say_nothing_6c2795e2:
+
+    # li "Huh? I don't hate her, [name]. She's my sorority sister."
+    li "Hein ? Je ne la déteste pas, [name]. C'est ma sœur de sororité."
+
+# game/v2/scene35.rpy:3052
+translate francais v2s35_say_nothing_f3f2e292:
+
+    # aut "Yeah, I'm ready to go, I think. Getting a little sleepy over here."
+    aut "Ouais, je crois que je vais bientôt y aller. Là, je commence à m'endormir un peu."
+
+# game/v2/scene35.rpy:3113
+translate francais v2s35_say_nothing_4038c515:
+
+    # li "Aww, thanks guys. I appreciate you all coming."
+    li "oooh, merci à vous. Je vous remercie d'être venus."

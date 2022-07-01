@@ -3385,3 +3385,10 @@ translate francais v2s33_nsfwSkipLabel1_47baef59:
 
     # u "I'm a man of my word."
     u "Je suis un homme de parole."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene33.rpy:397
+translate francais v2s33_6b2e1c44:
+
+    # u "Ha, is that right?"
+    u "Oh, c'est vrai ?"

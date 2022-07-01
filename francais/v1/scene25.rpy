@@ -1411,3 +1411,10 @@ translate francais v1s25_nsfwSkipLabel1_831dd538:
 
     # u "Okay... I can do that..."
     u "Ok. Je peux y arriver."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene25.rpy:145
+translate francais v1s25_8240a24a:
+
+    # am "I laugh my ass off every time I see one of her victims. Especially the ones I've set up..."
+    am "Je suis morte de rire chaque fois que je vois une de ses victimes. Surtout celles que j'ai piégées..."

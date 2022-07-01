@@ -324,3 +324,46 @@ translate francais v2s3_15a36259:
 
     # u "This is what we get for joining the Apes."
     u "C'est ce qu'on gagne à faire partie des Apes."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene3.rpy:72
+translate francais v2s3_fa1e7f6d:
+
+    # ry "What?! Seriously?!"
+    ry "Quoi ?! Sérieux ?!"
+
+# game/v2/scene3.rpy:84
+translate francais v2s3_0c8a05c5:
+
+    # de "And also a crime. You're lucky Ms. Moralez doesn't want to press charges."
+    de "Et aussi un crime. Vous avez de la chance que Mme Moralez ne souhaite pas porter plainte."
+
+# game/v2/scene3.rpy:94
+translate francais v2s3_4525a913:
+
+    # u "(He's doing his best to sound sincere. And to spread the blame...)"
+    u "(Il fait de son mieux pour paraître sincère. Et pour répartir la faute...)"
+
+# game/v2/scene3.rpy:99
+translate francais v2s3_57a6886c:
+
+    # de "You think this is just about the Apes? This kind of behavior reflects badly on the whole college."
+    de "Vous pensez qu'il n'y a que les Apes dans cette histoire ? Ce genre de comportement donne une mauvaise image à l'ensemble de l'université."
+
+# game/v2/scene3.rpy:199
+translate francais v2s3_21d0a402:
+
+    # de "If I have to speak to you all about something like this again I promise the consequences will be serious."
+    de "Si je devais revenir vers vous pour un tel sujet, je vous promets que cela aurait de graves conséquences."
+
+# game/v2/scene3.rpy:209
+translate francais v2s3_b4742dcd:
+
+    # gr "What a bitch. Our reputation is exactly where it needs to be!"
+    gr "Sale pute. Notre réputation est là où elle doit être !"
+
+# game/v2/scene3.rpy:239
+translate francais v2s3_b95413d4:
+
+    # u "I guess this is what we get for joining the Apes, huh, buddy?"
+    u "J'imagine que c'est ce qu'on récolte en rejoignant les Apes, hein, mon pote ?"

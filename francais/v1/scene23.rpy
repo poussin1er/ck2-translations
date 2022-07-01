@@ -1174,3 +1174,10 @@ translate francais v1s23_c63e6790:
 
     # u "I'm gonna figure out who's blowing my phone up. I'll talk to you real soon, Chris."
     u "Je vais regarder qui fait exploser mon téléphone, on se parle très vite, Chris."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene23.rpy:295
+translate francais v1s23_6796d345:
+
+    # cl "In one of the shots, Chris and I will pose together with the caption #presidentialStatus."
+    cl "Sur l'un des clichés, Chris et moi poserons ensemble avec la légende #PresidentialStatus."

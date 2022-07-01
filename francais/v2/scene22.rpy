@@ -1343,3 +1343,124 @@ translate francais strings:
     # game/v2/scene22.rpy:1455
     old "Call after her"
     new "L'appeler"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene22.rpy:73
+translate francais v2s22_5dec6532:
+
+    # cl "*Sighs* Yeah, I guess so. On top of being President..."
+    cl "*Soupirs* Ouais, j'imagine. En plus d'être Présidente..."
+
+# game/v2/scene22.rpy:377
+translate francais v2s22_0ad4d4db:
+
+    # de "Thank you for waiting. I will say this comes at an inopportune time, what with the student conduct review for the fraternities."
+    de "Merci d'avoir patienté. Je tiens à souligner que tout ceci arrive à un moment inopportun, avec les enquêtes sur les pratiques estudiantines au sein des fraternités."
+
+# game/v2/scene22.rpy:379
+translate francais v2s22_2c44c759:
+
+    # de "But I keep an open door policy, so how can I help you both today?"
+    de "Mais je maintiens notre politique de libre échange, alors en quoi puis-je vous aider ?"
+
+# game/v2/scene22.rpy:406
+translate francais v2s22_83758802:
+
+    # de "I just can't imagine Mr. Lee wanting to support something like this."
+    de "J'ai du mal à imaginer que Mr Lee puisse soutenir un tel projet."
+
+# game/v2/scene22.rpy:586
+translate francais v2s22_6a8e4f26:
+
+    # de "So anyways, now you're here to convince me."
+    de "Et maintenant, vous êtes ici pour me convaincre."
+
+# game/v2/scene22.rpy:600
+translate francais v2s22_51e1e661:
+
+    # cl "Well... We had a meeting, but unfortunately, we didn't win the support we needed."
+    cl "Eh bien... Nous avons eu un entretien, mais malheureusement, nous n'avons pas obtenu le soutien nécessaire."
+
+# game/v2/scene22.rpy:637
+translate francais v2s22_e6325234:
+
+    # de "I'm sure whoever you met with, you obviously didn't do what you needed to convince them."
+    de "Je suis certaine que, quelle que soit la personne que vous avez rencontré, vous n'avez pas fait le nécessaire pour la convaincre."
+
+# game/v2/scene22.rpy:657
+translate francais v2s22_8ea39673:
+
+    # de "Well, casting blame aside, I'll give you a fair shot. So now you're here to convince me."
+    de "Bien, en laissant de côté les reproches, je vais vous donner une chance équitable. Vous êtes donc présent pour me convaincre."
+
+# game/v2/scene22.rpy:678
+translate francais v2s22_2b84165d:
+
+    # de "Good to hear that. So now you're here to convince me."
+    de "Contente de le savoir. Vous êtes donc présent pour me convaincre."
+
+# game/v2/scene22.rpy:740
+translate francais v2s22_5bea735b:
+
+    # de "That's not necessary. I know what you're asking for, I just need to hear your argument."
+    de "Ce n'est pas nécessaire. Je sais ce que vous demandez, j'ai juste besoin d'entendre vos arguments."
+
+# game/v2/scene22.rpy:971
+translate francais v2s22_61a62d85:
+
+    # de "That is a surprise. We've been criticized for giving preferntial treatment to the Chicks."
+    de "Voilà qui est surprenant. On nous a d'ailleurs déjà reproché d'accorder un traitement préférentiel aux Chicks."
+
+# game/v2/scene22.rpy:973
+translate francais v2s22_0b6ae907:
+
+    # de "I was opposed to the scholarship from the beginning, so that's a major bonus point, Chloe."
+    de "J'étais opposée à la bourse d'études depuis le début, donc c'est un point bonus majeur, Chloé."
+
+# game/v2/scene22.rpy:1038
+translate francais v2s22_017031c3:
+
+    # de "However, I'm aware that you're both very influential students here at SVC, and that always adds a certain momentum to a cause."
+    de "Cependant, je suis consciente que vous êtes tous deux des étudiants très influents ici au SVC, et cela ajoute toujours une certaine dynamique à un projet."
+
+# game/v2/scene22.rpy:1057
+translate francais v2s22_5a301f01:
+
+    # de "When I consider everything that you've said today, it wasn't good enough. I don't think you've thought this through."
+    de "Considérant tout ce que vous avez déclaré aujourd'hui, ça n'était pas suffisant. Vous ne semblez pas avoir mûrement réfléchi à tout ça."
+
+# game/v2/scene22.rpy:1154
+translate francais v2s22_b564cb88:
+
+    # cl "I'll do my best."
+    cl "Je ferai de mon mieux."
+
+# game/v2/scene22.rpy:1166
+translate francais v2s22_3064ef07:
+
+    # de "You're both very influential students, which I think helps your position on this proposal. But..."
+    de "Vous êtes tous deux des étudiants très influents, ce qui, je pense, favorise votre position sur ce projet. Mais..."
+
+# game/v2/scene22.rpy:1303
+translate francais v2dean_successful_d87e43de:
+
+    # de "Now you just need win your campaign."
+    de "Il ne vous reste plus qu'à remporter votre campagne."
+
+# game/v2/scene22.rpy:1313
+translate francais v2dean_successful_a5302ebe:
+
+    # cl "Yeah... no pressure there!"
+    cl "C'est vrai... pas de problème !"
+
+# game/v2/scene22.rpy:1535
+translate francais v2s22_PhoneContinueAub_81b4dbd0:
+
+    # cl "That's okay. I'm done with you for now."
+    cl "T'inquiète. J'en ai fini avec toi pour l'instant."
+
+# game/v2/scene22.rpy:1540
+translate francais v2s22_PhoneContinueAub_0d1a85e4:
+
+    # u "Aww, okay. Well, glad I could be of service."
+    u "Ooh, D'accord. Eh bien, content d'avoir pu être utile."

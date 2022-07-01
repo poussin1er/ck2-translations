@@ -551,3 +551,10 @@ translate francais v1s16_dd724701:
 
     # u "(Oh well. Time for class.)"
     u "(Bon, c'est l'heure des cours.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene16.rpy:159
+translate francais v1s16_d6818f12:
+
+    # cl "*Whispering* Plus, the President always needs an assistant, and if it's my job to, you know, take care of you, while also running the sorority..."
+    cl "*Chuchote* De plus, la présidente a toujours besoin d'un assistant, et si c'est à moi de, tu sais... m'occuper de toi, tout en dirigeant la sororité..."

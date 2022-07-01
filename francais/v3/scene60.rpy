@@ -1277,3 +1277,70 @@ translate francais v3s60_7e309f8f:
 
     # li "Thank fuck that's over with."
     li "Ouf, c'est fini."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene60.rpy:133
+translate francais v3s60_50487cb6:
+
+    # el "I know people are going to want to hear your thoughts on this. Is there a specific quality that you feel every successful President should have?"
+    el "Je sais que les gens vont vouloir entendre ton avis sur la question. Y a-t-il une qualité spécifique que, selon toi, toute présidente efficace doit avoir ?"
+
+# game/v3/scene60.rpy:210
+translate francais v3s60_b19b67db:
+
+    # li "But to give a more specific reply, I would say a good President needs to be an effective communicator."
+    li "Mais pour apporter une réponse plus concrète, je dirais qu'une bon présidente doit être une bonne communicante."
+
+# game/v3/scene60.rpy:212
+translate francais v3s60_48d37c79:
+
+    # li "Being heard is crucial when talking to many different people, but more importantly, a strong President must be able to listen to the needs of her sisters."
+    li "Il est crucial d'être écouté lorsqu'on parle à de nombreuses et diverses personnes, mais plus important encore, une présidente forte doit être capable de répondre aux besoins de ses sœurs."
+
+# game/v3/scene60.rpy:243
+translate francais v3s60_aa0160b4:
+
+    # li "I think a good President should be someone who can keep everyone happy, you know?"
+    li "Je considère qu'une bonne présidente doit être quelqu'un qui sait faire en sorte que tout le monde soit heureux, tu comprends ?"
+
+# game/v3/scene60.rpy:245
+translate francais v3s60_3c924288:
+
+    # li "Everyone has things they want, and a President should be able to deliver on that."
+    li "Tout le monde a des désirs, et une présidente doit être en mesure de les réaliser."
+
+# game/v3/scene60.rpy:265
+translate francais v3s60_ed8292fe:
+
+    # li "Like, okay... if someone makes me breakfast and they know that I want blueberries on my pancakes, but the President puts honey on them."
+    li "Genre, ok... Si quelqu'un me prépare le petit-déjeuner et qu'il sait que je veux des myrtilles sur mes pancakes, mais que la présidente met du miel dessus."
+
+# game/v3/scene60.rpy:275
+translate francais v3s60_2cab29a5:
+
+    # li "A good President would know that I don't like honey and want blueberries."
+    li "Une bonne présidente saurait que je n'aime pas le miel et que je veux des myrtilles."
+
+# game/v3/scene60.rpy:280
+translate francais v3s60_c677d463:
+
+    # el "So, what you're saying is, a good President should know what you like on your pancakes?"
+    el "Donc, ce que tu dis, c'est qu'une bonne présidente doit savoir ce que tu aimes sur tes pancakes ?"
+
+# game/v3/scene60.rpy:630
+translate francais v3s60_3d0d25ea:
+
+    # ri "I'm interested to know: Is there a specific quality that you feel every successful President should have?"
+    ri "J'aimerais savoir : Y a-t-il une qualité spécifique que, selon toi, tout président efficace devrait avoir ?"
+
+# game/v3/scene60.rpy:639
+translate francais v3s60_6fdb998c:
+
+    # li "Oh, it's people skills. You have to have great people skills as a President. To be even more specific, you need to be an effective communicator."
+    li "Oh, les compétences relationnelles. En tant que présidente, tu dois avoir d'excellentes aptitudes relationnelles. Pour être encore plus précise, il faut être une communicante efficace."
+
+# game/v3/scene60.rpy:677
+translate francais v3s60_b92cc758:
+
+    # li "A good President should be able to keep everyone happy. I think that's a basic quality. Chloe hasn't managed to do that, unfortunately."
+    li "Une bonne présidente doit être capable de garder tout le monde heureux. Je pense que c'est une qualité fondamentale. Chloé n'a malheureusement pas réussi à atteindre cet objectif."

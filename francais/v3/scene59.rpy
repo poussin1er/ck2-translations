@@ -1426,3 +1426,28 @@ translate francais v3s59_b02bd828:
 
     # li "I didn't get to hug you! Polly!!"
     li "J'ai pas pu te faire un câlin ! Polly !!!"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene59.rpy:321
+translate francais v3s59_d40159af:
+
+    # li "The thing is, I'm currently campaigning to be President of my sorority, the Chicks."
+    li "Le truc, c'est que je suis actuellement en campagne pour être présidente de ma sororité, les Chicks."
+
+# game/v3/scene59.rpy:500
+translate francais v3s59_8762eae5:
+
+    # u "Lindsey's currently campaigning to be President of her sorority, the Chicks."
+    u "Lindsey fait actuellement campagne pour être présidente de sa sororité, les Chicks."
+
+# game/v3/scene59.rpy:726
+translate francais v3s59_5121bf93:
+
+    # u "She's currently campaigning to become the President of her sorority and-"
+    u "Elle fait actuellement campagne pour devenir présidente de sa sororité et-"
+
+# game/v3/scene59.rpy:796
+translate francais v3s59_4f4ccdcd:
+
+    # polly "Just promise me you're not going to turn out to be some totalitarian dictator sorority President. It'd be bad for my image. I'm very into democracy right now."
+    polly "Promets-moi juste que tu ne deviendras pas une présidente de sororité dictatrice et totalitariste. Ça serait mauvais pour mon image. Je suis très à cheval sur la démocratie en ce moment."

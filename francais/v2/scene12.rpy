@@ -786,3 +786,190 @@ translate francais strings:
     # game/v2/scene12.rpy:319
     old "It's not that serious"
     new "C'est pas si sérieux"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene12.rpy:29
+translate francais v2s12_79fe2f3f:
+
+    # li "Of course! I'm very smart and resourceful."
+    li "Bien sûr ! Je suis très intelligente et pleine de ressources."
+
+# game/v2/scene12.rpy:34
+translate francais v2s12_1d779284:
+
+    # u "You watched a video, didn't you?"
+    u "T'as regardé une vidéo, c'est ça ?"
+
+# game/v2/scene12.rpy:39
+translate francais v2s12_40849217:
+
+    # li "There's videos for _anything_ these days! This one was about this _specific_ diary, isn't that nuts?"
+    li "Il y a des vidéos pour {b}TOUT{/b} de nos jours ! Et celle-là parlait {b}SPÉCIFIQUEMENT{/b} de ce journal intime, c'est fou, non ?"
+
+# game/v2/scene12.rpy:44
+translate francais v2s12_d8878858:
+
+    # u "Nice, Linds. So, what did you find?"
+    u "Bien joué, Linds. Alors, qu'est-ce que t'as trouvé ?"
+
+# game/v2/scene12.rpy:77
+translate francais v2s12_3cf4c9ee:
+
+    # u "What?! She wrote everything in there? That's like a pot of gold!"
+    u "Quoi ?! Elle a tout écrit là-dedans ? C'est un vrai trésor !"
+
+# game/v2/scene12.rpy:93
+translate francais v2s12_096aea1c:
+
+    # li "Thank you. I can't believe you made this happen."
+    li "Merci. Je n'arrive pas à croire que tu aies rendu ça possible."
+
+# game/v2/scene12.rpy:98
+translate francais v2s12_2be5d203:
+
+    # u "Yeah, of course."
+    u "Ben, c'est normal."
+
+# game/v2/scene12.rpy:158
+translate francais v2s12_4c89c1c8:
+
+    # u "That's so fucking shady. Why is she trying to humiliate you?"
+    u "C'est vraiment bizarre. Pourquoi est-ce qu'elle essaie de t'humilier ?"
+
+# game/v2/scene12.rpy:194
+translate francais v2s12_ab9e2f86:
+
+    # li "Aww, yeah. I know... Me too."
+    li "Ooh, ouais. Je sais... Moi aussi je me demande."
+
+# game/v2/scene12.rpy:223
+translate francais v2s12_888f9984:
+
+    # u "It's alright. I mean, thank you for asking... But go ahead. You can tell me."
+    u "Ça va. Enfin, merci de demander... Mais vas-y. Tu peux tout me dire."
+
+# game/v2/scene12.rpy:228
+translate francais v2s12_0c06a5d4:
+
+    # li "Aww, okay... I mean it was nothing too specific, I guess."
+    li "Ooh, bien... Enfin, je crois que c'était rien de trop concret."
+
+# game/v2/scene12.rpy:246
+translate francais v2s12_71b34ce0:
+
+    # u "(Yeah, I got the full Chloe-Grayson experience my first week here.)"
+    u "(Ouais, j'ai eu droit à la version complète de Chloe-Grayson pendant ma première semaine d'université.)"
+
+# game/v2/scene12.rpy:266
+translate francais v2s12_1090a9c3:
+
+    # li "But to be fair, this is only one side of the story. I guess you would have to steal Grayson's diary to get the full picture?"
+    li "Mais pour être honnête, ce n'est qu'une version de l'histoire. Je pense qu'il faudrait que tu puisses voler le journal intime de Grayson pour avoir la vue d'ensemble, non ?"
+
+# game/v2/scene12.rpy:271
+translate francais v2s12_de623b7f:
+
+    # u "Yeah, I don't think he's the type to keep it under his pillow though..."
+    u "Ouais, mais je pense pas qu'il soit du genre à garder ça sous son oreiller..."
+
+# game/v2/scene12.rpy:276
+translate francais v2s12_a00505ad:
+
+    # li "What a horrible hiding spot."
+    li "Cette cachette est vraiment ridicule."
+
+# game/v2/scene12.rpy:294
+translate francais v2s12_162b533f:
+
+    # u "Eh, to be honest... It's in the past and... it should just be left there."
+    u "Euh, pour être honnête... Ça fait partie du passé et... ça devrait y rester."
+
+# game/v2/scene12.rpy:296
+translate francais v2s12_f45fde12:
+
+    # u "I don't want to know about what problems she had with her ex-boyfriends unless she tells me."
+    u "J'ai pas envie de connaître les soucis qu'elle a pu avoir avec ses ex, sauf si elle me les raconte."
+
+# game/v2/scene12.rpy:318
+translate francais v2s12_496919fe:
+
+    # li "You and Chloe are together, she's told just about everyone. So, where does that leave us?"
+    li "Toi et Chloé êtes ensemble, elle l'a dit à presque tout le monde. Alors, ça nous mène où ?"
+
+# game/v2/scene12.rpy:358
+translate francais v2s12_a49ecf4e:
+
+    # li "Next time you and a girl get together, take her feelings into consideration first. Yeah?"
+    li "La prochaine fois que tu te mets avec une fille, tiens d'abord compte de ses sentiments. D'accord ?"
+
+# game/v2/scene12.rpy:408
+translate francais v2s12_c3b5e5e0:
+
+    # li "Okay. Cool. Thanks for letting me know."
+    li "Ouais. C'est bon. Merci de me prévenir."
+
+# game/v2/scene12.rpy:413
+translate francais v2s12_7c387b6a:
+
+    # u "Yeah. Of course."
+    u "Oui. Bien sûr."
+
+# game/v2/scene12.rpy:458
+translate francais v2s12_24b6f77e:
+
+    # u "Damn straight!"
+    u "C'est bien vrai !"
+
+# game/v2/scene12.rpy:579
+translate francais v2s12_a5cadaf0:
+
+    # u "Of course it'll be fun. We must enjoy ourselves at the end of the day, you know."
+    u "Bien sûr, ça va être marrant. Tu sais, il faut bien qu'on s'amuse un peu en fin de journée."
+
+# game/v2/scene12.rpy:584
+translate francais v2s12_ef9c4386:
+
+    # li "Exactly."
+    li "C'est vrai."
+
+# game/v2/scene12.rpy:592
+translate francais v2s12_12d63199:
+
+    # u "But there's no chance they'll support Chloe after you roll up in a limo to take them out for the night."
+    u "Mais y aura plus aucune chance qu'ils continuent de soutenir Chloé après que tu sois passé les prendre en limousine pour les conduire en soirée."
+
+# game/v2/scene12.rpy:597
+translate francais v2s12_53db7779:
+
+    # li "That's so true. It's going to be epic!"
+    li "C'est tellement vrai. Ça va être grandiose !"
+
+# game/v2/scene12.rpy:620
+translate francais v2s12_f3e65369:
+
+    # u "(Getting the Apes to support Chloe and now trying to get Sebastian to influence the Wolves. I'm getting everyone involved!)"
+    u "(J'ai réussi à faire en sorte que les Apes soutiennent Chloé et j'essaie maintenant de faire en sorte que Sebastian influence les Wolves. Je fais participer tout le monde !)"
+
+# game/v2/scene12.rpy:624
+translate francais v2s12_9e27de28:
+
+    # u "(Grayson's getting a lot of attention from both sides of the campaign...)"
+    u "(Grayson reçoit beaucoup d'attention des deux côtés de la campagne...)"
+
+# game/v2/scene12.rpy:638
+translate francais v2s12_f1af8a15:
+
+    # u "Me too, I'll be waiting for your call to start the next phase."
+    u "Moi aussi, j'attendrai ton appel pour lancer la prochaine phase."
+
+# game/v2/scene12.rpy:643
+translate francais v2s12_94361a67:
+
+    # li "Yeah, thank you!"
+    li "D'accord, merci !"
+
+# game/v2/scene12.rpy:660
+translate francais v2s12_4674d2a7:
+
+    # li "I've been a busy girl! I have to stay awake somehow."
+    li "Je suis une fille très occupée ! Il faut que je reste éveillée à tout prix."

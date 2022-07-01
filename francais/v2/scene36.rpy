@@ -491,3 +491,214 @@ translate francais strings:
     # game/v2/scene36.rpy:139
     old "It's not a good idea"
     new "C'est pas une bonne idée"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene36.rpy:22
+translate francais v2s36_8fdbde36:
+
+    # u "Absolutely. The game, the drinks, and of course... The company."
+    u "Vraiment. Le jeu, les boissons, et bien sûr... Votre compagnie."
+
+# game/v2/scene36.rpy:27
+translate francais v2s36_1bc960d1:
+
+    # aut "We make a good foursome."
+    aut "On fait un bon quatuor."
+
+# game/v2/scene36.rpy:37
+translate francais v2s36_ee389f02:
+
+    # aut "And not in a sexual way! Before you say anything."
+    aut "Et pas de manière sexuelle ! Avant que tu ne t'imagines des trucs."
+
+# game/v2/scene36.rpy:88
+translate francais v2s36_7975858e:
+
+    # aut "Well, it'd be interesting to at least consider losing my virginity to someone. Then I'd know exactly how I feel about sex."
+    aut "En fait, ça serait intéressant de réfléchir à la possibilité de perdre ma virginité avec quelqu'un. Je saurais alors exactement ce que je ressens par rapport au sexe."
+
+# game/v2/scene36.rpy:92
+translate francais v2s36_45abde53:
+
+    # aut "Like I said, it doesn't gross me out, it's just like... reading a book I'm kinda interested in checking out."
+    aut "Comme je l'ai dit, ça ne me dégoûte pas. Pour moi, c'est un peu comme... lire un livre qui m'intéresse un peu."
+
+# game/v2/scene36.rpy:102
+translate francais v2s36_6c28fad7:
+
+    # aut "And if anybody ever asks, I can say... Yes! More sex please! Or just, meh... It's not for me."
+    aut "Et si un jour quelqu'un me demande, je pourrai dire... Oui ! Encore du sexe s'il te plaît ! Ou tout simplement, mouais... C'est pas pour moi."
+
+# game/v2/scene36.rpy:107
+translate francais v2s36_d79263fb:
+
+    # u "I think that's a good way to go about it, but only if you're ready, you know?"
+    u "Je trouve que c'est une bonne façon de faire, mais seulement si t'es prête, tu comprends ?"
+
+# game/v2/scene36.rpy:119
+translate francais v2s36_da31dfd0:
+
+    # u "(Huh?!)"
+    u "(Hein ?!)"
+
+# game/v2/scene36.rpy:124
+translate francais v2s36_90022059:
+
+    # aut "We get along really well, and I like your company."
+    aut "On s'entend très bien et j'aime ta compagnie."
+
+# game/v2/scene36.rpy:165
+translate francais v2s36_ed1825c4:
+
+    # aut "I'm really happy that she found such a great guy. It's just a shame that we can't clone you."
+    aut "Je suis vraiment heureuse qu'elle ait trouvé un mec aussi génial. C'est juste dommage qu'on ne puisse pas te cloner."
+
+# game/v2/scene36.rpy:170
+translate francais v2s36_27b4b670:
+
+    # u "Thanks, Autumn. You're a great person."
+    u "Merci, Autumn. T'es une personne formidable."
+
+# game/v2/scene36.rpy:172
+translate francais v2s36_d6ba9f0c:
+
+    # u "*Winks* I'm sure you'll find someone as good as me one day."
+    u "*Clin d'œil* Je suis sûr qu'un jour, tu trouveras quelqu'un d'aussi bien que moi..."
+
+# game/v2/scene36.rpy:190
+translate francais v2s36_89c9ac74:
+
+    # aut "Wait, really? I was so nervous to ask..."
+    aut "Attends, tu es sérieux ? J'étais si nerveuse à l'idée de te le demander..."
+
+# game/v2/scene36.rpy:195
+translate francais v2s36_670cbd54:
+
+    # u "Don't you remember? You were the very first person I met when I arrived at SVC."
+    u "Tu t'en souviens ? Tu a été la toute première personne que j'ai rencontré quand je suis arrivé au SVC."
+
+# game/v2/scene36.rpy:200
+translate francais v2s36_1708ec7f:
+
+    # aut "Oh yeah. I was totally oblivious to your charm..."
+    aut " Ah oui. J'étais encore loin d'être consciente de ton charme..."
+
+# game/v2/scene36.rpy:281
+translate francais v2s36_c1082277:
+
+    # u "We have a lot of fun when we hang out, there's no expectations. I don't want to mess that up."
+    u "On s'amuse beaucoup quand on sort ensemble, il y a aucune attente. J'ai pas envie de tout gâcher."
+
+# game/v2/scene36.rpy:286
+translate francais v2s36_4ca4f15c:
+
+    # aut "Yeah, you're not wrong there. We do have a lot of fun. Be a shame to screw it up, right?"
+    aut "C'est vrai, tu n'as pas tort. Nous nous amusons beaucoup. Ça serait dommage de tout gâcher, tu ne crois pas ?"
+
+# game/v2/scene36.rpy:302
+translate francais v2s36_bcb54aed:
+
+    # aut "And you're literally dating my sister anyway, so... What am I thinking? *Sighs*"
+    aut "Et de toute façon, tu sors littéralement avec ma sœur, alors... Où ai-je la tête ? *Soupirs*"
+
+# game/v2/scene36.rpy:322
+translate francais v2s36_d14350bc:
+
+    # aut "Me too."
+    aut "Moi aussi."
+
+# game/v2/scene36.rpy:354
+translate francais v2s36_dontask_3332757b:
+
+    # aut "Now that I think about it, there were some really crazy ones."
+    aut "Maintenant que j'y pense, il y en a eu de vraiment dingues."
+
+# game/v2/scene36.rpy:365
+translate francais v2s36_dontask_548fd6b4:
+
+    # aut "The one about getting shit-face drunk and waking up on the other side of the country."
+    aut "Celle qui parlait de se bourrer la gueule et de se réveiller à l'autre bout du pays."
+
+# game/v2/scene36.rpy:370
+translate francais v2s36_dontask_42469f8b:
+
+    # u "Because everyone said it would be me?"
+    u "Parce que tout le monde disait que ce serait moi ?"
+
+# game/v2/scene36.rpy:375
+translate francais v2s36_dontask_6069e744:
+
+    # aut "It's only a matter of time."
+    aut "Ce n'est qu'une question de temps."
+
+# game/v2/scene36.rpy:385
+translate francais v2s36_dontask_92120e11:
+
+    # aut "A drunken state... Get it?!"
+    aut "Un état d'ivresse... Tu as compris ?!"
+
+# game/v2/scene36.rpy:390
+translate francais v2s36_dontask_24387f61:
+
+    # u "Wow... Good one. I was going to say North Carolina. The moonshine state."
+    u "Wow... Elle est bonne. J'allais dire la Caroline du Nord. L'État du moonshine."
+
+# game/v2/scene36.rpy:395
+translate francais v2s36_dontask_43789d64:
+
+    # aut "..."
+    aut "..."
+
+# game/v2/scene36.rpy:397
+translate francais v2s36_dontask_a6d5c136:
+
+    # aut "Took me a second to get that you're talking about the drink, not the sky."
+    aut "Il m'a fallu un moment pour comprendre que tu parlais de la boisson, pas du ciel."
+
+# game/v2/scene36.rpy:402
+translate francais v2s36_dontask_c155c49f:
+
+    # u "Because you've got your head in the clouds?"
+    u "Parce que t'as la tête dans les nuages ?"
+
+# game/v2/scene36.rpy:407
+translate francais v2s36_dontask_43789d64_1:
+
+    # aut "..."
+    aut "..."
+
+# game/v2/scene36.rpy:412
+translate francais v2s36_dontask_5e93e669:
+
+    # u "C'mon! I thought that was a good one!"
+    u "Allez ! Je la trouvais bonne !"
+
+# game/v2/scene36.rpy:430
+translate francais v2s36_dontask_2fa3cbaf:
+
+    # u "What's so good about being a frog?"
+    u "Qu'est-ce qu'il y a de si bien à être une grenouille ?"
+
+# game/v2/scene36.rpy:455
+translate francais v2s36_dontask_1571c03b:
+
+    # aut "Exactly! Just don't let any of SVC's Frogs hearing you say that... They'll get the wrong idea."
+    aut "Tout à fait ! Mais que les Frogs de l'UDC ne t'entendent pas dire ça... Ils se feraient une fausse idée."
+
+# game/v2/scene36.rpy:460
+translate francais v2s36_dontask_50ac87f2:
+
+    # u "Good advice, thanks. I'd be laughed out of the frat."
+    u "C'est un bon conseil, merci. On se foutrait de moi dans la fraternité."
+
+# game/v2/scene36.rpy:480
+translate francais v2s36_dontask_1766eaaa:
+
+    # aut "Thanks, goodnight, [name]."
+    aut "Merci et bonne nuit, [name]."
+
+# game/v2/scene36.rpy:485
+translate francais v2s36_dontask_a40a60d9:
+
+    # u "Night, Autumn."
+    u "Bonne nuit, Autumn."

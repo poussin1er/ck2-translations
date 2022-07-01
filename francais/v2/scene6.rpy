@@ -986,3 +986,16 @@ translate francais v2s6_f9e68818:
 
     # cl "I wish I could come, though. I miss you..."
     cl "Mais j'aimerais vraiment pouvoir venir. Tu me manques..."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene6.rpy:200
+translate francais v2s6_926a4555:
+
+    # u "(Me??? I do. Fuck...)"
+    u "(Moi ??? Et j'ai fais ça. Putain...)"
+
+# game/v2/scene6.rpy:304
+translate francais v2s6_237a4899:
+
+    # u "As long as you continue towards your goal, which is to be President of the Chicks... that IS your goal, yeah?"
+    u "Tant que tu poursuis ton objectif, qui est de rester présidente des Chicks... c'est ça ton objectif, hein ?"

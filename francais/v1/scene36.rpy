@@ -2013,3 +2013,10 @@ translate francais v1s36_nsfwSkipLabel1_e5e7cf3b:
 
     # la "Some positions make it easier to get pregnant, others make it almost impossible. There's a whole art to it."
     la "Certaines positions permettent de tomber enceinte plus facilement, d'autres rendent la chose presque impossible. C'est tout un art de le faire."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene36.rpy:116
+translate francais v1s36_e3f23844:
+
+    # u "Yeah. Chloe, who is the current President, and Lindsey are running against each other."
+    u "Ouais. Chloé, qui en est la présidente actuelle, et Lindsey se présentent l'une contre l'autre à ce poste."

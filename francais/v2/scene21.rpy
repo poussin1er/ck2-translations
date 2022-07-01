@@ -2490,3 +2490,274 @@ translate francais v2s21_303b4b52:
 
     # lee "You weren't 100% convincing throughout the meeting..."
     lee "Vous n'avez pas été convaincant à 100%% au cours de la réunion..."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene21.rpy:50
+translate francais v2s21_68f885c8:
+
+    # u "(Straight in with the life lessons, as usual.)"
+    u "(En plein dans les leçons de vie, comme d'habitude.)"
+
+# game/v2/scene21.rpy:132
+translate francais v2s21_6d883d22:
+
+    # cl "Of course, we don't want that."
+    cl "Évidemment, nous ne voulons pas ça."
+
+# game/v2/scene21.rpy:412
+translate francais v2s21_6f81b904:
+
+    # cl "Not having to work a part-time job would be amazing..."
+    cl "Ne pas avoir à travailler à mi-temps serait génial..."
+
+# game/v2/scene21.rpy:432
+translate francais v2s21_7dfd08d5:
+
+    # cl "I can't keep count of how many times my friends were so stressed about affording tuition and expenses..."
+    cl "Je ne compte plus le nombre de fois où mes amies étaient si stressées de devoir payer leurs frais de scolarité et leurs dépenses..."
+
+# game/v2/scene21.rpy:434
+translate francais v2s21_e6c55e4e:
+
+    # cl "Their studies fall off and they started failing their classes..."
+    cl "Leurs résultats scolaires ont chuté et elles ont commencé à échouer dans leurs cours..."
+
+# game/v2/scene21.rpy:629
+translate francais v2s21_85b42d5e:
+
+    # lee "Is that everything that you two wanted to discuss?"
+    lee "C'est tout ce dont vous vouliez parler ?"
+
+# game/v2/scene21.rpy:642
+translate francais v2s21_3615877c:
+
+    # cl "That's everything from me."
+    cl "C'est tout pour moi."
+
+# game/v2/scene21.rpy:663
+translate francais v2s21_134d5471:
+
+    # u "Oh, that's... a very kind offer. Thanks, Mr. Lee."
+    u "Oh, c'est... une très gentille proposition. Merci, Mr Lee."
+
+# game/v2/scene21.rpy:705
+translate francais v2s21_85faa2d1:
+
+    # cl "Aww, thank you, [name]."
+    cl "Oooh, merci, [name]."
+
+# game/v2/scene21.rpy:710
+translate francais v2s21_7d883d24:
+
+    # lee "Very good, [name]."
+    lee "Très bien, [name]."
+
+# game/v2/scene21.rpy:720
+translate francais v2s21_e8ae7c6e:
+
+    # u "Always!"
+    u "Toujours !"
+
+# game/v2/scene21.rpy:745
+translate francais v2s21_31495f81:
+
+    # u "It's nothing."
+    u "C'est rien."
+
+# game/v2/scene21.rpy:969
+translate francais v2s21_2e5e0b95:
+
+    # cl "Yeah..."
+    cl "Ouais..."
+
+# game/v2/scene21.rpy:1048
+translate francais v2s21_39deb666:
+
+    # lee "And lastly, my autograph! There we go."
+    lee "Et pour finir, mon autographe ! Et voilà."
+
+# game/v2/scene21.rpy:1053
+translate francais v2s21_100b4ae1:
+
+    # cl "Great..."
+    cl "Super..."
+
+# game/v2/scene21.rpy:1068
+translate francais v2s21_60930faf:
+
+    # lee "And here we are!"
+    lee "Et nous y voilà !"
+
+# game/v2/scene21.rpy:1198
+translate francais v2s21_9b99e9df:
+
+    # cl "Right, and I want to smooth things over for everyone. As soon as possible."
+    cl "C'est vrai, et je souhaite faciliter les choses pour tout le monde. Le plus vite possible."
+
+# game/v2/scene21.rpy:1213
+translate francais v2s21_fc1ef15b:
+
+    # u "(Shit, she hinted at Nora's issues with Chloe. But we discussed not bringing Nora up.)"
+    u "(Merde, elle a fait allusion aux problèmes entre Nora et Chloé. Mais on s'était mis d'accord sur le fait de pas parler de Nora.)"
+
+# game/v2/scene21.rpy:1215
+translate francais v2s21_bbe0ea77:
+
+    # u "(But maybe it's better to address it and clear the air? Think fast [name]."
+    u "(Mais il est peut-être préférable d'en parler et de clarifier les choses ? Réfléchis vite [name].)"
+
+# game/v2/scene21.rpy:1248
+translate francais v2s21_5ff6e496:
+
+    # ro "And I'm not here to discuss that or take any part in any grudges."
+    ro "Et je ne suis pas ici pour en débattre ou pour prendre part à une quelconque rancune."
+
+# game/v2/scene21.rpy:1268
+translate francais v2s21_f8cd26bf:
+
+    # u "(I'll keep quiet for now. Might be starting out on the wrong foot to bring up Chicks problems.)"
+    u "(Je vais me taire pour l'instant. Évoquer les problèmes des Chicks serait peut-être partir du mauvais pied.)"
+
+# game/v2/scene21.rpy:1298
+translate francais v2s21_ccd95024:
+
+    # ro "Wow..."
+    ro "Wow..."
+
+# game/v2/scene21.rpy:1325
+translate francais v2s21_4b11487a:
+
+    # u "(I hope I don't regret leaving our notes.)"
+    u "(J'espère que je vais pas regretter d'avoir laissé nos notes.)"
+
+# game/v2/scene21.rpy:1382
+translate francais v2s21_0b83dc03:
+
+    # ro "Aww, you two... Well, I'm glad that you both feel that way. Thank you, that means a lot to me."
+    ro "Oooh, vous deux... Je suis heureuse que vous ressentiez la même chose. Merci, ça compte beaucoup pour moi."
+
+# game/v2/scene21.rpy:1463
+translate francais v2s21_228d06fa:
+
+    # cl "Oh yeah. A wake-up call almost."
+    cl "Ha, oui. Une sorte de réveil."
+
+# game/v2/scene21.rpy:1495
+translate francais v2s21_482201d1:
+
+    # cl "Yeah, girl power!"
+    cl "C'est ça, girl power !"
+
+# game/v2/scene21.rpy:1502
+translate francais v2s21_fa0d5717:
+
+    # ro "Alright, noted."
+    ro "D'accord, c'est noté."
+
+# game/v2/scene21.rpy:1528
+translate francais v2s21_c873c64e:
+
+    # ro "We have to be fair, always."
+    ro "Nous devons toujours faire preuve d'équité."
+
+# game/v2/scene21.rpy:1543
+translate francais v2s21_10bcca80:
+
+    # ro "I think it is, considering you get your tuition covered. You work hard, but so do all the other Presidents."
+    ro "Je pense que ça l'est, vu que vos frais de scolarité sont couverts. Vous travaillez dur, mais les autres présidents également."
+
+# game/v2/scene21.rpy:1651
+translate francais v2s21_db5de044:
+
+    # ro "[name], If you stare at your notes for too long, you're going to end up missing the meeting."
+    ro "[name], Si vous restez trop longtemps à regarder vos notes, vous allez finir par rater cette réunion."
+
+# game/v2/scene21.rpy:1689
+translate francais v2s21_0aac640c:
+
+    # ro "Excuse me?"
+    ro "Pardon ?"
+
+# game/v2/scene21.rpy:1727
+translate francais v2s21_f6d9981c:
+
+    # u "Oh yeah. I'm glad you like it."
+    u "Ah oui. Je suis content qu'il vous plaise."
+
+# game/v2/scene21.rpy:1791
+translate francais v2s21_fdd74188:
+
+    # ro "I still have a few uncertainties when it comes to your plan..."
+    ro "J'ai encore quelques incertitudes en ce qui concerne votre programme..."
+
+# game/v2/scene21.rpy:1801
+translate francais v2s21_81572659:
+
+    # ro "But you did well. This is a great idea, and well executed."
+    ro "Mais vous avez bien fait. C'est une excellente idée, et bien réalisée."
+
+# game/v2/scene21.rpy:1868
+translate francais v2s21_3886d5b3:
+
+    # ro "I'm sorry you two."
+    ro "Je suis désolée pour vous deux."
+
+# game/v2/scene21.rpy:1880
+translate francais v2s21_8f14887b:
+
+    # ro "I can't trust what you're doing isn't just motivated by winning. I didn't see that today."
+    ro "Je n'arrive pas à être sûre que ce que vous entreprenez n'est pas uniquement motivé par le fait de remporter cette élection. Aujourd'hui, je n'ai pas pu le constater."
+
+# game/v2/scene21.rpy:1895
+translate francais v2s21_b940d8af:
+
+    # cl "Oh... Okay."
+    cl "Ah... D'accord."
+
+# game/v2/scene21.rpy:2025
+translate francais v2s21_d06a3051:
+
+    # cl "That's... a weird request, [name]."
+    cl "C'est... une demande bizarre, [name]."
+
+# game/v2/scene21.rpy:2097
+translate francais v2s21_b4db9cfc:
+
+    # ro "Of course you do, [name]... But, I don't think that's the right way to go."
+    ro "Bien sûr, je comprends, [name]... Mais, je ne suis pas sûre que ce soit la meilleure façon de procéder."
+
+# game/v2/scene21.rpy:2144
+translate francais v2s21_2f03d9e9:
+
+    # ro "Mmm, that could take a while."
+    ro "Hmm, ça pourrait prendre un certain temps."
+
+# game/v2/scene21.rpy:2154
+translate francais v2s21_adbb882b:
+
+    # ro "Oh my God..."
+    ro "Oh...!"
+
+# game/v2/scene21.rpy:2159
+translate francais v2s21_fa191904:
+
+    # ro "[name], stop... You're making me wet just thinking about it."
+    ro "[name], arrête... Rien que d'y penser, je mouille."
+
+# game/v2/scene21.rpy:2171
+translate francais v2s21_8e6f430e:
+
+    # ro "Such a naughty boy, [name]!"
+    ro "Quel vilain garçon, [name] !"
+
+# game/v2/scene21.rpy:2176
+translate francais v2s21_667b4e87:
+
+    # u "Mmm, yeah, maybe."
+    u "Ouaiiis, peut-être."
+
+# game/v2/scene21.rpy:2304
+translate francais v2s21_5034e570:
+
+    # ro "God..."
+    ro "Putain..."

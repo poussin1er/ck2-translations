@@ -484,3 +484,10 @@ translate francais v3s31_750ae611:
 
     # u "(I guess I can go study, not much else to do...)"
     u "(J'imagine que je peux aller travailler, y a pas grand-chose d'autre à faire...)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene31.rpy:218
+translate francais v3s31_15af15cf:
+
+    # gr "I don't care what it looks like or how it makes people feel. This is the Apes fraternity house, I am the President of the Apes, and I want her out of here!"
+    gr "J'me fous de ce à quoi elle ressemble ou de ce qu'elle fait ressentir aux gens. Ici, c'est la maison de la fraternité des Apes, je suis le président des Apes, et j'veux qu'elle dégage de chez nous !"

@@ -166,3 +166,10 @@ translate francais v3s20_amber_living_room_photos_02414b03:
 
     # u "(And is that little Amber playing violin? Ha, maybe I should ask her to play for me sometime.)"
     u "(Et c'est la petite Amber qui joue du violon ? Haha, je devrais peut-être lui demander de jouer pour moi, un jour.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene20.rpy:73
+translate francais v3s20_amber_living_room_laptop_dfa99418:
+
+    # u "(No password? It's like she's begging me to snoop through her computer...)"
+    u "(Pas de mot de passe ? C'est comme si elle me suppliait de fouiller dans son ordinateur...)"

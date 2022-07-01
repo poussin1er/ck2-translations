@@ -389,3 +389,24 @@ translate francais v1s30b_2f758ea1:
 
     # cl "Okay!"
     cl "Bon !"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene30b.rpy:147
+translate francais v1s30b_ec541876:
+
+    # cl "Well, I'll definitely include \"#presidentialStatus\". Then something about voting for me."
+    cl "Je vais sûrement mettre \"#PresidentialStatus\". Puis quelque chose à propos de voter pour moi."
+
+translate francais strings:
+
+    # game/v1/scene30b.rpy:263
+    old "What's a Chick without her Wolf? <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+    new "Qu'est-ce qu'une Chick sans son Loup ? <3 #PresidentialStatus #Vote4ChloeVote4Wolves"
+
+    # game/v1/scene30b.rpy:287
+    old "I'd like to officially announce The Chicks' partnership with The Wolves! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+    new "J'aimerais annoncer officiellement le partenariat des Chicks avec les Wolves ! <3 #PresidentialStatus #Vote4ChloeVote4Wolves"
+
+    # game/v1/scene30b.rpy:335
+    old "Teamwork makes the dreamwork! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+    new "Le travail d'équipe fait que le rêve fonctionne ! <3 #PresidentialStatus #Vote4ChloeVote4Wolves"

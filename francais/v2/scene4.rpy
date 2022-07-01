@@ -1024,7 +1024,7 @@ translate francais v2s4_dog_9f53b619:
 translate francais v2s4_dog_11906579:
 
     # u "I can see why you're President of the Deer. *Chuckles*"
-    u "Je vois pourquoi tu es la Présidente des Deers. *Rire*"
+    u "Je vois pourquoi t'es la Présidente des Deers. *Rire*"
 
 # game/v2/scene4.rpy:1070
 translate francais v2s4_dog_25e23825:
@@ -2157,7 +2157,7 @@ translate francais v2s4_dog_930a31ed:
 translate francais v2s4_dog_b95c8563:
 
     # u "I can see why you're president of the Deer."
-    u "Je comprends pourquoi tu es la présidente des Deers."
+    u "Je comprends pourquoi t'es la présidente des Deers."
 
 # game/v2/scene4.rpy:1078
 translate francais v2s4_dog_790c37ee:
@@ -2440,3 +2440,34 @@ translate francais v2s4_dog_9bd30be3:
 
     # u "Yeah, you deserve a break at the very least."
     u "Ouais, tu mérites vraiment une petite pause."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene4.rpy:1068
+translate francais v2s4_dog_3d7a9fc7:
+
+    # u "I can see why you're President of the Deer."
+    u "Je vois pourquoi t'es la Présidente des Deers."
+
+# game/v2/scene4.rpy:1489
+translate francais v2s4_dog_2a108909:
+
+    # aut "You said it yourself, [name]. Being President is stressful."
+    aut "Tu l'as dit toi-même, [name]. Être présidente est stressant."
+
+# game/v2/scene4.rpy:1494
+translate francais v2s4_dog_3ddb8600:
+
+    # u "Ahhh... so, the key to being the perfect President is marijuana?"
+    u "Ahhh... Donc, la clé pour être la Présidente parfaite est la marijuana ?"
+
+# game/v2/scene4.rpy:1572
+translate francais v2s4_dog_2a108909_1:
+
+    # aut "You said it yourself, [name]. Being President is stressful."
+    aut "Tu l'as dit toi-même, [name]. Être présidente est stressant."
+
+# game/v2/scene4.rpy:1577
+translate francais v2s4_dog_3ddb8600_1:
+
+    # u "Ahhh... so, the key to being the perfect President is marijuana?"
+    u "Ahhh... Donc, la clé pour être la Présidente parfaite est la marijuana ?"

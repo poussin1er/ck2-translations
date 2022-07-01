@@ -868,3 +868,34 @@ translate francais v3s71_sg_e716121b:
 
     # pe "Ha, yep. He's got it easy now that he's found a good owner."
     pe "Il a la belle vie, maintenant qu'il a trouvé une bonne propriétaire."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene71.rpy:86
+translate francais v3s71_99c75cf7:
+
+    # u "(Ha, it's so weird seeing the Dean like this.)"
+    u "(Ça fait bizarre de voir la Doyenne comme ça.)"
+
+# game/v3/scene71.rpy:141
+translate francais v3s71_c38bf676:
+
+    # pe "Don't talk to your Dean like that. Show me some respect!"
+    pe "Ne parlez pas à votre Doyenne comme ça. Montrez-moi un peu de respect !"
+
+# game/v3/scene71.rpy:238
+translate francais v3s71_dea19965:
+
+    # pe "Come give your Dean a kiss, [name]."
+    pe "Venez embrasser votre Doyenne, [name]."
+
+# game/v3/scene71.rpy:298
+translate francais v3s71_92654d3e:
+
+    # pe "I think you should kiss me again. I want to take care of Oscar and my reputation with the Dean, but first things first..."
+    pe "Je crois que tu devrais m'embrasser encore. Il faut que je m'occupe d'Oscar et de ma réputation auprès de la doyenne, mais... chaque chose en son temps..."
+
+# game/v3/scene71.rpy:367
+translate francais v3s71_sg_05ff8dc7:
+
+    # u "Not a problem. Could you imagine if the Dean were to walk in on us in her office, on her desk?"
+    u "En plus, tu imagines si la doyenne nous surprenait dans son bureau ? Sur son bureau ?"

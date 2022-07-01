@@ -371,3 +371,148 @@ translate francais v2s40_e6c2fa42:
 
     # u "Goodnight, Autumn."
     u "Bonne nuit, Autumn."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene40.rpy:13
+translate francais v2s40_66143287:
+
+    # aut "Look at them. How did all three of them pass out?"
+    aut "Regarde-les. Comment ont-ils pu perdre connaissance tous les trois ?"
+
+# game/v2/scene40.rpy:23
+translate francais v2s40_a072bf15:
+
+    # aut "It's a curse really, I think it's my crazy metabolism."
+    aut "C'est une plaie, vraiment, je pense que ça vient de mon métabolisme détraqué."
+
+# game/v2/scene40.rpy:83
+translate francais v2s40_8e0f56b9:
+
+    # u "O-oh, that's... Really?!"
+    u "O-oh, c'est... Sérieux ?!"
+
+# game/v2/scene40.rpy:88
+translate francais v2s40_bf912f61:
+
+    # aut "Yeah? What do you think?"
+    aut "Heu...? Et toi, qu'en penses-tu ?"
+
+# game/v2/scene40.rpy:106
+translate francais v2s40_8cd61988:
+
+    # aut "Yeah. *Sighs* But you're dating my sister, so it's never going to happen. What am I thinking?"
+    aut "Oui... *Soupirs* Mais tu sors avec ma sœur, ça n'arrivera donc jamais. À quoi je pense ?"
+
+# game/v2/scene40.rpy:121
+translate francais v2s40_df027131:
+
+    # aut "Guess I should've made my move the minute we met. Like finder's keepers."
+    aut "J'aurais aimé faire ma démarche à la minute où nous nous sommes rencontrés. Genre : première arrivé, première servie."
+
+# game/v2/scene40.rpy:126
+translate francais v2s40_8ae38a2a:
+
+    # u "Damn... Too bad they haven't built a time machine yet."
+    u "Merde... Dommage que t'aies pas encore construit de machine à remonter le temps."
+
+# game/v2/scene40.rpy:131
+translate francais v2s40_987619d0:
+
+    # aut "Right... Not yet..."
+    aut "Bien... Pas encore..."
+
+# game/v2/scene40.rpy:141
+translate francais v2s40_680f9759:
+
+    # aut "Thanks..."
+    aut "Merci..."
+
+# game/v2/scene40.rpy:159
+translate francais v2s40_c51548c7:
+
+    # aut "Wow... That's such a relief. I was so nervous to ask!"
+    aut "Wow... Ça me soulage tellement. J'étais si nerveuse à l'idée de te demander ça."
+
+# game/v2/scene40.rpy:164
+translate francais v2s40_bb97b070:
+
+    # u "What? I'd be crazy not to feel the same way. We get along so well, you're amazing."
+    u "Quoi ? Je serais fou de pas ressentir la même chose. On s'entend si bien, tu es incroyable."
+
+# game/v2/scene40.rpy:169
+translate francais v2s40_e42672dd:
+
+    # aut "Aww, thank you..."
+    aut "Oooh, merci..."
+
+# game/v2/scene40.rpy:174
+translate francais v2s40_1395347b:
+
+    # u "Of course. Since the moment we met on the stairs, I pretty much knew we'd cross paths again eventually."
+    u "Évidemment. Depuis le jour où on s'est rencontrés dans les escaliers, j'ai compris qu'on allait finir par nous revoir."
+
+# game/v2/scene40.rpy:208
+translate francais v2s40_ba27cc63:
+
+    # aut "Well, I don't really know what to say."
+    aut "Je ne sais pas trop quoi dire."
+
+# game/v2/scene40.rpy:213
+translate francais v2s40_c15a8d7e:
+
+    # u "How about \"We should do that again some time?\""
+    u "Que penses-tu de : \"On devrait recommencer ça un jour ?\""
+
+# game/v2/scene40.rpy:218
+translate francais v2s40_f60e2574:
+
+    # aut "We should definitely do that again some time. Making out is fun."
+    aut "Il faudra absolument qu'on refasse ça un jour. S'embrasser est très agréable."
+
+# game/v2/scene40.rpy:223
+translate francais v2s40_f188d697:
+
+    # u "Glad we're on the same page."
+    u "Content qu'on soit sur la même longueur d'onde."
+
+# game/v2/scene40.rpy:248
+translate francais v2s40_0c2a655f:
+
+    # u "I think we have a lot of fun when we hang out together. And I don't risk losing that."
+    u "Je trouve qu'on s'amuse beaucoup quand on traîne ensemble. Et j'ai pas envie de gâcher ça."
+
+# game/v2/scene40.rpy:269
+translate francais v2s40_872c532e:
+
+    # aut "You're going out with my sister anyway! So yeah, what am I thinking? Not like anything can happen."
+    aut "Tu sors avec ma sœur de toute façon ! Alors oui, à quoi est-ce que je pense ? Ce n'est pas comme si quelque chose pouvait se produire."
+
+# game/v2/scene40.rpy:284
+translate francais v2s40_cb5a1084:
+
+    # aut "Good."
+    aut "Bon."
+
+# game/v2/scene40.rpy:300
+translate francais v2s40_683e9c17:
+
+    # aut "I get that you have questions. I just need more time to process things, I guess. It's still pretty new for me."
+    aut "Je peux comprendre que tu aies des questions. Je crois que j'ai besoin de plus de temps pour digérer les choses. C'est encore assez nouveau pour moi."
+
+# game/v2/scene40.rpy:333
+translate francais v2s40_8e738f36:
+
+    # aut "Grayson, not so much."
+    aut "Grayson, pas vraiment."
+
+# game/v2/scene40.rpy:338
+translate francais v2s40_f36ec757:
+
+    # u "He's a bit of... an acquired taste, huh?"
+    u "Il est un peu... chelou, hein ?"
+
+# game/v2/scene40.rpy:343
+translate francais v2s40_c6cef7dd:
+
+    # aut "That's a very polite way of putting it."
+    aut "C'est une façon très polie de le dire."

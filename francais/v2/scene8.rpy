@@ -294,3 +294,70 @@ translate francais v2s8_eb16a63f:
 
     # u "Bye, Chloe."
     u "À plus, Chloé."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene8.rpy:32
+translate francais v2s8_45fdf147:
+
+    # cl "Too bad. It's gonna be murder."
+    cl "C'est bien dommage. Ça va être un véritable assassinat."
+
+# game/v2/scene8.rpy:34
+translate francais v2s8_9f8649d2:
+
+    # cl "Kidding."
+    cl "Je rigole."
+
+# game/v2/scene8.rpy:36
+translate francais v2s8_225ecbe8:
+
+    # cl "Except for murdering Lindsey's campaign. We're winning no matter what it takes."
+    cl "Excepté sur le fait d'assassiner la campagne de Lindsey. On gagnera coûte que coûte."
+
+# game/v2/scene8.rpy:47
+translate francais v2s8_110e5878:
+
+    # cl "Eww, no... I like it when you're in charge..."
+    cl "Euh, non... J'aime bien quand c'est toi qui commande..."
+
+# game/v2/scene8.rpy:52
+translate francais v2s8_63f9e71d:
+
+    # u "Mmm, oh yeah? I like being in charged."
+    u "Mmm, et pourquoi pas ? J'aime bien avoir des responsabilités."
+
+# game/v2/scene8.rpy:62
+translate francais v2s8_4c76d10c:
+
+    # u "*Coughs* Ahem, right then. Show me."
+    u "*Tousse* Hum, d'accord. Montre-moi."
+
+# game/v2/scene8.rpy:152
+translate francais v2s8_153dc7d4:
+
+    # u "Oh yeah? Is that true?"
+    u "Ah oui ? C'est vrai ça ?"
+
+# game/v2/scene8.rpy:157
+translate francais v2s8_202327d5:
+
+    # cl "For some it slips out quicker than others-"
+    cl "Pour certaines filles, ça sort plus vite que d'autres-"
+
+# game/v2/scene8.rpy:167
+translate francais v2s8_cee3b098:
+
+    # cl "*Sighs* But yeah. Eventually."
+    cl "*Soupirs* Mais ouais. Peut-être."
+
+# game/v2/scene8.rpy:236
+translate francais v2s8_ab2f2278:
+
+    # u "presidential phone calls?"
+    u "Des appels téléphoniques présidentiels ?"
+
+# game/v2/scene8.rpy:262
+translate francais v2s8_39684b21:
+
+    # cl "Nooooothing! Bye now."
+    cl "Riennnnnnn ! À plus tard."

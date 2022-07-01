@@ -1171,3 +1171,22 @@ translate francais v1s37_3a23368f:
 
     # u "I thought I'd get here before you and try to get us a table. Didn't think you'd get here so fast."
     u "Je pensais arriver avant toi et essayer de nous trouver une table. Je pensais pas que tu serais là si vite."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene37.rpy:437
+translate francais v1s37_8bd78e87:
+
+    # pe "*Sighs* It was the Dean. I swear she's out to get me."
+    pe "*Soupirs* C'était la doyenne, je suis sûre qu'elle veut ma peau."
+
+# game/v1/scene37.rpy:615
+translate francais v1s37_fc678168:
+
+    # u "The Dean obviously isn't letting you forget, so we might as well laugh about it at this point."
+    u "La doyenne te laissera manifestement pas oublier tout ça, alors au point où tu en es, autant en rire."
+
+# game/v1/scene37.rpy:645
+translate francais v1s37_b58b795c:
+
+    # u "And the Dean is blocking you from having an interview?"
+    u "Et la doyenne t'empêche d'avoir cet entretien ?"

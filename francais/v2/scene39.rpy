@@ -1018,7 +1018,7 @@ translate francais v2s39_stop_lindsey_5ebaf5d6_1:
 translate francais v2s39_stop_lindsey_a49478e4_1:
 
     # gr "Don't be surprised if there's no drinks left when you get back, haha."
-    gr "Soyez pas surpris s'il y a plus rien à boire en revenant, haha."
+    gr "Soyez pas surpris s'il y a plus rien à boire en r'venant, haha."
 
 # game/v2/scene39.rpy:1140
 translate francais v2s39_stop_lindsey_c21f0f74:
@@ -1094,3 +1094,214 @@ translate francais v2s39_1adf7bb2:
 
     # bartender "Yes... I'll be back in a bit."
     bartender "Oui... Je reviens dans un instant."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene39.rpy:56
+translate francais v2s39_4c9d6d7b:
+
+    # se "Holy shit, so many choices. This is gonna be _lit_!"
+    se "Merde, il y a tellement de choix. Ça va être \"facile\" !"
+
+# game/v2/scene39.rpy:66
+translate francais v2s39_f10d2bb8:
+
+    # se "I could get used to it. What a life!"
+    se "Je pourrais m'habituer à ça. Quelle vie !"
+
+# game/v2/scene39.rpy:77
+translate francais v2s39_5b7307a9:
+
+    # u "Well, this is VIP."
+    u "Eh bien, c'est VIP."
+
+# game/v2/scene39.rpy:114
+translate francais v2s39_75c4fa4c:
+
+    # li "Yeah, we all will! Just surprise us."
+    li "Ouais, on va tous faire ça ! Surprenez-nous, tout simplement."
+
+# game/v2/scene39.rpy:219
+translate francais v2s39_c7d595c8:
+
+    # se "But since it's mocktails instead, I guess it might be cheaper?"
+    se "Mais comme il s'agit plutôt de mocktails, j'imagine que ça doit être moins cher ?"
+
+# game/v2/scene39.rpy:233
+translate francais v2s39_d871f386:
+
+    # gr "A full line up of endless liquor? No. This is not cheap."
+    gr "Une gamme complète d'alcools infini ? Non. C'est pas donné."
+
+# game/v2/scene39.rpy:301
+translate francais v2s39_8014b19c:
+
+    # li "Hey, everyone... I just want to thank you so much for coming and talk about something serious real quick, and then we can get straight back into having fun, okay?"
+    li "Hey, tout le monde... Je tenais à vous remercier d'être venus et je voulais rapidement parler de quelque chose de sérieux. Ensuite, on pourra recommencer à s'amuser, d'accord ?"
+
+# game/v2/scene39.rpy:312
+translate francais v2s39_3024652d:
+
+    # li "Aww. Thanks, Seb."
+    li "Oooh. Merci, Seb."
+
+# game/v2/scene39.rpy:323
+translate francais v2s39_a24a69a4:
+
+    # u "(I should speak for myself, I'm also leading the double agent life!)"
+    u "(Je devrais parler pour moi, je mène aussi la vie d'agent double !)"
+
+# game/v2/scene39.rpy:357
+translate francais v2s39_afa4f304:
+
+    # gr "Hey, I'm fucking here and listening, aren't I?"
+    gr "Hé, putain, tu m'as fait venir et j't'écoute, nan ?"
+
+# game/v2/scene39.rpy:420
+translate francais v2s39_34f02430:
+
+    # li "Okay. That's fair. How about for the Wolves then?"
+    li "Oui. C'est juste. Et pour les Wolves alors ?"
+
+# game/v2/scene39.rpy:425
+translate francais v2s39_b287d10d:
+
+    # se "I mean, again, not much. I guess I may have nothing to say about Chloe, but at least a couple of good things to list about you."
+    se "Encore une fois, pas grand-chose. Je crois que sur Chloé, je n'ai peut-être rien à dire, mais au moins j'ai quelques bonnes choses à énumérer à ton sujet."
+
+# game/v2/scene39.rpy:430
+translate francais v2s39_b248a554:
+
+    # li "Aww, thanks!"
+    li "Ooh, merci !"
+
+# game/v2/scene39.rpy:458
+translate francais v2s39_51f3c949:
+
+    # aut "I've invited her to participate in some of the Deer events, but she always bails. Not even a message to say sorry usually."
+    aut "Je l'ai invité à participer à certains des événements des Deers, mais elle se désiste toujours. Et la plupart du temps, même pas un message pour s'excuser."
+
+# game/v2/scene39.rpy:502
+translate francais v2s39_0adc8d3d:
+
+    # au "You're right. She should be doing more..."
+    au "T'as raison. Elle devrait en faire plus..."
+
+# game/v2/scene39.rpy:524
+translate francais v2s39_9e594346:
+
+    # u "Mhmm."
+    u "Mhmm."
+
+# game/v2/scene39.rpy:572
+translate francais v2s39_4917b946:
+
+    # aut "Shots on a Sunday night. That'll be fun tomorrow."
+    aut "Des fusillades le dimanche soir. Ça devrait être amusant demain."
+
+# game/v2/scene39.rpy:622
+translate francais v2s39_a2ab4d2e:
+
+    # li "Okay, fine! One more then I'm done."
+    li "Ok, d'accord ! Encore un et c'est fini."
+
+# game/v2/scene39.rpy:667
+translate francais v2s39_change_subject_2a6c5db5:
+
+    # li "Ooh! Should we go and dance now?"
+    li "Ooh ! Tu veux qu'on aille danser maintenant ?"
+
+# game/v2/scene39.rpy:672
+translate francais v2s39_change_subject_f3c6f2e2:
+
+    # aut "Yeah, that's a great idea. I need to move!"
+    aut "Oui, très bonne idée. J'ai envie de bouger !"
+
+# game/v2/scene39.rpy:704
+translate francais v2s39_change_subject_e869b605:
+
+    # u "You were telling us what you don't like about Chloe."
+    u "Tu nous disais ce que t'aimes pas chez Chloé."
+
+# game/v2/scene39.rpy:819
+translate francais v2s39_stop_lindsey_b79c74ac:
+
+    # li "*Drunk* Without the President's scholarship, she'd have to sell all of that plastic back to the surgeons..."
+    li "*Bourrée* Zans la bourze de Présidente, elle defra reventre tout son blaztique aux chirurchiens..."
+
+# game/v2/scene39.rpy:825
+translate francais v2s39_stop_lindsey_ffae4fb1:
+
+    # se "Jeez, Lindsey..."
+    se "Arrête, Lindsey..."
+
+# game/v2/scene39.rpy:835
+translate francais v2s39_stop_lindsey_4da47084:
+
+    # se "It's not like you to say something like that. Come on..."
+    se "Ça ne te ressemble pas de dire de telles choses. Arrête..."
+
+# game/v2/scene39.rpy:842
+translate francais v2s39_stop_lindsey_2b50d9b3:
+
+    # li "*Drunk* That was so rude of me..."
+    li "*Bourrée* Z'était fraiment imboli d'ma part..."
+
+# game/v2/scene39.rpy:852
+translate francais v2s39_stop_lindsey_edf5d664:
+
+    # au "Stress and alcohol really don't mix well together, girl."
+    au "Le stress et l'alcool font vraiment pas bon ménage, ma chérie."
+
+# game/v2/scene39.rpy:863
+translate francais v2s39_stop_lindsey_19285d6e:
+
+    # gr "Holy fuck! Go Lindsey! That's hilarious, I love it..."
+    gr "Putain de merde ! Vas-y Lindsey ! C'est trop drôle, je kiffe..."
+
+# game/v2/scene39.rpy:944
+translate francais v2s39_stop_lindsey_fad85dba:
+
+    # li "I don't hate her, [name]. Chloe's a Chick and will always be a sorority sister."
+    li "Je ne la déteste pas, [name]. Chloé est une fille et sera toujours une sœur de sororité."
+
+# game/v2/scene39.rpy:1001
+translate francais v2s39_stop_lindsey_e89f95f4:
+
+    # li "Why would I say any of that, [name]?"
+    li "Pourquoi est-ce que je dirais tout ça, [name] ?"
+
+# game/v2/scene39.rpy:1006
+translate francais v2s39_stop_lindsey_3f93b4a6:
+
+    # au "Wow."
+    au "Wow."
+
+# game/v2/scene39.rpy:1033
+translate francais v2s39_stop_lindsey_af609c66:
+
+    # u "I don't know... but you kind of just did."
+    u "Je sais pas... mais en gros, tu viens de le faire."
+
+# game/v2/scene39.rpy:1038
+translate francais v2s39_stop_lindsey_2ba4c0d6:
+
+    # li "Yeah, but I didn't mean it. It was just a joke, guys."
+    li "Ouais, mais je ne pensais à rien de tout ça. C'était juste une plaisanterie."
+
+# game/v2/scene39.rpy:1044
+translate francais v2s39_stop_lindsey_171cf468:
+
+    # gr "A really fucking good one too. Fucking Chloe..."
+    gr "Une putain de bonnasse aussi ! Putain de Chloé..."
+
+# game/v2/scene39.rpy:1051
+translate francais v2s39_stop_lindsey_159cd0c3:
+
+    # li "No. I don't... Now stop asking provocative questions."
+    li "Non. J'ai pas dit ça... Maintenant, arrête de poser des questions provocantes."
+
+# game/v2/scene39.rpy:1102
+translate francais v2s39_stop_lindsey_36bc8112:
+
+    # gr "Don't be surprised if there's no drinks left when you get back."
+    gr "Soyez pas surpris s'il y a plus rien à boire en r'venant"

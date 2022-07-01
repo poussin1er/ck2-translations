@@ -594,3 +594,48 @@ translate francais v2s9_b621a4c2:
 
     # u "(Damn, I thought we did a decent job of pricing that thing. Hindsight's a bitch.)"
     u "(Merde, je croyais qu'on avait fait du bon travail pour évaluer le prix de ce truc... La réflexion est une salope.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene9.rpy:28
+translate francais v2s9_8cbe28e5:
+
+    # au "Hi, [name]!"
+    au "Salut, [name] !"
+
+# game/v2/scene9.rpy:33
+translate francais v2s9_5ba1e3be:
+
+    # u "You doing better? You were pretty upset the other day."
+    u "Tu vas mieux ? T'étais plutôt contrariée l'autre jour."
+
+# game/v2/scene9.rpy:38
+translate francais v2s9_4fde2c2b:
+
+    # au "Uh, yeah. I think we have Chloe and I have all the Chicks stuff with the college dealt with."
+    au "Euh, ouais. On a Chloé et pourtant, j'ai réglé tous les problèmes qu'ont les Chicks avec l'université."
+
+# game/v2/scene9.rpy:40
+translate francais v2s9_1c18fa52:
+
+    # au "Still fucking sucks, though..."
+    au "Ça craint quand même..."
+
+# game/v2/scene9.rpy:45
+translate francais v2s9_2b5f4cbf:
+
+    # au "Anyways, you're actually just the guy I wanted to see."
+    au "Bref, t'es pile poil le mec que je voulais voir, en fait."
+
+# game/v2/scene9.rpy:107
+translate francais v2s9_800737b0:
+
+    # u "(There's no reason why I can't go with her, at least for moral support. But I should make it clear if I want something more from her...)"
+    u "(Il n'y a aucune raison pour que je puisse pas l'accompagner, au moins pour le soutien moral. Mais je devrais préciser si je souhaite quelque chose de plus de sa part...)"
+
+# TODO: Translation updated at 2022-06-25 18:46
+
+# game/v2/scene9.rpy:45
+translate francais v2s9_ccfaf4e6:
+
+    # au "Anyways, you're actually just the guy I wanted to see."
+    au "Bref, t'es pile poil le mec que je voulais voir, en fait."

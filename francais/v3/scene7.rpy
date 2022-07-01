@@ -799,3 +799,10 @@ translate francais v3s7_did_not_sabotage_lindsey_4cfca50a:
 
     # u "Yeah, I have a few minutes before class. See you out there!"
     u "Pourquoi pas ? J'ai quelques instants avant le cours. On se retrouve là-bas !"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene7.rpy:163
+translate francais v3s7_phoneContinue_bf4f575d:
+
+    # pha "*Drunk* Do you want a list? I mean, where do I start?"
+    pha "*Bourrée* Du veux une liste ? WHOOOO !!! Bon... Je gommence par quoi ?"

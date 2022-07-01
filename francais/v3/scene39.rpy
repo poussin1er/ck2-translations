@@ -2244,3 +2244,10 @@ translate francais v3s39_fr_aubrey_date_dessert_menu_01097cf9:
 
     # au "For real."
     au "Vraiment."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene39.rpy:1391
+translate francais v3s39_fr_aubrey_date_dessert_menu_350961bd:
+
+    # waiter "*Loud singing*... Youuuuu-"
+    waiter "*Chante fort*... VOUUUUUUUS !!!"

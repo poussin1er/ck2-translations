@@ -417,3 +417,14 @@ translate francais strings:
     # game/compact/ck1_kiwii_posts.rpy:151
     old "OMG! You look just like me! <3"
     new "Oh mon Dieu ! Tu me ressembles comme deux gouttes d'eau ! <3"
+# TODO: Translation updated at 2022-06-25 18:46
+
+translate francais strings:
+
+    # game/compact/ck1_kiwii_posts.rpy:60
+    old "Who's ready?!"
+    new "Qui est prêt ?"
+
+    # game/compact/ck1_kiwii_posts.rpy:81
+    old "Where my APES at?"
+    new "Où sont mes APES ?"

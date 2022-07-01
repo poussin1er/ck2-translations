@@ -268,13 +268,13 @@ translate francais v2s38_a78c6b73:
 translate francais v2s38_384db83e:
 
     # li "You're already with a bunch of hot girls!"
-    li "Tu es déjà avec un tas de filles sexy !"
+    li "Tu es déjà avec un tas de \"meufs\" sexy !"
 
 # game/v2/scene38.rpy:316
 translate francais v2s38_72b91e9b:
 
     # gr "Hmm, that's questionable. *Laughs*"
-    gr "Hmm, ça se discute. *Rire*"
+    gr "Mouais... On peut dire ça comme ça. *Rire*"
 
 # game/v2/scene38.rpy:322
 translate francais v2s38_76b77938:
@@ -382,7 +382,7 @@ translate francais v2s38_2a92376f:
 translate francais v2s38_b09487e4:
 
     # aut "Hey! I'm smart, okay?"
-    aut "Hé ! Je suis intelligente, ok ?"
+    aut "Hé ! Je suis intelligente, d'accord ?"
 
 # game/v2/scene38.rpy:459
 translate francais v2s38_d4164a2a:
@@ -508,13 +508,13 @@ translate francais v2s38_58e45bd2:
 translate francais v2s38_5c42410c:
 
     # gr "I bet someone here still is though."
-    gr "Je parie que quelqu'un ici l'est toujours, par contre."
+    gr "Par contre, je parie que quelqu'un ici l'est toujours."
 
 # game/v2/scene38.rpy:574
 translate francais v2s38_de7f593f:
 
     # gr "Definitely not Aubrey. Not according to everyone on campus... Haha!"
-    gr "Définitivement pas Aubrey. D'après tout le monde sur le campus... Haha !"
+    gr "Mais clairement pas Aubrey. D'après tout le monde sur le campus... Haha !"
 
 # game/v2/scene38.rpy:579
 translate francais v2s38_c13186a9:
@@ -1005,3 +1005,364 @@ translate francais strings:
     # game/v2/scene38.rpy:761
     old "Ask a question"
     new "Poser une question"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene38.rpy:95
+translate francais v2s38_5f8f5cfc:
+
+    # gr "Pfft, no it's not! But yeah, you too... I guess."
+    gr "Pfft, non pas du tout ! Mais ouais, te voir aussi... on va dire."
+
+# game/v2/scene38.rpy:101
+translate francais v2s38_b5881888:
+
+    # u "Well well, nice of you to join us, Grayson."
+    u "Bien bien bien, c'est sympa de te joindre à nous, Grayson."
+
+# game/v2/scene38.rpy:128
+translate francais v2s38_afe09ddd:
+
+    # u "I'm glad you're looking forward to it."
+    u "Je suis ravi que t'aies hâte d'arriver."
+
+# game/v2/scene38.rpy:139
+translate francais v2s38_d5e85e08:
+
+    # se "Yeah, you too. It's not often that we get to hang out without Chris and Grayson pushing us to throw down."
+    se "Ouais, toi aussi. Ce n'est pas souvent qu'on a l'occasion de traîner ensemble sans que Chris et Grayson nous poussent à nous battre."
+
+# game/v2/scene38.rpy:144
+translate francais v2s38_d2d027a9:
+
+    # u "Yeah, very true!"
+    u "Ouais, c'est vrai !"
+
+# game/v2/scene38.rpy:172
+translate francais v2s38_73278001:
+
+    # au "*Whispers* I'm pissed at you, but I'll try to be civil. Just for tonight, okay?"
+    au "*Chuchote* Je suis toujours en colère contre toi, mais je vais essayer de rester courtoise. Juste pour ce soir, d'accord ?"
+
+# game/v2/scene38.rpy:187
+translate francais v2s38_d4253444:
+
+    # au "Me neither."
+    au "Moi non plus."
+
+# game/v2/scene38.rpy:193
+translate francais v2s38_e4e2ec35:
+
+    # u "Hey, you. Sick of me yet?"
+    u "Salut, toi. T'en as déjà marre de moi ?"
+
+# game/v2/scene38.rpy:198
+translate francais v2s38_84fb0223:
+
+    # au "Sick of the guy who helped me survive an afternoon with my fucking family? Never."
+    au "Marre du mec qui m'a aidé à survivre à toute une après-midi avec ma putain de famille ? Jamais."
+
+# game/v2/scene38.rpy:203
+translate francais v2s38_d746527f:
+
+    # u "Well, you deserve nothing but handsome chaperones and limo rides, so get used to it."
+    u "Tu mérites rien d'autre que les services de beaux gardes du corps et les promenades en limousine, alors habitue-toi."
+
+# game/v2/scene38.rpy:220
+translate francais v2s38_bd71774f:
+
+    # gr "I'm only asking because I never hear a damn thing about your sorority!"
+    gr "Je pose la question parce qu'on parle jamais de ta sororité !"
+
+# game/v2/scene38.rpy:252
+translate francais v2s38_f1d5b0c2:
+
+    # aut "Everyone knows what the Deer are about, Grayson. Like the way people know what the Apes are about."
+    aut "Tout le monde sait ce que sont les Deers, Grayson. Tout comme les gens savent ce que sont les Apes."
+
+# game/v2/scene38.rpy:259
+translate francais v2s38_8ac90046:
+
+    # au "Only sometimes?"
+    au "Parfois seulement ?"
+
+# game/v2/scene38.rpy:301
+translate francais v2s38_ee631ef8:
+
+    # gr "There better be loads of hot girls. That's the only reason I'm going."
+    gr "Y a intérêt à ce qu'il y ait plein de meufs sexy. C'est pour ça que j'y vais."
+
+# game/v2/scene38.rpy:316
+translate francais v2s38_9295928f:
+
+    # gr "I guess we've got different standards, right [name]?."
+    gr "On va dire qu'on a des critères différents, hein [name] ?"
+
+# game/v2/scene38.rpy:358
+translate francais v2s38_712e5caf:
+
+    # gr "That's right, [name], get those hands in the air! I guess you're okay for a pussy Wolf."
+    gr "C'est ça, [name], lève les mains en l'air ! On dirait qu't'es bon pour une Wolfette."
+
+# game/v2/scene38.rpy:363
+translate francais v2s38_4b43a771:
+
+    # li "Oh my God, guys, that's not what tonight is about."
+    li "Oh làlà... les gars, c'est pas le sujet de ce soir."
+
+# game/v2/scene38.rpy:368
+translate francais v2s38_ef89a7b7:
+
+    # gr "It is for us."
+    gr "Pour nous, si !"
+
+# game/v2/scene38.rpy:381
+translate francais v2s38_9b612a61:
+
+    # gr "Seriously? You guys are so fucking boring!"
+    gr "Sérieux ? Pfff... vous êtes trop chiants !"
+
+# game/v2/scene38.rpy:387
+translate francais v2s38_d9068217:
+
+    # se "I've been working so hard on things with the Wolves lately. This night out is seriously needed."
+    se "J'ai beaucoup travaillé sur certaines choses avec les Wolves ces derniers temps. Cette soirée est vraiment nécessaire."
+
+# game/v2/scene38.rpy:407
+translate francais v2s38_52d0f97f:
+
+    # u "Yeah, no thanks... That's a scary thought."
+    u "Ouais, non merci... Ça fait peur."
+
+# game/v2/scene38.rpy:412
+translate francais v2s38_f5f36876:
+
+    # se "You're telling me."
+    se "C'est toi qui le dis."
+
+# game/v2/scene38.rpy:436
+translate francais v2s38_dd2c22b0:
+
+    # li "Hell yeah! Cheers to that!"
+    li "Oh ouais ! Je trinque à ça !"
+
+# game/v2/scene38.rpy:459
+translate francais v2s38_8f43b029:
+
+    # se "Yeah, Autumn will be fine... But the rest of us, well... He might be right."
+    se "Oui, Autumn réussira parfaitement... Mais pour le reste d'entre nous, ben... Il a peut-être raison."
+
+# game/v2/scene38.rpy:480
+translate francais v2s38_3568ee33:
+
+    # au "Nah. I'm going to keep Uncle Ricky in as much cheese as he wants."
+    au "Nan. Je vais garder l'oncle Ricky avec tout le fromage qu'il désire."
+
+# game/v2/scene38.rpy:485
+translate francais v2s38_27d7c84e:
+
+    # se "What the hell is an Uncle Ricky...? You're going to put him in cheese?"
+    se "C'est quoi un Oncle Ricky...? Tu vas le mettre dans du fromage ?"
+
+# game/v2/scene38.rpy:508
+translate francais v2s38_c5761308:
+
+    # au "You seem to be working really hard and people are definitely taking notice."
+    au "T'as l'air de travailler très dur et tout le monde le voit bien."
+
+# game/v2/scene38.rpy:543
+translate francais v2s38_d51316c1:
+
+    # li "Well... No, no sex."
+    li "Eh bien... Non, pas de sexe."
+
+# game/v2/scene38.rpy:548
+translate francais v2s38_dadfc6bd:
+
+    # au "That's got to be frustrating."
+    au "Ça doit être frustrant."
+
+# game/v2/scene38.rpy:564
+translate francais v2s38_7ec7e618:
+
+    # gr "*Snorts*"
+    gr "*Renifle*."
+
+# game/v2/scene38.rpy:574
+translate francais v2s38_60c097f1:
+
+    # gr "Definitely not Aubrey. Not according to everyone on campus!"
+    gr "Mais clairement pas Aubrey. D'après tout le monde sur le campus..."
+
+# game/v2/scene38.rpy:584
+translate francais v2s38_9383cf84:
+
+    # au "Why the fuck did we invite King Ape? One day you're gonna choke on your own bullshit. I hope I'm around to watch."
+    au "Pourquoi est-ce qu'on a invité le King Louie ? Un jour, tu vas t'étouffer dans ta propre connerie. J'espère être là pour voir ça."
+
+# game/v2/scene38.rpy:599
+translate francais v2s38_5ad0364a:
+
+    # aut "I don't know if I should take it as a compliment or be creeped out that you care, Grayson."
+    aut "Je ne sais pas si je dois le prendre comme un compliment ou être effrayée que tu t'en préoccupes, Grayson."
+
+# game/v2/scene38.rpy:601
+translate francais v2s38_1acab090:
+
+    # aut "Not that it's any of your business, but..."
+    aut "Ce n'est pas que ce sont tes affaires, mais..."
+
+# game/v2/scene38.rpy:617
+translate francais v2s38_56f9a776:
+
+    # se "Is it possible to live without sex?"
+    se "C'est possible de vivre sans sexe ?"
+
+# game/v2/scene38.rpy:622
+translate francais v2s38_9a03643b:
+
+    # aut "Well, I might know a thing or two about that."
+    aut "Eh bien, je pourrais bien connaître une chose ou deux à ce propos."
+
+# game/v2/scene38.rpy:627
+translate francais v2s38_88cf162f:
+
+    # se "Really, Autumn? I'm genuinely surprised, I could set you up if you're ever interested, you're a babe."
+    se "Sérieux, Autumn ? Je suis vraiment surpris, je pourrais t'arranger le coup si ça t'intéresse, tu es une bombe."
+
+# game/v2/scene38.rpy:632
+translate francais v2s38_9d812996:
+
+    # aut "Oh, no, that's not the issue."
+    aut "Oh, non, ce n'est pas ça le souci."
+
+# game/v2/scene38.rpy:650
+translate francais v2s38_2c8c7761:
+
+    # aut "It basically means I don't desire sex. I'm not controlled by those... uh, primal urges you all have."
+    aut "En gros, ça veut dire que je ne désire pas avoir de relations sexuelles. Je ne suis pas contrôlée par ces... pulsions primaires que vous avez tous."
+
+# game/v2/scene38.rpy:655
+translate francais v2s38_9debc918:
+
+    # u "Makes it sound like a superpower."
+    u "On dirait un super pouvoir."
+
+# game/v2/scene38.rpy:678
+translate francais v2s38_e32c471e:
+
+    # aut "Nope. I've fooled around a little, but I haven't ever felt like I wanted to go the whole way."
+    aut "Non. J'ai un peu batifolé, mais je n'ai jamais eu envie d'aller jusqu'au bout."
+
+# game/v2/scene38.rpy:683
+translate francais v2s38_8963aed7:
+
+    # au "What? You're missing out. Sex is amazing!"
+    au "Quoi ? Tu rates quelque chose. Le sexe est incroyable !"
+
+# game/v2/scene38.rpy:688
+translate francais v2s38_3ce52ef8:
+
+    # aut "I'll just have to take your word for it."
+    aut "Je vais devoir te croire sur parole."
+
+# game/v2/scene38.rpy:696
+translate francais v2s38_5779b558:
+
+    # gr "Who the hell wants to stay a virgin all their life?"
+    gr "Qui veut rester pucelle toute sa vie ?"
+
+# game/v2/scene38.rpy:701
+translate francais v2s38_595159d2:
+
+    # li "Grayson chimes in with with his usual tact and charm."
+    li "Et Grayson intervient avec son tact et son charme habituels."
+
+# game/v2/scene38.rpy:738
+translate francais v2s38_a2405ae6:
+
+    # aut "I dunno, it's difficult finding people who get it."
+    aut "Je ne sais pas, c'est difficile de trouver des gens qui peuvent comprendre."
+
+# game/v2/scene38.rpy:748
+translate francais v2s38_92ca1cf7:
+
+    # aut "Maybe, I think it'd have to be with someone I trust. I'm just not running out the door for it."
+    aut "Je pense qu'il faudrait que ça se fasse avec quelqu'un en qui j'ai entièrement confiance. Mais je ne me précipite pas pour ça."
+
+# game/v2/scene38.rpy:758
+translate francais v2s38_705479fd:
+
+    # aut "Uh, yeah. Maybe..."
+    aut "Euh, oui. Peut-être..."
+
+# game/v2/scene38.rpy:772
+translate francais v2s38_ce0a0730:
+
+    # u "Okay, I think we're done interrogating for now."
+    u "Bon, je crois qu'on en a terminé pour l'instant avec l'interrogatoire."
+
+# game/v2/scene38.rpy:787
+translate francais v2s38_61aafe18:
+
+    # aut "No, it's fine... I brought it up anyway, didn't I? Feels nice to talk about it."
+    aut "Non, c'est bon... De toute façon, c'est moi qui ai lancé le sujet, pas vrai ? Ça me fait du bien d'en parler."
+
+# game/v2/scene38.rpy:850
+translate francais v2s38_6921958a:
+
+    # aut "Ah, no worries. I'm the one who brought it up anyway..."
+    aut "Oh, ne vous inquiétez pas. C'est moi qui ai abordé le sujet de toute façon..."
+
+# game/v2/scene38.rpy:883
+translate francais v2s38_9a217c34:
+
+    # aut "Aww, that's sweet. Thanks, Sebastian."
+    aut "Oooh, c'est gentil. Merci, Sebastian."
+
+# game/v2/scene38.rpy:893
+translate francais v2s38_bd3ea7ba:
+
+    # se "Linds! Quit fucking saying that to so many people!"
+    se "Linds ! Arrête de dire ça à tout le monde..."
+
+# game/v2/scene38.rpy:898
+translate francais v2s38_4ef9f72f:
+
+    # u "Wait what? Is that actually true?"
+    u "Attends quoi ? C'est vrai, tout ça ?"
+
+# game/v2/scene38.rpy:915
+translate francais v2s38_fb36d5ce:
+
+    # se "I'm not proud of what my body does."
+    se "Je ne suis pas fier de ce que fait mon corps."
+
+# game/v2/scene38.rpy:930
+translate francais v2s38_a63e7e52:
+
+    # u "This is too good. You finally have a flaw, Fabio."
+    u "C'est trop fort. T'as enfin un défaut, Mr Parfait."
+
+# game/v2/scene38.rpy:946
+translate francais v2s38_a5cd7aa8:
+
+    # li "Not with me!"
+    li "Pas avec moi !"
+
+# game/v2/scene38.rpy:958
+translate francais v2s38_1ce572db:
+
+    # li "Yeah... Uh, I would second that."
+    li "Ouais... Euh, je suis d'accord avec ça."
+
+# game/v2/scene38.rpy:964
+translate francais v2s38_71ec6877:
+
+    # u "Well, nice to know I have the female vote..."
+    u "Eh bien, c'est bon de savoir que je bénéficie du vote des femmes..."
+
+# game/v2/scene38.rpy:992
+translate francais v2s38_0783ef76:
+
+    # aut "Ookay. I'll keep all of this in mind. Let's change the subject now. Please."
+    aut "D'accooord. Je garderai tout ça en tête. Changeons de sujet maintenant, s'il vous plaît."

@@ -1988,3 +1988,10 @@ translate francais strings:
     # game/v3/scene63a.rpy:1018
     old "We both want this"
     new "On le veut tous les deux"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene63a.rpy:179
+translate francais v3s63a_c4dd2697:
+
+    # au "Having Lindsey as our new President could be the change we need."
+    au "Avoir Lindsey comme nouvelle présidente pourrait être le changement dont on a besoin."

@@ -281,3 +281,118 @@ translate francais strings:
     # game/v3.1/scene79.rpy:138
     old "Politely correct her"
     new "La corriger poliment"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3.1/scene79.rpy:47
+translate francais v3_1s79_56cfc4ad:
+
+    # ro "Want me to...?"
+    ro "Tu veux que..."
+
+# game/v3.1/scene79.rpy:62
+translate francais v3_1s79_a938f04e:
+
+    # u "I think you already know my answer."
+    u "Je crois que tu connais déjà la réponse."
+
+# game/v3.1/scene79.rpy:67
+translate francais v3_1s79_a18d3e60:
+
+    # ro "Excellent..."
+    ro "Parfait..."
+
+# game/v3.1/scene79.rpy:92
+translate francais v3_1s79_b8336ce1:
+
+    # ro "Oh, yes... it's a perfect night."
+    ro "Ah, oui... La soirée est parfaite."
+
+# game/v3.1/scene79.rpy:98
+translate francais v3_1s79_c5cb13dc:
+
+    # u "Not here, no. It's too public."
+    u "Non, pas ici. C'est trop fréquenté."
+
+# game/v3.1/scene79.rpy:103
+translate francais v3_1s79_904fd431:
+
+    # ro "Are you sure?"
+    ro "Tu es vraiment sûr ?"
+
+# game/v3.1/scene79.rpy:162
+translate francais v3_1s79_ab971d2e:
+
+    # oldw "*Gasps* There's no need for all of that!"
+    oldw "*Soupire* Il n'y a pas besoin de tout ça !"
+
+# game/v3.1/scene79.rpy:177
+translate francais v3_1s79_6d3f3db8:
+
+    # ro "Wonderful. Bye now!"
+    ro "Magnifique ! Et maintenant au revoir !"
+
+# game/v3.1/scene79.rpy:183
+translate francais v3_1s79_a85c8461:
+
+    # u "I'm sorry, but she's not my mother. We're on a date."
+    u "Je suis désolé, mais cette femme n'est pas ma mère. On est au beau milieu d'un rencard."
+
+# game/v3.1/scene79.rpy:188
+translate francais v3_1s79_79ad912a:
+
+    # oldw "Oh! I... I'm so sorry..."
+    oldw "Oh ! Je... Je suis vraiment navrée..."
+
+# game/v3.1/scene79.rpy:193
+translate francais v3_1s79_e6da251e:
+
+    # oldw "It's just, you look a lot younger than her!"
+    oldw "C'est seulement... que vous avez l'air beaucoup plus jeune qu'elle !"
+
+# game/v3.1/scene79.rpy:243
+translate francais v3_1s79_4ecfb51f:
+
+    # ro "Please, please stop saying that. Do I really look that old to you?"
+    ro "S'il vous plaît, arrêtez de dire ça. Ai-je vraiment l'air si vieille selon vous ?"
+
+# game/v3.1/scene79.rpy:248
+translate francais v3_1s79_82de38a3:
+
+    # oldw "Oh, I... I'm sorry... are you his older sister, then?"
+    oldw "Oh, je... je suis désolée... Alors, vous êtes sûrement sa grande soeur, non ?"
+
+# game/v3.1/scene79.rpy:253
+translate francais v3_1s79_a2a9fa64:
+
+    # ro "*Scoffs* No, you churlish bitch."
+    ro "*Rire moqueur* Non, espèce de vieille pute."
+
+# game/v3.1/scene79.rpy:273
+translate francais v3_1s79_eb859361:
+
+    # oldw "Oh, I see! My apologies. This... this is none of my business..."
+    oldw "Oh, je vois ! Je vous présente mes excuses... Ce... Ce ne sont pas mes affaires..."
+
+# game/v3.1/scene79.rpy:283
+translate francais v3_1s79_2816597a:
+
+    # oldw "I'd best be getting home now..."
+    oldw "Je devrais rentrer chez moi maintenant..."
+
+# game/v3.1/scene79.rpy:285
+translate francais v3_1s79_e1d339d9:
+
+    # oldw "Again, my sincerest apologies. Goodnight!"
+    oldw "Je vous renouvelle mes plus sincères excuses. Bonne soirée !"
+
+# game/v3.1/scene79.rpy:297
+translate francais v3_1s79_2d1bdfe8:
+
+    # ro "Well, I think that's our cue to go home. I've got an early start tomorrow, anyway."
+    ro "Eh bien, je on dirait que ça veut dire qu'on doit nous aussi rentrer chez nous. De toute façon, demain, je commence plus tôt."
+
+# game/v3.1/scene79.rpy:307
+translate francais v3_1s79_ad07268c:
+
+    # ro "I have no idea..."
+    ro "Je n'en ai aucune idée..."

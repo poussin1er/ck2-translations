@@ -538,3 +538,10 @@ translate francais v3s57_2e70f4d2:
 
     # u "(Gotte head out to meet Lindsey.)"
     u "(Il faut que j'aille retrouver Lindsey.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene57.rpy:115
+translate francais v3s57_7b6e5990:
+
+    # gr "That fucking bitch Dean has been watching us since that Chloe bullshit. Post one fucking picture of that skank..."
+    gr "Cette putain de salope de Doyenne nous guette depuis cette connerie avec Chloé. Tout ça pour un post d'une putain de photo de cette salope..."

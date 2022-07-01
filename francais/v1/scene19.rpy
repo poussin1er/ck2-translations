@@ -215,3 +215,58 @@ translate francais v1s19_continue_9dff9282:
 
     # cl "Ewww, that sounds so weird coming from you."
     cl "Oulala, ça fait bizarre venant de toi."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene19.rpy:173
+translate francais v1s19_continue_f2cb0ea2:
+
+    # u "So, uh... Before we wrap up I had something I wanted to ask you."
+    u "Sinon, euh... Avant d'en finir, j'avais un truc à te demander."
+
+# game/v1/scene19.rpy:178
+translate francais v1s19_continue_30a30927:
+
+    # cl "Just ask, [name], we've got stuff to do."
+    cl "Pose la ta question, [name], on a des trucs à faire."
+
+# game/v1/scene19.rpy:183
+translate francais v1s19_continue_67140742:
+
+    # u "Riley and I ran into Aubrey earlier, and she was super upset."
+    u "Riley et moi avons croisé Aubrey tout à l'heure, et elle était vraiment contrariée."
+
+# game/v1/scene19.rpy:188
+translate francais v1s19_continue_10c0579b:
+
+    # cl "Ugh, I told her we'd handle it. Everything's fine, the school just makes a big fucking deal if you don't get forms in on time."
+    cl "Arf, je lui ai dit qu'on allait s'en occuper. Tout ira bien, l'école en fait tout un plat si on ne rend pas les formulaires à temps."
+
+# game/v1/scene19.rpy:193
+translate francais v1s19_continue_b97af3cb:
+
+    # u "But Aubrey said-"
+    u "Mais Aubrey a dit-"
+
+# game/v1/scene19.rpy:198
+translate francais v1s19_continue_2fe919fc:
+
+    # cl "Just trust me when I say I know what I'm doing, okay?"
+    cl "Contente-toi de me faire confiance quand je dis que je sais ce que je fais, d'accord ?"
+
+# game/v1/scene19.rpy:203
+translate francais v1s19_continue_4de3101e:
+
+    # u "Okay... fair enough."
+    u "D'accord... c'est normal."
+
+# game/v1/scene19.rpy:208
+translate francais v1s19_continue_e65cd18e:
+
+    # cl "But thanks for caring about Aubrey, she's probably just exhausted."
+    cl "Mais merci de te soucier d'Aubrey, elle doit juste être très fatiguée."
+
+# game/v1/scene19.rpy:210
+translate francais v1s19_continue_b98e7096:
+
+    # cl "Now let's get out there and win, okay?"
+    cl "Maintenant, on y va et on gagne, d'accord ?"

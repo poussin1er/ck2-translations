@@ -1444,3 +1444,10 @@ translate francais v3s34_9265a04e:
 
     # u "(Just hope there's not more frat drama when I get home!)"
     u "(J'espère juste qu'il n'y aura pas un autre drame de fraternité quand je rentrerai à la maison !)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene34.rpy:622
+translate francais v3s34_2c8c7e87:
+
+    # cl "Oh my God... you're serious?! *Whispers* That is sooo gross!"
+    cl "Oh merde... tu es sérieux ?! *Chuchote* C'est troooop dégueu !"

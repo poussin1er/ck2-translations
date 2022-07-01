@@ -860,3 +860,28 @@ translate francais v3s55_interviewend_b9e3aceb:
 
     # li "Oh, ew! Okay. Bye then."
     li "Oh, beurk ! Bon. Alors, à plus tard."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene55.rpy:262
+translate francais v3s55_importantquality_02465245:
+
+    # u "What's the most important quality a President needs to have?"
+    u "Quelle est la qualité la plus importante qu'une présidente doit avoir ?"
+
+# game/v3/scene55.rpy:282
+translate francais v3s55_importantquality_b791f9ab:
+
+    # li "I think a good President should be able to earn the loyalty of all of her sisters, you know, to keep everyone happy."
+    li "Je considère qu'une bonne présidente doit être capable de gagner la loyauté de toutes ses sœurs, tu vois, afin de satisfaire tout le monde."
+
+# game/v3/scene55.rpy:529
+translate francais v3s55_interviewend_a4c0d9d5:
+
+    # u "And keep the discussion around yourself and how you'd be a strong President instead of criticizing Chloe."
+    u "Et garde la discussion sur toi-même et sur la façon dont tu serais une excellente présidente au lieu de critiquer Chloé."
+
+translate francais strings:
+
+    # game/v3/scene55.rpy:76
+    old "The most important quality of a good President"
+    new "La qualité la plus importante pour une bonne présidente"

@@ -742,3 +742,10 @@ translate francais v1s31a_63314d47:
 
     # u "You do that."
     u "Vas-y."
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v1/scene31a.rpy:423
+translate francais v1s31a_cf595508:
+
+    # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' President."
+    u "Dis à tout le monde que Chloé est la nana la plus sexy et que la nana la plus sexy devrait être la Présidente des Chicks."

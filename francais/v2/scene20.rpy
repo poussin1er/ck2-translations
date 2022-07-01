@@ -331,3 +331,100 @@ translate francais strings:
     # game/v2/scene20.rpy:258
     old "Don't take the notes"
     new "Ne pas prendre les notes"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v2/scene20.rpy:27
+translate francais v2s20_88d2dbb1:
+
+    # u "Oh, okay."
+    u "Ah, d'accord."
+
+# game/v2/scene20.rpy:42
+translate francais v2s20_0d246286:
+
+    # u "I know you're super busy, but can your boyfriend get a kiss first?"
+    u "Je sais que t'es débordée, mais est-ce que ton petit ami pourrait d'abord avoir un baiser ?"
+
+# game/v2/scene20.rpy:60
+translate francais v2s20_a1667493:
+
+    # u "(Well, I was expecting a hello kiss, but I guess I'll keep quiet about it... I don't want to throw her off her game.)"
+    u "(Bon, je m'attendais à un baiser de bienvenue, mais je préfère rien dire là-dessus.... J'ai pas envie de la déstabiliser.)"
+
+# game/v2/scene20.rpy:88
+translate francais v2s20_55ff469d:
+
+    # u "Yeah, that's him alright. You could say he has a strong moral code."
+    u "Ouais, ça lui ressemble bien. On peut dire qu'il a un très bon code moral."
+
+# game/v2/scene20.rpy:122
+translate francais v2s20_a646f8b6:
+
+    # u "Yeah, and if we fail, we can just... lock him in the meeting room until he agrees?"
+    u "Ouais, et si on échoue... on l'enfermera dans la salle jusqu'à ce qu'il accepte."
+
+# game/v2/scene20.rpy:127
+translate francais v2s20_61317ce6:
+
+    # cl "Oh my God, shh! Come on, we need to focus."
+    cl "Oh là là, chuut ! Allons, on doit rester concentrés."
+
+# game/v2/scene20.rpy:211
+translate francais v2s20_8e2b6a2a:
+
+    # cl "Are you blushing? What's going on?"
+    cl "Tu rougis ? Qu'est-ce qu'il y a ?"
+
+# game/v2/scene20.rpy:216
+translate francais v2s20_6bdad175:
+
+    # u "What? Oh, no, sorry! Go on..."
+    u "Quoi ? Ah, non, désolé. Continue..."
+
+# game/v2/scene20.rpy:221
+translate francais v2s20_d360fa26:
+
+    # cl "Just tread carefully and make sure you don't interrupt either of us or sound like you're mansplaining anything."
+    cl "Fais juste attention à ce qu'on ne s'interrompe pas mutuellement et à ne pas donner l'impression que tu es en train de me mansplainer."
+
+# game/v2/scene20.rpy:231
+translate francais v2s20_232ccb19:
+
+    # cl "Oh yeah. Totally. Right..."
+    cl "Ah bon. C'est parfait. Bon..."
+
+# game/v2/scene20.rpy:236
+translate francais v2s20_0fe99e6e:
+
+    # u "What is that supposed to mean?!"
+    u "Qu'est-ce que c'est censé vouloir dire ?"
+
+# game/v2/scene20.rpy:241
+translate francais v2s20_fdd816fd:
+
+    # cl "Shh... She'll be here any minute. We have to focus."
+    cl "Chh... Elle va arriver d'une minute à l'autre. On doit se concentrer."
+
+# game/v2/scene20.rpy:251
+translate francais v2s20_f740bf43:
+
+    # cl "Lastly, with Dean Harrison we focus on improving the school."
+    cl "Pour finir, avec la Doyenne Harrison, on se concentre sur le fait de faire évoluer la vie de l'école."
+
+# game/v2/scene20.rpy:256
+translate francais v2s20_fe4eaaab:
+
+    # cl "She's been on this whole crusade against the sororities. And the frats too."
+    cl "Elle s'est lancée dans une véritable croisade contre les sororités. Et également les fraternités."
+
+# game/v2/scene20.rpy:258
+translate francais v2s20_3481167b:
+
+    # cl "So we need to convince her that helping the Chicks is good for SVC. And that we'll give back to the community or whatever."
+    cl "Alors il faut la convaincre que le fait d'aider les Chicks sera bénéfique pour le SVC. Et qu'on contribuera à la communauté ou autre chose."
+
+# game/v2/scene20.rpy:303
+translate francais v2s20_bd238ab9:
+
+    # cl "Okay Mr. Confident. I trust you."
+    cl "D'accord Mr le Confiant. Je vous crois."

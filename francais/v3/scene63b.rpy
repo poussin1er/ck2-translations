@@ -889,3 +889,10 @@ translate francais strings:
     # game/v3/scene63b.rpy:851
     old "Don't add anything"
     new "Ne rien ajouter"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene63b.rpy:174
+translate francais v3s63b_ff4cf421:
+
+    # jen "Sorry, Lindsey but you're Chloe's opposition for President. I can't make out with you in good conscience, haha."
+    jen "Désolée, Lindsey, mais t'es l'adversaire de Chloé pour la présidence. Je peux pas t'embrasser avec bonne conscience, haha."

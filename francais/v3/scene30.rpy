@@ -634,3 +634,16 @@ translate francais v3s30_6a540db3:
 
     # u "(I guess I should get out of here too.)"
     u "(Je crois que je devrais moi aussi sortir de là.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene30.rpy:233
+translate francais v3s30_338aade4:
+
+    # ch "Don't fucking talk to me like that, Imre. I'm still your President, and until that changes you need to show me some fucking respect!"
+    ch "Ne me parle pas comme ça, Imre. Je suis toujours ton Président, et jusqu'à ce que ça change, tu dois me montrer un peu de respect !"
+
+# game/v3/scene30.rpy:430
+translate francais v3s30_99a3e8d7:
+
+    # imre "No, Seb. I'm not going to be fucking nice right now, you know what he did is fucked up. Both of you do."
+    imre "Non, Seb. J'vais pas être putain de \"gentil\" là, tu sais bien que c'qu'il a fait est merdique. Vous l'savez tous les deux."

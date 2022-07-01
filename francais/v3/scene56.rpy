@@ -353,3 +353,16 @@ translate francais v3s56_35b42fbc:
 
     # u "(Gotta head out to meet Lindsey.)"
     u "(Il faut que j'aille retrouver Lindsey.)"
+# TODO: Translation updated at 2022-06-24 10:14
+
+# game/v3/scene56.rpy:105
+translate francais v3s56_683756b9:
+
+    # ch "I'm apologizing to you, Imre, but also to the rest of you. It wasn't the behavior of a President that you can trust."
+    ch "Je m'excuse auprès de toi, Imre, mais également auprès des autres. Ce n'était pas le comportement d'un président en qui vous pouvez avoir confiance."
+
+# game/v3/scene56.rpy:154
+translate francais v3s56_22a9e186:
+
+    # imre "Neither will having a cheating sleazebag as a President."
+    imre "Pas plus que d'avoir un putain d'infidèle comme président."
