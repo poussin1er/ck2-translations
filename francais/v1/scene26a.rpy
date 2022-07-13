@@ -439,3 +439,103 @@ translate francais v1s26a_62979974:
 
     # li "I am. I'm ready for a nap."
     li "Ouais... Je vais aller faire une sieste."
+
+translate francais strings:
+
+    # game/v1/scene26a.rpy:192
+    old "Still selling treats to raise money for my campaign and the future of the Chicks! Don't forget to stop by <3 #Vote4Lindsey"
+    new "Toujours en train de vendre des délices pour récolter des fonds pour ma campagne et pour l'avenir des Chicks ! N'oubliez pas de venir me voir <3 #VotezLindsey"
+
+    # game/v1/scene26a.rpy:193
+    old "#Vote4Lindsey! <3"
+    new "#VotezLindsey! <3"
+
+    # game/v1/scene26a.rpy:194
+    old "Cutie <3"
+    new "T'es mignonne <3"
+
+    # game/v1/scene26a.rpy:195
+    old "Actually, that cookie this morning made me shit myself!"
+    new "En fait, le cookie de ce matin m'a fait me chier dessus !"
+
+    # game/v1/scene26a.rpy:196
+    old "Eww..."
+    new "Beurk..."
+
+    # game/v1/scene26a.rpy:197
+    old "Really, Imre... Please stop."
+    new "Sérieux, Imre... Arrête, s'il te plaît."
+
+    # game/v1/scene26a.rpy:198
+    old "Yeah dude, and you gave me one of them..."
+    new "Ouais mec, et tu m'en as même donné un..."
+
+    # game/v1/scene26a.rpy:199
+    old "Sorry dude! I thought I was doing something nice..."
+    new "Désolé, mon frère ! J'ai cru faire quelque chose de sympa..."
+
+    # game/v1/scene26a.rpy:200
+    old "Omg, you guys will have to try my family's chocolate chip cookies! Maybe I'll make some soon :)"
+    new "Oh, vous allez devoir essayer les cookies aux pépites de chocolat, recette familiale ! J'en ferai bientôt peut-être :)"
+
+    # game/v1/scene26a.rpy:201
+    old "Hell yeah Chloe"
+    new "Putain Chloé, ouais !"
+
+    # game/v1/scene26a.rpy:202
+    old "Thank you for the cake! Mine tastes perfectly fine :)"
+    new "Merci pour le gâteau ! Le mien est excellent :)"
+
+    # game/v1/scene26a.rpy:203
+    old "<3"
+    new "<3"
+
+translate francais strings:
+
+    # game/v1/scene26a.rpy:209
+    old "Still selling treats to raise money for my campaign and the future of the Chicks! Don't forget to stop by <3 #Vote4Lindsey "
+    new "Toujours en train de vendre des délices pour récolter des fonds pour ma campagne et pour l'avenir des Chicks ! N'oubliez pas de venir me voir <3 #VotezLindsey"
+
+    # game/v1/scene26a.rpy:210
+    old "#Vote4Lindsey! <3 "
+    new "#VotezLindsey! <3"
+
+    # game/v1/scene26a.rpy:211
+    old "Cutie <3 "
+    new "T'es mignonne <3"
+
+    # game/v1/scene26a.rpy:212
+    old "Actually, that cookie this morning made me shit myself! "
+    new "En fait, le cookie de ce matin m'a fait me chier dessus !"
+
+    # game/v1/scene26a.rpy:213
+    old "Eww... "
+    new "Beurk..."
+
+    # game/v1/scene26a.rpy:214
+    old "Really, Imre... Please stop. "
+    new "Sérieux, Imre... Arrête, s'il te plaît."
+
+    # game/v1/scene26a.rpy:215
+    old "Yeah dude, and you gave me one of them... "
+    new "Ouais mec, et tu m'en as même donné un..."
+
+    # game/v1/scene26a.rpy:216
+    old "Sorry dude! I thought I was doing something nice... "
+    new "Désolé, mon frère ! J'ai cru faire quelque chose de sympa..."
+
+    # game/v1/scene26a.rpy:217
+    old "Omg, you guys will have to try my family's chocolate chip cookies! Maybe I'll make some soon :) "
+    new "Oh, vous allez devoir essayer les cookies aux pépites de chocolat, recette familiale ! J'en ferai bientôt peut-être :)"
+
+    # game/v1/scene26a.rpy:218
+    old "Hell yeah Chloe "
+    new "Putain Chloé, ouais !"
+
+    # game/v1/scene26a.rpy:219
+    old "Thank you for the cake! Mine tastes perfectly fine :) "
+    new "Merci pour le gâteau ! Le mien est excellent :)"
+
+    # game/v1/scene26a.rpy:220
+    old "<3 "
+    new "<3"

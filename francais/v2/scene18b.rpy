@@ -810,3 +810,29 @@ translate francais v2s18b_6195828b:
 
     # aut "Better."
     aut "Mieux."
+
+translate francais strings:
+
+    # game/v2/scene18b.rpy:603
+    old "Celebrating this pure soul tonight!"
+    new "Ce soir, on célèbre cette âme pure !"
+
+    # game/v2/scene18b.rpy:604
+    old "So cute! Your costumes are perfect <3"
+    new "Trop mignon ! Vos costumes sont parfaits <3"
+
+    # game/v2/scene18b.rpy:605
+    old "Ugh, where am I?!"
+    new "Hey, je suis où ?!"
+
+    # game/v2/scene18b.rpy:606
+    old "Aw! Dammit Imre!"
+    new "Aaaah ! Tu fais chier Imre !"
+
+    # game/v2/scene18b.rpy:607
+    old "Haha! Great pic you guys... Imre looks great!"
+    new "Haha ! Superbe photo de vous... Et Imre est vraiment magnifique !"
+
+    # game/v2/scene18b.rpy:8
+    old "Oh hey! Hell yeah! I do look good..."
+    new "Eh ouais ! Putain ! J'suis vraiment trop beau..."

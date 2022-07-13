@@ -665,3 +665,22 @@ translate francais strings:
     # game/v3.1/scene87c.rpy:176
     old "Let's leave her be"
     new "On la laisse tranquille"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3.1/scene87c.rpy:107
+translate francais v3_1s87c_b3440d5b:
+
+    # u "For sure. Get some rest, you've been working hard."
+    u "Bien sûr. Repose-toi un peu, t'as travaillé dur."
+
+# game/v3.1/scene87c.rpy:196
+translate francais v3_1s87c_991f9364:
+
+    # cl "I can't even talk, I might fucking scream."
+    cl "Je n'arrive même plus à parler, j'ai envie de hurler."
+
+# game/v3.1/scene87c.rpy:279
+translate francais v3_1s87c_3c2e91e0:
+
+    # u "I mean, you're President. You can do whatever you want!"
+    u "Tu es Présidente. Tu peux faire ce que tu veux !"

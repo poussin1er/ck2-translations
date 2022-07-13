@@ -269,3 +269,10 @@ translate francais strings:
     # game/v3.1/scene75.rpy:145
     old "That's kinda messed up"
     new "C'est un peu le bordel"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3.1/scene75.rpy:90
+translate francais v3_1s75_c1725da9:
+
+    # no "Well, he clearly cares more than the higher-ranks."
+    no "Bon, il est clair qu'il se soucie plus que les hauts gradés."

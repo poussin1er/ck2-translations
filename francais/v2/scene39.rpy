@@ -1305,3 +1305,10 @@ translate francais v2s39_stop_lindsey_36bc8112:
 
     # gr "Don't be surprised if there's no drinks left when you get back."
     gr "Soyez pas surpris s'il y a plus rien à boire en r'venant"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v2/scene39.rpy:56
+translate francais v2s39_99a14c98:
+
+    # se "Holy shit, so many choices. This is gonna be lit!"
+    se "Merde, il y a énormément de choix. Ça va être génial !"

@@ -29,3 +29,10 @@ translate francais v3_1s73a_f934d5c4:
 
     # u "(That's pretty soon. Guess I'll get going.)"
     u "(C'est pour bientôt. Je devrais y aller.)"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3.1/scene73a.rpy:17
+translate francais v3_1s73a_13dc7ab2:
+
+    # u "(Well, I smell fine. I guess I don't need to change clothes. A quick lint roll to get the fur off will do the job.)"
+    u "(Voilà, je sens très bon. Je vais pas avoir besoin de changer de vêtements. Un rapide coup de rouleau à peluches pour enlever les poils fera l'affaire.)"

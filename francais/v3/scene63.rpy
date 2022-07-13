@@ -1020,3 +1020,10 @@ translate francais v3s63_deaee854:
 
     # jen "We're making no promises. Let's do a shot!"
     jen "On fait aucune promesse."
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3/scene63.rpy:348
+translate francais v3s63_26f8b9af:
+
+    # cl "Come on ladies... Quit pestering!"
+    cl "Allez les filles... Arrêtez de l'embêter !"

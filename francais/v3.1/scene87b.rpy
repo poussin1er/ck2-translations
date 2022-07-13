@@ -466,7 +466,7 @@ translate francais v3_1s87b_1cb0da4a:
 translate francais v3_1s87b_ed7128af:
 
     # au "So, to start things off, what's the first change you'd make as president? Lindsey, do you wanna start?"
-    au "Alors, pour commencer, quel serait le premier changement que vous réaliseriez en tant que présidente ? Lindsey, tu veux bien commencer ?"
+    au "Alors, pour commencer, quel serait le premier changement que vous réaliseriez en tant que Présidente ? Lindsey, tu veux bien commencer ?"
 
 # game/v3.1/scene87b.rpy:399
 translate francais v3_1s87b_f1c176ac:
@@ -514,7 +514,7 @@ translate francais v3_1s87b_6e1ecfbe:
 translate francais v3_1s87b_805a37ae:
 
     # cl "Awesome, love it, that's a huge part of being president. Sunshine and rainbows."
-    cl "Formidable, j'adore, c'est vraiment une partie importante du rôle de présidente. Les rayons de soleil et les arcs-en-ciel."
+    cl "Formidable, j'adore, c'est vraiment une partie importante du rôle de Présidente. Les rayons de soleil et les arcs-en-ciel."
 
 # game/v3.1/scene87b.rpy:445
 translate francais v3_1s87b_0233c90b:
@@ -538,7 +538,7 @@ translate francais v3_1s87b_dccb0b83:
 translate francais v3_1s87b_34896988:
 
     # li "Then I guess I'll become president and do nothing but go to parties all the time. Super helpful."
-    li "Alors je devine que devenue présidente, je ne ferai rien d'autre que de me rendre à des soirées à longueur de temps. Mais c'est très utile tout ça."
+    li "Alors je devine que devenue Présidente, je ne ferai rien d'autre que de me rendre à des soirées à longueur de temps. Mais c'est très utile tout ça."
 
 # game/v3.1/scene87b.rpy:465
 translate francais v3_1s87b_fa915700:
@@ -550,13 +550,13 @@ translate francais v3_1s87b_fa915700:
 translate francais v3_1s87b_147b8d6a:
 
     # cl "Anyways, the first thing I'd change if I _stay_ president is to keep finding ways to make campus life more affordable for Chicks."
-    cl "Dans tous les cas, la première chose que je mettrais en place si je restais présidente, serait de chercher des solutions pour rendre la vie au campus plus abordable, pour toutes les Chicks."
+    cl "Dans tous les cas, la première chose que je mettrais en place si je restais Présidente, serait de chercher des solutions pour rendre la vie au campus plus abordable, pour toutes les Chicks."
 
 # game/v3.1/scene87b.rpy:476
 translate francais v3_1s87b_917ba5d1:
 
     # cl "Our last president, Sarah, was passionate about affordable education, and I'm so proud of advocating for reduced tuition fees for sorority members."
-    cl "Notre dernière présidente, Sarah, était une fervente partisane d'un système éducatif abordable et je suis très fière d'avoir œuvré pour la réduction des frais de scolarité pour les membres de notre sororité."
+    cl "Notre dernière Présidente, Sarah, était une fervente partisane d'un système éducatif abordable et je suis très fière d'avoir œuvré pour la réduction des frais de scolarité pour les membres de notre sororité."
 
 # game/v3.1/scene87b.rpy:481
 translate francais v3_1s87b_4fce67b2:
@@ -610,7 +610,7 @@ translate francais v3_1s87b_9d4cf8c2:
 translate francais v3_1s87b_963b26d9:
 
     # cl "That's right, Lindsey. You've been fighting non-stop to help make campus life more affordable since you decided to be president a month ago."
-    cl "C'est vrai, Lindsey. Tu n'as cessé de te battre pour que la vie sur le campus soit plus abordable, depuis que tu as décidé d'être présidente, il y a un mois."
+    cl "C'est vrai, Lindsey. Tu n'as cessé de te battre pour que la vie sur le campus soit plus abordable, depuis que tu as décidé d'être Présidente, il y a un mois."
 
 # game/v3.1/scene87b.rpy:522
 translate francais v3_1s87b_c409b9a1:
@@ -772,7 +772,7 @@ translate francais v3_1s87b_0b6edffc:
 translate francais v3_1s87b_6968dbda:
 
     # cl "So fucking charming. Is this really the kind of person you want to be your president?"
-    cl "C'est si charmant. Est-ce vraiment le genre de personne que vous voulez avoir comme présidente ?"
+    cl "C'est si charmant. Est-ce vraiment le genre de personne que vous voulez avoir comme Présidente ?"
 
 # game/v3.1/scene87b.rpy:649
 translate francais v3_1s87b_f024ccac:
@@ -850,7 +850,7 @@ translate francais v3_1s87b_chicks_vote_15fe446d:
 translate francais v3_1s87b_chicks_vote_4981622c:
 
     # u "(God, I have no idea what Chloe not being president would look like. She's always just been head Chick.)"
-    u "(Merde, je sais pas du tout à quoi pourrait ressembler Chloé si elle était pas présidente. Pour moi, elle a toujours été la présidente des Chicks.)"
+    u "(Merde, je sais pas du tout à quoi pourrait ressembler Chloé si elle était pas Présidente. Pour moi, elle a toujours été à la tête des Chicks.)"
 
 # game/v3.1/scene87b.rpy:731
 translate francais v3_1s87b_chicks_vote_5d9b3bf9:
@@ -934,7 +934,7 @@ translate francais v3_1s87b_chicks_vote_8d9d54f7:
 translate francais v3_1s87b_chicks_vote_f0519b3c:
 
     # u "Aww, come on! You can still sneak away every once in a while. A president needs to relax!"
-    u "Oooh, allez ! Tu pourras toujours t'éclipser de temps en temps. Une présidente a aussi besoin de se détendre !"
+    u "Oooh, allez ! Tu pourras toujours t'éclipser de temps en temps. Une Présidente a aussi besoin de se détendre !"
 
 # game/v3.1/scene87b.rpy:794
 translate francais v3_1s87b_chicks_vote_a31c0358:
@@ -1120,7 +1120,7 @@ translate francais v3_1s87b_chicks_vote_ae221cbd:
 translate francais v3_1s87b_chicks_vote_a322b4eb:
 
     # cl "The last thing I need is Lindsey telling everyone I'm being a shitty president right after this fucking election."
-    cl "La dernière chose dont j'ai besoin serait que Lindsey dise à tout le monde que je suis une présidente de merde, juste après cette putain d'élection."
+    cl "La dernière chose dont j'ai besoin serait que Lindsey dise à tout le monde que je suis une Présidente de merde, juste après cette putain d'élection."
 
 # game/v3.1/scene87b.rpy:938
 translate francais v3_1s87b_chicks_vote_bc022fe4:
@@ -1174,7 +1174,7 @@ translate francais v3_1s87b_chicks_vote_89d9e087:
 translate francais v3_1s87b_chicks_vote_b9b960a9:
 
     # au "I would like to formally announce that the Chicks' new president is..."
-    au "Je vous annonce officiellement que la nouvelle présidente des Chicks est..."
+    au "Je vous annonce officiellement que la nouvelle Présidente des Chicks est..."
 
 translate francais strings:
 
@@ -1241,3 +1241,82 @@ translate francais strings:
     # game/v3.1/scene87b.rpy:879
     old "Nah, it's going to President Chloe"
     new "Nan, ça sera la Présidente Chloé."
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3.1/scene87b.rpy:174
+translate francais v3_1s87b_0f328782:
+
+    # ri "Oh yeah, I'm sure that's the reason you want her to win."
+    ri "Ah oui, je suis sûre que c'est \"la raison\" pour laquelle tu veux qu'elle gagne."
+
+# game/v3.1/scene87b.rpy:386
+translate francais v3_1s87b_a9ee269e:
+
+    # au "So, to start things off, what's the first change you'd make as President? Lindsey, do you wanna start?"
+    au "Alors, pour commencer, quel serait le premier changement que vous réaliseriez en tant que Présidente ? Lindsey, tu veux bien commencer ?"
+
+# game/v3.1/scene87b.rpy:425
+translate francais v3_1s87b_c4021fe5:
+
+    # cl "Awesome, love it, that's a huge part of being President. Sunshine and rainbows."
+    cl "Formidable, j'adore, c'est vraiment une partie importante du rôle de Présidente. Les rayons de soleil et les arcs-en-ciel."
+
+# game/v3.1/scene87b.rpy:450
+translate francais v3_1s87b_790110df:
+
+    # li "Then I guess I'll become President and do nothing but go to parties all the time. Super helpful."
+    li "Alors je devine que devenue Présidente, je ne ferai rien d'autre que de me rendre à des soirées à longueur de temps. Mais c'est très utile tout ça."
+
+# game/v3.1/scene87b.rpy:460
+translate francais v3_1s87b_543f573e:
+
+    # cl "Anyways, the first thing I'd change if I stay President is to keep finding ways to make campus life more affordable for Chicks."
+    cl "Dans tous les cas, la première chose que je mettrais en place si je restais Présidente, serait de chercher des solutions pour rendre la vie au campus plus abordable, pour toutes les Chicks."
+
+# game/v3.1/scene87b.rpy:466
+translate francais v3_1s87b_05c0261b:
+
+    # cl "Our last President, Sarah, was passionate about affordable education, and I'm so proud of advocating for reduced tuition fees for sorority members."
+    cl "Notre dernière Présidente, Sarah, était une fervente partisane d'un système éducatif abordable et je suis très fière d'avoir œuvré pour la réduction des frais de scolarité pour les membres de notre sororité."
+
+# game/v3.1/scene87b.rpy:509
+translate francais v3_1s87b_01253cfe:
+
+    # cl "That's right, Lindsey. You've been fighting non-stop to help make campus life more affordable since you decided to be President a month ago."
+    cl "C'est vrai, Lindsey. Tu n'as cessé de te battre pour que la vie sur le campus soit plus abordable, depuis que tu as décidé d'être Présidente, il y a un mois."
+
+# game/v3.1/scene87b.rpy:516
+translate francais v3_1s87b_ad2a0910:
+
+    # li "Actually, Chloe, I've been thinking about this since the start of the school year."
+    li "En fait, Chloé, je réfléchis à tout ça depuis le début de l'année scolaire."
+
+# game/v3.1/scene87b.rpy:631
+translate francais v3_1s87b_5ceb3440:
+
+    # cl "So fucking charming. Is this really the kind of person you want to be your President?"
+    cl "C'est si charmant. Est-ce vraiment le genre de personne que vous voulez avoir comme Présidente ?"
+
+# game/v3.1/scene87b.rpy:716
+translate francais v3_1s87b_chicks_vote_0a1fec9d:
+
+    # u "(God, I have no idea what Chloe not being President would look like. She's always just been head Chick.)"
+    u "(Merde, je sais pas du tout à quoi pourrait ressembler Chloé si elle était pas Présidente. Pour moi, elle a toujours été à la tête des Chicks.)"
+
+# game/v3.1/scene87b.rpy:774
+translate francais v3_1s87b_chicks_vote_7a617700:
+
+    # u "Aww, come on! You can still sneak away every once in a while. A President needs to relax!"
+    u "Oooh, allez ! Tu pourras toujours t'éclipser de temps en temps. Une Présidente a aussi besoin de se détendre !"
+
+# game/v3.1/scene87b.rpy:921
+translate francais v3_1s87b_chicks_vote_cc4dc7dd:
+
+    # cl "The last thing I need is Lindsey telling everyone I'm being a shitty President right after this fucking election."
+    cl "La dernière chose dont j'ai besoin serait que Lindsey dise à tout le monde que je suis une Présidente de merde, juste après cette putain d'élection."
+
+# game/v3.1/scene87b.rpy:968
+translate francais v3_1s87b_chicks_vote_dcfcc90b:
+
+    # au "I would like to formally announce that the Chicks' new President is..."
+    au "Je vous annonce officiellement que la nouvelle Présidente des Chicks est..."

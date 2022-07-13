@@ -647,3 +647,10 @@ translate francais v3s30_99a3e8d7:
 
     # imre "No, Seb. I'm not going to be fucking nice right now, you know what he did is fucked up. Both of you do."
     imre "Non, Seb. J'vais pas être putain de \"gentil\" là, tu sais bien que c'qu'il a fait est merdique. Vous l'savez tous les deux."
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3/scene30.rpy:450
+translate francais v3s30_109b3c0a:
+
+    # u "(I knew Chris was going through shit, but what the fuck is up with Imre? And they clearly don't know how to handle whatever's going on.)"
+    u "(Je sais que Chris traverse une période difficile, mais qu'est-ce qui se passe avec Imre ? Et ils savent clairement pas gérer la situation.)"

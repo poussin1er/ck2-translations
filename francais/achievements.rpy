@@ -38,8 +38,6 @@ init python:
 
 # ACHIEVEMENT ITEMS HERE
     #v1
-    # Achievement("troisieme_joueur_pret", "Trio avec Riley et Aubrey") -- CK1 achievement
-    # Achievement("sauver_le_soldat_ryan", "Ne laisse pas Ryan attraper une MST") -- CK1 achievement
     Achievement("beastie_boy", "Sabote la vente de pâtisseries")
     Achievement("agent_double", "Aide les campagnes de Chloé et de Lindsey")
     Achievement("accepte_de_ne_pas_etre_d'accord", "Chris n'aide pas Chloé")

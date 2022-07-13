@@ -597,3 +597,28 @@ translate francais strings:
     # game/v3.1/scene87a.rpy:297
     old "Vote for Chloe"
     new "Vote pour Chloé"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3.1/scene87a.rpy:18
+translate francais v3_1s87a_0a884460:
+
+    # u "(Looks pretty busy in there, didn't realize there were so many members.)"
+    u "(On dirait qu'il y a pas mal de monde là-dedans, j'ignorais qu'il y avait autant de membres.)"
+
+# game/v3.1/scene87a.rpy:90
+translate francais v3_1s87a_04f5755a:
+
+    # au "I actually think Chloe's a good President, but then I find out I could have actually been helping?"
+    au "En fait, je me dis que Chloé est une bonne présidente, mais là, je me rends compte que j'aurais pu l'aider..."
+
+# game/v3.1/scene87a.rpy:122
+translate francais v3_1s87a_88717ba3:
+
+    # au "I mean, I didn't ask if I could do anything Vice President-y, but she also didn't give me anything to do..."
+    au "En fait, j'ai jamais demandé si je pouvais faire quelque chose en tant que vice-Présidente, mais elle m'a également jamais demandé de faire quoi que ce soit..."
+
+# game/v3.1/scene87a.rpy:345
+translate francais v3_1s87a_99421809:
+
+    # u "You know she's not perfect, that's good. She wins? You can make sure she's a better President."
+    u "Tu vois bien qu'elle n'est pas parfaite et c'est bien. Elle remporte la victoire ? Tu pourras t'assurer qu'elle soit une meilleure présidente."

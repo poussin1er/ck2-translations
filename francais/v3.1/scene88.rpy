@@ -172,7 +172,7 @@ translate francais v3_1s88_0c9f8de3:
 translate francais v3_1s88_25941b97:
 
     # u "I had a little freakout inside, but I guess they didn't find out, thank God."
-    u J'ai eu un peu peur, mais je crois qu'elles ont rien découvert, heureusement.""
+    u "J'ai eu un peu peur, mais je crois qu'elles ont rien découvert, heureusement."
 
 # game/v3.1/scene88.rpy:182
 translate francais v3_1s88_6e64d5eb:
@@ -244,7 +244,7 @@ translate francais v3_1s88_5b1f16b6:
 translate francais v3_1s88_e65933bd:
 
     # no "I mean, I feel bad for Lindsey, and I'm obviously not thrilled Chloe's still president."
-    no "En fait, je me sens mal pour Lindsey, et je ne suis évidemment pas enchantée que Chloé soit toujours présidente."
+    no "En fait, je me sens mal pour Lindsey, et je ne suis évidemment pas enchantée que Chloé soit toujours Présidente."
 
 # game/v3.1/scene88.rpy:238
 translate francais v3_1s88_fdef3e76:
@@ -268,7 +268,7 @@ translate francais v3_1s88_302791d9:
 translate francais v3_1s88_2014152b:
 
     # no "I worked pretty close with Sarah, our last president, and the one before that."
-    no "J'ai collaboré de très près avec Sarah, notre dernière présidente et avec la précédente."
+    no "J'ai collaboré de très près avec Sarah, notre dernière Présidente et avec la précédente."
 
 # game/v3.1/scene88.rpy:256
 translate francais v3_1s88_dec33a8a:
@@ -388,7 +388,7 @@ translate francais v3_1s88_341c32f5:
 translate francais v3_1s88_82069bd3:
 
     # u "It sounds like she's going to have to put a lot of time into being president now."
-    u "Et maintenant, on dirait qu'elle va devoir s'investir beaucoup plus, dans son rôle de présidente."
+    u "Et maintenant, on dirait qu'elle va devoir s'investir beaucoup plus, dans son rôle de Présidente."
 
 # game/v3.1/scene88.rpy:349
 translate francais v3_1s88_de58eeda:
@@ -430,7 +430,7 @@ translate francais v3_1s88_8ee8ad0b:
 translate francais v3_1s88_d4a26a81:
 
     # no "The VP's just basically like the president's assistant. Don't worry about me, I'll be busy, but I'll still be around."
-    no "La vice-présidente est en quelque sorte l'assistante de la présidente. Ne t'inquiète pas pour moi, je serai occupé, mais je serai toujours là."
+    no "La vice-présidente est en quelque sorte l'assistante de la Présidente. Ne t'inquiète pas pour moi, je serai occupé, mais je serai toujours là."
 
 # game/v3.1/scene88.rpy:383
 translate francais v3_1s88_d95d965f:
@@ -581,3 +581,34 @@ translate francais strings:
     # game/v3.1/scene88.rpy:221
     old "How are you and Chloe doing?"
     new "Comment ça va entre toi et Chloé ?"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3.1/scene88.rpy:238
+translate francais v3_1s88_ecfde056:
+
+    # no "I mean, I feel bad for Lindsey, and I'm obviously not thrilled Chloe's still President."
+    no "En fait, je me sens mal pour Lindsey, et je ne suis évidemment pas enchantée que Chloé soit toujours Présidente."
+
+# game/v3.1/scene88.rpy:256
+translate francais v3_1s88_16959787:
+
+    # no "I worked pretty close with Sarah, our last President, and the one before that."
+    no "J'ai collaboré de très près avec Sarah, notre dernière Présidente et avec la précédente."
+
+# game/v3.1/scene88.rpy:275
+translate francais v3_1s88_056bcd2e:
+
+    # u "How are you and Chloe doing, anyways?"
+    u "Au fait, comment ça va entre toi et Chloé ?"
+
+# game/v3.1/scene88.rpy:354
+translate francais v3_1s88_76d3e7c7:
+
+    # u "It sounds like she's going to have to put a lot of time into being President now."
+    u "Et maintenant, on dirait qu'elle va devoir s'investir beaucoup plus, dans son rôle de Présidente."
+
+# game/v3.1/scene88.rpy:384
+translate francais v3_1s88_1a6b9014:
+
+    # no "The VP's just basically like the President's assistant. Don't worry about me, I'll be busy, but I'll still be around."
+    no "La vice-présidente est en quelque sorte l'assistante de la Présidente. Ne t'inquiète pas pour moi, je serai occupé, mais je serai toujours là."

@@ -710,3 +710,97 @@ translate francais v1s43Chloe_PhoneContinue2_1a8f2da2:
 
     # u "Let's just work in the classroom across the hall. It's always empty."
     u "On a qu'à travailler dans la salle de classe de l'autre côté du couloir, elle est toujours vide."
+
+translate francais strings:
+
+    # game/v1/scene43b.rpy:333
+    old "#Vote4Chloe is a #Vote4Whore"
+    new "#VotezChloé c'est #VotezPute."
+
+    # game/v1/scene43b.rpy:334
+    old "You weren't calling me a whore when I was in your bed all of last year. Wonder what changed? #Salty"
+    new "Tu ne me traitais pas de pute quand j'étais dans ton lit l'année dernière. Qu'est-ce qui a changé ? #Salaud"
+
+    # game/v1/scene43b.rpy:335
+    old "Grayson, what the fuck?! Did Lindsey put you up to this?!"
+    new "Grayson, c'est quoi ce bordel ?! C'est Lindsey qui t'a poussé à faire ça ?!"
+
+    # game/v1/scene43b.rpy:336
+    old "I would never, ever, EVER tell them to do this."
+    new "Je ne leur ai jamais, jamais, JAMAIS demandé de faire ça."
+
+    # game/v1/scene43b.rpy:337
+    old "Ok sure, whatever Linds. Doesn't matter to anyone, Chloe's never going to lose against someone who reaches this low to win."
+    new "Ouais, c'est ça, comme tu veux Linds. ON s'en fout, Chloé va jamais perdre contre quelqu'un qui s'abaisse à ce niveau pour essayer de gagner."
+
+    # game/v1/scene43b.rpy:339
+    old "#Vote4Chloe and she'll send you pics, just like this!"
+    new "#VotezChloé et elle vous enverra des photos, comme celle-ci !"
+
+    # game/v1/scene43b.rpy:340
+    old "You too? Wow, why don't you just suck Grayson's dick while you're at it, huh?"
+    new "Toi aussi ? Waouh, pourquoi tu suces pas la bite de Grayson tant qu't'y es, hein ?"
+
+    # game/v1/scene43b.rpy:341
+    old "Ha, you fucking idiot. Choke on it, too."
+    new "Oh, putain de connard. Toi aussi, étouffe-toi avec."
+
+    # game/v1/scene43b.rpy:342
+    old "Sure Imre, right after you stop sucking on Chloe's tits all the fucking time."
+    new "Bien sûr Imre, dès que tu auras arrêté de téter les seins de Chloé à longueur de temps."
+
+    # game/v1/scene43b.rpy:343
+    old "ENOUGH"
+    new "ASSEZ"
+
+    # game/v1/scene43b.rpy:345
+    old "Vote for Lindsey, not for this."
+    new "Votez pour Lindsey, pas pour ça."
+
+    # game/v1/scene43b.rpy:346
+    old "This? Wow, Cam. Thanks..."
+    new "Ça ? Waouh, Cam. Merci..."
+
+    # game/v1/scene43b.rpy:347
+    old "Cam, what are you doing?!"
+    new "Cam, à quoi tu joues ?!"
+
+    # game/v1/scene43b.rpy:348
+    old "Frat shit. What else would I be doing?"
+    new "Des conneries de fraternité. Qu'est-ce que tu veux que je fasse d'autre ?"
+
+    # game/v1/scene43b.rpy:349
+    old "This is too far for just \"frat shit\"."
+    new "Ça va trop loin pour une simple \"connerie de fraternité\"."
+
+    # game/v1/scene43b.rpy:350
+    old "Pathetic."
+    new "Pitoyable."
+
+    # game/v1/scene43b.rpy:352
+    old "GRAYSON IS SUCH AN ASSHOLE"
+    new "GRAYSON EST UN VRAI CONNARD"
+
+    # game/v1/scene43b.rpy:353
+    old "FUCK HIM AND FUCK THE APES AND FUCK THEIR KIWIIS!!!!"
+    new "JE L'EMMERDE, J'EMMERDE LES APES ET J'EMMERDE LEURS COMPTES KIWIS !!!!"
+
+    # game/v1/scene43b.rpy:354
+    old "UGH! I'm going to turn this around. It won't hurt my campaign even a little bit, I'll make sure of it."
+    new "ARGH ! Je vais retourner la situation. Ça ne va pas nuire à ma campagne, même pas un peu. Ça, je vais m'en assurer."
+
+    # game/v1/scene43b.rpy:356
+    old "I'm so sorry that this is happening. I don't even know what to say."
+    new "Je suis vraiment désolé qu'un truc comme ça te soit arrivé. Je sais pas quoi dire."
+
+    # game/v1/scene43b.rpy:357
+    old "I know, I know... I'm just venting."
+    new "Je sais, je sais... J'essaye juste de me calmer."
+
+    # game/v1/scene43b.rpy:359
+    old "And I'm really thankful that you didn't post anything."
+    new "Et je te suis vraiment reconnaissante de n'avoir rien posté."
+
+    # game/v1/scene43b.rpy:360
+    old "I'd never do that."
+    new "Je ferais jamais ça."

@@ -330,3 +330,13 @@ translate francais v2s19_PhoneContinueLindsey_fab48e58:
 
     # la "I'll see you later. Good luck!"
     la "Je te vois plus tard, bonne chance !"
+
+translate francais strings:
+
+    # game/v2/scene19.rpy:227
+    old "Hey, the meeting with Ms. Rose is this morning, so I'll see you in the library soon. Don't be late!"
+    new "Salut, le rendez-vous avec Mme Rose est ce matin, on se voit à la bibliothèque tout à l'heure. Ne sois pas en retard !"
+
+    # game/v2/scene19.rpy:229
+    old "Okay, OMW :)"
+    new "D'accord, j'arrive :)"

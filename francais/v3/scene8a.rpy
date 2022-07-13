@@ -631,3 +631,10 @@ translate francais strings:
     # game/v3/scene8a.rpy:393
     old "I don't want to make things weird"
     new "Pas envie que les choses deviennent bizarres"
+# TODO: Translation updated at 2022-07-13 18:02
+
+translate francais strings:
+
+    # game/v3/scene8a.rpy:408
+    old "Sure, as long as you want to"
+    new "Bien sûr, quand tu veux."

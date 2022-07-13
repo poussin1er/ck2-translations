@@ -1464,3 +1464,29 @@ translate francais v2s22_PhoneContinueAub_0d1a85e4:
 
     # u "Aww, okay. Well, glad I could be of service."
     u "Ooh, D'accord. Eh bien, content d'avoir pu être utile."
+
+translate francais strings:
+
+    # game/v2/scene22.rpy:
+    old "Making changes for my girls!"
+    new "Apporter quelques changements pour mes filles !"
+
+    # game/v2/scene22.rpy:
+    old "Ooooh, what are you up to?"
+    new "Ooooh, tu fais quoi ?"
+
+    # game/v2/scene22.rpy:
+    old "What are you with the Dean for? Ugh..."
+    new "Pourquoi t'es avec la Doyenne ? Pfff..."
+
+    # game/v2/scene22.rpy:
+    old "Hanging out with the Dean now? That's one way to get votes I guess..."
+    new "Tu traînes avec la Doyenne maintenant ? On va dire que c'est une façon de gagner des voix..."
+
+    # game/v2/scene22.rpy:
+    old "Looks like the President of the Chicks is making some big moves, huh?"
+    new "On dirait que la Présidente des Chicks prépare de grandes choses, hein ?"
+
+    # game/v2/scene22.rpy:
+    old "Trying to! Also, fuck off Gray :)"
+    new "J'essaie ! Ah et surtout Gray, va te faire foutre :)"

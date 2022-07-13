@@ -973,3 +973,10 @@ translate francais v2s12_4674d2a7:
 
     # li "I've been a busy girl! I have to stay awake somehow."
     li "Je suis une fille très occupée ! Il faut que je reste éveillée à tout prix."
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v2/scene12.rpy:39
+translate francais v2s12_c7e84e64:
+
+    # li "There's videos for anything these days! This one was about this specific diary, isn't that nuts?"
+    li "Il y a des vidéos pour {b}TOUT{/b} de nos jours ! Et celle-là parlait {b}SPÉCIFIQUEMENT{/b} de ce journal intime, c'est fou, non ?"

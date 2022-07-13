@@ -483,3 +483,10 @@ translate francais strings:
     # game/v3/scene10a.rpy:348
     old "It might make you look mean"
     new "Ça pourrait te faire passer pour une méchante"
+# TODO: Translation updated at 2022-07-13 18:02
+
+# game/v3/scene10a.rpy:287
+translate francais v3s10a_4d546cdb:
+
+    # no "What?"
+    no "Quoi ?"
