@@ -3362,3 +3362,37 @@ translate francais v2s35_say_nothing_4038c515:
 
     # li "Aww, thanks guys. I appreciate you all coming."
     li "oooh, merci à vous. Je vous remercie d'être venus."
+
+translate francais strings:
+
+    # game/v2/scene35.rpy:3135
+    old "Always a good time with these good people <3 #GameNight"
+    new "Je passe toujours un bon moment avec de bonnes personnes <3 #SoiréeJeux"
+
+    # game/v2/scene35.rpy:3136
+    old "The fuck? Where's my invite?"
+    new "C'est quoi ce bordel ? Elle est où mon invitation ?"
+
+    # game/v2/scene35.rpy:3137
+    old "Omg, I love game nights! Can I come to the next one?"
+    new "Cool, j'adore les soirées jeux ! Je pourrais venir à la prochaine ?"
+
+    # game/v2/scene35.rpy:3138
+    old "Don't worry, everyone's invited next time. Promise!"
+    new "Ne t'inquiète pas, la prochaine fois, tout le monde sera invité. Promis !"
+
+    # game/v2/scene35.rpy:3139
+    old "The more the merrier! Except you don't stand a chance when it comes to the games, Imre"
+    new "Plus on est de fous, plus on rit ! Par contre Imre, t'as aucune chance en ce qui concerne les jeux."
+
+    # game/v2/scene35.rpy:3140
+    old "It was a really good night, gonna have to do it again with the whole gang."
+    new "C'était une super soirée, faudra remettre ça avec toute la bande."
+
+    # game/v2/scene35.rpy:9
+    old "Bro, you have no idea what you're getting yourself into. You're so fucking on!"
+    new "Mon frère, t'as aucune idée de ce dans quoi tu t'embarques. T'es vraiment à fond !"
+
+    # game/v2/scene35.rpy:12
+    old "Agreed! :) Thanks again for coming, [name]."
+    new "J'avoue ! :) Merci encore d'être venu, [name]."

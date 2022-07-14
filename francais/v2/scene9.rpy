@@ -639,3 +639,25 @@ translate francais v2s9_ccfaf4e6:
 
     # au "Anyways, you're actually just the guy I wanted to see."
     au "Bref, t'es pile poil le mec que je voulais voir, en fait."
+
+translate francais strings:
+
+    # game/v2/scene9.rpy:551
+    old "Hey! Are you on campus right now? We need to plan the next phase of the campaign."
+    new "Salut ! Tu es sur le campus en ce moment ? Il faut qu'on planifie la prochaine phase de la campagne."
+
+    # game/v2/scene9.rpy:552
+    old "Yeah, I am. What's next?"
+    new "Ouais, je suis dans le coin. C'est quoi la suite ?"
+
+    # game/v2/scene9.rpy:553
+    old "Let's go to back to the janitor's closet and you'll find out ;)"
+    new "Retournons dans le placard du concierge et tu verras bien ;)"
+
+    # game/v2/scene9.rpy:554
+    old "Meet me at the end of the main hallway?"
+    new "Tu peux venir me retrouver au fond du couloir principal ?"
+
+    # game/v2/scene9.rpy:555
+    old "Sure thing, be with you in a bit."
+    new "Bien sûr, je te rejoins tout de suite."

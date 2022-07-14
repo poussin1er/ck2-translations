@@ -340,3 +340,19 @@ translate francais strings:
     # game/v2/scene19.rpy:229
     old "Okay, OMW :)"
     new "D'accord, j'arrive :)"
+
+    # game/v2/scene19.rpy:240
+    old "Hey, can you come meet me now to buy the alcohol for our game night? I have a plan. I'll send the details of which store to come to."
+    new "Hé, tu peux venir me voir pour aller acheter l'alcool pour notre soirée de jeu ? J'ai une idée. Je t'enverrai l'adresse du magasin."
+
+    # game/v2/scene19.rpy:241
+    old "Okay, sounds good."
+    new "Ouais, d'accord."
+
+    # game/v2/scene19.rpy:244
+    old "Hey, can you call the club and book the VIP package, please? See what you can do in terms of them serving us alcohol and negotiating the price <3 Thank you!"
+    new "Hé, tu pourrais appeler le club et réserver le forfait VIP, s'il te plaît ? Essaie de voir si on peut les convaincre de nous servir de l'alcool et si on peut négocier le prix <3 Merci !"
+
+    # game/v2/scene19.rpy:245
+    old "Okay, I'll put on the charm ;) I'll let you know how it goes"
+    new "Oh ouais, je vais jouer de mon charme ;) Je te dirai comment ça s'est passé"

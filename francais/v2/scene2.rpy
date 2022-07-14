@@ -490,3 +490,67 @@ translate francais strings:
     # game/v2/scene2.rpy:179
     old "Shrug it off"
     new "Fais-toi une raison"
+
+    # game/v2/scene2.rpy:385
+    old "Hey gang! You're invited to Lauren's birthday party tomorrow night at the Deer's house! It's a Halloween theme of course, so make sure you dress to impress your ghoulish empress, haha! -Lauren"
+    new "Salut la bande ! Vous êtes invités demain soir chez les Deer à la fête d'anniversaire de Lauren ! Bien sûr, ça sera sur le thème d'Halloween, alors assurez-vous de vous habiller pour impressionner votre macabre impératrice, haha ! -Lauren"
+
+    # game/v2/scene2.rpy:386
+    old "Looking forward to it!"
+    new "J'ai hâte d'y être !"
+
+    # game/v2/scene2.rpy:356
+    old "Hey! Just reminding you that I'll be setting up the shelter tomorrow if you wanted to swing by? :)"
+    new "Hé ! Juste pour te rappeler que demain, je vais aménager le refuge, au cas où tu voudrais passer ? :)"
+
+    # game/v2/scene2.rpy:357
+    old "Uhm, sure."
+    new "Euh, bien sûr."
+
+    # game/v2/scene2.rpy:358
+    old "Of course! I'll always be there if there's puppies, haha."
+    new "Bien sûr ! Je serai toujours présent s'il y a des chiots, haha."
+
+    # game/v2/scene2.rpy:344
+    old "So, you wanna tell me why you didn't come?"
+    new "Alors, tu peux m'expliquer pourquoi tu n'es pas venu ?"
+
+    # game/v2/scene2.rpy:345
+    old "Hey, I understand if you're upset. I'm sorry. Something came up, an emergency, and I couldn't make it."
+    new "Hé, je peux comprendre que tu sois énervée. Je suis désolé. Il y a eu un imprévu, une urgence, et j'ai pas pu venir."
+
+    # game/v2/scene2.rpy:346
+    old "What do you mean you couldn't make it? You told me to meet you there! What happened that was so important, you had to stand me up at a fancy restaurant?!"
+    new "Comment ça, tu n'as pas pu venir ? Tu m'avais dit de te retrouver là-bas ! Qu'est-ce qui s'est passé de si important pour que tu sois obligé de me poser un lapin dans un restaurant chic ?!"
+
+    # game/v2/scene2.rpy:347
+    old "Chloe, I'm sorry. I can't talk about it, but everything's fine. It's over now, I just don't wanna talk about it."
+    new "Chloé, je suis désolé. Je peux pas en parler, mais tout va bien. C'est fini maintenant, c'est juste que j'ai pas envie d'en parler."
+
+    # game/v2/scene2.rpy:348
+    old "Ha. You're sorry... And you don't want to talk about it? Well, bye then."
+    new "Ha. Tu es désolé... Et tu ne veux pas en parler ? Dans ce cas, au revoir."
+
+    # game/v2/scene2.rpy:349
+    old "Chloe please, don't be mad about this."
+    new "Chloé, s'il te plaît, te fâche pas pour ça."
+
+    # game/v2/scene2.rpy:350
+    old "Okay, I'll just forget it happened. Is that fair?"
+    new "D'accord, dans ce cas, je vais faire comme si rien ne s'était passé. Ça te va ?"
+
+    # game/v2/scene2.rpy:351
+    old "Thank you."
+    new "Merci beaucoup."
+
+    # game/v2/scene2.rpy:352
+    old "It's not fair, no."
+    new "Ce n'est pas équitable, non."
+
+    # game/v2/scene2.rpy:353
+    old "Just... stop talking about it."
+    new "Il suffit... d'arrêter d'en parler."
+
+    # game/v2/scene2.rpy:354
+    old "Okay. Done."
+    new "Bon. C'est fini."

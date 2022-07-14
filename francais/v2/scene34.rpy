@@ -96,3 +96,39 @@ translate francais v2s34_PhoneContinueL_0f487927:
 
     # u "(Just got home and now I'm heading out again. There's never a dull moment!)"
     u "(Je viens à peine de rentrer à la maison, qu'il faut que je ressorte... J'ai jamais le temps de m'ennuyer !)"
+
+translate francais strings:
+
+    # game/v2/scene34.rpy:115
+    old "Hey, our game night is starting in 15 minutes. Hope you're on your way now! :)"
+    new "Hé, notre soirée de jeu commence dans 15 minutes. J'espère que tu es déjà en route ! :)"
+
+    # game/v2/scene34.rpy:116
+    old "Oh, yeah! I haven't forgotten ;) OMW."
+    new "Ouais t'inquiète ! J'ai pas oublié ;) J'arrive."
+
+    # game/v2/scene34.rpy:118
+    old "Hey, I hope you're ready for our VIP night. We'll be picking you up in the limo in about 15 minutes!"
+    new "Hé, j'espère que tu es prêt pour notre soirée VIP. On passe te prendre avec la limousine dans une quinzaine de minutes !"
+
+    # game/v2/scene34.rpy:119
+    old "Yeah, let's get our VIP party on! See you soon :)"
+    new "Ouais, on va profiter de notre fête VIP ! À tout de suite :)"
+
+    # game/v2/scene34.rpy:121
+    old "Hey, I'm having a game night to help secure some extra influence and votes for my campaign. Someone bailed on me at the last minute, so... Wanna come take their place? :)"
+    new "Salut, j'organise une soirée de jeu pour aider à obtenir un peu plus d'influence et de votes pour ma campagne. Quelqu'un m'a lâché à la dernière minute, alors... Ça te dit de venir à sa place ? :)"
+
+    # game/v2/scene34.rpy:122
+    old "Hey! Yeah, sounds fun."
+    new "Hé ! Pourquoi pas, ça va être sympa."
+
+    # game/v2/scene34.rpy:123
+    old "Amazing! Be at the Chicks house in 15 minutes :)"
+    new "Super ! Sois chez les Chicks dans 15 minutes :)"
+
+    # game/v2/scene34.rpy:124
+    old "Haha, that soon? Damn, okay. I'm OMW!"
+    new "Haha, déjà ? Bon... d'accord. J'arrive !"
+
+    

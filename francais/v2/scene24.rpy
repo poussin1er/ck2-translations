@@ -2044,3 +2044,17 @@ translate francais v2s24_PhoneContinue_172fbb04:
 
     # li "Are you being summoned?"
     li "Tu es convoqué ?"
+
+translate francais strings:
+
+    # game/v2/scene24.rpy:1456
+    old "Come to the Chicks house, asap! I have an extra special surprise for you. I think you've earned it ;)"
+    new "Viens à la maison des Chicks, dès que possible ! J'ai une surprise très spéciale pour toi. Je crois que tu l'as mérité ;)"
+
+    # game/v2/scene24.rpy:1459
+    old "Ooh, Is it a naked surprise? ;)"
+    new "Ooh, c'est une surprise dénudée ? ;)"
+
+    # game/v2/scene24.rpy:1460
+    old "Haha, you'll have to come find out. Hurry up!"
+    new "Haha, tu vas devoir te déplacer pour la découvrir. Dépêche-toi !"

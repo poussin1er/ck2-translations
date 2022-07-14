@@ -1467,26 +1467,26 @@ translate francais v2s22_PhoneContinueAub_0d1a85e4:
 
 translate francais strings:
 
-    # game/v2/scene22.rpy:
+    # game/v2/scene22.rpy:10
     old "Making changes for my girls!"
     new "Apporter quelques changements pour mes filles !"
 
-    # game/v2/scene22.rpy:
+    # game/v2/scene22.rpy:11
     old "Ooooh, what are you up to?"
     new "Ooooh, tu fais quoi ?"
 
-    # game/v2/scene22.rpy:
+    # game/v2/scene22.rpy:14
     old "What are you with the Dean for? Ugh..."
     new "Pourquoi t'es avec la Doyenne ? Pfff..."
 
-    # game/v2/scene22.rpy:
+    # game/v2/scene22.rpy:16
     old "Hanging out with the Dean now? That's one way to get votes I guess..."
     new "Tu traînes avec la Doyenne maintenant ? On va dire que c'est une façon de gagner des voix..."
 
-    # game/v2/scene22.rpy:
+    # game/v2/scene22.rpy:18
     old "Looks like the President of the Chicks is making some big moves, huh?"
     new "On dirait que la Présidente des Chicks prépare de grandes choses, hein ?"
 
-    # game/v2/scene22.rpy:
+    # game/v2/scene22.rpy:19
     old "Trying to! Also, fuck off Gray :)"
     new "J'essaie ! Ah et surtout Gray, va te faire foutre :)"

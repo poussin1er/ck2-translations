@@ -437,3 +437,33 @@ translate francais v3s61_kiwii_reply_96d31798:
 
     # u "(Oh, fuck. That's a big-ass baby!)"
     u "(Oh, putain merde. Oh bébé, j'ai un de ces cul !)"
+
+translate francais strings:
+
+    # game/v3/scene61.rpy:79
+    old "Umm... Is this you, Lindsey? LOL #FuturePresident?"
+    new "Euuh... C'est toi, Lindsey ? LOL #FuturPrésidente ?"
+
+    # game/v3/scene61.rpy:80
+    old "Wait, what the hell? And [name]?"
+    new "Attends, c'est quoi ce bordel ? Avec [name] ?"
+
+    # game/v3/scene61.rpy:81
+    old "Wait... Is that Polly's security guard?! What happened???"
+    new "Attendez... C'est pas le garde du corps de Polly ?! Qu'est-ce qui s'est passé ???"
+
+    # game/v3/scene61.rpy:82
+    old "Just fooling around! Ha..."
+    new "Heu... On a juste fait des bêtises !"
+
+    # game/v3/scene61.rpy:83
+    old "Uh, Lindsey will tell you. Right, Linds?"
+    new "Euh, Lindsey vous dira tout. Hein, Linds ?"
+
+    # game/v3/scene61.rpy:84
+    old "Oh! I can't believe there was paparazzi! We were just having some fun :)"
+    new "Ah ! Je n'arrive pas à croire au fait qu'il y avait des paparazzi ! On s'amusait juste un peu :)"
+
+    # game/v3/scene61.rpy:85
+    old "He doesn't look very excited..."
+    new "Il n'a pas l'air de beaucoup s'amuser..."

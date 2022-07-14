@@ -1332,3 +1332,101 @@ translate francais v3s52_PhoneContinueAub_9eb18de7:
 
     # u "That I do. Thanks for the invite, though. I had fun."
     u "C'est ce que je vais faire. Merci quand même pour l'invitation, c'était sympa."
+
+translate francais strings:
+
+    # game/v3/scene52.rpy:539
+    old "Good morning people! Today is such a huge day for a friend of mine. The re-opening of the local dog shelter is taking place right now, and they could use any help they can get! Head over there to donate, adopt, or even shop; They've got some really cute merchandise. #AdoptDon'tShop #OrDoBoth <3"
+    new "Bonjour à tous ! Aujourd'hui est un jour vraiment important pour l'une de mes amies. La réouverture du refuge local pour chiens a lieu en ce moment même, et ils ont besoin de toute l'aide qu'ils pourraient obtenir ! Rendez-vous sur place pour faire un don, adopter ou même faire du shopping pour vos propres animaux ; ils ont des produits vraiment très mignons. #AdopterNePasAcheter #OuBienFaitesLesDeux <3"
+
+    # game/v3/scene52.rpy:540
+    old "Thank you Aubrey! <3 We can't wait to see everyone. Address is 0417 Alanis Street near SVC :)"
+    new "Merci Aubrey ! <3 On est impatients de voir tout le monde. L'adresse est 0417 Alanis Street près du SVC :)"
+
+    # game/v3/scene52.rpy:541
+    old "When did you do this photoshoot, omg?!"
+    new "Oh merde ! Tu l'as fait quand cette séance photos ?"
+
+    # game/v3/scene52.rpy:542
+    old "Aw man! I want a puppy!"
+    new "Oh !  Je veux un chiot !"
+
+    # game/v3/scene52.rpy:543
+    old "Hmm... A puppy, eh?"
+    new "Hmm... Un chiot, hein ?"
+
+    # game/v3/scene52.rpy:544
+    old "This is so cool of you, Aubrey <3"
+    new "C'est vraiment sympa de ta part, Aubrey <3"
+
+    # game/v3/scene52.rpy:444
+    old "Hey, Aubrey. I'm with Autumn right now at the dog shelter for the re-opening, and we kind of need your help."
+    new "Salut, Aubrey. Là, je suis avec Autumn au refuge pour chiens pour la réouverture, et en gros, on aurait besoin de ton aide."
+
+    # game/v3/scene52.rpy:445
+    old "I'm not able to come, but can I help from here?"
+    new "Je ne peux pas me déplacer, là, mais est-ce que je peux vous aider d'ici ?"
+
+    # game/v3/scene52.rpy:446
+    old "Yeah, we don't need much at all. The thing is, we need more donations. Well, more people with donations..."
+    new "Ouais, on n'a pas besoin de grand-chose en fait. Le truc, c'est qu'on aurait besoin de plus de dons. Enfin, de plus de monde qui pourraient faire des dons..."
+
+    # game/v3/scene52.rpy:447
+    old "Hmm... Where do I come in? Lmao"
+    new "Hmm... Qu'est-ce que je dois faire ? Mdr"
+
+    # game/v3/scene52.rpy:448
+    old "What about using your modeling powers, aka your large fanbase, and encouraging people to show up??? I'll make it up to you... ;)"
+    new "Et si tu utilisais tes talents de mannequin, à savoir ta grande communauté de fans et que tu encourageais les gens à venir ??? Je te revaudrai ça... ;)"
+
+    # game/v3/scene52.rpy:451
+    old "Sorry, [name]... But I don't want to risk interfering with my brand. Lew's might not like me doing free dog shelter promoting, you know?"
+    new "Désolé, [name]... Mais je n'ai pas envie de risquer de nuire à mon image. Lew's pourraient ne pas aimer que je fasse la promotion gratuite d'un refuge pour chiens, tu comprends ?"
+
+    # game/v3/scene52.rpy:452
+    old "Oh, yeah. I get it, that's okay. Thanks"
+    new "Oh, bien sûr. Je comprends, ça ira. Merci"
+
+    # game/v3/scene52.rpy:453
+    old "Good luck"
+    new "Bonne chance"
+
+    # game/v3/scene52.rpy:513
+    old "Oh, yea. No prob, I'll be happy to help :) I've got the perfect pic for it too!"
+    new "Ah, oui. Pas de problème, je suis heureuse de pouvoir vous aider :) J'aurai même la photo parfaite pour ça !"
+
+    # game/v3/scene52.rpy:514
+    old "Thank you! You're the best!"
+    new "Merci ! T'es la meilleure !"
+
+    # game/v3/scene52.rpy:515
+    old "You owe me, haha :P"
+    new "Tu m'en devras une, haha :P"
+
+    # game/v3/scene52.rpy:504
+    old "Yes, received! Thank you so so much :D"
+    new "Oui, bien reçu ! Merci infiniment :D"
+
+    # game/v3/scene52.rpy:507
+    old "Must have missed it... Where did you send it?"
+    new "J'ai dû la rater... Tu l'as envoyé où ?"
+
+    # game/v3/scene52.rpy:509
+    old "Good luck u guys :)"
+    new "Bonne chance à vous :)"
+
+    # game/v3/scene52.rpy:510
+    old "Sending everyone I run into over to you guys!"
+    new "Je vais vous envoyer tous ceux que je vais croiser !"
+
+    # game/v3/scene52.rpy:494
+    old "The puppies need you! Come to 0417 Alanis Street near SVC if you're looking to adopt or donate. We need all the help we can get! :)"
+    new "Les chiots ont besoin de vous ! Rendez-vous au 0417 Alanis Street près du SVC si vous cherchez à adopter ou à faire un don. Nous aurons besoin de toute l'aide que nous pourrons obtenir ! :)"
+
+    # game/v3/scene52.rpy:495
+    old "Yes, please come see us! We have merchandise too <3"
+    new "Oui, s'il vous plaît, venez nous voir ! Nous avons également des articles à vendre <3"
+
+    # game/v3/scene52.rpy:496
+    old "Hope you got my donation!"
+    new "J'espère que tu as reçu mon don."    
