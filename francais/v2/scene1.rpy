@@ -661,12 +661,8 @@ translate francais strings:
     new "Défendre Nora"
 
     # game/v2/scene1.rpy:591
-    old "Thank you."
+    old "Thank you. "
     new "Merci."
-
-    # game/v2/scene1.rpy:592
-    old "It's not fair, no."
-    new "Non, c'est pas normal."
 
 translate francais strings:
 

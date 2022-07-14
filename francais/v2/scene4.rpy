@@ -1711,7 +1711,7 @@ translate francais strings:
     new "Respire bien"
 
     # game/v2/scene4.rpy:375
-    old "Good luck"
+    old "Good luck "
     new "Bonne chance"
 
     # game/v2/scene4.rpy:375
