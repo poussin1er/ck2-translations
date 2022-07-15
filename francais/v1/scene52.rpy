@@ -502,10 +502,14 @@ translate francais v1s52_PhoneContinueNora_dedc4ce0:
 
 translate francais strings:
 
-    # game/v1/scene52.rpy:384
+    # game/v1/scene52.rpy:381
     old "Hey, Nora. Just checking in since I haven't heard from you in a while... where are you?"
     new "Salut, Nora. Je prends des nouvelles de toi car j'en ai pas eu depuis un moment... T'es où ?"
 
-    # game/v1/scene52.rpy:385
+    # game/v1/scene52.rpy:382
     old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... please text me back, ASAP"
     new "Salut, toi. Je commence à m'inquiéter de pas t'avoir vu dans le coin. Fais-moi au moins savoir qu'il t'a pas fait de mal... S'il te plaît, réponds-moi par texto, dès que possible"
+
+    # game/v1/scene52.rpy:430
+    old "UNABLE TO DELIVER MESSAGE AT THIS TIME, PLEASE TRY AGAIN LATER."
+    new "LE MESSAGE NE PEUT PAS ÊTRE DÉLIVRÉ POUR LE MOMENT, MERCI DE RÉESSAYER ULTÉRIEUREMENT."

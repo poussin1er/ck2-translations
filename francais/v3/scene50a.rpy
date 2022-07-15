@@ -36,3 +36,21 @@ translate francais v3s50a_phone_continue_249c7907:
 
     # u "(That was the last baby night, nice. No more crying. I'm free!)"
     u "(Enfin, c'était la dernière nuit avec bébé. Fini les pleurs, je suis libre !)"
+
+translate francais strings:
+
+    # game/v3/scene50a.rpy:34
+    old "HAHAHA  "
+    new "HAHAHA"
+
+    # game/v3/scene50a.rpy:35
+    old "I was wondering if there was a story behind this..."
+    new "Je me demandais s'il y avait une histoire derrière tout ça..."
+
+    # game/v3/scene50a.rpy:36
+    old "Chloe on baby duty, that's the story. Lol"
+    new "Chloé est de corvée de bébé, c'est ça l'histoire. Lol"
+
+    # game/v3/scene50a.rpy:37
+    old "What the hell?"
+    new "C'est quoi ce bordel ?"

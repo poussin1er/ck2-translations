@@ -204,3 +204,49 @@ translate francais v3s25a_phoneContinue_708b293d:
 
     # u "Okay, deal. Dinner tonight. I'll sort the details. Stay by the phone."
     u "Ok, ça marche. Un dîner ce soir. Je m'occupe de tout et toi, tu restes à côté de ton téléphone."
+
+translate francais strings:
+
+    # game/v3/scene25a.rpy:8
+    old "Um, no... As soon as he told me I got the job he acted like the search was over, haha. Sorry :("
+    new "Hum, non... Dès qu'il m'a dit que j'avais obtenu le poste, il a agi comme si la recherche était terminée, haha. Désolée :("
+
+    # game/v3/scene25a.rpy:9
+    old "Ouch. There go my journalist dreams :("
+    new "Aïe. Adieu mes rêves d'être journaliste :("
+
+    # game/v3/scene25a.rpy:11
+    old "Aw, well, who knows? Maybe I'll need an assistant one day."
+    new "Ohh, enfin, qui sait ? Peut être qu'un jour j'aurai besoin d'un assistant."
+
+    # game/v3/scene25a.rpy:12
+    old "Jeez, the power is already going straight to your head..."
+    new "Oh merde, le pouvoir te monte déjà à la tête..."
+
+    # game/v3/scene25a.rpy:13
+    old ":P"
+    new ":P"
+
+    # game/v3/scene25a.rpy:52
+    old "Guess who got the newspaper job?"
+    new "Devine qui a obtenu le poste de journaliste ?"
+
+    # game/v3/scene25a.rpy:53
+    old "MEEEEEEEEE!"
+    new "MOIIIIIII !"
+
+    # game/v3/scene25a.rpy:54
+    old "Haha, congrats!"
+    new "Haha, félicitations !"
+
+    # game/v3/scene25a.rpy:55
+    old "Thank you! :)"
+    new "Merci ! :)"
+
+    # game/v3/scene25a.rpy:58
+    old "What about me? Do you know?"
+    new "Et en ce qui me concerne ? Tu sais ?"
+
+    # game/v3/scene25a.rpy:59
+    old "Ah, nice. I was kind of hoping I didn't get it, haha."
+    new "Bah, tant mieux. En fait, j'espérais qu'il me prenne pas, haha."

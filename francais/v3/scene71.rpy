@@ -899,3 +899,21 @@ translate francais v3s71_sg_05ff8dc7:
 
     # u "Not a problem. Could you imagine if the Dean were to walk in on us in her office, on her desk?"
     u "En plus, tu imagines si la doyenne nous surprenait dans son bureau ? Sur son bureau ?"
+
+translate francais strings:
+
+    # game/v3/scene71.rpy:591
+    old "OMG! Oscar! He looks so happy <3"
+    new "MON DIEU ! Oscar ! Il a l'air si heureux <3"
+
+    # game/v3/scene71.rpy:592
+    old "Where do I know that dog from???"
+    new "Je connais ce chien, mais d'où déjà ???"
+
+    # game/v3/scene71.rpy:593
+    old "From our visit to the lake! Remember that stoner guy?"
+    new "De notre sortie au lac ! Tu te souviens du mec défoncé ?"
+
+    # game/v3/scene71.rpy:594
+    old "What do you mean two?!"
+    new "Comment ça, deux ?!"

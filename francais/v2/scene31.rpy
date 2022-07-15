@@ -166,3 +166,26 @@ translate francais v2s31_590fb6b4:
 
     # u "(Back when I was happy with Emily, and I thought relationships were easy. Ha! How wrong I was...)"
     u "(L'époque où j'étais heureux avec Emily, et quand je croyais encore que les relations étaient faciles. Naïf que j'étais...)"
+
+translate francais strings:
+
+    # game/v2/scene31.rpy:70
+    old "Getting prom flashbacks."
+    new "J'ai des flashbacks du bal de promo."
+
+    # game/v2/scene31.rpy:71
+    old "OMG! Haha, you actually look the same. Where are you headed?"
+    new "Oh merde ! Haha, tu es toujours le même. Où est-ce que tu veux en venir ?"
+
+    # game/v2/scene31.rpy:72
+    old "Wedding ceremony for Aubrey's parents."
+    new "La cérémonie de remariage des parents d'Aubrey."
+
+    # game/v2/scene31.rpy:73
+    old "Oh, nice! Tell her I said hi! Miss you guys! Have fun! :)"
+    new "Oh, super ! Passe-lui le bonjour de ma part ! Vous me manquez ! Amusez-vous bien ! :)"
+
+    # game/v2/scene31.rpy:74
+    old "Will do. We miss you too :)"
+    new "Oui, je le ferai. Tu nous manques aussi :)"
+    

@@ -36,3 +36,21 @@ translate francais v3_1s73a_13dc7ab2:
 
     # u "(Well, I smell fine. I guess I don't need to change clothes. A quick lint roll to get the fur off will do the job.)"
     u "(Voilà, je sens très bon. Je vais pas avoir besoin de changer de vêtements. Un rapide coup de rouleau à peluches pour enlever les poils fera l'affaire.)"
+
+translate francais strings:
+
+    # game/v3.1/scene73a.rpy:69
+    old "Wanna hang out?"
+    new "Tu veux qu'on se voie ?"
+
+    # game/v3.1/scene73a.rpy:70
+    old "With a pic like that?? I think we're overdue for a hangout, yeah. Where and when?"
+    new "Avec une photo comme ça ?? Je crois qu'on mérite de passer un moment ensemble, ouais. Où et quand ?"
+
+    # game/v3.1/scene73a.rpy:71
+    old "Noon @ park? The one by the frat house? I'm getting some fresh air there rn."
+    new "À midi au parc ? Celui qui se trouve près de la maison de la fraternité ? Je suis en train de prendre l'air là-bas en ce moment."
+
+    # game/v3.1/scene73a.rpy:72
+    old "Deal! I don't have a ton of time, but I'll stop by real quick. C u soon."
+    new "Ça marche ! J'ai pas beaucoup de temps, mais je vais passer rapidement. À tout de suite."

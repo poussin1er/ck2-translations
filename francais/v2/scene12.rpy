@@ -980,3 +980,41 @@ translate francais v2s12_c7e84e64:
 
     # li "There's videos for anything these days! This one was about this specific diary, isn't that nuts?"
     li "Il y a des vidéos pour {b}TOUT{/b} de nos jours ! Et celle-là parlait {b}SPÉCIFIQUEMENT{/b} de ce journal intime, c'est fou, non ?"
+
+translate francais strings:
+
+    # game/v2/scene12.rpy:691
+    old "Hey! I'm assuming you'll be at Lauren's birthday party later?"
+    new "Hey ! J'imagine que tu seras à la fête d'anniversaire de Lauren tout à l'heure ?"
+
+    # game/v2/scene12.rpy:692
+    old "Yeah, I'll be there."
+    new "Ouais, je serai là."
+
+    # game/v2/scene12.rpy:693
+    old "Cool. FYI, the stores are running low on costumes, you need to hurry up and buy one! Lol"
+    new "Génial. Pour info, les magasins commencent à manquer de costumes, tu devrais te dépêcher de t'en prendre un ! Lol"
+
+    # game/v2/scene12.rpy:694
+    old "Ah, shit... You're right."
+    new "Oh, merde... T'as raison."
+
+    # game/v2/scene12.rpy:695
+    old "Of course I am ;)"
+    new "Bien sûr, j'ai toujours raison ;)"
+
+    # game/v2/scene12.rpy:696
+    old "I'd be lost without you"
+    new "Je serais perdu sans toi"
+
+    # game/v2/scene12.rpy:697
+    old "Oh trust me, I know... hehe. See you soon!"
+    new "Oh crois-moi, je le sais, ça... héhé. À bientôt !"
+
+    # game/v2/scene12.rpy:698
+    old "Thanks red!"
+    new "Merci rouquine !"
+
+    # game/v2/scene12.rpy:699
+    old "LOL, welcome nerd!"
+    new "LOL, je t'en prie, nerd !"

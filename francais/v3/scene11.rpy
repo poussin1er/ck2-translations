@@ -750,3 +750,45 @@ translate francais v3s11_ad7b006b:
 
     # u "You're welcome."
     u "De rien."
+
+translate francais strings:
+
+    # game/v3/scene11.rpy:8
+    old "Perfect :)"
+    new "Super :)"
+
+    # game/v3/scene11.rpy:11
+    old "Haha, sounds good."
+    new "Haha, ouais ça me va."
+
+    # game/v3/scene11.rpy:14
+    old "Perfect :) "
+    new "Super :)"
+
+    # game/v3/scene11.rpy:17
+    old "Lmao, see u soon "
+    new "MDR, à bientôt "
+
+    # game/v3/scene11.rpy:587
+    old "Hey, it's too nice out to be inside all day. Come join me at the park for yoga?"
+    new "Il fait trop beau dehors pour rester à l'intérieur toute la journée. Tu viens me rejoindre au parc pour faire du yoga ?"
+
+    # game/v3/scene11.rpy:588
+    old "I do need a good stretch... lol. Got a few things left to do on campus, but I'll be there ASAP."
+    new "J'ai vraiment besoin de m'étirer sérieusement... lol. J'ai encore deux ou trois trucs à faire sur le campus, mais j'arrive au plus vite."
+
+    # game/v3/scene11.rpy:589
+    old "Sigh... If I have to... ;) Be there as soon as I finish up on campus."
+    new "Soupir... Si j'ai pas le choix... ;) J'arrive dès que j'en ai fini au campus."
+
+    # game/v3/scene11.rpy:635
+    old "Hey, it's such a nice day, it's too nice out to be inside all day. Come join me at the park for yoga?"
+    new "C'est une belle journée, il fait trop beau pour rester à l'intérieur toute la journée. Tu viens me rejoindre au parc pour faire du yoga ?"
+
+    # game/v3/scene11.rpy:636
+    old "I do need a good stretch... lol. OMW"
+    new "J'ai vraiment besoin de m'étirer sérieusement... lol. J'arrive tout de suite."
+
+    # game/v3/scene11.rpy:637
+    old "Sigh... If I have to... ;)"
+    new "Soupir... Si j'ai pas le choix... ;)"

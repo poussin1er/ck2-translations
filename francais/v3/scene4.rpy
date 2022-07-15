@@ -78,3 +78,49 @@ translate francais v3s4_phoneContinue_c00d34a7:
 
     # u "(Am I dreaming?)"
     u "(Est-ce que je rêve ?)"
+
+translate francais strings:
+
+    # game/v3/scene4.rpy:8
+    old "That look? It's called motivation. I was motivated to prove how into me you are, and it looks like I've done just that. Buh- bye! <3"
+    new "Ce regard ? Ça s'appelle la motivation. J'étais motivée de prouver à quel point tu es à fond sur moi, et on dirait que j'ai réussi. Bouh- bye ! <3"
+
+    # game/v3/scene4.rpy:12
+    old "Wtf??? You'll regret this, asshole."
+    new "C'est quoi ce bordel ?? Tu vas le regretter, connard."
+
+    # game/v3/scene4.rpy:103
+    old "Hey, [name]! This is Naomi, the one and only. Lol."
+    new "Salut, [name] ! C'est Naomi, la seule et l'unique. Lol."
+
+    # game/v3/scene4.rpy:106
+    old "Just wanted to say, as much as I enjoyed our little bathroom break, don't read too much into it. I just wanted to piss off Aubrey and well... mission succeeded!"
+    new "Je voulais juste te dire que, même si j'ai apprécié notre petite pause pipi, ne te fais pas trop d'illusions. J'avais juste envie d'énerver Aubrey et ma foi... mission réussie !"
+
+    # game/v3/scene4.rpy:107
+    old "Anyway, maybe I'll message you again..."
+    new "Dans tous les cas, je t'enverrai sûrement un autre message..."
+
+    # game/v3/scene4.rpy:108
+    old "Maybe I won't ;)"
+    new "Ou peut-être pas ;)"
+
+    # game/v3/scene4.rpy:111
+    old "Just wanted to say, as much as I would've enjoyed getting closer with you at the wedding, don't read too much into it. I just wanted to piss off Aubrey, haha. Definitely not into you like that."
+    new "Je voulais juste te dire que, même si j'aurais aimé me rapprocher de toi au mariage, ne te fais pas trop d'illusions. J'avais juste envie d'énerver Aubrey, haha. Je ne suis vraiment pas intéressée par toi à ce point."
+
+    # game/v3/scene4.rpy:112
+    old "Still can't believe you turned me down, though?? Things must be serious between you two... Gross."
+    new "Pourtant, je n'arrive toujours pas à croire que tu m'aies repoussé ! Les choses doivent être vraiment sérieuses entre vous deux... C'est dégueu."
+
+    # game/v3/scene4.rpy:113
+    old "Either way, no second chances ;)"
+    new "En tout cas, il n'y aura pas de deuxième chance ;)"
+
+    # game/v3/scene4.rpy:115
+    old "Aw, come on... I saw that look in your eyes all night, we can have some fun together I think? ;)"
+    new "Oh, allez... J'ai vu ce regard dans tes yeux toute la soirée. Je pense qu'on pourrait bien s'amuser ensemble... ;)"
+
+    # game/v3/scene4.rpy:116
+    old "Please don't text me again. Thanks."
+    new "Ne m'envoie plus de SMS, s'il te plaît. Merci."

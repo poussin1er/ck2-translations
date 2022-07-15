@@ -132,3 +132,45 @@ translate francais v1s43_PhoneContinueEmily_cbb87f53:
 
     # u "Good one."
     u "Bien joué."
+
+translate francais strings:
+
+    # game/v1/scene43.rpy:32
+    old "Hey you. How's your day going?"
+    new "Salut toi. Comment se passe ta journée ?"
+
+    # game/v1/scene43.rpy:33
+    old "It's barely started. What about yours?"
+    new "Elle a à peine commencé. Et la tienne ?"
+
+    # game/v1/scene43.rpy:34
+    old "Not bad. Still in bed... Lol"
+    new "Pas mal. Toujours au lit... Lol"
+
+    # game/v1/scene43.rpy:35
+    old "Oh yeah?"
+    new "Ah oui ?"
+
+    # game/v1/scene43.rpy:36
+    old "Mmm..."
+    new "Mmm..."
+
+    # game/v1/scene43.rpy:42
+    old "...Yes"
+    new "...Oui"
+
+    # game/v1/scene43.rpy:43
+    old "Hahaha"
+    new "Hahaha"
+
+    # game/v1/scene43.rpy:44
+    old "I mean, no. I might need some more evidence..."
+    new "En fait, non. Il me faudrait peut-être plus de preuves..."
+
+    # game/v1/scene43.rpy:45
+    old "Hehe ;) Get to class, we'll talk soon, I miss you <3"
+    new "Héhé ;) Va en cours, on se parle bientôt, tu me manques <3"
+
+    # game/v1/scene43.rpy:46
+    old "Fine... miss you more :)"
+    new "D'accord... tu me manques encore plus :)"
