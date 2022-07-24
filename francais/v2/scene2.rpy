@@ -543,3 +543,10 @@ translate francais strings:
     # game/v2/scene2.rpy:354
     old "Okay. Done. "
     new "Bon. C'est fini."
+# TODO: Translation updated at 2022-07-24 22:49
+
+translate francais strings:
+
+    # game/v2/scene2.rpy:179
+    old "Shrug it off"
+    new "Fais-toi une raison"

@@ -245,3 +245,18 @@ translate francais strings:
     # game/screens.rpy:1583
     old "Menu"
     new "Menu"
+# TODO: Translation updated at 2022-07-24 22:49
+
+translate francais strings:
+
+    # game/screens.rpy:372
+    old "Language"
+    new "Langue"
+
+    # game/screens.rpy:373
+    old "English"
+    new "English"
+
+    # game/screens.rpy:374
+    old "Francais"
+    new "Francais"

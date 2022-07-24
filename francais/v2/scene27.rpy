@@ -292,3 +292,10 @@ translate francais v2s27_d232ea62:
 
     # u "Okay, crazies. I'll see you there."
     u "Ok, les folles. Je vous retrouve là-bas."
+# TODO: Translation updated at 2022-07-24 22:49
+
+# game/v2/scene27.rpy:53
+translate francais v2s27_44bb9812_1:
+
+    # u "(Riley didn't seem too pleased about the whole situation. Hopefully she's over it before I see her next.)"
+    u "(Riley n'avait pas l'air très heureuse de cette situation. Espérons qu'elle s'en remettra avant que je la voie la prochaine fois.)"
