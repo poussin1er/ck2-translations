@@ -178,7 +178,7 @@ translate francais v3_1s87a_e039cd52:
 translate francais v3_1s87a_01710ab4:
 
     # u "That's gonna, you know, fuck up your confidence. Always getting treated as second best."
-    u "Ça risque de... tu sais, de foutre en l'air ta confiance en toi. À toujours être traitée comme un second couteau."
+    u "Ça risquede... tu sais, de foutre en l'air ta confiance en toi. À toujours être traitée comme un second couteau."
 
 # game/v3.1/scene87a.rpy:161
 translate francais v3_1s87a_41ce4182:
@@ -508,7 +508,7 @@ translate francais v3_1s87a_a20ff436:
 translate francais v3_1s87a_04e46bb4:
 
     # u "I may have, admittedly, got a couple of my quotes of wisdom mixed up there."
-    u "Il se pourrait, il est vrai, je que sois allé chercher loin, mes citations de sagesse."
+    u "Il se pourrait, il est vrai, que soient allées cherchées loin, mes citations de sagesse."
 
 # game/v3.1/scene87a.rpy:397
 translate francais v3_1s87a_6f1ad6ad:

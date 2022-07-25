@@ -76,7 +76,7 @@ translate francais v3_1s87b_300f917d:
 translate francais v3_1s87b_6d69464a:
 
     # ri "You're saying you wouldn't move into a house full of sexy girls running around in their underwear all the time?"
-    ri "Tu dis que tu voudrais pas emménager dans une maison pleine de filles sexy qui courent partout en sous-vêtements tout le temps ?"
+    ri "Tu dis que t'emménagerais pas dans une maison pleine de filles sexy qui courent partout en sous-vêtements tout le temps ?"
 
 # game/v3.1/scene87b.rpy:102
 translate francais v3_1s87b_2386b3a6:
@@ -106,7 +106,7 @@ translate francais v3_1s87b_6ea704bc:
 translate francais v3_1s87b_e41129de:
 
     # u "As if they'd let me."
-    u "Comme si elles allaient me laisser faire."
+    u "Comme si elles me laissaient faire."
 
 # game/v3.1/scene87b.rpy:119
 translate francais v3_1s87b_7773c12e:
@@ -1184,7 +1184,7 @@ translate francais strings:
 
     # game/v3.1/scene87b.rpy:62
     old "Cheering for anyone?"
-    new "Tu soutiens quelqu'un ?"
+    new "Tu applaudis quelqu'un ?"
 
     # game/v3.1/scene87b.rpy:97
     old "Of course I would"
@@ -1192,7 +1192,7 @@ translate francais strings:
 
     # game/v3.1/scene87b.rpy:97
     old "As if they'd let me"
-    new "Comme si elles allaient me laisser faire"
+    new "Comme si elles me laissaient faire"
 
     # game/v3.1/scene87b.rpy:161
     old "Definitely Chloe"
