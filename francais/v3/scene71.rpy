@@ -10,7 +10,7 @@ translate francais v3s71_581e6b42:
 translate francais v3s71_5f698895:
 
     # u "Hi, Dean Harrison."
-    u "Salut, Doyenne Harrison."
+    u "B'jour, Doyenne Harrison."
 
 # game/v3/scene71.rpy:34
 translate francais v3s71_c15001d0:
@@ -610,7 +610,7 @@ translate francais v3s71_sg_bc04df21:
 translate francais v3s71_sg_1d83f8bf:
 
     # pe "Wow, hungry boy!"
-    pe "Wouah, le jeune homme est affamé !"
+    pe "Wouah, le pépère est affamé !"
 
 # game/v3/scene71.rpy:773
 translate francais v3s71_sg_4af371bf:
@@ -917,3 +917,11 @@ translate francais strings:
     # game/v3/scene71.rpy:594
     old "What do you mean two?!"
     new "Comment ça, deux ?!"
+
+    # game/v3/scene71.rpy:800
+    old "HOLY SHIT!"
+    new "PUTAIN DE MERDE !"
+
+    # game/v3/scene71.rpy:801
+    old "DUDE, HAVE YOU SEEN WHAT ELIJAH PUT IN THE FIRST EDITION OF THE SVC TIMES???"
+    new "MEC, TU AS VU CE QU'ELIJAH A MIS DANS LA PREMIÈRE ÉDITION DU JOURNAL ???"

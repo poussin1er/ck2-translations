@@ -1429,4 +1429,4 @@ translate francais strings:
 
     # game/v3/scene52.rpy:496
     old "Hope you got my donation!"
-    new "J'espère que tu as reçu mon don."    
+    new "J'espère que tu as reçu mon don."

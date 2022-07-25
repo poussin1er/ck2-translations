@@ -94,7 +94,7 @@ translate francais v3_1s75_75606e9d:
 translate francais v3_1s75_561cf83d:
 
     # no "Chris? He's my ex. You don't have to 'He-Who-Shall-Not-Be-Named' him."
-    no "Chris ? C'est mon ex. Tu n'as pas besoin de nommer \"celui dont on ne doit pas dire le nom\"."
+    no "Chris ? C'est mon ex. Tu n'as pas besoin de chercher à le nommer comme si c'était \"celui dont on ne doit pas dire le nom\"."
 
 # game/v3.1/scene75.rpy:119
 translate francais v3_1s75_f9db3bd3:
@@ -250,7 +250,7 @@ translate francais v3_1s75_4f4d4f90:
 translate francais v3_1s75_4c70e5f4:
 
     # u "(Well, I can talk to the guys later. First, I have a date with a greasy slice of pizza in the cafeteria.)"
-    u "(Je pourrai parler aux mecs plus tard. J'ai d'abord rendez-vous avec une bonne part de pizza à la cafétéria.)"
+    u "(Je pourrai en parler aux mecs, plus tard. Mais tout d'abord, j'ai d'abord rendez-vous avec une bonne part de pizza à la cafétéria.)"
 
 translate francais strings:
 

@@ -54,3 +54,23 @@ translate francais strings:
     # game/v3/scene50a.rpy:37
     old "What the hell?"
     new "C'est quoi ce bordel ?"
+
+    # game/v3/scene50a.rpy:180
+    old "Morning! Come meet me at the Dean's office? I'm looking after her new dog!"
+    new "Bonjour ! Tu peux venir me rejoindre dans le bureau de la doyenne ? Je m'occupe de son nouveau chien !"
+
+    # game/v3/scene50a.rpy:181
+    old "You're looking after Oscar?"
+    new "Tu t'occupes d'Oscar ?"
+
+    # game/v3/scene50a.rpy:182
+    old "Yeah, that's his name. Come!"
+    new "Oui, c'est son nom. Allez viens !"
+
+    # game/v3/scene50a.rpy:183
+    old "Okay, be there a min"
+    new "D'accord, je suis là dans une minute."
+
+    # game/v3/scene50a.rpy:184
+    old "Yay! :)"
+    new "Super ! :)"
