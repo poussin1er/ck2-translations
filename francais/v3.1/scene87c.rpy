@@ -298,7 +298,7 @@ translate francais v3_1s87c_382e7b47:
 translate francais v3_1s87c_d814795e:
 
     # u "Queen Chloe! Long may she reign!"
-    u "Que la reine Chloé règne longtemps !"
+    u "Que le règne de la reine Chloé soit long !"
 
 # game/v3.1/scene87c.rpy:273
 translate francais v3_1s87c_9c3ee837:
